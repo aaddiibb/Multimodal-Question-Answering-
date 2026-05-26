@@ -1,6 +1,12 @@
 import os
-from dotenv import load_dotenv
-load_dotenv()
+
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except Exception:
+    # Optional dependency; environment variables may already be set.
+    pass
 from openai import OpenAI
 from prompts import Agent_stage1_system_prompt, Agent_stage2_system_prompt, Agent_stage3_system_prompt
 
@@ -16,26 +22,7 @@ def process_image(base_list):
         except:
             continue
     return images
-
-
-
-
-
-# #Gemini Keys
-# API_KEYS =  ["AIzaSyCr2U6h2ocuGgPHpD7vPlDZMMoG3046F7E",
-#              "AIzaSyBrTrxfg0jBm02MEB9kPEVUN2-l6zvm6L4",
-#              "AIzaSyDkkIB9jFiX-Cwssr2dYTNhiNKnFPVAW-8",
-#              "AIzaSyAALJuLKKPMf50wg8IRbTmRYaO4I2tcYs0",
-#              "AIzaSyByoHH19yBnx6e1zmq7N05gvt7EUE35MLk",
-#              "AIzaSyA5tDhYn4gcN07-MT4HynlXVed4a9n8rPA",
-#              "AIzaSyCNpwhy1jxNeyf9D0v1oKvSiw3wxySY0Qo",
-#              "AIzaSyAf8R1KA7vvvPXdEV0kVKQUfIBIpLuUlgk",
-#              "AIzaSyDv-JDBRgLmx6wFquT13sOfupY4cPQ2SVU",
-#              "AIzaSyCWBb_9o6I-j_VyGtzgp_HdgPZkW7GMCuc",
-#              "AIzaSyBE_ikRJZKLoWxe9yJNjsZnQ6rvPzWOqwg"]
-
-
-
+# (Do not commit API keys. Use environment variables / .env files instead.)
 # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
