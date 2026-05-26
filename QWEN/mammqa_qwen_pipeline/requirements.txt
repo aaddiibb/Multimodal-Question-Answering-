@@ -1,0 +1,7 @@
+openai>=1.0.0
+python-dotenv
+pandas
+tabulate
+requests
+pillow
+spacy
