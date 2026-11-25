@@ -1,0 +1,12 @@
+{
+ "key": "685666635715c66510a8124ddb3af8a19d6c2d636c09101863c7b91f58f697a9",
+ "text": "<modality> table </modality>\n\n<insights>\n- The actor who played Steve Keen is Trey Parker.\n- Trey Parker is known for being one of the creators of South Park.\n</insights>\n\n<answer>\nThe series that was written by Trey Parker and Matt Stone, who was satirized, is South Park.\n</answer>",
+ "input_tokens": 878,
+ "output_tokens": 73,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 5.26
+}

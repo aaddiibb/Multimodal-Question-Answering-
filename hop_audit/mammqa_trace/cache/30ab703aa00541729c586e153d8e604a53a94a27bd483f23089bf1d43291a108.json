@@ -1,0 +1,12 @@
+{
+ "key": "30ab703aa00541729c586e153d8e604a53a94a27bd483f23089bf1d43291a108",
+ "text": "Let's break down the question into simpler parts:\n\n1. **Identify the year**: The question asks about a movie from 2016 featuring Megan Park.\n2. **Identify the role**: The question asks for the character \"Black Badger\".\n3. **Identify the movie**: We need to find a movie from 2016 that features Megan Park.\n\nFrom the provided text insight:\n- The text mentions a film called \"Megan Leavey\" from 2017, not 2016.\n- There is no mention of a movie featuring Megan Park in the provided texts.\n\nFrom the table:\n- The only entry for 2016 is \"Central Intelligence\" where Megan Park plays the role of Lexi.\n\nFrom the images:\n- There is no image associated with \"Megan Leavey\" or \"Central Intelligence\".\n\nBased on the extracted insights and the provided data, we can conclude:\n\n<answer>\nThere is no movie from 2016 featuring Megan Park where the Black Badger appears. The provided texts and images do not contain this information.\n</answer>",
+ "input_tokens": 1690,
+ "output_tokens": 230,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 19.29
+}

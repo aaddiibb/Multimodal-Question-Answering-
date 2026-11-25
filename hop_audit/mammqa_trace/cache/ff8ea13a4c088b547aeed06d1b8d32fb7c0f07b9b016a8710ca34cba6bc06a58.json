@@ -1,0 +1,12 @@
+{
+ "key": "ff8ea13a4c088b547aeed06d1b8d32fb7c0f07b9b016a8710ca34cba6bc06a58",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. Identify the movie where Justin Timberlake, Mila Kunis, and Bryan Greenberg starred together.\n2. Determine the role that Tiya Sircar played in this movie.\n\nFrom the text data, we can see that Justin Timberlake and Mila Kunis starred in the movie \"Friends with Benefits.\" Bryan Greenberg also starred in this film. Therefore, the movie where Justin Timberlake, Mila Kunis, and Bryan Greenberg starred together is \"Friends with Benefits.\"\n\nNow, let's find out the role that Tiya Sircar played in this movie. According to the table insights, Tiya Sircar played the role of \"Lisa\" in the film \"Friends with Benefits.\"\n\n<subanswer> The movie where Justin Timberlake, Mila Kunis, and Bryan Greenberg starred together is \"Friends with Benefits.\" Tiya Sircar played the role of \"Lisa\" in this movie.</subanswer>\n\nTherefore, the answer to the original question is:\n\n<answer>Tiya Sircar played the role of \"Lisa\" in the movie \"Friends with Benefits.\"</answer>",
+ "input_tokens": 2015,
+ "output_tokens": 247,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 21.77
+}

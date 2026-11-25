@@ -1,0 +1,12 @@
+{
+ "key": "6215569bf9e35f42644a76c53f9d53af00b0a8111c4401e4b015fd11f822586c",
+ "text": "Based on the provided text insight and the table, here are the insights extracted:\n\n- Sierra College is a public community college in Rocklin, California.\n- Peppermill Reno is a hotel and casino located in Reno, Nevada.\n- The question asks about employment numbers between Sierra College and Peppermill Reno.\n- The table provides employment numbers for various employers in Reno, Nevada.\n\nThe extracted insights indicate that Sierra College is not located in Reno, Nevada, but rather in Rocklin, California. Therefore, it does not have any direct employment numbers associated with Reno, Nevada. However, Peppermill Reno is listed in the table with 2,250 employees.\n\nSubquestions:\n1. What is the number of employees at Peppermill Reno?\n\nFinal Answer:\nPeppermill Reno has 2,250 employees. Since Sierra College is not located in Reno, Nevada, it does not have any direct employment numbers associated with Reno, Nevada.",
+ "input_tokens": 2078,
+ "output_tokens": 199,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 18.89
+}

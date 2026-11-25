@@ -1,0 +1,12 @@
+{
+ "key": "2e60595585c6101456f754cedea284a51705a23d3f0a8b0453cb09fa911bc6f8",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the school that is a member of the Catholic Central League.\n2. Determine if the school has three dome-shaped structures at the top.\n3. If so, find out when the school was founded.\n\nFrom the provided data, we have a list of schools that are members of the Catholic Central League. However, none of the images or texts explicitly mention schools with three dome-shaped structures at the top. Therefore, we cannot directly answer the question using the given information.\n\nTo answer the question accurately, we would need additional information about the architectural features of the schools listed in the table or images provided.",
+ "input_tokens": 4465,
+ "output_tokens": 133,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 25.85
+}

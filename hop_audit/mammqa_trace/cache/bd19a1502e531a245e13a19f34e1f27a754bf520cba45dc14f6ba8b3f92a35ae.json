@@ -1,0 +1,12 @@
+{
+ "key": "bd19a1502e531a245e13a19f34e1f27a754bf520cba45dc14f6ba8b3f92a35ae",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists player transfers for the 2019-20 Chennaiyin FC season.\n- The column 'To club' contains the names of the clubs to which players were transferred.\n- The column 'Transfer Type' specifies the nature of the transfer.\n</insights>\n\n<answer>\nTo determine the transfer type of the player who was transferred to a club with a flaming torch on its logo, we need to identify the club with such a logo and then check the corresponding transfer type.\n</answer>\n\n<subanswer>\n1. Identify the club with a flaming torch on its logo.\n2. Check the transfer type for the player transferred to that club.\n</subanswer>",
+ "input_tokens": 1002,
+ "output_tokens": 154,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.6
+}

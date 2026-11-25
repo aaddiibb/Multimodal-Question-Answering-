@@ -1,0 +1,12 @@
+{
+ "key": "19d3fff1cb3f380da10d6a29b4505b9277a1d48add48a01795bca678128b5da1",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image shows a man with long hair and a mustache wearing a suit and holding a blue box. There is no clear indication of the person playing Steve Keen in \"Tales from the Crapper\" or Matt Stone being satirized.</insights>\n\n<answer>There is insufficient information in the images provided to determine which series was written by the person who played Steve Keen in \"Tales from the Crapper\" and Matt Stone, who was satirized.</answer>",
+ "input_tokens": 3390,
+ "output_tokens": 118,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 18.08
+}

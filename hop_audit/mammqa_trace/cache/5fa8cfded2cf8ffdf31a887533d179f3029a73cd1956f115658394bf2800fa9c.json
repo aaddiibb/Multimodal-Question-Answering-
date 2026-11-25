@@ -1,0 +1,12 @@
+{
+ "key": "5fa8cfded2cf8ffdf31a887533d179f3029a73cd1956f115658394bf2800fa9c",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a small aircraft with the registration C-GWVT parked on a tarmac. There is no visible call sign \"TRANSCANADA\" on this aircraft.</insights>\n\n<answer>There is no aircraft in the image with the call sign \"TRANSCANADA\".</answer>",
+ "input_tokens": 2966,
+ "output_tokens": 72,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 11.99
+}

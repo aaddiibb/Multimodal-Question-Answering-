@@ -1,0 +1,12 @@
+{
+ "key": "feef40f5dd71b5d4544bd61a9f8eb9a77473bb6d27bf478d00d66d4fc30073a7",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks about the program that Thora Birch was on during the year when the \"Birch ratings\" program contained a PC on its branding poster. The key points are:\n- The \"Birch ratings\" program was sold in 1987.\n- The program contained a PC on its branding poster.\n- We need to find out what program Thora Birch was on during the same year.\n\n### Step 2: Extract Relevant Insights\nFrom the text insight:\n- The \"Birch ratings\" program was sold in 1987.\n- The program contained a PC on its branding poster.\n\nFrom the table:\n- Thora Birch appeared in \"Day by Day\" in 1988–1989.\n- \"Day by Day\" has a PC logo on its branding poster.\n\n### Step 3: Break Down the Question into Subquestions\n1. What program did Thora Birch appear in during the year 1987?\n2. Was there a PC logo on the branding poster of the program \"Birch ratings\"?\n\n### Final Answer\n<answer>\nThe program that Thora Birch was on during the year of the program containing a PC on its branding poster was \"Day by Day.\"\n</answer>",
+ "input_tokens": 2513,
+ "output_tokens": 272,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 26.83
+}

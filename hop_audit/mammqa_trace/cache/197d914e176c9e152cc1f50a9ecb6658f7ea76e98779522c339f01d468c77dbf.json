@@ -1,0 +1,12 @@
+{
+ "key": "197d914e176c9e152cc1f50a9ecb6658f7ea76e98779522c339f01d468c77dbf",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but none of them feature Rex Everhart as an actor.</insights>\n\n<answer>There is no newer version of the 1991 film featuring Rex Everhart as an actor among the provided images.</answer>",
+ "input_tokens": 1688,
+ "output_tokens": 65,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 7.0
+}

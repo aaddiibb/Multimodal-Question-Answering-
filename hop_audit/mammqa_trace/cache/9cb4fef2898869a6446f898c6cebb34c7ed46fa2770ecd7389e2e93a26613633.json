@@ -1,0 +1,12 @@
+{
+ "key": "9cb4fef2898869a6446f898c6cebb34c7ed46fa2770ecd7389e2e93a26613633",
+ "text": "The provided table does not contain any information about a film featuring a penny on its poster. Therefore, it cannot be determined from this data alone whether there is a film featuring a penny on its poster among films of Evan Ross.",
+ "input_tokens": 2328,
+ "output_tokens": 46,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 7.62
+}

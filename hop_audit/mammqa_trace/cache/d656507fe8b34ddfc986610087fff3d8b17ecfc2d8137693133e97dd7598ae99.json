@@ -1,0 +1,12 @@
+{
+ "key": "d656507fe8b34ddfc986610087fff3d8b17ecfc2d8137693133e97dd7598ae99",
+ "text": "<modality> text </modality>\n\n<insights>\n- Sabrina Carpenter starred as Maya Hart in the Disney Channel series Girl Meets World.\n- Warmer in the Winter is the fourth studio album by violinist and composer Lindsey Stirling, released on October 20, 2017.\n- Herbie Hancock had a role in Summer Holiday (1963 film).\n</insights>\n\n<answer>\nHerbie Hancock was on the show \"Summer Holiday\" in 1963.\n</answer>\n\n<subanswer>\n- The show where Maya Hart was played by an actress who was also in Warmer in the Winter is \"Girl Meets World\".\n- The year Herbie Hancock was on \"Summer Holiday\" is 1963.\n</subanswer>",
+ "input_tokens": 1781,
+ "output_tokens": 164,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 13.62
+}

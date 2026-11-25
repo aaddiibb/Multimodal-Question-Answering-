@@ -1,0 +1,12 @@
+{
+ "key": "48550cbfe8acd72ad1b68c0003bd0b41c499c8b51bcfbd79ba97f2a68050785d",
+ "text": "The provided text insight does not contain any information about the third round of the 1957 U.S. Open or the players' scores relative to par. Therefore, it is impossible to determine which player has a higher score relative to par between the player who signed the wrong scorecard at the Masters and Mike Fetchick using only the given information.\n\nThe images provided do not contain any textual information that could help answer the question either. They appear to show individuals in various settings but do not provide any context related to the 1957 U.S. Open or the players mentioned in the question.\n\nSince there is insufficient information to answer the question accurately, the best response is that the question cannot be answered with the provided data.\n\n<answer>\nThe question cannot be answered with the provided data.\n</answer>",
+ "input_tokens": 2632,
+ "output_tokens": 165,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 18.52
+}

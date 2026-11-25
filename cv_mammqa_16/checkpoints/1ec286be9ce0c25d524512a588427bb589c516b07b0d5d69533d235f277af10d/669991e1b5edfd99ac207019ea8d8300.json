@@ -1,0 +1,149 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "669991e1b5edfd99ac207019ea8d8300",
+  "question": "In Torpedo, what is in the diver's right hand?",
+  "context_digest": "ba1b48c6c9640388a41696712a933e5886ff5b52997d539ce62eb31f0407a1bd",
+  "source_ids": [
+    "62f67108c087d149c3d245e913660bd9"
+  ],
+  "modalities": [
+    "image"
+  ],
+  "shared": {
+    "stage1": {
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image shows a character in a diving position with a weapon in their right hand, but the specific type of weapon is not clearly identifiable due to the angle and distance.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image shows a character in a diving position with a weapon in their right hand, but the specific type of weapon is not clearly identifiable due to the angle and distance."
+      }
+    },
+    "stage2": {
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image does not provide enough detail to identify the specific type of weapon in the diver's right hand.",
+        "evidence_reference": "The image shows a character in a diving position with a weapon in their right hand, but the specific type of weapon is not clearly identifiable due to the angle and distance.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image does not provide enough detail to identify the specific type of weapon in the diver's right hand.\nEVIDENCE: The image shows a character in a diving position with a weapon in their right hand, but the specific type of weapon is not clearly identifiable due to the angle and distance."
+      }
+    },
+    "shared_seconds": 8.97750354599998,
+    "shared_digest": "6b2a5b0c4fed27ff8a2b5b0fcb751de333f6431207f00427635c16f69caa9f13"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "FINAL: INSUFFICIENT",
+    "seconds": 0.6716775029999553,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.0277300540001306,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "669991e1b5edfd99ac207019ea8d8300",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 461,
+      "original_input_tokens": 461,
+      "output_tokens": 45,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.8750381340000786,
+      "image_count": 1,
+      "seed": 1535065878
+    },
+    {
+      "qid": "669991e1b5edfd99ac207019ea8d8300",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 171,
+      "original_input_tokens": 171,
+      "output_tokens": 70,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.094374557000037,
+      "image_count": 0,
+      "seed": 457776910
+    },
+    {
+      "qid": "669991e1b5edfd99ac207019ea8d8300",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 200,
+      "original_input_tokens": 200,
+      "output_tokens": 6,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6683448310000131,
+      "image_count": 0,
+      "seed": 1979968654
+    },
+    {
+      "qid": "669991e1b5edfd99ac207019ea8d8300",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 221,
+      "original_input_tokens": 221,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5403526960001273,
+      "image_count": 0,
+      "seed": 1731962155
+    },
+    {
+      "qid": "669991e1b5edfd99ac207019ea8d8300",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4803584139999657,
+      "image_count": 0,
+      "seed": 1824556350
+    }
+  ],
+  "completed_utc": "2026-10-13T20:01:06.306580+00:00"
+}

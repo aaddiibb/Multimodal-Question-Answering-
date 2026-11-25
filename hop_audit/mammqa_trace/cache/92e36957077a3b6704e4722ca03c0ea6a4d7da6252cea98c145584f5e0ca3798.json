@@ -1,0 +1,12 @@
+{
+ "key": "92e36957077a3b6704e4722ca03c0ea6a4d7da6252cea98c145584f5e0ca3798",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Is there any information about the movie \"Lok Singh\" directed by Ravi Raja Pinisetty?\n2. Was there a man with facial hair on the poster of the movie \"Lok Singh\"?\n\nThe provided table does not contain any information about the movie \"Lok Singh\" directed by Ravi Raja Pinisetty. Therefore, we cannot answer the second subquestion based on the given data.",
+ "input_tokens": 3490,
+ "output_tokens": 97,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 15.71
+}

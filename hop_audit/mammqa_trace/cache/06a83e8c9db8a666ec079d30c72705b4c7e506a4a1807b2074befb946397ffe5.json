@@ -1,0 +1,12 @@
+{
+ "key": "06a83e8c9db8a666ec079d30c72705b4c7e506a4a1807b2074befb946397ffe5",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a building with a large green lawn in front of it.</insights>\n\n<answer>It is unclear which theatre Michael Potts acted in with a large green lawn based on the provided images.</answer>",
+ "input_tokens": 3370,
+ "output_tokens": 57,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 13.11
+}

@@ -1,0 +1,12 @@
+{
+ "key": "2db301d98211af4956a2dde29fc5610b39057a67555f77be6dae349204982f69",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions that Tommy Sands played Joey Rand in the show \"Valley Girl.\"\n- The text also mentions that Jack Lord was known for his starring role as Steve McGarrett in the CBS television program \"Hawaii Five-O,\" which ran from 1968 to 1980.\n</insights>\n\n<answer>\nIn the show where Tommy Sands played Joey Rand, Jack Lord played the first McGarrett.\n</answer>",
+ "input_tokens": 1605,
+ "output_tokens": 106,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.99
+}

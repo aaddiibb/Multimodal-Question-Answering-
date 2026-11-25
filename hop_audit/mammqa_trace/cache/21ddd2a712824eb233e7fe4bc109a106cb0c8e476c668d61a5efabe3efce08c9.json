@@ -1,0 +1,12 @@
+{
+ "key": "21ddd2a712824eb233e7fe4bc109a106cb0c8e476c668d61a5efabe3efce08c9",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>Peppermill Reno logo, International Game Technology logo, Renown Regional Medical Center logo, University of Nevada Reno seal, Washoe County, Nevada seal.</insights>\n\n<answer>Based on the provided logos, it is not possible to determine which employer has more employees without additional data such as employee counts or employment statistics.</answer>",
+ "input_tokens": 2034,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 10.15
+}

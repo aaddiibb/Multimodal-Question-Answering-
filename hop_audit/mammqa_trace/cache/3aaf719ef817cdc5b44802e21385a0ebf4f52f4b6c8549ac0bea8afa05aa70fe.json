@@ -1,0 +1,12 @@
+{
+ "key": "3aaf719ef817cdc5b44802e21385a0ebf4f52f4b6c8549ac0bea8afa05aa70fe",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple video game posters, but none of them feature a picture of Earth prominently. The posters shown are for \"Command & Conquer: Tiberium Wars,\" \"Command & Conquer: Kane's Wrath,\" \"Spider-Man: Web of Shadows,\" \"Halo 3 ODST,\" \"Mass Effect 2,\" \"StarCraft II: Wings of Liberty,\" \"Mass Effect 3,\" \"StarCraft II: Heart of the Swarm,\" \"Mortal Kombat X,\" and \"StarCraft II: Legacy of the Void.\" None of these games feature Tricia Helfer.</insights>\n\n<answer>Tricia Helfer did not play a role in any of the video games depicted in the provided images.</answer>",
+ "input_tokens": 1704,
+ "output_tokens": 164,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 14.53
+}

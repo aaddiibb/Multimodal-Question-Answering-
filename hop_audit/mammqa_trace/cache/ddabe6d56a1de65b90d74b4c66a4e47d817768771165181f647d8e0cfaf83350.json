@@ -1,0 +1,12 @@
+{
+ "key": "ddabe6d56a1de65b90d74b4c66a4e47d817768771165181f647d8e0cfaf83350",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a poster for the TV show \"Twin Peaks,\" which features a globe in the background.</insights>\n\n<answer>Ivy George plays the role of Leland Palmer in Twin Peaks.</answer>\n\n<subanswer>What TV show features a globe in its poster?</subanswer>",
+ "input_tokens": 1712,
+ "output_tokens": 73,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 7.62
+}

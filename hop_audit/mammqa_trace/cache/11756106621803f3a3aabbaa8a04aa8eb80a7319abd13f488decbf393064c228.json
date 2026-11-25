@@ -1,0 +1,12 @@
+{
+ "key": "11756106621803f3a3aabbaa8a04aa8eb80a7319abd13f488decbf393064c228",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image appears to be a promotional poster for a production of Shakespeare's play \"Macbeth.\" The central figure depicted is Macduff, a character known for his role in the play. The setting of the play is Scotland, which is a key element of the story involving the Scottish throne and the supernatural forces at play.</insights>\n\n<answer>The setting of the play where Matthew Rhys plays Macduff is Scotland.</answer>",
+ "input_tokens": 3033,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 16.21
+}

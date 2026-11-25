@@ -1,0 +1,12 @@
+{
+ "key": "d0e9d2e8f343435c0cc8209acd890120e1146973853c314da4e8269e847f97d1",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the year the show where actress Elizabeth Berridge played Julia Scianti went off the air. From the provided data, we have the following relevant information:\n\n- The image mentions a television show titled \"Silence of the Heart.\"\n- The text data includes a list of roles played by Elizabeth Berridge, including \"Silence of the Heart\" where she played \"Penny.\"\n- The text data also mentions \"Miami Vice\" where she played \"Julia Scianti.\"\n\n### Step 2: Extract Insights\n<insights>\n- Elizabeth Berridge played \"Julia Scianti\" in \"Miami Vice.\"\n- \"Miami Vice\" ran from 1984 to 1989.\n</insights>\n\n### Step 3: Break Down the Question into Subquestions\nBased on the insights, we can break down the question into simpler subquestions:\n\n1. What is the title of the show where Elizabeth Berridge played Julia Scianti?\n2. In which year did the show \"Miami Vice\" go off the air?\n\n### Step 4: Answer the Subquestions\n<subanswer>\n1. The title of the show where Elizabeth Berridge played Julia Scianti is \"Miami Vice.\"\n</subanswer>\n\n<subanswer>\n2. The show \"Miami Vice\" went off the air in 1989.\n</subanswer>\n\n### Final Answer\n<answer>\nThe show where actress Elizabeth Berridge played Julia Scianti, \"Miami Vice,\" went off the air in 1989.\n</answer>",
+ "input_tokens": 2079,
+ "output_tokens": 341,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 28.16
+}

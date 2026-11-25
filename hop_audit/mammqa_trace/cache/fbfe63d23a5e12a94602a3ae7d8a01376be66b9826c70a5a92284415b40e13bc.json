@@ -1,0 +1,12 @@
+{
+ "key": "fbfe63d23a5e12a94602a3ae7d8a01376be66b9826c70a5a92284415b40e13bc",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"Who was a co-singer of Sona Mohapatra in Bollywood first: The singer of 'Main Tera Boyfriend' or Keerthi Sagathia, Shazneen Arethna?\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided data:\n- The song \"Main Tera Boyfriend\" is from the film \"Raabta,\" which was released in 2015.\n- The co-singers for \"Main Tera Boyfriend\" are listed as Keerthi Sagathia and Shazneen Arethna.\n- The table shows that Keerthi Sagathia and Shazneen Arethna were co-singers for \"Main Tera Boyfriend.\"\n\n### Step 3: Break Down the Question into Subquestions\n1. Is Keerthi Sagathia a co-singer of Sona Mohapatra?\n2. Is Shazneen Arethna a co-singer of Sona Mohapatra?\n3. Which one came first?\n\n### Step 4: Answer the Subquestions\n1. **Is Keerthi Sagathia a co-singer of Sona Mohapatra?**\n   - From the table, we see that Keerthi Sagathia is indeed a co-singer for \"Main Tera Boyfriend.\"\n   \n2. **Is Shazneen Arethna a co-singer of Sona Mohapatra?**\n   - From the table, we see that Shazneen Arethna is also a co-singer for \"Main Tera Boyfriend.\"\n\n3. **Which one came first?**\n   - Since both Keerthi Sagathia and Shazneen Arethna are co-singers for \"Main Tera Boyfriend,\" they both came first. However, the question implies a comparison between these two individuals.\n\n### Final Answer\nBased on the provided data, both Keerthi Sagathia and Shazneen Arethna were co-singers of Sona Mohapatra in the song \"Main Tera Boyfriend.\" Therefore, neither of them came first individually, but they both came first collectively as co-singers for the song.",
+ "input_tokens": 2288,
+ "output_tokens": 484,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 42.5
+}

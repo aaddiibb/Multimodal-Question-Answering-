@@ -1,0 +1,3544 @@
+[
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6571be2288d0cf1d9ea061ee680e6962.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6571be2288d0cf1d9ea061ee680e6962.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6571be2288d0cf1d9ea061ee680e6962.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0710f54b29b17fb27150351652500a4e.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0710f54b29b17fb27150351652500a4e.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0710f54b29b17fb27150351652500a4e.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_text",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_table",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7bf7ea3f38c065ae1d8487ae6417b156.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7bf7ea3f38c065ae1d8487ae6417b156.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7bf7ea3f38c065ae1d8487ae6417b156.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0af43d695e0fa436b1c1dfc150d48182.png"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0af43d695e0fa436b1c1dfc150d48182.png"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0af43d695e0fa436b1c1dfc150d48182.png"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/410cc71b555a9bfdbac99ac6751c15de.png"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/410cc71b555a9bfdbac99ac6751c15de.png"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/410cc71b555a9bfdbac99ac6751c15de.png"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_text",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_table",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5fa63bb917091cdd8f4607a98038fbb8.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5fa63bb917091cdd8f4607a98038fbb8.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5fa63bb917091cdd8f4607a98038fbb8.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_text",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_table",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "image_expert",
+    "image_count": 2,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/fa45680e71c7997ea74d853f0aa6a3a0.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/80dd3049424db3c60161c77a1be418b0.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_image",
+    "image_count": 2,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/fa45680e71c7997ea74d853f0aa6a3a0.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/80dd3049424db3c60161c77a1be418b0.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "image_expert",
+    "image_count": 5,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9f95beae6d7e78c9c8992697cfa65751.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/febd8b213490fcf5a8a83f46d4504c50.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7466f9643464aba526728eb9b2d36586.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/406977c66b5c8935a586f39d7d326de1.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_table",
+    "image_count": 5,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9f95beae6d7e78c9c8992697cfa65751.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/febd8b213490fcf5a8a83f46d4504c50.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7466f9643464aba526728eb9b2d36586.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/406977c66b5c8935a586f39d7d326de1.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_image",
+    "image_count": 5,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9f95beae6d7e78c9c8992697cfa65751.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/febd8b213490fcf5a8a83f46d4504c50.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7466f9643464aba526728eb9b2d36586.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/406977c66b5c8935a586f39d7d326de1.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/e4bff96f2cbc3233d2962f66b449a660.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1e9b09f93bc474786bd1b2ec15af17c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/68f2751b973450451149d7f2692c3719.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/e4bff96f2cbc3233d2962f66b449a660.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1e9b09f93bc474786bd1b2ec15af17c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/68f2751b973450451149d7f2692c3719.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/e4bff96f2cbc3233d2962f66b449a660.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1e9b09f93bc474786bd1b2ec15af17c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/68f2751b973450451149d7f2692c3719.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_text",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_table",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_table",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_text",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99538428397b311189659fd2bf490fe2.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/57bf903166cb2ef4dcdf27c3ae974237.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6da3feea63a9cec92ad09c2b30819830.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99538428397b311189659fd2bf490fe2.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/57bf903166cb2ef4dcdf27c3ae974237.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6da3feea63a9cec92ad09c2b30819830.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99538428397b311189659fd2bf490fe2.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/57bf903166cb2ef4dcdf27c3ae974237.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6da3feea63a9cec92ad09c2b30819830.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99538428397b311189659fd2bf490fe2.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/57bf903166cb2ef4dcdf27c3ae974237.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6da3feea63a9cec92ad09c2b30819830.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0a03a3ed0e107424735a8616277d6d5f.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/3000b05a65d75548d7e22687edc1d033.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/be1c8c41636f36b089e21bffe845e506.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0a03a3ed0e107424735a8616277d6d5f.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/3000b05a65d75548d7e22687edc1d033.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/be1c8c41636f36b089e21bffe845e506.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0a03a3ed0e107424735a8616277d6d5f.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/3000b05a65d75548d7e22687edc1d033.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/be1c8c41636f36b089e21bffe845e506.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0a03a3ed0e107424735a8616277d6d5f.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/3000b05a65d75548d7e22687edc1d033.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/be1c8c41636f36b089e21bffe845e506.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cb93b6a55fd8bbee3884e5acd3286733.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/bb6bd49b5d7fe4899345be0d2a563e31.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cb93b6a55fd8bbee3884e5acd3286733.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/bb6bd49b5d7fe4899345be0d2a563e31.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cb93b6a55fd8bbee3884e5acd3286733.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/bb6bd49b5d7fe4899345be0d2a563e31.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cb93b6a55fd8bbee3884e5acd3286733.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/bb6bd49b5d7fe4899345be0d2a563e31.JPG",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/87d2141081ba8d71ae142f6fbc79e9fa.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/87d2141081ba8d71ae142f6fbc79e9fa.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/87d2141081ba8d71ae142f6fbc79e9fa.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/87d2141081ba8d71ae142f6fbc79e9fa.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/76d7f873e7116d1ce39c4e927d206d8d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4dbace575c7b8f963eea862913472913.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/14d9cef4bb96eae201de5da5f5fa94c2.jpg"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/76d7f873e7116d1ce39c4e927d206d8d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4dbace575c7b8f963eea862913472913.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/14d9cef4bb96eae201de5da5f5fa94c2.jpg"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/76d7f873e7116d1ce39c4e927d206d8d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4dbace575c7b8f963eea862913472913.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/14d9cef4bb96eae201de5da5f5fa94c2.jpg"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/76d7f873e7116d1ce39c4e927d206d8d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4dbace575c7b8f963eea862913472913.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/14d9cef4bb96eae201de5da5f5fa94c2.jpg"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0ddb5f4e1a90fc03dfb0f6aa6209f872.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0b89b1cf157812e2af5cf9a64a292b76.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0ddb5f4e1a90fc03dfb0f6aa6209f872.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0b89b1cf157812e2af5cf9a64a292b76.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0ddb5f4e1a90fc03dfb0f6aa6209f872.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0b89b1cf157812e2af5cf9a64a292b76.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0ddb5f4e1a90fc03dfb0f6aa6209f872.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/0b89b1cf157812e2af5cf9a64a292b76.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/225a99a4eea4b66b8d26d9535c8575a8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a1d9a511a639e6ccd9e368513a3a65e7.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ee63cfcd2fe803dc23016883c83e872c.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/225a99a4eea4b66b8d26d9535c8575a8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a1d9a511a639e6ccd9e368513a3a65e7.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ee63cfcd2fe803dc23016883c83e872c.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/225a99a4eea4b66b8d26d9535c8575a8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a1d9a511a639e6ccd9e368513a3a65e7.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ee63cfcd2fe803dc23016883c83e872c.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/225a99a4eea4b66b8d26d9535c8575a8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a1d9a511a639e6ccd9e368513a3a65e7.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ee63cfcd2fe803dc23016883c83e872c.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1bf1dcb5762b45c9e2f5224a00169a74.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9540346c920cd277c8b6412493c86516.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1bf1dcb5762b45c9e2f5224a00169a74.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9540346c920cd277c8b6412493c86516.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1bf1dcb5762b45c9e2f5224a00169a74.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9540346c920cd277c8b6412493c86516.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1bf1dcb5762b45c9e2f5224a00169a74.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9540346c920cd277c8b6412493c86516.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/841f0bfc42c6e9c7a1f9f3d915505e47.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/2cc49c7780eeab0b48cf322184496aef.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/841f0bfc42c6e9c7a1f9f3d915505e47.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/2cc49c7780eeab0b48cf322184496aef.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/841f0bfc42c6e9c7a1f9f3d915505e47.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/2cc49c7780eeab0b48cf322184496aef.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a290345f4bfbf52c2ae129ed1ae3f7e9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/841f0bfc42c6e9c7a1f9f3d915505e47.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/2cc49c7780eeab0b48cf322184496aef.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/acbc65c51a2dd0028677c5661cc68ddb.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/acbc65c51a2dd0028677c5661cc68ddb.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/acbc65c51a2dd0028677c5661cc68ddb.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed21c82d81ab2b1854342ac29b01b561.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/acbc65c51a2dd0028677c5661cc68ddb.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f822c9889db421f43415548f46978a2a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/b583dbefc47a29eff85ba094f775c9e8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/13995834bcae16df50a50fb10ea89ab8.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f822c9889db421f43415548f46978a2a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/b583dbefc47a29eff85ba094f775c9e8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/13995834bcae16df50a50fb10ea89ab8.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f822c9889db421f43415548f46978a2a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/b583dbefc47a29eff85ba094f775c9e8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/13995834bcae16df50a50fb10ea89ab8.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f822c9889db421f43415548f46978a2a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/b583dbefc47a29eff85ba094f775c9e8.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/13995834bcae16df50a50fb10ea89ab8.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed8cecdac9dc9dca1504d8505803c784.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed8cecdac9dc9dca1504d8505803c784.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed8cecdac9dc9dca1504d8505803c784.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ed8cecdac9dc9dca1504d8505803c784.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6eb9b99a08eafce07b7626805e282302.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1a8d1d58953517ef37ca9fa57f7e622e.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cbb69fa85c89b49cc934d1e499634679.png"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6eb9b99a08eafce07b7626805e282302.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1a8d1d58953517ef37ca9fa57f7e622e.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cbb69fa85c89b49cc934d1e499634679.png"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6eb9b99a08eafce07b7626805e282302.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1a8d1d58953517ef37ca9fa57f7e622e.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cbb69fa85c89b49cc934d1e499634679.png"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6eb9b99a08eafce07b7626805e282302.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1a8d1d58953517ef37ca9fa57f7e622e.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cbb69fa85c89b49cc934d1e499634679.png"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6ff05df229d512be5079ab68480352ab.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f63e6665857000a7a28f816866fbbd84.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/40880648e73ac51780d2c309d7d24a4f.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/40880648e73ac51780d2c309d7d24a4f.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/40880648e73ac51780d2c309d7d24a4f.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/40880648e73ac51780d2c309d7d24a4f.jpg"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9ec2bc00d163fe7a955e3f3b90354ca0.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9ec2bc00d163fe7a955e3f3b90354ca0.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9ec2bc00d163fe7a955e3f3b90354ca0.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/9ec2bc00d163fe7a955e3f3b90354ca0.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52e33edfad5a3764fbd6fea4ae061759.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52e33edfad5a3764fbd6fea4ae061759.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52e33edfad5a3764fbd6fea4ae061759.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52e33edfad5a3764fbd6fea4ae061759.png"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/26ae34f1e2a00fe7568158cd84499cbe.png"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/720bd282f5e65a9575ff27162e7e7854.JPG"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/720bd282f5e65a9575ff27162e7e7854.JPG"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/720bd282f5e65a9575ff27162e7e7854.JPG"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/720bd282f5e65a9575ff27162e7e7854.JPG"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99b7ebe74ebe786d2ee97bb05e46990e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99b7ebe74ebe786d2ee97bb05e46990e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99b7ebe74ebe786d2ee97bb05e46990e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/99b7ebe74ebe786d2ee97bb05e46990e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cf2cb5e6e05aeeacf2fedd626d3962b0.PNG"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cf2cb5e6e05aeeacf2fedd626d3962b0.PNG"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cf2cb5e6e05aeeacf2fedd626d3962b0.PNG"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/cf2cb5e6e05aeeacf2fedd626d3962b0.PNG"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/45057748b5d9102833ce1f2807194f7c.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/45057748b5d9102833ce1f2807194f7c.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/45057748b5d9102833ce1f2807194f7c.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/45057748b5d9102833ce1f2807194f7c.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7a4dca19f59e9ca1a329752624707933.jpg"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f76c5faa8b100d678516bb2e9d9cd13c.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1dae3b1e3946c50d193df04c5772bb17.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1dae3b1e3946c50d193df04c5772bb17.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1dae3b1e3946c50d193df04c5772bb17.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1dae3b1e3946c50d193df04c5772bb17.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/401ea7ca2485e205a637e3f6d45b5c37.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c512f4846b49186f848af6b4525df07b.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/401ea7ca2485e205a637e3f6d45b5c37.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c512f4846b49186f848af6b4525df07b.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/401ea7ca2485e205a637e3f6d45b5c37.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c512f4846b49186f848af6b4525df07b.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/43ef719c26130ee4305c5c44f2b6beec.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/401ea7ca2485e205a637e3f6d45b5c37.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c512f4846b49186f848af6b4525df07b.jpg"
+    ]
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/da41e3e819b08b981b9bdce704e2f9ca.JPG"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/da41e3e819b08b981b9bdce704e2f9ca.JPG"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/da41e3e819b08b981b9bdce704e2f9ca.JPG"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/da41e3e819b08b981b9bdce704e2f9ca.JPG"
+    ]
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "254afe636a34c3a5d94efa22d95465ad",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f87bfca723ddf5315833d4f91b88063e.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f87bfca723ddf5315833d4f91b88063e.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f87bfca723ddf5315833d4f91b88063e.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f87bfca723ddf5315833d4f91b88063e.jpg"
+    ]
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ebb69554283456251305b4b8ab579f76",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/6e25a59c4187a0e595ea83ee5a95763f.jpg"
+    ]
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/33763a9c81632e1f912fadefd5d6533a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/33763a9c81632e1f912fadefd5d6533a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/33763a9c81632e1f912fadefd5d6533a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4ba2e94d4d0a8253ac2e5ff6319236c3.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/33763a9c81632e1f912fadefd5d6533a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/78c2ee8602f3fc411cba76b34eb0fb6f.jpg"
+    ]
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/1ff577a2857590126e1bd8041fa2705e.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/d44fddc4967d4fde14bf86326290a574.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4e1e36007fa86b89bba9853ef530f8d.jpg"
+    ]
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/a4a59aa74d8f96173ea3d7e972cdaa90.png"
+    ]
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "5dfd4afc175cdebf43295316a540d70c",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/73b4e8fdd8df89d725d197ca7e467b78.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/73b4e8fdd8df89d725d197ca7e467b78.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/73b4e8fdd8df89d725d197ca7e467b78.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/73b4e8fdd8df89d725d197ca7e467b78.jpg"
+    ]
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "6d372c501004c3e448b1991f39160e99",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ad43a2e6c965cb80f1d9f4044d806a08.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ad43a2e6c965cb80f1d9f4044d806a08.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ad43a2e6c965cb80f1d9f4044d806a08.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ad43a2e6c965cb80f1d9f4044d806a08.jpg"
+    ]
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "b5d7685e595423638d26dd60e99fcc39",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/ecca2095f71965b7370af2a75a16f63d.jpg"
+    ]
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "3126664c6ce707c6aca2c475ace8db08",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c8b06613efcfd2711938d1189947199a.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c8b06613efcfd2711938d1189947199a.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c8b06613efcfd2711938d1189947199a.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7faa2415353720bd60b9bbe843336fc9.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/52db030518f810fa9a6d468617e5262a.png",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c8b06613efcfd2711938d1189947199a.jpg"
+    ]
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7720ba7ae0f1965b2a46af198519aec8.png"
+    ]
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2a5fdab4235e28037389777f473c4f9f",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/462cd733c0358a1c7c38f42616872d64.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/462cd733c0358a1c7c38f42616872d64.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/462cd733c0358a1c7c38f42616872d64.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/462cd733c0358a1c7c38f42616872d64.jpg"
+    ]
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "image_expert",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5ffd37bda0a0098eaeabe1570cbcba02.png"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_text",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5ffd37bda0a0098eaeabe1570cbcba02.png"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_table",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5ffd37bda0a0098eaeabe1570cbcba02.png"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "cross_modal_image",
+    "image_count": 3,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/c638bef66c8abcfc91069473fca42422.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7fa04f634951acb564259dcbd9722542.jpg",
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/5ffd37bda0a0098eaeabe1570cbcba02.png"
+    ]
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/01bd8dbe8123e03376cb8a83b2879c49.jpg"
+    ]
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "planner",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "text_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "table_expert",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "image_expert",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/470942077565d1225447b881a019132d.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_text",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/470942077565d1225447b881a019132d.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_table",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/470942077565d1225447b881a019132d.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "cross_modal_image",
+    "image_count": 1,
+    "image_paths": [
+      "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/470942077565d1225447b881a019132d.jpg"
+    ]
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "verifier",
+    "image_count": 0,
+    "image_paths": []
+  },
+  {
+    "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+    "stage": "aggregator",
+    "image_count": 0,
+    "image_paths": []
+  }
+]

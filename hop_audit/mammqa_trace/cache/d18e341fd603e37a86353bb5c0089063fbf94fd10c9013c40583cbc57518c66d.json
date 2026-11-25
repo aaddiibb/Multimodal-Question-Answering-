@@ -1,0 +1,12 @@
+{
+ "key": "d18e341fd603e37a86353bb5c0089063fbf94fd10c9013c40583cbc57518c66d",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image shows a person sitting at a desk, with their hands resting on the surface.</insights>\n\n<answer>The person in the image appears to be sitting at a desk, possibly engaged in some form of work or study.</answer>",
+ "input_tokens": 1878,
+ "output_tokens": 67,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 7.74
+}

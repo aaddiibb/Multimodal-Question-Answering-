@@ -1,0 +1,12 @@
+{
+ "key": "28ca2efb24bcbc9936f2f333d153f76ad0733c23d2d7209e1a38dbd341f0b907",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"Who is the longest running character on the show where Stephanie Cole plays Sylvia Goodwin?\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided text data:\n- Stephanie Cole played Sylvia Goodwin in \"Coronation Street.\"\n- Sylvia Goodwin was one of the longest-running characters in \"Bad Girls,\" portrayed by Helen Fraser.\n- The longest-serving prison officer on \"Bad Girls\" was Sylvia Violet Hollamby, portrayed by Helen Fraser from 1999 to 2006.\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the show where Stephanie Cole plays Sylvia Goodwin.\n2. Determine if Sylvia Goodwin is the longest-running character in that show.\n3. If so, identify the longest-running character overall in the show.\n\n### Step 4: Answer the Subquestions\n1. **Identify the show where Stephanie Cole plays Sylvia Goodwin:**\n   - From the table, Stephanie Cole played Sylvia Goodwin in \"Coronation Street.\"\n\n2. **Determine if Sylvia Goodwin is the longest-running character in \"Coronation Street\":**\n   - From the table, Sylvia Goodwin's role started in 2011 and continued until 2013.\n   - The longest-running character in \"Coronation Street\" mentioned in the text data is Ken Barlow, who has been on the show since its inception in 1960.\n\n3. **Identify the longest-running character overall in \"Coronation Street\":**\n   - The longest-running character in \"Coronation Street\" is Ken Barlow, who has been on the show since its inception in 1960.\n\n### Final Answer\nThe longest-running character on the show where Stephanie Cole plays Sylvia Goodwin is Ken Barlow.",
+ "input_tokens": 2266,
+ "output_tokens": 390,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 34.38
+}

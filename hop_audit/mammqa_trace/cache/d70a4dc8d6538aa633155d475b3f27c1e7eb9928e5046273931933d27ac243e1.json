@@ -1,0 +1,12 @@
+{
+ "key": "d70a4dc8d6538aa633155d475b3f27c1e7eb9928e5046273931933d27ac243e1",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image contains multiple movie posters, including one for \"The Nun's Story\" where Errol Flynn is depicted in a nun's habit.</insights>\n\n<answer>Errol Flynn acted in \"The Nun's Story\" first, which features a poster with him in a nun's habit.</answer>",
+ "input_tokens": 2250,
+ "output_tokens": 80,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.9
+}

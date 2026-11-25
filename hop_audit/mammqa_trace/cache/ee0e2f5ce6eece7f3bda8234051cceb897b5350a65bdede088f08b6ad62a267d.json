@@ -1,0 +1,12 @@
+{
+ "key": "ee0e2f5ce6eece7f3bda8234051cceb897b5350a65bdede088f08b6ad62a267d",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table provides player statistics for the 2007-08 Orlando Magic season.\n- The players listed are Carlos Arroyo, James Augustine, Keith Bogans, Keyon Dooling, Maurice Evans, Adonal Foyle, Pat Garrity, Marcin Gortat, Dwight Howard, Rashard Lewis, Jameer Nelson, and J. J. Redick.\n- The players who have a free-throw percentage of 0.000 are James Augustine, Adonal Foyle, Pat Garrity, and J. J. Redick.\n</insights>\n\n<answer>\nAmong the Orlando Magic players in the 2007-08 playoffs, the players with facial hair and a free-throw percentage of 0.000 are James Augustine, Adonal Foyle, Pat Garrity, and J. J. Redick.\n</answer>",
+ "input_tokens": 1441,
+ "output_tokens": 198,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.66
+}

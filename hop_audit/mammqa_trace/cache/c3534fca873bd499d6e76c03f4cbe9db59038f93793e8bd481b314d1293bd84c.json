@@ -1,0 +1,12 @@
+{
+ "key": "c3534fca873bd499d6e76c03f4cbe9db59038f93793e8bd481b314d1293bd84c",
+ "text": "<insights>\n- The text does not contain any information about knockouts or fighters with specific physical characteristics like \"long black hair that goes past her shoulders.\"\n- The question seems to be referring to a specific fighter but the provided text does not mention any such fighter.\n</insights>\n\n<subanswer>\nThe provided text does not contain any information about knockouts or fighters with specific physical characteristics like \"long black hair that goes past her shoulders.\" Therefore, it is impossible to determine which fighter had more knockouts between Stipe Miocic and the fighter with long black hair that goes past her shoulders.\n</subanswer>\n\n<answer>\nBased on the provided text, there is insufficient information to determine whether Stipe Miocic or a fighter with long black hair that goes past her shoulders had more knockouts in the list of UFC records by division. The text does not contain any relevant data regarding knockouts or fighters with specific physical characteristics.\n</answer>",
+ "input_tokens": 2531,
+ "output_tokens": 194,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 20.12
+}

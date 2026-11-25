@@ -1,0 +1,12 @@
+{
+ "key": "792dcdf078a6776a8eeaf79c4a3e4b2a0a7ee9830f388181be4b954dff9288f7",
+ "text": "<insights>\n- The table provides information about players' caps and years active for the Iran national football team.\n- Ali Karimi has 127 caps.\n- The player with the most international goals is not explicitly mentioned in the table.\n</insights>\n\n<subanswer>\n- Identify the player with the most international goals.\n- Compare the number of caps of the player with the most international goals with Ali Karimi's caps.\n</subanswer>\n\n<answer>\nThe player with the most international goals is not explicitly mentioned in the table. Therefore, we cannot determine if Ali Karimi has higher caps than the player with the most international goals based on the given information.\n</answer>",
+ "input_tokens": 3355,
+ "output_tokens": 141,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 21.02
+}

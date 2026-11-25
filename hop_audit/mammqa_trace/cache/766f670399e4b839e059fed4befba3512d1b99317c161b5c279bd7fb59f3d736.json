@@ -1,0 +1,12 @@
+{
+ "key": "766f670399e4b839e059fed4befba3512d1b99317c161b5c279bd7fb59f3d736",
+ "text": "<modality>image</modality>\n\n<insights>The image provided does not contain any textual information about the Great Western Lacrosse League or its former members. The image only shows the logos of several universities, but it does not provide any details about their nicknames or locations.</insights>\n\n<answer>Based on the provided images, there is no information available to determine the location of the institution whose nickname was Falcons. The images only show the logos of several universities, but do not provide any details about their nicknames or locations.</answer>",
+ "input_tokens": 1858,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.82
+}

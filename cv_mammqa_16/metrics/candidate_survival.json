@@ -1,0 +1,5 @@
+{
+  "questions_with_gold_in_stage2": 4,
+  "baseline_candidate_survival": 0.75,
+  "cv_candidate_survival": 0.75
+}

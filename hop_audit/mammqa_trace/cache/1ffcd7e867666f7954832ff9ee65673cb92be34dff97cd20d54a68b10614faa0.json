@@ -1,0 +1,12 @@
+{
+ "key": "1ffcd7e867666f7954832ff9ee65673cb92be34dff97cd20d54a68b10614faa0",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a logo for \"The Amazing World of Gumball,\" which features a rainbow prominently displayed on its logo.</insights>\n\n<answer>Larry is a character in \"The Amazing World of Gumball,\" which features a rainbow on its logo.</answer>",
+ "input_tokens": 1307,
+ "output_tokens": 69,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 6.22
+}

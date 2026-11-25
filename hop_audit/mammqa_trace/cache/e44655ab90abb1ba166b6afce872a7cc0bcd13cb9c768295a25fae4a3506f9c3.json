@@ -1,0 +1,12 @@
+{
+ "key": "e44655ab90abb1ba166b6afce872a7cc0bcd13cb9c768295a25fae4a3506f9c3",
+ "text": "<modality> text </modality>\n\n<insights> The text does not mention Sheila Allen's role in the Harry Potter movies after \"The Prisoner of Azkaban.\" The provided information only includes her birthplace and family background.</ins>\n\n<answer> There is no information about Sheila Allen's role in the Harry Potter movies after \"The Prisoner of Azkaban\" in the given text.</answer>",
+ "input_tokens": 1611,
+ "output_tokens": 86,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.12
+}

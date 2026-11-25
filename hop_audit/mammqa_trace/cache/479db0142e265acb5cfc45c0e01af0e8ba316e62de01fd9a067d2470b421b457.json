@@ -1,0 +1,12 @@
+{
+ "key": "479db0142e265acb5cfc45c0e01af0e8ba316e62de01fd9a067d2470b421b457",
+ "text": "<modality>image</modality>\n\n<insights>The image is a promotional poster for the movie \"The Untitled Project\" featuring Kartik Aaryan and Swara Bhaskar. The woman on the right is wearing a red outfit.</insights>\n\n<answer>The woman on the right is wearing a red outfit.</answer>",
+ "input_tokens": 2724,
+ "output_tokens": 70,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 11.56
+}

@@ -1,0 +1,12 @@
+{
+ "key": "ef84f359ec5c85f4ea3d1c5b13d74d1b65c053c27d1acf9d8d3a0cddbd43e830",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions a song titled \"Roll Me Up and Smoke Me When I Die\" by Willie Nelson.\n- The song is featured on Willie Nelson's 2012 album \"Heroes.\"\n- The text does not mention a guest appearance by Don \"Magic\" Juan in 2003.\n</insights>\n\n<answer>\nBased on the provided text, there is no information about a guest appearance by Don \"Magic\" Juan in 2003. The text only mentions that \"Roll Me Up and Smoke Me When I Die\" is a Willie Nelson single from his 2012 album \"Heroes.\"\n</answer>",
+ "input_tokens": 1908,
+ "output_tokens": 145,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 13.28
+}

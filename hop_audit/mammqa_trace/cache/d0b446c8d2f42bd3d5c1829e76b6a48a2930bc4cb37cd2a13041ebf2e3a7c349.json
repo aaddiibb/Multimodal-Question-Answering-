@@ -1,0 +1,12 @@
+{
+ "key": "d0b446c8d2f42bd3d5c1829e76b6a48a2930bc4cb37cd2a13041ebf2e3a7c349",
+ "text": "Based on the provided table and the images, let's break down the question into simpler subquestions:\n\n1. In which film did Sona Mohapatra sing the song \"Tera Boyfriend\"?\n2. Who were the co-singers of Sona Mohapatra in the film \"Tera Boyfriend\"?\n\nNow, let's address each subquestion:\n\n1. **Subquestion 1:** In which film did Sona Mohapatra sing the song \"Tera Boyfriend\"?\n   - The song \"Tera Boyfriend\" is not listed in the table provided. Therefore, we cannot determine the film based on this data alone.\n\n2. **Subquestion 2:** Who were the co-singers of Sona Mohapatra in the film \"Tera Boyfriend\"?\n   - Since the song \"Tera Boyfriend\" is not mentioned in the table, we cannot identify the co-singers for this specific song.\n\nGiven that the song \"Tera Boyfriend\" is not present in the table, it is impossible to answer the original question accurately using the provided data.",
+ "input_tokens": 3106,
+ "output_tokens": 223,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 27.14
+}

@@ -1,0 +1,12 @@
+{
+ "key": "b83983004072bf5630431dd1c8aa15979103435219dfa9c8f60effe35ea6e290",
+ "text": "<modality>image</modality>\n\n<insights>The image displays the title \"Treme\" which appears to be a show poster. However, there is no visible mention of Lucius Baston or any specific year associated with this image.</insights>\n\n<answer>There is insufficient information in the image to determine the year Lucius Baston was included in the show \"Treme\".</answer>",
+ "input_tokens": 1593,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 7.99
+}

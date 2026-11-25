@@ -1,0 +1,12 @@
+{
+ "key": "ee7e53bdc1d83f1a17dea881bf6e62a82ee8d800b6d28ccf53e5adae2287c88b",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the movie where Swara Bhaskar played the role \"Chanda Sahay\".\n   - From the table insight, we know this role was played in the movie \"Nil Battey Sannata\".\n\n2. Determine if there is a poster available for this movie.\n   - The table does not provide any information about posters for the movie \"Nil Battey Sannata\".\n\n3. If there is a poster, identify the woman on the right and determine her attire color.\n   - There is a poster for the movie \"Nil Battey Sannata\" shown below. The woman on the right is wearing a blue outfit.\n\nBased on the analysis above, the answer to the question is:\n\n<answer>The woman on the right in the poster of the movie \"Nil Battey Sannata\" is wearing a blue outfit.</answer>",
+ "input_tokens": 3510,
+ "output_tokens": 187,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 25.74
+}

@@ -1,0 +1,12 @@
+{
+ "key": "27275955864876f57c75080e96d4b0cf69ec3550f1ac6c20102e1179fc1eabbe",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks us to identify which singles from Angels & Airwaves released in 2014 were included on the album \"The Dream Walker\".\n\n### Step 2: Extract Relevant Insights\nFrom the provided text data and table:\n- The band Angels & Airwaves released their album \"The Dream Walker\" in 2014.\n- The table shows singles released by Angels & Airwaves up to 2016.\n- We need to find out which of these singles were included on \"The Dream Walker\".\n\n### Step 3: Break Down the Question into Subquestions\n1. **What singles were released by Angels & Airwaves in 2014?**\n2. **Which of those singles were included on the album \"The Dream Walker\"?**\n\n### Step 4: Answer the Subquestions\n#### Subquestion 1: What singles were released by Angels & Airwaves in 2014?\nFrom the table, we can see the singles released by Angels & Airwaves in 2014:\n- \"Paralyzed\"\n- \"The Wolfpack\"\n- \"Tunnels\"\n\n#### Subquestion 2: Which of those singles were included on the album \"The Dream Walker\"?\nFrom the table, we can see that all the singles listed above were indeed included on the album \"The Dream Walker\".\n\n### Final Answer\nThe singles released by Angels & Airwaves in 2014 that were included on the album \"The Dream Walker\" are:\n- \"Paralyzed\"\n- \"The Wolfpack\"\n- \"Tunnels\"",
+ "input_tokens": 2549,
+ "output_tokens": 345,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 32.68
+}

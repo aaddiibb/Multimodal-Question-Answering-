@@ -1,0 +1,12 @@
+{
+ "key": "cf2fff4d6996355c645dc3dcb57e2077390150b7440dcd7f43dfd8e6942f9b3c",
+ "text": "Based on the provided table insights and multimodal inputs, let's break down the question into simpler subquestions:\n\n1. Which TV show features a house on its title screen?\n2. Who is Anna Akana playing in the TV show mentioned above?\n3. What is Jude's boyfriend's name in the context of the question?\n\nNow, let's address each subquestion:\n\n1. The TV show that features a house on its title screen is \"Big City Greens\".\n2. Anna Akana plays the role of Gloria in \"Big City Greens\".\n3. There is no mention of Jude or his boyfriends in the provided table. Therefore, based on the given data, we cannot determine Jude's boyfriend's name.\n\nFinal Answer: Based on the provided data, we cannot determine Jude's boyfriend's name.",
+ "input_tokens": 3584,
+ "output_tokens": 163,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 22.08
+}

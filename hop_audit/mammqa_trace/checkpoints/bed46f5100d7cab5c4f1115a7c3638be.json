@@ -1,0 +1,109 @@
+{
+ "id": "bed46f5100d7cab5c4f1115a7c3638be",
+ "question": "Among the singles released by Angels & Airwaves, which 2014 single releases were on the album \"The Dream Walker\"?",
+ "prediction": "\"Paralyzed\", \"The Wolfpack\", \"Tunnels\"",
+ "parse_method": "answer_tag",
+ "stage1": {
+  "text": {
+   "status": "available",
+   "output": "<modality> text </modality>\n\n<insights>\n- The band Angels & Airwaves released their fifth studio album, \"The Dream Walker,\" on December 9, 2014.\n- The album included five singles.\n</insights>\n\n<answer>\nTo determine which singles from Angels & Airwaves were on the album \"The Dream Walker,\" we need to identify the singles released in 2014 that were part of this album.\n</answer>\n\n<subanswer>\n- Singles released in 2014 by Angels & Airwaves that were part of \"The Dream Walker\" album:\n  - \"We Don't Need to Whisper\"\n  - \"I-Empire\"\n  - \"Love\"\n  - \"The Dream Walker\"\n</subanswer>"
+  },
+  "table": {
+   "status": "available",
+   "output": "<modality> table </modality>\n\n<insights>\n- The table lists singles released by Angels & Airwaves along with their peak chart positions across different countries and albums they appeared on.\n- The album \"The Dream Walker\" is mentioned in the table for two songs: \"Paralyzed\" and \"The Wolfpack\".\n</insights>\n\n<answer>\nThe 2014 single releases on the album \"The Dream Walker\" by Angels & Airwaves are \"Paralyzed\" and \"The Wolfpack\".\n</answer>"
+  },
+  "image": {
+   "status": "unavailable",
+   "output": "<modality>text</modality>\n\n<insights>The question asks about the singles released by Angels & Airwaves in 2014 that were included on the album \"The Dream Walker\". The key information here is the artist (Angels & Airwaves), the year (2014), the album (\"The Dream Walker\"), and the focus on singles.</insights>\n\n<answer>To determine which singles from Angels & Airwaves released in 2014 were on the album \"The Dream Walker\", we need to identify the singles released by Angels & Airwaves in 2014 and check if they appear on the album \"The Dream Walker\".</answer>\n\n<subanswer>What singles were released by Angels & Airwaves in 2014?</subanswer>\n<subanswer>Which of those singles were included on the album \"The Dream Walker\"?</subanswer>"
+  }
+ },
+ "stage2": {
+  "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks us to identify which singles from Angels & Airwaves were released in 2014 and were part of the album \"The Dream Walker.\"\n\n### Step 2: Extract Relevant Insights\nFrom the text insight:\n- The album \"The Dream Walker\" was released on December 9, 2014.\n- The album includes five singles.\n\nFrom the table:\n- Singles released in 2014 that appear on the album \"The Dream Walker\":\n  - \"Paralyzed\"\n  - \"The Wolfpack\"\n  - \"Tunnels\"\n\n### Step 3: Break Down the Question into Subquestions\n1. Which singles were released in 2014?\n2. Which of those singles were part of the album \"The Dream Walker\"?\n\n### Step 4: Answer the Subquestions\n1. **Which singles were released in 2014?**\n   - From the table, the singles released in 2014 are:\n     - \"Paralyzed\"\n     - \"The Wolfpack\"\n     - \"Tunnels\"\n\n2. **Which of those singles were part of the album \"The Dream Walker\"?**\n   - According to the table, all three singles (\"Paralyzed,\" \"The Wolfpack,\" and \"Tunnels\") are listed under the album \"The Dream Walker.\"\n\n### Final Answer\nThe singles released by Angels & Airwaves in 2014 that were part of the album \"The Dream Walker\" are:\n- \"Paralyzed\"\n- \"The Wolfpack\"\n- \"Tunnels\"",
+  "table": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks about the singles released by Angels & Airwaves that were on the album \"The Dream Walker.\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided table insights:\n- The album \"The Dream Walker\" is mentioned in the table for two songs: \"Paralyzed\" and \"The Wolfpack\".\n\n### Step 3: Break Down the Question into Subquestions\nBased on the insights, we can break down the question into simpler subquestions:\n1. Which singles were released by Angels & Airwaves?\n2. Which of those singles were on the album \"The Dream Walker\"?\n\n### Step 4: Answer the Subquestions\n1. **Which singles were released by Angels & Airwaves?**\n   - From the table insights, we know that the album \"The Dream Walker\" contains the singles \"Paralyzed\" and \"The Wolfpack\".\n\n2. **Which of those singles were on the album \"The Dream Walker\"?**\n   - The table directly states that both \"Paralyzed\" and \"The Wolfpack\" are singles from the album \"The Dream Walker\".\n\n### Final Answer\nThe singles released by Angels & Airwaves that were on the album \"The Dream Walker\" are \"Paralyzed\" and \"The Wolfpack\".",
+  "image": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks us to identify which singles from Angels & Airwaves released in 2014 were included on the album \"The Dream Walker\".\n\n### Step 2: Extract Relevant Insights\nFrom the provided text data and table:\n- The band Angels & Airwaves released their album \"The Dream Walker\" in 2014.\n- The table shows singles released by Angels & Airwaves up to 2016.\n- We need to find out which of these singles were included on \"The Dream Walker\".\n\n### Step 3: Break Down the Question into Subquestions\n1. **What singles were released by Angels & Airwaves in 2014?**\n2. **Which of those singles were included on the album \"The Dream Walker\"?**\n\n### Step 4: Answer the Subquestions\n#### Subquestion 1: What singles were released by Angels & Airwaves in 2014?\nFrom the table, we can see the singles released by Angels & Airwaves in 2014:\n- \"Paralyzed\"\n- \"The Wolfpack\"\n- \"Tunnels\"\n\n#### Subquestion 2: Which of those singles were included on the album \"The Dream Walker\"?\nFrom the table, we can see that all the singles listed above were indeed included on the album \"The Dream Walker\".\n\n### Final Answer\nThe singles released by Angels & Airwaves in 2014 that were included on the album \"The Dream Walker\" are:\n- \"Paralyzed\"\n- \"The Wolfpack\"\n- \"Tunnels\""
+ },
+ "final_raw": "<answer>\"Paralyzed\", \"The Wolfpack\", \"Tunnels\"</answer>",
+ "calls": {
+  "s1_text": {
+   "key": "226f62c89c24d2e3e70d586589da9c3b384b9d1be160522ca80ffc0c6065f685",
+   "input_tokens": 1920,
+   "output_tokens": 161,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 14.46
+  },
+  "s1_table": {
+   "key": "c569d7cc4b8d4820b867750ddec4b8440a3181a6967b5cbc572e11f5d7154260",
+   "input_tokens": 1362,
+   "output_tokens": 109,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 8.9
+  },
+  "s1_image": {
+   "key": "4730c9ff0acd250f0c5101b22f346f22e87b96fe6d58d69984e3d5763e417d23",
+   "input_tokens": 632,
+   "output_tokens": 186,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 11.56
+  },
+  "s2_text": {
+   "key": "a8acb0e4c5f33c6e66a8b5568b3a366f746df8a0272649bb21233ecf774efe95",
+   "input_tokens": 1233,
+   "output_tokens": 346,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 24.24
+  },
+  "s2_table": {
+   "key": "0f14d6b9da680bca452f1b7b8494e8d986242ae449e1b219ee4af1a9d46e0f7e",
+   "input_tokens": 1741,
+   "output_tokens": 276,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 22.13
+  },
+  "s2_image": {
+   "key": "27275955864876f57c75080e96d4b0cf69ec3550f1ac6c20102e1179fc1eabbe",
+   "input_tokens": 2549,
+   "output_tokens": 345,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 32.68
+  },
+  "s3": {
+   "key": "0fda00823ebbea02156d3b1b5f3f6d41325d9255cce64556b6fd30ca7b7e0607",
+   "input_tokens": 1288,
+   "output_tokens": 19,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 2.89
+  }
+ },
+ "n_images": 0,
+ "missing_images": [],
+ "worker": 0,
+ "seconds": 116.9
+}

@@ -1,0 +1,12 @@
+{
+ "key": "9f2b2ba2fed586fe337a0505d9feda329972d63269abc84f565c5b845d5b837b",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights> The image shows three individuals wearing soccer uniforms, but it does not provide information about the loans made by Orlando City SC in 2016.</insights>\n\n<answer> There is no information available in the image regarding the loans made by Orlando City SC in 2016.</answer>",
+ "input_tokens": 3063,
+ "output_tokens": 81,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 14.05
+}

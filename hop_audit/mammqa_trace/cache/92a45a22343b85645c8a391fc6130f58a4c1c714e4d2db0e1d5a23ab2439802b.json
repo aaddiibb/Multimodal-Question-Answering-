@@ -1,0 +1,12 @@
+{
+ "key": "92a45a22343b85645c8a391fc6130f58a4c1c714e4d2db0e1d5a23ab2439802b",
+ "text": "<modality>image</modality>\n\n<insights>The images provided do not contain textual information about songs or their writers. The images depict individuals who may be singers, but there is no explicit mention of their songs or collaborations.</insights>\n\n<answer>Based on the provided images, it is not possible to determine the singer with the number one song of Carnical Music that was written by Bruce Robison and also sings \"You Find Out Who Your Friends Are\" with Tracy Lawrence.</answer>",
+ "input_tokens": 2860,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.06
+}

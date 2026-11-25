@@ -1,0 +1,12 @@
+{
+ "key": "4b17195f4531165115139ec1571be81ed170494253b42b29d0bb8e8ae5b60816",
+ "text": "<answer>Dixie Chicks</answer>",
+ "input_tokens": 1573,
+ "output_tokens": 11,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.61
+}

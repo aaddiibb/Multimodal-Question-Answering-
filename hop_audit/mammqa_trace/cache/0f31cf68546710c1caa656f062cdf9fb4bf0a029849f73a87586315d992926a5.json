@@ -1,0 +1,12 @@
+{
+ "key": "0f31cf68546710c1caa656f062cdf9fb4bf0a029849f73a87586315d992926a5",
+ "text": "<modality>image</modality>\n\n<insights>The images depict various TV show titles and one image featuring a dog. The dog appears prominently in the image titled \"Lassie,\" which is a TV show about a dog named Lassie.</insights>\n\n<answer>Kym Karath played the role of Dr. Mark Wilkerson in the TV show \"Young Dr. Kildare,\" which features a dog named Lassie.</answer>\n\n<subanswer>What TV show features a dog?</subanswer>\n<subanswer>What role did Kym Karath play in the TV show \"Young Dr. Kildare\"? </subanswer>",
+ "input_tokens": 1562,
+ "output_tokens": 137,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 11.99
+}

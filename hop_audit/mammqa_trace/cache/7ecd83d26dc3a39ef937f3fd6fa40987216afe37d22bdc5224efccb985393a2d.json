@@ -1,0 +1,12 @@
+{
+ "key": "7ecd83d26dc3a39ef937f3fd6fa40987216afe37d22bdc5224efccb985393a2d",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who is the couple with a score of 29?\n2. What is the name of the song they danced to?\n3. Who wrote the song \"When I Need You\"?\n4. What is the nationality of the songwriter?\n\nNow let's address each subquestion:\n\n1. The couple with a score of 29 is Julia & Rafał.\n2. The music for this couple is \"When I Need You\" by Rod Stewart.\n3. According to the text data, \"When I Need You\" is a popular song written by Albert Hammond and Carole Bayer Sager.\n4. The text data states that Albert Hammond is a Gibraltarian singer, songwriter, and record producer.\n\nTherefore, the final answer to the original question is:\n\n<answer>The man who wrote the song that earned a score of 29, with individual scores of 6, 8, 9, and 6, on week one of season 11 of Taniec z Gwiazdami, is Albert Hammond, who is of Gibraltarian nationality.</answer>",
+ "input_tokens": 3742,
+ "output_tokens": 237,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 31.04
+}

@@ -1,0 +1,12 @@
+{
+ "key": "af60c0110159a2cc5d48cc714b630c9c5d36b0abcafcc7056b479c9038a67c6f",
+ "text": "<modality>text</modality>\n\n<insights>The text does not mention any film with a motorcycle on its poster that features Elisha Henig.</insights>\n\n<answer>There is no information provided about a film with a motorcycle on its poster that features Elisha Henig.</answer>",
+ "input_tokens": 1761,
+ "output_tokens": 64,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.55
+}

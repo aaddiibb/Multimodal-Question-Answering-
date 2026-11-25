@@ -1,0 +1,204 @@
+{
+ "primary": {
+  "n": 300,
+  "EM": 0.29,
+  "W": 186,
+  "present": 137,
+  "P": 0.7366,
+  "CI95": [
+   0.6724,
+   0.7989
+  ],
+  "verdict_before_R4": "SUPPORTED",
+  "labels": {
+   "EXTRACTION_FAILURE": 46,
+   "COMMITMENT_FAILURE": 13,
+   "COMPOSITION_FAILURE": 89,
+   "CORRECT": 87,
+   "SURFACE_FORM": 27,
+   "AGGREGATION_LOSS": 35,
+   "HANDOFF_LOSS": 3
+  }
+ },
+ "labels_by_type": {
+  "Compare": {
+   "EXTRACTION_FAILURE": 12,
+   "SURFACE_FORM": 5,
+   "CORRECT": 19,
+   "AGGREGATION_LOSS": 2,
+   "COMPOSITION_FAILURE": 10,
+   "COMMITMENT_FAILURE": 1
+  },
+  "Compose": {
+   "COMPOSITION_FAILURE": 72,
+   "CORRECT": 53,
+   "EXTRACTION_FAILURE": 28,
+   "COMMITMENT_FAILURE": 5,
+   "AGGREGATION_LOSS": 16,
+   "SURFACE_FORM": 15,
+   "HANDOFF_LOSS": 3
+  },
+  "Intersect": {
+   "COMMITMENT_FAILURE": 6,
+   "EXTRACTION_FAILURE": 3,
+   "AGGREGATION_LOSS": 11,
+   "CORRECT": 4,
+   "SURFACE_FORM": 2
+  },
+  "TableQ": {
+   "AGGREGATION_LOSS": 6,
+   "COMPOSITION_FAILURE": 7,
+   "SURFACE_FORM": 5,
+   "CORRECT": 11,
+   "EXTRACTION_FAILURE": 3,
+   "COMMITMENT_FAILURE": 1
+  }
+ },
+ "P_by_type": {
+  "Compare": {
+   "P": 0.52,
+   "W": 25
+  },
+  "Compose": {
+   "P": 0.75,
+   "W": 124
+  },
+  "Intersect": {
+   "P": 0.85,
+   "W": 20
+  },
+  "TableQ": {
+   "P": 0.8235,
+   "W": 17
+  }
+ },
+ "bridge_recall_by_modality": {
+  "image": {
+   "n": 106,
+   "S1": 0.4057,
+   "S2": 0.5377,
+   "any": 0.5566
+  },
+  "table": {
+   "n": 166,
+   "S1": 0.8434,
+   "S2": 0.9157,
+   "any": 0.9337
+  },
+  "text": {
+   "n": 70,
+   "S1": 0.7857,
+   "S2": 0.8857,
+   "any": 0.9143
+  }
+ },
+ "strict_handoff": {
+  "drop_rate": 0.1449,
+  "CI95": [
+   0.0945,
+   0.201
+  ],
+  "by_channel": {
+   "None->S2.image": {
+    "unsupported_surface": 14
+   },
+   "None->S2.table": {
+    "unsupported_surface": 3
+   },
+   "None->S2.text": {
+    "unsupported_surface": 6
+   },
+   "S1.image->S2.image": {
+    "carried": 26,
+    "dropped": 2
+   },
+   "S1.table->S2.table": {
+    "carried": 110,
+    "dropped": 26
+   },
+   "S1.text->S2.text": {
+    "carried": 41,
+    "dropped": 2
+   }
+  }
+ },
+ "composition_failures": {
+  "n": 89,
+  "final_abstained": 14,
+  "abstain_rate": 0.1573
+ },
+ "EM_by_type": {
+  "Compare": [
+   0.3878,
+   49
+  ],
+  "Compose": [
+   0.276,
+   192
+  ],
+  "Intersect": [
+   0.1538,
+   26
+  ],
+  "TableQ": [
+   0.3333,
+   33
+  ]
+ },
+ "robustness": {
+  "R1_no_fuzzy": {
+   "P": 0.7326,
+   "W": 187,
+   "CI95": [
+    0.6685,
+    0.7946
+   ],
+   "labels_changed_vs_primary": 2,
+   "labels": {
+    "EXTRACTION_FAILURE": 47,
+    "COMMITMENT_FAILURE": 13,
+    "COMPOSITION_FAILURE": 88,
+    "CORRECT": 87,
+    "SURFACE_FORM": 26,
+    "AGGREGATION_LOSS": 36,
+    "HANDOFF_LOSS": 3
+   }
+  },
+  "R2_no_aliases": {
+   "P": 0.7366,
+   "W": 186,
+   "CI95": [
+    0.6734,
+    0.8
+   ],
+   "labels_changed_vs_primary": 0,
+   "labels": {
+    "EXTRACTION_FAILURE": 46,
+    "COMMITMENT_FAILURE": 13,
+    "COMPOSITION_FAILURE": 89,
+    "CORRECT": 87,
+    "SURFACE_FORM": 27,
+    "AGGREGATION_LOSS": 35,
+    "HANDOFF_LOSS": 3
+   }
+  },
+  "R3_no_weak_guard": {
+   "P": 0.7688,
+   "W": 186,
+   "CI95": [
+    0.7073,
+    0.8287
+   ],
+   "labels_changed_vs_primary": 38,
+   "labels": {
+    "EXTRACTION_FAILURE": 42,
+    "COMMITMENT_FAILURE": 21,
+    "AGGREGATION_LOSS": 65,
+    "CORRECT": 87,
+    "SURFACE_FORM": 27,
+    "COMPOSITION_FAILURE": 57,
+    "HANDOFF_LOSS": 1
+   }
+  }
+ }
+}

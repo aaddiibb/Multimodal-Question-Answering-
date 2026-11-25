@@ -1,0 +1,12 @@
+{
+ "key": "ff8c482dbee842ac29b76efbe461f70b454c47ec61693661ad5f46cf519d8739",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no textual or tabular data provided. The images depict maps of different regions, but they do not contain information about the languages used in the versions of Hundred Acre Wood.</insights>\n\n<answer>Based on the provided images, there is no information available to determine if the language used in the version of Hundred Acre Wood with a native name of Bosque dos Cem Acres is different from Spanish.</answer>",
+ "input_tokens": 3205,
+ "output_tokens": 106,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 17.05
+}

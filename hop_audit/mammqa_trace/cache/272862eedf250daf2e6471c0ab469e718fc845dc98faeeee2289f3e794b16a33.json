@@ -1,0 +1,12 @@
+{
+ "key": "272862eedf250daf2e6471c0ab469e718fc845dc98faeeee2289f3e794b16a33",
+ "text": "<modality> text </modality>\n\n<insights> The text does not mention a 2002 Michael Potts theatre production painting. The information provided includes various titles and descriptions of different productions, but none specifically match the description in the question.</insights>\n\n<answer> There is no information provided about a 2002 Michael Potts theatre production painting. The text does not contain the necessary details to answer the question.</answer>",
+ "input_tokens": 1713,
+ "output_tokens": 94,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.54
+}

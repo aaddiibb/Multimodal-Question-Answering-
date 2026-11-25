@@ -1,0 +1,2 @@
+method,n,exact_correct,EM,mean_token_F1,abstention_count,abstention_rate
+FULL,16,0,0.0,0.0,12,0.75

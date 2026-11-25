@@ -1,0 +1,12 @@
+{
+ "key": "3dbdaf3bc219b014c6ef9b540b39386c68711f306015298689dd9b4174b4594b",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks about the filming locations of the show where Susan Dey plays the part of Barbara Ross. From the text insight, we know this show is \"The Streets of San Francisco.\" Let's extract the relevant information:\n\n- The show \"The Streets of San Francisco\" features Susan Dey playing the role of Barbara Ross.\n- The show was filmed at their Lenton Lane studios in Nottingham in front of a live studio audience.\n- Location scenes were filmed in various suburbs of Nottingham, including Mapperley and West Bridgford, with additional scenes filmed around Nottinghamshire and Derbyshire.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. What is the name of the show where Susan Dey plays the role of Barbara Ross?\n2. Where were the studio scenes filmed for this show?\n3. Where were the location scenes filmed for this show?\n\nNow, let's address each subquestion:\n\n#### Subquestion 1: What is the name of the show where Susan Dey plays the role of Barbara Ross?\n<subanswer> The show is called \"The Streets of San Francisco.\" </subanswer>\n\n#### Subquestion 2: Where were the studio scenes filmed for this show?\n<subanswer> The studio scenes were filmed at their Lenton Lane studios in Nottingham in front of a live studio audience. </subanswer>\n\n#### Subquestion 3: Where were the location scenes filmed for this show?\n<subanswer> The location scenes were filmed in various suburbs of Nottingham, including Mapperley and West Bridgford, with additional scenes filmed around Nottinghamshire and Derbyshire. </subanswer>\n\n### Final Answer\n\n<answer> The show \"The Streets of San Francisco,\" where Susan Dey plays the role of Barbara Ross, was filmed at their Lenton Lane studios in Nottingham in front of a live studio audience. The majority of location scenes were filmed in various suburbs of Nottingham, including Mapperley and West Bridgford, with other scenes filmed around Nottinghamshire and Derbyshire. </answer>",
+ "input_tokens": 2842,
+ "output_tokens": 422,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 42.1
+}

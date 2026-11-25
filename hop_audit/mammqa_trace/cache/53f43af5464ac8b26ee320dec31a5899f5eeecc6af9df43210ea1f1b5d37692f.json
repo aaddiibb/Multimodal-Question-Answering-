@@ -1,0 +1,12 @@
+{
+ "key": "53f43af5464ac8b26ee320dec31a5899f5eeecc6af9df43210ea1f1b5d37692f",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but only one of them features Carrie Snodgress. The poster for \"Rabbit, Run\" includes her name among the cast members.</insights>\n\n<answer>Carrie Snodgress starred as Joan Freeman in the film \"Rabbit, Run,\" which has a total of four people on the poster.</answer>",
+ "input_tokens": 2048,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 9.37
+}

@@ -1,0 +1,196 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "64dabbb94b37ab25d973157fe27b5417",
+  "question": "What solo artist that was the original artist of the song Alisan Porter sang in The Voice (2016) sings backup on WIll You Still Love Me Tomorrow?",
+  "context_digest": "79928646f9ec223b9a4d5d68a5318b96236bbb43cea218c04cf2f13c4d543501",
+  "source_ids": [
+    "2e2d2b780c9e4c412a4e29636cec051c",
+    "4bf57cfbb08dbf5b5a2c522758d98b57",
+    "545d553048cb91e645e8b22dacf590f3",
+    "f7d967985e387cf8d91be598090e08ab",
+    "88df9a5b0f790909659ce510dec0dd2b",
+    "eccebef37f68d94084d584ea2e963754"
+  ],
+  "modalities": [
+    "image",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The provided text does not mention any solo artist who sings backup on \"Will You Still Love Me Tomorrow.\" It only discusses Carole King's version of the song and her background vocalists, Joni Mitchell and James Taylor.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The provided text does not mention any solo artist who sings backup on \"Will You Still Love Me Tomorrow.\" It only discusses Carole King's version of the song and her background vocalists, Joni Mitchell and James Taylor."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "INSUFFICIENT\n\nThe image does not provide any information about the original artist of \"Alisan Porter\" or the backup singers for \"Will You Still Love Me Tomorrow.\"",
+        "raw_output": "INSUFFICIENT\n\nThe image does not provide any information about the original artist of \"Alisan Porter\" or the backup singers for \"Will You Still Love Me Tomorrow.\""
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The images do not provide information about the backup singers for \"Will You Still Love Me Tomorrow.\"",
+        "evidence_reference": "The images show Linda Ronstadt, Janis Joplin, Demi Lovato, Lorraine Ellison, and James Taylor, but none of them are mentioned as backup singers for the song.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The images do not provide information about the backup singers for \"Will You Still Love Me Tomorrow.\"\nEVIDENCE: The images show Linda Ronstadt, Janis Joplin, Demi Lovato, Lorraine Ellison, and James Taylor, but none of them are mentioned as backup singers for the song."
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided evidence does not mention the original artist of \"Alisan Porter\" or the backup singers for \"Will You Still Love Me Tomorrow.\"",
+        "evidence_reference": "[TEXT: Will You Love Me Tomorrow | id=2e2d2b780c9e4c412a4e29636cec051c]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided evidence does not mention the original artist of \"Alisan Porter\" or the backup singers for \"Will You Still Love Me Tomorrow.\"\nEVIDENCE: [TEXT: Will You Love Me Tomorrow | id=2e2d2b780c9e4c412a4e29636cec051c]"
+      }
+    },
+    "shared_seconds": 176.92214060300012,
+    "shared_digest": "fc288d386df11fb19b8309a7e22c68f91fa1db0b37e330517590e7255438cc03"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "FINAL: INSUFFICIENT",
+    "seconds": 0.7286156830000436,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.055879614999867,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 268,
+      "original_input_tokens": 268,
+      "output_tokens": 56,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.645029069000088,
+      "image_count": 0,
+      "seed": 3596383175
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 2338,
+      "original_input_tokens": 2338,
+      "output_tokens": 35,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 8.551659009999867,
+      "image_count": 5,
+      "seed": 3485200706
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 2420,
+      "original_input_tokens": 2420,
+      "output_tokens": 73,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 9.225287003999938,
+      "image_count": 5,
+      "seed": 693786504
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 333,
+      "original_input_tokens": 333,
+      "output_tokens": 85,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 6.169479515000148,
+      "image_count": 0,
+      "seed": 2511968528
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 317,
+      "original_input_tokens": 317,
+      "output_tokens": 6,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.7250331620000452,
+      "image_count": 0,
+      "seed": 3073862256
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 332,
+      "original_input_tokens": 332,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5797509869998976,
+      "image_count": 0,
+      "seed": 4133709880
+    },
+    {
+      "qid": "64dabbb94b37ab25d973157fe27b5417",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.46847856700014745,
+      "image_count": 0,
+      "seed": 969219158
+    }
+  ],
+  "completed_utc": "2026-10-13T19:55:16.304013+00:00"
+}

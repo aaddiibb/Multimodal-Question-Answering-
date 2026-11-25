@@ -1,0 +1,12 @@
+{
+ "key": "a6288e440f59f50814fb35c9dc8130c103c711f9541ad8c55ef82cc9b83375de",
+ "text": "The question asks about the runner-up in the D1-a rugby championships when Life University won the championship on CBSSN. However, there is no specific mention of the D1-a rugby championships in the provided text data. The text data primarily discusses various rugby competitions and championships but does not provide information about the runner-up when Life University won the championship on CBSSN.\n\nTherefore, we cannot answer the question based on the given information.",
+ "input_tokens": 2337,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 10.62
+}

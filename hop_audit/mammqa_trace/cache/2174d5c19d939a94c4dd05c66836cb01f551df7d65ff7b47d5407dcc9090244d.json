@@ -1,0 +1,12 @@
+{
+ "key": "2174d5c19d939a94c4dd05c66836cb01f551df7d65ff7b47d5407dcc9090244d",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks about the original artist of a song that was featured earlier than \"Something in the Way She Moves\" during Alisan Porter's time on \"The Voice\" in 2016. The image insight indicates a group of musicians performing on stage, but it does not provide any specific information about Alisan Porter or the songs featured on \"The Voice.\"\n\n### Step 2: Extract Relevant Insights\n\nFrom the provided text data and table:\n- Alisan Porter participated in \"The Voice\" in 2016.\n- The table lists the songs she performed throughout the competition.\n- \"Something in the Way She Moves\" by James Taylor was mentioned in the text data.\n\n### Step 3: Break Down the Question into Subquestions\n\n1. Identify the songs performed by Alisan Porter in 2016.\n2. Determine if there are any songs performed earlier than \"Something in the Way She Moves.\"\n3. Identify the original artist of those songs.\n\n### Step 4: Answer the Subquestions\n\n#### Subquestion 1: Identify the songs performed by Alisan Porter in 2016.\nFrom the table:\n- \"Blue Bayou\" by Linda Ronstadt\n- \"California Dreamin'\" by The Mamas and The Papas\n- \"River\" by Joni Mitchell\n- \"Cry Baby\" by Janis Joplin\n- \"Stone Cold\" by Demi Lovato\n- \"Stay with Me Baby\" by Lorraine Ellison\n- \"Let Him Fly\" by Dixie Chicks\n- \"Cryin'\" by Aerosmith\n- \"Desperado\" by Eagles\n- \"Down That Road\" by Alisan Porter\n- \"You've Got a Friend\" by James Taylor\n- \"Somewhere\" by West Side Story\n\n#### Subquestion 2: Determine if there are any songs performed earlier than \"Something in the Way She Moves.\"\n- \"Blue Bayou\" by Linda Ronstadt\n- \"California Dreamin'\" by The Mamas and The Papas\n- \"River\" by Joni Mitchell\n- \"Cry Baby\" by Janis Joplin\n- \"Stone Cold\" by Demi Lovato\n- \"Stay with Me Baby\" by Lorraine Ellison\n- \"Let Him Fly\" by Dixie Chicks\n- \"Cryin'\" by Aerosmith\n- \"Desperado\" by Eagles\n\nAll these songs were performed before",
+ "input_tokens": 1841,
+ "output_tokens": 512,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 39.38
+}

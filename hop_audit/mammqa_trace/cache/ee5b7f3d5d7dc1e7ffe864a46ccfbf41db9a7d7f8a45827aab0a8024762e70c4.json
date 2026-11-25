@@ -1,0 +1,12 @@
+{
+ "key": "ee5b7f3d5d7dc1e7ffe864a46ccfbf41db9a7d7f8a45827aab0a8024762e70c4",
+ "text": "The provided text data does not contain any information about the 2018 US Open of Curling or the specific location with a large white mansion that has a dome in the middle of its roof. Therefore, it is impossible to determine the lead for the women's team at that location based solely on the given data.",
+ "input_tokens": 3225,
+ "output_tokens": 66,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 12.1
+}

@@ -1,0 +1,12 @@
+{
+ "key": "37ad12a837d4788c3854401bedebdf582593d398348164059c1d1331beb18c8d",
+ "text": "<insights>\n- The film \"MVP: Most Valuable Primate\" is mentioned in the table.\n- The role associated with this film is \"Pete,\" which does not feature a chimpanzee on the poster.\n</insights>\n\n<subanswer>\nThe film \"MVP: Most Valuable Primate\" does not have a chimpanzee on its title poster.\n</subanswer>\n\n<answer>\nThe Aaron Smolinski film project that has a title poster featuring a chimpanzee on the poster was not found in the provided data.\n</answer>",
+ "input_tokens": 2240,
+ "output_tokens": 115,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 12.87
+}

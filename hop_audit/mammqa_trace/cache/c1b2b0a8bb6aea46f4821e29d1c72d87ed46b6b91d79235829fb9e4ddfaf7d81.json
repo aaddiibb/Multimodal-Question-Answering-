@@ -1,0 +1,12 @@
+{
+ "key": "c1b2b0a8bb6aea46f4821e29d1c72d87ed46b6b91d79235829fb9e4ddfaf7d81",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. **What artist performed a song with Keith Urban in 2007?**\n   - From the table, we know that in 2007, Trisha Yearwood performed a song with Keith Urban titled \"Let the Wind Chase You.\"\n\n2. **Was Trisha Yearwood a guest judge on America's Got Talent in 2018?**\n   - According to the table, Trisha Yearwood was a guest judge on America's Got Talent in 2018.\n\nGiven these insights, the answer to the original question is:\n\n<answer>Trisha Yearwood</answer>",
+ "input_tokens": 4011,
+ "output_tokens": 148,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 23.63
+}

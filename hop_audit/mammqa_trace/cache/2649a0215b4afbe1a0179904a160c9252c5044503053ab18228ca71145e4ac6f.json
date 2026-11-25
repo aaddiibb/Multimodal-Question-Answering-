@@ -1,0 +1,12 @@
+{
+ "key": "2649a0215b4afbe1a0179904a160c9252c5044503053ab18228ca71145e4ac6f",
+ "text": "Based on the provided information, there is no mention of Tommy Sands appearing in a TV show where the poster features a wave in the ocean. The table only lists Tommy Sands' roles in various TV shows and films over different years, but it does not provide details about the posters or their content. Therefore, it is impossible to answer the question accurately based on the given data.",
+ "input_tokens": 3283,
+ "output_tokens": 76,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 13.07
+}

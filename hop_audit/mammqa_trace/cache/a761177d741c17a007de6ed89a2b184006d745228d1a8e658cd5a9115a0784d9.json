@@ -1,0 +1,12 @@
+{
+ "key": "a761177d741c17a007de6ed89a2b184006d745228d1a8e658cd5a9115a0784d9",
+ "text": "The provided text data contains information about various plays and their performances, but there is no specific mention of a theatre with a large green lawn. The images show several theatres, but none of them explicitly mention having a large green lawn. Therefore, it is not possible to determine the year Michael Potts acted in such a theatre based solely on the given data.\n\n<answer>The provided data does not contain enough information to determine the year Michael Potts acted in a theatre with a large green lawn.</answer>",
+ "input_tokens": 4397,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 22.09
+}

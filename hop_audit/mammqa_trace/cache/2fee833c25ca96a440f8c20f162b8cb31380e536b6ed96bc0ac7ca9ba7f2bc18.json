@@ -1,0 +1,12 @@
+{
+ "key": "2fee833c25ca96a440f8c20f162b8cb31380e536b6ed96bc0ac7ca9ba7f2bc18",
+ "text": "<modality> text </modality>\n\n<insights> The text mentions that the logo for the Air Jordan Retro XII is a silhouette of Michael Jordan, and it is described as the \"Jumpman.\" The text does not provide any information about what Michael Jordan is wearing on his ear.</insights>\n\n<answer> The text does not provide any information about what Michael Jordan is wearing on his ear. Therefore, we cannot determine what he is wearing based on the given information.</answer>",
+ "input_tokens": 1732,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.94
+}

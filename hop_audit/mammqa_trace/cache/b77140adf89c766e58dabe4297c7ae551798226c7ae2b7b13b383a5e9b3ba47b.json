@@ -1,0 +1,12 @@
+{
+ "key": "b77140adf89c766e58dabe4297c7ae551798226c7ae2b7b13b383a5e9b3ba47b",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the year when the S. Dharam Tej film with a poster of a horse was released. The provided text insight states that there is no information about such a film. However, we have a table and images that might provide additional context.\n\n### Step 2: Extract Insights\nFrom the table:\n- The films listed do not include a film with a horse on its poster.\n- The films are sorted by year, but none of them match the description of having a horse on their poster.\n\nFrom the images:\n- There is one image that shows a man holding a horse, which could be the film mentioned in the question.\n\n### Step 3: Break Down the Question into Subquestions\n1. Is there a film with a horse on its poster?\n2. If so, what is the title of this film?\n3. What is the release year of this film?\n\n### Final Answer\nBased on the provided data, there is no film with a horse on its poster. Therefore, the answer to the original question cannot be determined from the given information.",
+ "input_tokens": 2381,
+ "output_tokens": 232,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 23.17
+}

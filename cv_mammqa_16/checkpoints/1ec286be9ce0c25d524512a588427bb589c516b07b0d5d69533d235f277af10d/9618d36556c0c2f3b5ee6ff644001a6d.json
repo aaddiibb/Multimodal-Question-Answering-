@@ -1,0 +1,206 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+  "question": "When did the 11 inch version of the Macintosh model with a Thunderbolt 2 video interface come out?",
+  "context_digest": "259dcf68c0334b6600c67a40700257196262a0e8aec0593252dc0bcd8c8ff896",
+  "source_ids": [
+    "9d4c550df79c59bfaa6250b9581fd5f0",
+    "177e49e0ca4de10e89483672e8caa4bc"
+  ],
+  "modalities": [
+    "table",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The provided text does not mention any Macintosh model with a Thunderbolt 2 video interface or an 11-inch screen size.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The provided text does not mention any Macintosh model with a Thunderbolt 2 video interface or an 11-inch screen size."
+      },
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "The table does not provide specific release dates for any Macintosh models, including those with Thunderbolt 2 video interfaces. It lists various models but lacks the necessary temporal information to answer when the 11-inch version with a Thunderbolt 2 video interface came out.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The table does not provide specific release dates for any Macintosh models, including those with Thunderbolt 2 video interfaces. It lists various models but lacks the necessary temporal information to answer when the 11-inch version with a Thunderbolt 2 video interface came out."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided information does not specify a Macintosh model with both an 11-inch screen size and a Thunderbolt 2 video interface.",
+        "evidence_reference": "The table does not list a model matching these specifications.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided information does not specify a Macintosh model with both an 11-inch screen size and a Thunderbolt 2 video interface.\nEVIDENCE: The table does not list a model matching these specifications."
+      },
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided information about the MacBook Air does not specify a model with a Thunderbolt 2 video interface or an 11-inch screen size that matches the query.",
+        "evidence_reference": "[TEXT: MacBook Air]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided information about the MacBook Air does not specify a model with a Thunderbolt 2 video interface or an 11-inch screen size that matches the query.\nEVIDENCE: [TEXT: MacBook Air]"
+      }
+    },
+    "shared_seconds": 17.97954322999999,
+    "shared_digest": "4dce55c4153d209b46d3f1316b1cde0d4de6df586ad27b60770672569d2eba06"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "INSUFFICIENT",
+    "seconds": 1.0444661949998135,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.133426105000126,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 287,
+      "original_input_tokens": 287,
+      "output_tokens": 38,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.977222815999994,
+      "image_count": 0,
+      "seed": 2829227638
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 1122,
+      "original_input_tokens": 1122,
+      "output_tokens": 65,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.767429691999951,
+      "image_count": 0,
+      "seed": 1932433581
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 1180,
+      "original_input_tokens": 1180,
+      "output_tokens": 54,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.1360948280000684,
+      "image_count": 0,
+      "seed": 3789538164
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 372,
+      "original_input_tokens": 372,
+      "output_tokens": 54,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.083165854000072,
+      "image_count": 0,
+      "seed": 1342716631
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 256,
+      "original_input_tokens": 256,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5657347469998513,
+      "image_count": 0,
+      "seed": 2989415508
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "baseline_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4719406300000628,
+      "image_count": 0,
+      "seed": 1213295881
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 271,
+      "original_input_tokens": 271,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.65446917700001,
+      "image_count": 0,
+      "seed": 2315055351
+    },
+    {
+      "qid": "9618d36556c0c2f3b5ee6ff644001a6d",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4720289640001738,
+      "image_count": 0,
+      "seed": 2017751278
+    }
+  ],
+  "completed_utc": "2026-10-13T19:59:15.072280+00:00"
+}

@@ -1,0 +1,12 @@
+{
+ "key": "06a427abac61d08c7380fe935807808129b9c68a1fe8b471b5c804f4a1ff4ce4",
+ "text": "Let's break down the question into simpler subquestions based on the provided insights and table:\n\n### Subquestions:\n1. Is there any information about Urmi Juvekar taking part in the movie \"Shararat\"?\n2. Does the table provide any information about a movie poster featuring a red heart?\n\n### Insights:\n- The text does not mention Urmi Juvekar taking part in the movie \"Shararat\".\n- The text also does not mention a movie poster featuring a red heart.\n- The table lists several films where Urmi Juvekar has taken part, but it does not specify the year of each film.\n\n### Final Answer:\nBased on the provided information, we cannot determine which movie Urmi Juvekar took part in more recently between \"Shararat\" and the movie whose poster features a red heart. The table does not provide the necessary details regarding the years of participation for each film.",
+ "input_tokens": 1887,
+ "output_tokens": 184,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 15.29
+}

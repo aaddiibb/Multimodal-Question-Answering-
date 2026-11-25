@@ -1,0 +1,12 @@
+{
+ "key": "f1e9a7e49dce44b358f3d6ee2d47214c9faa13476297712f82af3d0b12b59f99",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image contains multiple posters of different Korean dramas. However, there is no visible blue stripe on any of the posters.</insights>\n\n<answer>There is no show with blue stripes on its poster among the provided images.</answer>",
+ "input_tokens": 2589,
+ "output_tokens": 66,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 10.6
+}

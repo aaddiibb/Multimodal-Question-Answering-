@@ -1,0 +1,12 @@
+{
+ "key": "0513f6955cf52a32ac7fde930e9c3e032ba378ad7db019203fecee2fd30c3385",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Was Swara Bhaskar awarded an Academy Award in 2012?\n2. Was the movie \"Fences\" awarded an Academy Award in 2012?\n3. If yes to both above questions, did they win the same award category?\n\nBased on the provided information:\n\n1. The table does not mention any Academy Award for the movie \"Fences\".\n2. The table only mentions that Swara Bhaskar won the \"Best Supporting Actress\" award at the Filmfare Awards in 2012.\n3. Since there is no mention of an Academy Award for the movie \"Fences\" and Swara Bhaskar winning an Academy Award in 2012, we can conclude that neither of these conditions were met.\n\nTherefore, the answer to the original question is:\n\n<answer>No, there is no evidence to suggest that Swara Bhaskar won an Academy Award in 2012 and the movie \"Fences\" won an Academy Award in the same year.</answer>",
+ "input_tokens": 2733,
+ "output_tokens": 223,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 23.28
+}

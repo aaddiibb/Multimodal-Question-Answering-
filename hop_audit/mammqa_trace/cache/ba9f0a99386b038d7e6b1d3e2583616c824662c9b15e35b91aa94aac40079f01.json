@@ -1,0 +1,12 @@
+{
+ "key": "ba9f0a99386b038d7e6b1d3e2583616c824662c9b15e35b91aa94aac40079f01",
+ "text": "<modality> text </modality>\n\n<insights>\n- FT Starnberg 09 was a merger club of FC Starnberg and SpVgg Starnberg, active from 1992 to 2001.\n- The club spent its entire nine-year history in the Fußball-Bayernliga.\n- Its best results were two third-place finishes.\n</insights>\n\n<answer>\nTo answer the question, we need to determine the positions FT Starnberg 09 held when the division was the Fußball-Bayernliga, which it was from 1992 to 2001. According to the provided text, the club's best results were two third-place finishes.\n</answer>\n\n<subanswer>\n- FT Starnberg 09 held third-place finishes in two seasons.\n</subanswer>",
+ "input_tokens": 1605,
+ "output_tokens": 177,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.47
+}

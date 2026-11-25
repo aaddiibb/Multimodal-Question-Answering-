@@ -1,0 +1,12 @@
+{
+ "key": "09c1b113ec3012823c78d5fc25e2f9c9d17ad4ac0474b29a2ed61931f4be561a",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a billboard with multiple faces displayed prominently.</insights>\n\n<answer>There are five faces on the billboard.</answer>",
+ "input_tokens": 3663,
+ "output_tokens": 40,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 11.63
+}

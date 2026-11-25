@@ -1,0 +1,12 @@
+{
+ "key": "a4c53d0bc07d6dad3a2192868f1fd0815ea360ec895c16260b3f32ea834f8684",
+ "text": "The question asks which player from Generation Adidas of 2004 is older between Chad Marshall and the bald player. However, the table provided does not list a bald player, so we cannot compare their ages. Therefore, the answer to the question is that there is no information available about a bald player in the table.",
+ "input_tokens": 4386,
+ "output_tokens": 66,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 16.87
+}

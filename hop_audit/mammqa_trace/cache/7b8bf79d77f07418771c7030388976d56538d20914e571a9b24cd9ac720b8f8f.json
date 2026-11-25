@@ -1,0 +1,12 @@
+{
+ "key": "7b8bf79d77f07418771c7030388976d56538d20914e571a9b24cd9ac720b8f8f",
+ "text": "<modality>image</modality>\n\n<insights>The images depict various individuals and bands, including a DJ, a group of musicians performing on stage, a band posing together, a person dressed as a Viking, and another group of musicians performing on stage. However, there is no explicit mention of Max Tundra's remixes or the bands mentioned in the question.</insights>\n\n<answer>Based on the provided images, there is no information about Max Tundra's remixes or the bands mentioned in the question. Therefore, it is impossible to determine if one has an earlier year than the other.</answer>",
+ "input_tokens": 3148,
+ "output_tokens": 126,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 18.55
+}

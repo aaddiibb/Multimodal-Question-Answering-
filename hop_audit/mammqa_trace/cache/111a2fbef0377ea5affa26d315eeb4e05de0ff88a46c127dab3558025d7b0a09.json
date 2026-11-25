@@ -1,0 +1,12 @@
+{
+ "key": "111a2fbef0377ea5affa26d315eeb4e05de0ff88a46c127dab3558025d7b0a09",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the seasons and the corresponding short program, free skating, and exhibition pieces for Fedor Klimov.\n- In the season 2015–16, the free skating piece listed is \"Man and Shadow.\"\n</insights>\n\n<answer>\nThe original song in Fedor Klimov's short program when free skating was \"Man and Shadow\" was \"I Put a Spell on You.\"\n</answer>",
+ "input_tokens": 955,
+ "output_tokens": 103,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.51
+}

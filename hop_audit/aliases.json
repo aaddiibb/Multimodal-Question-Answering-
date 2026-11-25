@@ -1,0 +1,10 @@
+{
+  "_note": "Human-reviewed aliases for gold answers and hop items. Used ONLY for mention/commitment checks in the hop audit, never for official EM/F1. Add an entry only after checking that the alias names the same entity. Candidates are listed under 'near_misses_for_alias_review' in each outputs/<pipeline>/summary.json.",
+  "aliases": {
+    "James Patrick Caviezel": ["Jim Caviezel"]
+  },
+  "_review_log": [
+    {"gold": "James Patrick Caviezel", "alias": "Jim Caviezel", "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+     "reason": "Same actor (credited as Jim Caviezel; played John Reese in Person of Interest).", "added": "2026-10-30"}
+  ]
+}

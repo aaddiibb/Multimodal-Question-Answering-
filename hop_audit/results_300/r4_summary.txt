@@ -1,0 +1,13 @@
+v0.1 (frozen, pre-registered): binary agreement 37/47 = 0.787; exact label agreement 35/60
+   confusion (auto, manual): {('SF', 'SF'): 5, ('ABSENT', 'ABSENT'): 12, ('PRESENT', 'ABSENT'): 9, ('PRESENT', 'PRESENT'): 25, ('ABSENT', 'PRESENT'): 1, ('PRESENT', 'SF'): 6, ('SF', 'PRESENT'): 1, ('PRESENT', 'GOLDERR'): 1}
+v0.2 (bug-fixed): binary agreement 37/47 = 0.787; exact label agreement 35/60
+   confusion (auto, manual): {('SF', 'SF'): 5, ('ABSENT', 'ABSENT'): 11, ('PRESENT', 'ABSENT'): 10, ('PRESENT', 'PRESENT'): 26, ('PRESENT', 'SF'): 6, ('SF', 'PRESENT'): 1, ('PRESENT', 'GOLDERR'): 1}
+
+Manual P (60-question R4 sample): 0.562  95% CI [0.420, 0.702]  (W_manual=48)
+Manual label counts: {'SURFACE_FORM': 11, 'EXTRACTION_FAILURE': 21, 'AGGREGATION_LOSS': 10, 'COMPOSITION_FAILURE': 16, 'GOLD_ERROR': 1, 'COMMITMENT_FAILURE': 1}
+COMPOSITION_FAILURE subtypes (manual): {'ABSTAIN_DESPITE_FACTS': 1, 'FINAL_HOP_EXTRACTION': 9, 'AMBIGUOUS_GOLD': 1, 'PARTIAL_LIST': 4, 'OVER_INCLUSIVE': 1}
+SURFACE_FORM subtypes (manual): {None: 5, 'ALIAS': 2, 'GOLD_FORMAT': 2, 'MORPHOLOGY': 2}
+
+R5 mention-vs-use: of 46 sampled questions whose hops the audit marks REACHED, manual hop use: {'used': 38, 'incidental': 5, 'rejected': 3}
+strict oracle (agent answers <= 12 tokens, gold >= 40% of the answer): 0.323 vs final-strict 0.317 (+0.7 points)
+strict oracle (agent answers <= 20 tokens, gold >= 40% of the answer): 0.323 vs final-strict 0.317 (+0.7 points)

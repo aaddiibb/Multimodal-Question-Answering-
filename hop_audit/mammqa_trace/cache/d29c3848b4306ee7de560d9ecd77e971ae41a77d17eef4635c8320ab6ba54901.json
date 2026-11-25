@@ -1,0 +1,12 @@
+{
+ "key": "d29c3848b4306ee7de560d9ecd77e971ae41a77d17eef4635c8320ab6ba54901",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Michael Potts' roles across different productions.\n- The year 2002 is mentioned in the table.\n- The role in the 2002 production is Feste.\n</insights>\n\n<answer>\nThere is one character listed for the 2002 Michael Potts theatre production, which is Feste.\n</answer>\n\n<subanswer>\nThe role in the 2002 production is Feste.\n</subanswer>",
+ "input_tokens": 1187,
+ "output_tokens": 111,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.18
+}

@@ -1,0 +1,12 @@
+{
+ "key": "fae92e0edc952ca5acbeac558b590d37fa1ab1e35691b8e9416d7a420a919f97",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image is a movie poster for the film \"Camp Fear,\" which features Betsy Russell. The poster includes a tagline that reads \"It's not just a man's world anymore,\" suggesting a theme of gender roles and empowerment.</insights>\n\n<answer>There is no song titled \"Sex-O Olympic-O\" featured in the film \"Camp Fear.\" Therefore, it cannot be determined if Betsy Russell acted in a film featuring such a song.</answer>",
+ "input_tokens": 2355,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 13.48
+}

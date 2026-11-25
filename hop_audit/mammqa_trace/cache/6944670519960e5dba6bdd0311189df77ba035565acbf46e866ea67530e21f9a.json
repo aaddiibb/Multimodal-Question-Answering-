@@ -1,0 +1,12 @@
+{
+ "key": "6944670519960e5dba6bdd0311189df77ba035565acbf46e866ea67530e21f9a",
+ "text": "Based on the provided data, the singer of the theme of Licence to Kill is not listed in the table. Therefore, it is impossible to determine which modern master from season six of Oprah's Master Class has a higher episode number between Steve Harvey and the singer of the theme of Licence to Kill.",
+ "input_tokens": 4319,
+ "output_tokens": 60,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 16.88
+}

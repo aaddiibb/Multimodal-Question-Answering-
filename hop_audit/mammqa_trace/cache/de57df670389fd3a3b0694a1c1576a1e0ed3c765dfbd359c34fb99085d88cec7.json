@@ -1,0 +1,12 @@
+{
+ "key": "de57df670389fd3a3b0694a1c1576a1e0ed3c765dfbd359c34fb99085d88cec7",
+ "text": "<modality> text </modality>\n\n<insights> The text provides information about various sports leagues and organizations in Canada, including the Canadian National Soccer League, the Canadian Football Network, and the British Gridiron Football League. However, there is no specific mention of a \"Gridiron football league from Canada\" in the provided text.</ins>\n\n<answer> There is no specific mention of a \"Gridiron football league from Canada\" in the provided text. The text discusses various sports leagues and organizations in Canada, but does not provide information about a particular Gridiron football league.</answer>",
+ "input_tokens": 1471,
+ "output_tokens": 120,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.56
+}

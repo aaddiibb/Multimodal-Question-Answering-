@@ -1,0 +1,12 @@
+{
+ "key": "ab5b35f7242ebed5b491b7ee8ace67c97b0a91b82b5c30de87f058f27b6e418c",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a film titled \"Spider-Man 2\". The central figure is Spider-Man, recognizable by his iconic red and blue suit with a spider emblem on the chest. The background features a cityscape, suggesting an urban setting. There is no visible over-face object worn by Spider-Man.</insights>\n\n<answer>There is no over-face object worn by Spider-Man in this image.</answer>",
+ "input_tokens": 2141,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 11.01
+}

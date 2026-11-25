@@ -1,0 +1,17 @@
+#,qid,short_question,gold_answer,prediction,EM,F1,Recall@5,gold_found_R@5,feedback_used,abstained,failure_type,feedback_recovered_evidence,feedback_corrected_answer
+1,f7dd1ac143507bd2ab9a480f18b86706,Which film did Christian Manon act in first:  The title with a poster featuring ,Midnite Spares,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+2,254afe636a34c3a5d94efa22d95465ad,"Which song had a lower order in Hlas Česko Slovenska 2014 episode 6, from April ","""I Believe I Can Fly""",ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+3,ebb69554283456251305b4b8ab579f76,Which film title did Freda Dowie act in first:  The Richard Donnor horror film f,The Omen,ABSTAIN,0,0.0,0.3333333333333333,True,False,True,retrieval_failure,False,False
+4,4b9a4868455f98a69a8494ef1dfe7205,Which color is the main color in the logo for the team that was a former tenant ,orange,ABSTAIN,0,0.0,0.5,True,False,True,context_selection_failure,False,False
+5,186146ea1f5a9f7ada7f7fd31c5c75a4,"On the logo for the location of the carolina panthers home games, how many red s",eight,ABSTAIN,0,0.0,0.0,False,True,True,retrieval_failure,False,False
+6,c9fcae0ac6e3aa3f08375db9e4fe9037,The current America East Conference member school with flying horse logo had wha,"17,768",ABSTAIN,0,0.0,0.5,True,False,True,retrieval_failure,False,False
+7,5dfd4afc175cdebf43295316a540d70c,The winner of the College Football National Championship in 1945 had what date i,1 July 1857,ABSTAIN,0,0.0,0.5,True,False,True,retrieval_failure,False,False
+8,6d372c501004c3e448b1991f39160e99,Did the band that is made up of members of both sexes and was imitated in Stars ,no,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+9,b5d7685e595423638d26dd60e99fcc39,Who was the first singer of the song used by Geraldine and Lucas in the second r,Aerosmith,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+10,3126664c6ce707c6aca2c475ace8db08,"Which Team(s), in Most appearances of Cotton Bowl Classic, have a logo that feat",SMU Mustangs football | Arkansas Razorbacks football,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+11,183a1eec0e38eaee513a5ec7996f55f1,How many TV screens are visible in the photo of the 1989 Panasonic Cup (rugby le,one,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+12,2a5fdab4235e28037389777f473c4f9f,What public school in the Collegiate sports of Sports in Philadelphia has a logo,University of Delaware | Delaware State University,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+13,2f154508615dc2d34b4d4b7fdced0b0e,"Among competitors in 1977's Liège-Bastogne-Liège, which rider has long sideburns",Eddy Merckx,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False
+14,22e22f3b558eeae2178ddd9cb6bc2b04,What nominee from Aspects of Love that was nominated for a Tony Award also did t,Andrew Lloyd Webber,ABSTAIN,0,0.0,0.0,False,False,True,context_selection_failure,False,False
+15,1e3f1a08d865b3676a5ca81d8adc270b,Did Steve Talley play Eric P. Keller in the 2010 film Hole in One?,Yes,ABSTAIN,0,0.0,0.0,False,False,True,context_selection_failure,False,False
+16,ceb2b6a63d5f3b5eb8075979a55e7471,did catherine zeta jones won an oscar for chicago,yes,ABSTAIN,0,0.0,0.0,False,False,True,retrieval_failure,False,False

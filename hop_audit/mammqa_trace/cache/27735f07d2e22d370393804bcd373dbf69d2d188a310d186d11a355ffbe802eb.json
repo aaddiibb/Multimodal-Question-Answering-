@@ -1,0 +1,12 @@
+{
+ "key": "27735f07d2e22d370393804bcd373dbf69d2d188a310d186d11a355ffbe802eb",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image is a movie poster for \"Toy Story 4,\" which features characters from the Toy Story franchise. The poster includes the title \"TOY STORY 4\" prominently displayed at the top, along with the release date \"JUNE 21.\" The characters depicted are Woody, Buzz Lightyear, and several other toys from the series.</insights>\n\n<answer>There is no specific holiday associated with the film \"Toy Story 4.\" However, the film is part of the Toy Story franchise, which often incorporates elements of Christmas and other holidays into its storylines.</answer>",
+ "input_tokens": 1866,
+ "output_tokens": 138,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 13.43
+}

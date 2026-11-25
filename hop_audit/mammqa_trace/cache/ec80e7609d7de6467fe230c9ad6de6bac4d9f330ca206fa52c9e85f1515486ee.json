@@ -1,0 +1,12 @@
+{
+ "key": "ec80e7609d7de6467fe230c9ad6de6bac4d9f330ca206fa52c9e85f1515486ee",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image contains multiple movie posters featuring various actresses. However, there is no specific information about Béatrice Agenin's dubbing or the actresses mentioned in the question.</insights>\n\n<answer>Based on the provided images, there is insufficient information to determine which actress has an earlier year in Béatrice Agenin's dubbing between Mary Steenburgen and the actress who sang \"When a Man Loves a Woman\" before Michael Bolton. The images do not contain the necessary details.</answer>",
+ "input_tokens": 2513,
+ "output_tokens": 122,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.93
+}

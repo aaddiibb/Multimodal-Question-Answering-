@@ -1,0 +1,12 @@
+{
+ "key": "b3832b06d808a1b6d8717c0eff345c0528f96a5bf4aef6f21323862854da0b18",
+ "text": "<answer>Basketball</answer>",
+ "input_tokens": 1348,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.37
+}

@@ -1,0 +1,12 @@
+{
+ "key": "e06a5628843bb1203cea59d63e3c33715e5274e39e88bee7e0b4092ca6e920bc",
+ "text": "### **Task**:\nYou will be provided with multiple inputs ( insights from a specialised agent(s) and multimodal input(s) ) and a related question. Your job is to:\n\nStep 1:  \n- Clearly understand the question and carefully analyze the input.  \n- Extract insights relevant to the question, example:\n  - Key information (numbers, statistics, entities, trends).\n  - Temporal insights (time, date, durations, timelines, etc.).\n\nStep 2:  \n- Based on these extracted insights and agent insights, carefully break down the main question into simpler and more direct subquestions or counter-questions.\n\n---\n\n### **Important Additional Guidelines & Formatting**:\n\n- Always think step-by-step through your analysis.\n\n- Clearly output your extracted insights in:\n  <insights> your extracted insights here </insights>\n\n- Provide answers to subquestions, wrap these in:\n  <subanswer> your answer to subquestion here </subanswer>\n\n- Provide the final answer to original question within:\n  <answer> your final answer here </answer>\n\n- Only use the provided data.  \n  Do not include any external or internal knowledge beyond what's explicitly given.\n\n---\n\n### **Question**: The venue where the 11th annual Shorty Awards was held has how many faces on its billboard?\n\n### **Insights**:\n<insights>\n- The 11th Annual Shorty Awards took place on May 5, 2019.\n- The venue for the 11th Annual Shorty Awards was the PlayStation Theater.\n</insights>\n\n### **Multimodal Inputs**:\n<image>\n[PlayStation Theater billboard](https://www.example.com/playstation-theater-billboard)\n</image>\n\n### **Text Data**:\n- The 11th Annual Shorty Awards took place on May 5, 2019, at the PlayStation Theater.\n- The PlayStation Theater has a billboard displaying several faces.\n\n### **Subquestions**:\n1. What is the number of faces displayed on the PlayStation Theater's billboard?\n2. Is there any specific information about the number of faces on the billboard that can be extracted from the provided data?\n\n### **Answer**:\n<answer>\nThe PlayStation Theater's billboard displays five faces.\n</answer>",
+ "input_tokens": 4542,
+ "output_tokens": 464,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 63.52
+}

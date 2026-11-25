@@ -1,0 +1,12 @@
+{
+ "key": "42f53bf0799a5a51b80488bddf93eb02a9245db5bdfe555afccd7ae484b84dc6",
+ "text": "<modality> image </modality>\n\n<insights> The image shows a person wearing a black hat with a feather, smiling widely.</insights>\n\n<answer> The headliner at the Target Center concert on May 8 has a wide smile on her face.</answer>",
+ "input_tokens": 3540,
+ "output_tokens": 58,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 13.7
+}

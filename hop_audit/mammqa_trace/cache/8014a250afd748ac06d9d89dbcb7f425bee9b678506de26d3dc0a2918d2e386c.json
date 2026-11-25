@@ -1,0 +1,12 @@
+{
+ "key": "8014a250afd748ac06d9d89dbcb7f425bee9b678506de26d3dc0a2918d2e386c",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks who played Cory Matthews in the television show that Ivy George acted in and also has a poster featuring a globe.\n\n### Step 2: Extract Relevant Insights\nFrom the provided data:\n- Ben Savage played Cory Matthews in the TV show \"Boy Meets World.\"\n- Ben Savage was also part of the cast of \"Girl Meets World,\" which is a sequel series to \"Boy Meets World.\"\n\n### Step 3: Break Down the Question into Subquestions\n1. Who played Cory Matthews in the TV show that Ivy George acted in?\n2. Does the TV show that Ivy George acted in have a poster featuring a globe?\n\n### Step 4: Answer the Subquestions\n#### Subquestion 1: Who played Cory Matthews in the TV show that Ivy George acted in?\n- From the text data, we know that Ben Savage played Cory Matthews in the TV show \"Boy Meets World.\"\n- \"Girl Meets World,\" a sequel series to \"Boy Meets World,\" also features Ben Savage.\n\n#### Subquestion 2: Does the TV show that Ivy George acted in have a poster featuring a globe?\n- From the table provided, we see that Ivy George acted in \"Girl Meets World\" in 2016.\n- However, there is no mention of a poster featuring a globe for \"Girl Meets World\" in the table.\n\n### Final Answer\nBased on the provided data:\n- Ben Savage played Cory Matthews in the TV show \"Boy Meets World,\" which is the TV show that Ivy George acted in.\n- There is no information about a poster featuring a globe for \"Girl Meets World\" in the provided data.\n\nTherefore, the answer to the original question is:\n<answer>Ben Savage played Cory Matthews in the TV show \"Boy Meets World,\" but there is no information about a poster featuring a globe for \"Girl Meets World\" in the provided data.</answer>",
+ "input_tokens": 2076,
+ "output_tokens": 415,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 34.9
+}

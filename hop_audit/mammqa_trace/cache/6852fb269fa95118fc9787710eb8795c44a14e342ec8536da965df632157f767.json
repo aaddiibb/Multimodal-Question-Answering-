@@ -1,0 +1,12 @@
+{
+ "key": "6852fb269fa95118fc9787710eb8795c44a14e342ec8536da965df632157f767",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who sang \"When a Man Loves a Woman\" before Michael Bolton?\n2. Does Mary Steenburgen have a year mentioned in the provided text regarding Béatrice Agenin dubbing?\n\nBased on the text insight, we know that Bette Midler recorded \"When a Man Loves a Woman\" in 1980, which is before Michael Bolton's recording in 1991. However, there is no information about Mary Steenburgen's Béatrice Agenin dubbing year.\n\nTherefore, the answer to the original question is:\n\n<answer>\nBette Midler sang \"When a Man Loves a Woman\" before Michael Bolton did. There is no information about Mary Steenburgen's Béatrice Agenin dubbing year, so we cannot determine if she has an earlier year than Bette Midler.\n</answer>",
+ "input_tokens": 3122,
+ "output_tokens": 191,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 24.25
+}

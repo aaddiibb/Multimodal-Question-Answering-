@@ -1,0 +1,12 @@
+{
+ "key": "bb6a2efdc390570b4086d6d4acb93160c91feb6a45b3e829972719db0aeaae4e",
+ "text": "Based on the provided information, there is no actor mentioned who played young Jenna in 13 Going on 30 and also played a character as a guest star on Cory in the House. The table only lists actors and their characters on Cory in the House, but does not provide information about the actor who played young Jenna in 13 Going on 30. Additionally, the text data does not mention any actor playing young Jenna in 13 Going on 30. Therefore, it is not possible to answer the question with the given information.",
+ "input_tokens": 3989,
+ "output_tokens": 114,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 19.99
+}

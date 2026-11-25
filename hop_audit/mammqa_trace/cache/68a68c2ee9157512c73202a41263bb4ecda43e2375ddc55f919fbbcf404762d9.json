@@ -1,0 +1,12 @@
+{
+ "key": "68a68c2ee9157512c73202a41263bb4ecda43e2375ddc55f919fbbcf404762d9",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks for the runner-up in the D1-a rugby championships when Life University won the championship on CBSSN.\n\n### Step 2: Extract Relevant Insights\nFrom the text insight:\n- Life University won the championship on CBSSN in 2017.\n\nFrom the table:\n- The year 2017 is listed under the \"Year\" column.\n- The \"Champion\" column shows \"St. Mary's (CA)\".\n- The \"Runners-up\" column shows \"Life University\".\n\n### Step 3: Break Down the Question into Subquestions\nBased on the insights, we can break down the question into simpler subquestions:\n1. In which year did Life University win the championship on CBSSN?\n2. Who were the semi-finalists in that year?\n\n### Step 4: Answer the Subquestions\n1. **Subquestion 1:** In which year did Life University win the championship on CBSSN?\n   - **Answer:** Life University won the championship on CBSSN in 2017.\n\n2. **Subquestion 2:** Who were the semi-finalists in that year?\n   - **Answer:** The semi-finalists in 2017 were BYU and Arizona.\n\n### Final Answer\nThe runner-up in the D1-a rugby championships when Life University won the championship on CBSSN was Life University itself, as it was one of the semi-finalists along with BYU and Arizona.",
+ "input_tokens": 2196,
+ "output_tokens": 323,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 28.27
+}

@@ -1,0 +1,12 @@
+{
+ "key": "5c400a58ebefc62ddb848f0e2029498a721db6b43fc561cf33f1b5a4c2ac2946",
+ "text": "<modality>image</modality>\n\n<insights>The images provided show movie posters. The first poster has a black background, while the others have different colored backgrounds.</insights>\n\n<answer>Among the films that Pino Donaggio worked on in the '70s, \"Don't Look Now\" has a black background on its poster and was released in 1976.</answer>",
+ "input_tokens": 1684,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 8.54
+}

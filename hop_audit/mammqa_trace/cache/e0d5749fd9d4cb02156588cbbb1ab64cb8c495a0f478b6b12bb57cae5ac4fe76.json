@@ -1,0 +1,12 @@
+{
+ "key": "e0d5749fd9d4cb02156588cbbb1ab64cb8c495a0f478b6b12bb57cae5ac4fe76",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for \"A Cinderella Story: Once Upon a Song,\" which features Lucy Hale as the main character. The poster does not contain any information about a \"Black Badger\" character.</insights>\n\n<answer>There is no information about a \"Black Badger\" character in the movie poster for \"A Cinderella Story: Once Upon a Song.\" The poster only features Lucy Hale as the main character.</answer>",
+ "input_tokens": 1612,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 9.92
+}

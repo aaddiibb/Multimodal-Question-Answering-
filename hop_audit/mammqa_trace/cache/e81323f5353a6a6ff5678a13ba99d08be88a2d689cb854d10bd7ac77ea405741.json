@@ -1,0 +1,12 @@
+{
+ "key": "e81323f5353a6a6ff5678a13ba99d08be88a2d689cb854d10bd7ac77ea405741",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. What is the TOPS classification for British Rail Class 44?\n2. Which name features several mountains next to a body of water?\n\nNow let's address each subquestion:\n\n### Subquestion 1: What is the TOPS classification for British Rail Class 44?\n\nFrom the table, we can see that the TOPS classification for British Rail Class 44 is 44001.\n\n### Subquestion 2: Which name features several mountains next to a body of water?\n\nBased on the images provided, the name that features several mountains next to a body of water is \"Penyghent\". This can be seen in the third image where Penyghent is situated near Derwentwater in the Lake District.\n\nFinal Answer:\nThe name \"Penyghent\" has a higher number - TOPS, for the fleet details of British Rail Class 44 compared to \"Snowdon\".",
+ "input_tokens": 3726,
+ "output_tokens": 200,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 27.77
+}

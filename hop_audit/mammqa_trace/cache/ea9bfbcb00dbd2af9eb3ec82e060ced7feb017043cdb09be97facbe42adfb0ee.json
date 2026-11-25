@@ -1,0 +1,12 @@
+{
+ "key": "ea9bfbcb00dbd2af9eb3ec82e060ced7feb017043cdb09be97facbe42adfb0ee",
+ "text": "<answer>5th, 28th, 39th, 11th, 10th, 20th</answer>",
+ "input_tokens": 1517,
+ "output_tokens": 34,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 4.32
+}

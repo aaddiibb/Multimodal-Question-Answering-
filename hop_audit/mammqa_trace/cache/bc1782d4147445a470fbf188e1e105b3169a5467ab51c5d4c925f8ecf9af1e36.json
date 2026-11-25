@@ -1,0 +1,12 @@
+{
+ "key": "bc1782d4147445a470fbf188e1e105b3169a5467ab51c5d4c925f8ecf9af1e36",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but none of them feature the name \"Leora Dana\" or mention her involvement in a film titled \"The Group\". The posters shown are for different films such as \"La Vallée des Rois\", \"Pollyanna\", \"Baby It's You\", \"Wild Rovers\", \"Nothing Lasts Forever\", \"Kings Go Forth\", \"Some Came Running\", \"Change of Habit\", \"Amityville 3-D\", \"Shoot the Moon\", and \"Tora! Tora! Tora!\". None of these films appear to be related to the character \"Leora Dana\" or the film \"The Group\".</insights>\n\n<answer>Based on the provided images, there is no information about Leora Dana playing a role in the film \"The Group\". Therefore, it cannot be determined from the given images alone.</answer>",
+ "input_tokens": 1847,
+ "output_tokens": 192,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 17.24
+}

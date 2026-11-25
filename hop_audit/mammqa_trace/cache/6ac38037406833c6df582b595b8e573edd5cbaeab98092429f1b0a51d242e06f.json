@@ -1,0 +1,12 @@
+{
+ "key": "6ac38037406833c6df582b595b8e573edd5cbaeab98092429f1b0a51d242e06f",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the show where Susan Dey played the part of Barbara Ross.\n2. Determine the filming location of the show where Susan Dey played the part of Barbara Ross.\n\nFrom the table insights, we know that Susan Dey played the part of Barbara Ross in the show \"The Streets of San Francisco.\" Now, let's find out where this show was filmed.\n\nBased on the text data provided, we can see that \"The Streets of San Francisco\" was filmed on location in San Francisco, California.\n\n<answer>\nThe show where Susan Dey played the part of Barbara Ross, \"The Streets of San Francisco,\" was filmed in San Francisco, California.\n</answer>",
+ "input_tokens": 3232,
+ "output_tokens": 148,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 19.47
+}

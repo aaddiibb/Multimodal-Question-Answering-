@@ -1,0 +1,12 @@
+{
+ "key": "44bd076226d67bf42fb309132bc1b1d9f4be1c4f01c450fa5e4da7f212472406",
+ "text": "Based on the provided multimodal inputs, let's break down the question into simpler subquestions:\n\n1. Identify the film featuring a pickup truck on its poster.\n2. Check the role associated with that film in the table.\n\nThe question asks for the role in Christian Manon's filmography when the film features a pickup truck on its poster. From the multimodal inputs, we have several movie posters, but none of them feature a pickup truck prominently on their poster. Therefore, there seems to be no direct match for the film featuring a pickup truck on its poster.\n\n<answer>\nThere is no film in the provided multimodal inputs that features a pickup truck on its poster. Hence, the role in Christian Manon's filmography when the film features a pickup truck on its poster cannot be determined from the given data.\n</answer>",
+ "input_tokens": 2789,
+ "output_tokens": 169,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 19.77
+}

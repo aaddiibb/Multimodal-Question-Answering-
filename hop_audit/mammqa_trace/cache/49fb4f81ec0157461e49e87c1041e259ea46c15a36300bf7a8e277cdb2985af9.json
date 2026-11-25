@@ -1,0 +1,12 @@
+{
+ "key": "49fb4f81ec0157461e49e87c1041e259ea46c15a36300bf7a8e277cdb2985af9",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the actor who played young Jenna in 13 Going on 30.\n2. Determine which character this actor played as a guest star on Cory in the House.\n\nFrom the text insight, we know that the actor who played young Jenna in 13 Going on 30 is John Early. Now let's look at the table for Cory in the House to find out which character he played as a guest star.\n\n<subanswer>John Early played the role of Jenna Maroney's son on \"30 Rock\". </subanswer>\n\nNow, let's check the table for Cory in the House:\n\n<subanswer>There is no information about John Early playing a guest star role on Cory in the House in the provided table.</subanswer>\n\nBased on the available information, there isn't enough data to determine which character John Early played as a guest star on Cory in the House. Therefore, the answer to the original question cannot be determined from the given information.\n\n<answer>The information provided does not allow us to determine which character John Early played as a guest star on Cory in the House.</answer>",
+ "input_tokens": 3204,
+ "output_tokens": 238,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 28.23
+}

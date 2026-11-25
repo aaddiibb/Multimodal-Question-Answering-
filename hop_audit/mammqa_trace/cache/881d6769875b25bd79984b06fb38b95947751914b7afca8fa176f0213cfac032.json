@@ -1,0 +1,12 @@
+{
+ "key": "881d6769875b25bd79984b06fb38b95947751914b7afca8fa176f0213cfac032",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the film title: \"The Group\".\n2. Determine the year the film was released.\n\nFrom the provided data, we can see that there are two films titled \"The Group\":\n\n- A 1970 British drama film about the rock music scene.\n- A 1933 novel describing the lives of eight young female friends after graduation from Vassar College.\n\nSince the question asks for the year that Leora Dana played a role in the film title \"The Group\", it seems to refer to the 1970 British drama film. Therefore, the answer to the question is:\n\n<answer>The year that Leora Dana played a role in the film title \"The Group\" was 1970.</answer>",
+ "input_tokens": 2750,
+ "output_tokens": 164,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 19.16
+}

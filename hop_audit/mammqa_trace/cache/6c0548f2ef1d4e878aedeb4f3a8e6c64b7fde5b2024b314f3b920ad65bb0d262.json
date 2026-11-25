@@ -1,0 +1,12 @@
+{
+ "key": "6c0548f2ef1d4e878aedeb4f3a8e6c64b7fde5b2024b314f3b920ad65bb0d262",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple concert posters advertising various artists performing at different venues and dates. The poster in question shows a woman with her hands raised, which matches the description in the question.</insights>\n\n<answer>Based on the provided images, the artist who performed at the event whose poster showed a woman holding her hands into the air is Gloria Estefan.</answer>",
+ "input_tokens": 1587,
+ "output_tokens": 87,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.16
+}

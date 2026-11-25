@@ -1,0 +1,12 @@
+{
+ "key": "d0249e146d92e8f7e1f0456d7087d02de1215947d0d2cf450ffba2a832b1438f",
+ "text": "Let's break down the question into simpler parts:\n\n1. **Is Yaroslavl Oblast the federal subject with fewer wins by region of Miss Russia?**\n   - We know from the table that Yaroslavl Oblast has won once in the Miss Russia competition.\n\n2. **What was the capital of Russia before Moscow?**\n   - According to the text data, between 1713 and 1728, and again in 1732-1918, Saint Petersburg was the capital of Imperial Russia.\n\nBased on these insights, we can answer the original question:\n\n<answer>\nYaroslavl Oblast is the federal subject with fewer wins by region of Miss Russia, having won once. However, the question also asks about the city that was the capital of Russia before Moscow, which is not present in the provided data. Therefore, the answer to the original question is that Yaroslavl Oblast is the federal subject with fewer wins by region of Miss Russia.\n</answer>",
+ "input_tokens": 4313,
+ "output_tokens": 211,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 32.4
+}

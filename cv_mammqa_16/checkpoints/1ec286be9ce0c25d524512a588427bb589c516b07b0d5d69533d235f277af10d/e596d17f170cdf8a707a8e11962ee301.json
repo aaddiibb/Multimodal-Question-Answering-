@@ -1,0 +1,206 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "e596d17f170cdf8a707a8e11962ee301",
+  "question": "Is the silhouette of kid present in the K. James movie poster where he plays Dr. Fox?",
+  "context_digest": "e0bfc5d22e35f3b2e985229abe86015652cd1305482c7768d450b59545cfaa71",
+  "source_ids": [
+    "3f747a112750870b54d236c2bd9431d0",
+    "86119609fb37222c24b483e560335b3d"
+  ],
+  "modalities": [
+    "image",
+    "table"
+  ],
+  "shared": {
+    "stage1": {
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "The table does not provide any information about a movie poster for \"Little Boy\" featuring a silhouette of a kid, as it only lists Kevin James' roles up to 2018.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The table does not provide any information about a movie poster for \"Little Boy\" featuring a silhouette of a kid, as it only lists Kevin James' roles up to 2018."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image provided is for the movie \"Little Boy,\" but it does not contain any information about a character named Dr. Fox or the presence of a silhouette of a kid playing that role.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image provided is for the movie \"Little Boy,\" but it does not contain any information about a character named Dr. Fox or the presence of a silhouette of a kid playing that role."
+      }
+    },
+    "stage2": {
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image metadata refers to a movie poster for \"Little Boy,\" but it does not confirm whether there is a silhouette of a kid in the poster or if Kevin James plays Dr. Fox in this film.",
+        "evidence_reference": "[IMAGE: Little Boy (film) | id=86119609fb37222c24b483e560335b3d | official_file=86119609fb37222c24b483e56033",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image metadata refers to a movie poster for \"Little Boy,\" but it does not confirm whether there is a silhouette of a kid in the poster or if Kevin James plays Dr. Fox in this film.\nEVIDENCE: [IMAGE: Little Boy (film) | id=86119609fb37222c24b483e560335b3d | official_file=86119609fb37222c24b483e56033"
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided table does not list a role for Kevin James as Dr. Fox in \"Little Boy.\"",
+        "evidence_reference": "The table shows Kevin James played Dr. Fox in \"Little Boy\" but does not mention a silhouette of a kid.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided table does not list a role for Kevin James as Dr. Fox in \"Little Boy.\"\nEVIDENCE: The table shows Kevin James played Dr. Fox in \"Little Boy\" but does not mention a silhouette of a kid."
+      }
+    },
+    "shared_seconds": 23.043344752000166,
+    "shared_digest": "5288e8af12d04f5a5e5aa993e8a0a0be736e5900b3786d3bd3db29283399db07"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "INSUFFICIENT",
+    "seconds": 1.1357504540001173,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.1427768759999708,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 821,
+      "original_input_tokens": 821,
+      "output_tokens": 50,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.334335178999936,
+      "image_count": 0,
+      "seed": 1722677757
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 472,
+      "original_input_tokens": 472,
+      "output_tokens": 49,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.124800685000082,
+      "image_count": 1,
+      "seed": 3932388102
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 548,
+      "original_input_tokens": 548,
+      "output_tokens": 128,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": true,
+      "evidence_shortened": false,
+      "seconds": 9.552234924999993,
+      "image_count": 1,
+      "seed": 3984577162
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 890,
+      "original_input_tokens": 890,
+      "output_tokens": 59,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.015853433000075,
+      "image_count": 0,
+      "seed": 156985666
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 333,
+      "original_input_tokens": 333,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6515392510000311,
+      "image_count": 0,
+      "seed": 1655747673
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "baseline_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4767954629999167,
+      "image_count": 0,
+      "seed": 723566163
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 348,
+      "original_input_tokens": 348,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.66036492000012,
+      "image_count": 0,
+      "seed": 137259244
+    },
+    {
+      "qid": "e596d17f170cdf8a707a8e11962ee301",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.47534386500001347,
+      "image_count": 0,
+      "seed": 1640970807
+    }
+  ],
+  "completed_utc": "2026-10-13T20:00:36.807609+00:00"
+}

@@ -1,0 +1,12 @@
+{
+ "key": "54a5169717f06d811342dcda797ff5c15752aa6acda6ba9dd962558eec320623",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a computer setup with a CRT monitor displaying the text \"Robustron EC 1835\" and a keyboard below it. There is no PC branding visible on the monitor.</insights>\n\n<answer>There is no PC branding visible on the monitor in the image.</answer>",
+ "input_tokens": 2276,
+ "output_tokens": 74,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 9.94
+}

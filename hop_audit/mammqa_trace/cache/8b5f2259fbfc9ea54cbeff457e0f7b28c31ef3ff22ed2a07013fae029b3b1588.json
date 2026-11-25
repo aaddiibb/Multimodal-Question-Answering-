@@ -1,0 +1,12 @@
+{
+ "key": "8b5f2259fbfc9ea54cbeff457e0f7b28c31ef3ff22ed2a07013fae029b3b1588",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various animated shows with their original voice actors, character names, languages, and air dates.\n- The \"Notes\" column provides additional information about the dubbing process and the voice actor's involvement.\n</insights>\n\n<answer>\nTo determine which Parignya Pandya Shah show that was dubbed in Hindi has a person on the logo, we need to identify the following:\n1. Shows where Parignya Pandya Shah has voiced a character.\n2. Shows that have been dubbed in Hindi.\n3. Shows where there is a person on the logo.\n\nLet's break it down further:\n1. Identify shows where Parignya Pandya Shah has voiced a character.\n2. Confirm if those shows have been dubbed in Hindi.\n3. Check if there is a person on the logo for those shows.\n\n<subanswer>\n1. Identify shows where Parignya Pandya Shah has voiced a character:\n   - From the table, we see that Parignya Pandya Shah has voiced characters in \"Ben 10,\" \"Ben 10: Alien Force,\" \"Ben 10: Ultimate Alien,\" \"Ben 10: Omniverse,\" \"Phineas and Ferb,\" \"Kick Buttowski: Suburban Daredevil,\" \"Iron Man: Armored Adventures,\" and \"Pokémon.\"\n   \n2. Confirm if those shows have been dubbed in Hindi:\n   - All the shows listed above have been dubbed in Hindi.\n\n3. Check if there is a person on the logo for those shows:\n   - We need to look at the \"Notes\" column for each show to find out if there is a person on the logo.\n</subanswer>",
+ "input_tokens": 1508,
+ "output_tokens": 355,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 26.59
+}

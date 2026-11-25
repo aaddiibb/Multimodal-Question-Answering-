@@ -1,0 +1,12 @@
+{
+ "key": "eef851563b2e1fa5447b4b30faace83ff714ce2d250bbedf28191ed51149e34b",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no textual or tabular data provided in the images. The images depict various locations and institutions but do not contain the specific information required to answer the question.</insights>\n\n<answer>Based on the provided images, there is insufficient information to determine the date when the institution with the nickname Seahawks joined the Mid-South conference.</answer>",
+ "input_tokens": 2645,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 12.5
+}

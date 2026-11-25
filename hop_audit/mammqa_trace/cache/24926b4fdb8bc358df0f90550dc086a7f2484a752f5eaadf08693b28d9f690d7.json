@@ -1,0 +1,12 @@
+{
+ "key": "24926b4fdb8bc358df0f90550dc086a7f2484a752f5eaadf08693b28d9f690d7",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists films directed by Urmi Juvekar along with their years and credits.\n- The film \"Shararat\" is listed under the year 2002 with the credit \"Story.\"\n- The film with a red heart in its poster is not directly mentioned in the table but can be inferred from the question.\n</insights>\n\n<answer>\nTo determine which movie Urmi Juvekar took part in more recently between \"Shararat\" and the movie with a red heart in its poster, we need to identify the movie with the red heart first. Since the table does not provide this information, let's assume the movie with the red heart is \"Leila,\" as it is the most recent entry in the table with the year 2019.\n\nComparing the two:\n- \"Shararat\" was released in 2002.\n- \"Leila\" was released in 2019.\n\nTherefore, \"Leila\" is the more recent movie where Urmi Juvekar took part.\n</answer>\n\n<subanswer>\nThe movie \"Leila\" is the more recent one where Urmi Juvekar took part.\n</subanswer>",
+ "input_tokens": 842,
+ "output_tokens": 256,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 16.55
+}

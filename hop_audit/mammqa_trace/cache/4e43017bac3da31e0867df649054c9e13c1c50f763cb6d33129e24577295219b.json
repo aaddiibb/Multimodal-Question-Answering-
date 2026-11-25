@@ -1,0 +1,12 @@
+{
+ "key": "4e43017bac3da31e0867df649054c9e13c1c50f763cb6d33129e24577295219b",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but none of them feature Johnny Lee or the Zippity Doo Dah song.</insights>\n\n<answer>Based on the provided images, there is no information about Johnny Lee participating in a film that includes the Zippity Doo Dah song.</answer>",
+ "input_tokens": 2207,
+ "output_tokens": 73,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 9.93
+}

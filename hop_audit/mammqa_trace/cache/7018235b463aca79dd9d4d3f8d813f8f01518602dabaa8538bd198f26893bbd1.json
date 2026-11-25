@@ -1,0 +1,12 @@
+{
+ "key": "7018235b463aca79dd9d4d3f8d813f8f01518602dabaa8538bd198f26893bbd1",
+ "text": "<modality>image</modality>\n\n<insights>The image provided does not contain any textual information about the most recent honorary degree of Chulabhorn. The image only shows the logo of Thammasat University.</insights>\n\n<answer>Based on the provided images, it is not possible to determine which university awarded the most recent honorary degree to Chulabhorn. The image only shows the logo of Thammasat University.</answer>",
+ "input_tokens": 2789,
+ "output_tokens": 94,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 13.77
+}

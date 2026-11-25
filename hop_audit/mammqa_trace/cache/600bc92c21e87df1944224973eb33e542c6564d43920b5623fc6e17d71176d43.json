@@ -1,0 +1,12 @@
+{
+ "key": "600bc92c21e87df1944224973eb33e542c6564d43920b5623fc6e17d71176d43",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks about the female singer in Coldplay's \"Hymn for the Weekend\" and what she often performs while holding in her hand.\n\n### Step 2: Extract Relevant Insights\nFrom the image insight:\n- The image shows a person holding a microphone while performing.\n\nFrom the text data:\n- \"Hymn for the Weekend\" is a song by British rock band Coldplay with uncredited guest vocals from American singer Beyoncé.\n- The image insight directly relates to the question since it mentions a person holding a microphone.\n\n### Step 3: Break Down the Question into Subquestions\n1. Who is the female singer in Coldplay's \"Hymn for the Weekend\"?\n   - Answer: Beyoncé\n\n2. What does the female singer often perform while holding in her hand?\n   - Answer: Microphone\n\n### Final Answer\nThe female singer in Coldplay's \"Hymn for the Weekend\" often performs while holding a microphone in her hand.",
+ "input_tokens": 2266,
+ "output_tokens": 223,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 20.06
+}

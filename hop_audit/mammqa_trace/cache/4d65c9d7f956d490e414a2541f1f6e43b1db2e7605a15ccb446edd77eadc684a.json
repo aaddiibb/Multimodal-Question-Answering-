@@ -1,0 +1,12 @@
+{
+ "key": "4d65c9d7f956d490e414a2541f1f6e43b1db2e7605a15ccb446edd77eadc684a",
+ "text": "<modality> text </modality>\n\n<insights>\n- The film titled \"The Nun's Story\" features a nun's habit.\n- Humphrey Bogart won his only Oscar for the film \"The African Queen.\"\n</insights>\n\n<answer>\nErrol John acted in \"The Nun's Story,\" which features a nun's habit, rather than the movie in which Humphrey Bogart won his only Oscar.\n</answer>",
+ "input_tokens": 1953,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.76
+}

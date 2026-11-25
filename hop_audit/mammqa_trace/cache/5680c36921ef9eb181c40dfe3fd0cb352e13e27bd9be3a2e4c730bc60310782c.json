@@ -1,0 +1,12 @@
+{
+ "key": "5680c36921ef9eb181c40dfe3fd0cb352e13e27bd9be3a2e4c730bc60310782c",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a television show or drama series titled \"Ghairat,\" featuring Fazila Kaiser as one of the lead actors. The logo at the bottom right corner suggests it aired on ARY Digital.</insights>\n\n<answer>Based on the provided image, Fazila Kaiser's works in her select filmography were featured on ARY Digital.</answer>",
+ "input_tokens": 2171,
+ "output_tokens": 93,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 11.12
+}

@@ -1,0 +1,12 @@
+{
+ "key": "3d0584cb516eb8bcc7d90d6de8ba8b04d6f8908672b7128eb9f0855cf3bd3d12",
+ "text": "Based on the provided text and table, there is no information about Pino Donaggio or his films from the '70s. Therefore, it is impossible to determine if any of the films he worked on had a black background on their posters and were released in 1976.\n\n<answer>There is insufficient information in the provided text and table to answer the question. The text and table do not contain any details about Pino Donaggio or his films from the '70s.</answer>",
+ "input_tokens": 1761,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.2
+}

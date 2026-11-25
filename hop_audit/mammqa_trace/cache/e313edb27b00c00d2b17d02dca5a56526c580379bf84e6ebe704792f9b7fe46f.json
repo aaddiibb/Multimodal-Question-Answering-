@@ -1,0 +1,12 @@
+{
+ "key": "e313edb27b00c00d2b17d02dca5a56526c580379bf84e6ebe704792f9b7fe46f",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. Identify the role played by Dinyar Contractor in the show \"Taarak Mehta Ka Ooltah Chashmah\".\n   - The role played by Dinyar Contractor in the show \"Taarak Mehta Ka Ooltah Chashmah\" is \"Sodhis Father-in-Law\".\n\n2. Determine the premiere date of the show \"Taarak Mehta Ka Ooltah Chashmah\".\n   - The show \"Taarak Mehta Ka Ooltah Chashmah\" premiered on July 28, 2008.\n\nNow, combining these insights, we can answer the original question:\n\n<answer>\nThe television show in which the role of Sodhis Father-in-Law was played by Dinyar Contractor premiered on July 28, 2008.\n</answer>",
+ "input_tokens": 2156,
+ "output_tokens": 191,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 18.03
+}

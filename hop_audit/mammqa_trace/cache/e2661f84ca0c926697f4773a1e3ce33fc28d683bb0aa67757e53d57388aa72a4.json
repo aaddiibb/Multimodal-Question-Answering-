@@ -1,0 +1,12 @@
+{
+ "key": "e2661f84ca0c926697f4773a1e3ce33fc28d683bb0aa67757e53d57388aa72a4",
+ "text": "<insights>\n- The table lists players and their injuries during the 2018 Pittsburgh Pirates season.\n- The players mentioned in the images are:\n  1. A pitcher wearing a Houston Astros jersey (Image 1)\n  2. A player wearing a Pittsburgh Pirates jersey (Image 2)\n  3. A pitcher wearing a Washington Nationals jersey (Image 3)\n  4. A player wearing a Pittsburgh Pirates jersey (Image 4)\n  5. A pitcher wearing a Pittsburgh Pirates jersey (Image 5)\n  6. A player wearing a Baltimore Orioles jersey (Image 6)\n  7. A pitcher wearing a Houston Astros jersey (Image 7)\n  8. A player wearing a Tampa Bay Rays jersey (Image 8)\n  9. A player wearing a Pittsburgh Pirates jersey (Image 9)\n  10. A player wearing a Pittsburgh Pirates jersey (Image 10)\n  11. A player wearing a Tampa Bay Rays jersey (Image 11)\n  12. A player wearing a Pittsburgh Pirates jersey (Image 12)\n</insights>\n\n<subanswer>\n- The player throwing with his left hand is Josh Harrison, as he has a fracture of the 5th metacarpal bone in his left hand.\n</subanswer>\n\n<answer>\nThe player who throws with his left hand, Josh Harrison, had a fracture of the 5th metacarpal bone in his left hand on the 10-day disabled list of the Pittsburgh Pirates' 2018 season.\n</answer>",
+ "input_tokens": 4109,
+ "output_tokens": 332,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 44.49
+}

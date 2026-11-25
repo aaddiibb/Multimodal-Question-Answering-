@@ -1,0 +1,12 @@
+{
+ "key": "659b0c542e4ea24c09505864c50242ea12ab50a726a14a14cb7f6a0e5cef4b32",
+ "text": "<answer>Two</answer>",
+ "input_tokens": 992,
+ "output_tokens": 8,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.44
+}

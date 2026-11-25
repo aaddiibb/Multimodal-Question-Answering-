@@ -1,0 +1,12 @@
+{
+ "key": "1cf20a0f315bcf245e813d3d6c7a240094eb2956d637a71f8eded59e3bb8899e",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the teams with a running mammal on their logo.\n2. Determine if any of these teams have a rank of T10 in the list of Most appearances of Cotton Bowl Classic.\n\nFrom the provided text data and images, we can identify the teams with a running mammal on their logo:\n- Texas Tech (Red Raiders logo features a running mammal)\n- Notre Dame (ND logo features a running mammal)\n\nNow, let's check if either of these teams has a rank of T10 in the list of Most appearances of Cotton Bowl Classic.\n\nFrom the table insights:\n- Teams with a rank of T10 have 4 appearances.\n- The teams at T10 rank are: Penn State, Rice, SMU, Houston, Nebraska, Oklahoma State, and Texas Tech.\n\nSince Texas Tech is listed among the teams with a rank of T10, we can conclude that Texas Tech is the team with a running mammal on its logo that had a rank of T10 in the list of Most appearances of Cotton Bowl Classic.\n\n<answer>Texas Tech</answer>",
+ "input_tokens": 3058,
+ "output_tokens": 234,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 27.26
+}

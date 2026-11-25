@@ -1,0 +1,12 @@
+{
+ "key": "8f81ee06a60fab0ed3677eb52d13cd19cfff10363cc86eed92d0339a191e4b3d",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image shows a title card for the television show \"Dublin Murders,\" which features a cover depicting an alleyway between two buildings.</insights>\n\n<answer>Based on the provided image, it appears that the television show \"Dublin Murders\" features an alleyway between two buildings on its cover.</answer>\n\n<subanswer>Is the actress who plays Trixie pregnant?</subanswer>",
+ "input_tokens": 1760,
+ "output_tokens": 101,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 9.65
+}

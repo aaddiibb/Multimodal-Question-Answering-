@@ -1,0 +1,393 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "782b7cd2730063d3406269f49f3abea5",
+  "question": "Who were the stars of the movie whose title begins with \"Meet Me In\" and ends with the name of the city, served by Contour Airlines as a destination, that has a large, metal, archway-shaped sculpture on its shore?",
+  "context_digest": "149bcf9d1b522fb674f5b7b46da29736155e9085cda28e8e580538aa365ad3be",
+  "source_ids": [
+    "84f6e13da4fbfb1a53cb6bb150530819",
+    "2dcf32aaf7d8ef607845dbb5f8137f23"
+  ],
+  "modalities": [
+    "image",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll",
+        "insight": "The movie \"Meet Me in St. Louis\" features these actors.",
+        "raw_output": "ANSWER: Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll\n\nINSIGHT: The movie \"Meet Me in St. Louis\" features these actors."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image shows the Gateway Arch in St. Louis, Missouri, which is served by Contour Airlines. However, there is no information about the movie title or its stars in the provided image.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image shows the Gateway Arch in St. Louis, Missouri, which is served by Contour Airlines. However, there is no information about the movie title or its stars in the provided image."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "Judy Garland",
+        "reason": "The image shows the Gateway Arch in St. Louis, which is served by Contour Airlines as a destination. The movie \"Meet Me in St. Louis\" features Judy Garland among its cast.",
+        "evidence_reference": "[IMAGE: St. Louis, Missouri | id=2dcf32aaf7d8ef607845dbb5f8137f23 | official_file=2dcf32aaf7d8ef607845dbb5f8137f23.jpg]",
+        "raw_output": "ANSWER: Judy Garland\nREASON: The image shows the Gateway Arch in St. Louis, which is served by Contour Airlines as a destination. The movie \"Meet Me in St. Louis\" features Judy Garland among its cast.\nEVIDENCE: [IMAGE: St. Louis, Missouri | id=2dcf32aaf7d8ef607845dbb5f8137f23 | official_file=2dcf32aaf7d8ef607845dbb5f8137f23.jpg]"
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll",
+        "reason": "The movie \"Meet Me in St. Louis\" was starred by these actors, as indicated in the text.",
+        "evidence_reference": "[TEXT: Meet Me in St. Louis | id=84f6e13da4fbfb1a53cb6bb150530819]",
+        "raw_output": "ANSWER: Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll\nREASON: The movie \"Meet Me in St. Louis\" was starred by these actors, as indicated in the text.\nEVIDENCE: [TEXT: Meet Me in St. Louis | id=84f6e13da4fbfb1a53cb6bb150530819]"
+      }
+    },
+    "shared_seconds": 25.93786365699998,
+    "shared_digest": "0ec477ce4668fade57fdb32ade3ab2d1b45ddba8ba75e3f2af805dd02d96ffe7"
+  },
+  "baseline": {
+    "answer": "Judy Garland",
+    "raw_output": "FINAL: Judy Garland",
+    "seconds": 0.7805579670000498,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "Judy Garland",
+    "raw_output": "FINAL: Judy Garland",
+    "seconds": 39.7277469149999,
+    "calls": 9,
+    "format_repair_used": false
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 2,
+      "unique_candidate_count": 2,
+      "consensus_answer": "Judy Garland",
+      "consensus_count": 1,
+      "stage2_disagreement": true,
+      "agreement_type": "full_disagreement"
+    },
+    "dispute_detected": true,
+    "candidate_memory": [
+      {
+        "answer": "Judy Garland",
+        "normalized_answer": "judy garland",
+        "supporting_agents": [
+          "text_anchor"
+        ],
+        "reasons": [
+          "The image shows the Gateway Arch in St. Louis, which is served by Contour Airlines as a destination. The movie \"Meet Me in St. Louis\" features Judy Garland among its cast."
+        ],
+        "evidence_references": [
+          "[IMAGE: St. Louis, Missouri | id=2dcf32aaf7d8ef607845dbb5f8137f23 | official_file=2dcf32aaf7d8ef607845dbb5f8137f23.jpg]"
+        ],
+        "claims": [
+          {
+            "text": "The movie \"Meet Me in St. Louis\" features Judy Garland among its cast.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text confirms that \"Meet Me in St. Louis\" is a musical film starring Judy Garland, which matches the description in the question.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text confirms that \"Meet Me in St. Louis\" is a musical film starring Judy Garland, which matches the description in the question.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "Contour Airlines serves St. Louis as a destination.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text confirms that Contour Airlines serves St. Louis as a destination.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text confirms that Contour Airlines serves St. Louis as a destination.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The Gateway Arch is a large, metal, archway-shaped sculpture located on the shore of St. Louis.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided context confirms that the movie \"Meet Me in St. Louis\" was set in St. Louis, which is known for the Gateway Arch, a large, metal, archway-shaped sculpture located on its shore.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text,image\nEVIDENCE_NOTE: The provided context confirms that the movie \"Meet Me in St. Louis\" was set in St. Louis, which is known for the Gateway Arch, a large, metal, archway-shaped sculpture located on its shore.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "Judy Garland",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      },
+      {
+        "answer": "Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll",
+        "normalized_answer": "judy garland, margaret o'brien, mary astor, lucille bremer, tom drake, leon ames, marjorie main, june lockhart, and joan carroll",
+        "supporting_agents": [
+          "image_anchor"
+        ],
+        "reasons": [
+          "The movie \"Meet Me in St. Louis\" was starred by these actors, as indicated in the text."
+        ],
+        "evidence_references": [
+          "[TEXT: Meet Me in St. Louis | id=84f6e13da4fbfb1a53cb6bb150530819]"
+        ],
+        "claims": [
+          {
+            "text": "The movie \"Meet Me in St. Louis\" was starred by Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text confirms that the movie \"Meet Me in St. Louis\" was starred by the listed actors, which matches the claim.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text confirms that the movie \"Meet Me in St. Louis\" was starred by the listed actors, which matches the claim.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "Contour Airlines serves St. Louis as a destination.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided context confirms that Contour Airlines serves St. Louis as a destination, which matches the claim.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided context confirms that Contour Airlines serves St. Louis as a destination, which matches the claim.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "St. Louis has a large, metal, archway-shaped sculpture on its shore.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided context confirms that \"Meet Me in St. Louis\" is a film set in St. Louis, which matches the claim about the city having a large, metal, archway-shaped sculpture on its shore.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text,image\nEVIDENCE_NOTE: The provided context confirms that \"Meet Me in St. Louis\" is a film set in St. Louis, which matches the claim about the city having a large, metal, archway-shaped sculpture on its shore.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 6,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 315,
+      "original_input_tokens": 315,
+      "output_tokens": 56,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.216744137999967,
+      "image_count": 0,
+      "seed": 3880956626
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 620,
+      "original_input_tokens": 620,
+      "output_tokens": 50,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.33946677300014,
+      "image_count": 1,
+      "seed": 3347335802
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 702,
+      "original_input_tokens": 702,
+      "output_tokens": 126,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 9.576341955000089,
+      "image_count": 1,
+      "seed": 159147215
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 385,
+      "original_input_tokens": 385,
+      "output_tokens": 108,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 7.789834145999976,
+      "image_count": 0,
+      "seed": 1876324590
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 407,
+      "original_input_tokens": 407,
+      "output_tokens": 5,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.7773269130000244,
+      "image_count": 0,
+      "seed": 2062300963
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_extraction_judy garland",
+      "deterministic": true,
+      "input_tokens": 194,
+      "original_input_tokens": 194,
+      "output_tokens": 63,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.438919952999868,
+      "image_count": 0,
+      "seed": 190675368
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 902,
+      "original_input_tokens": 902,
+      "output_tokens": 48,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.479913908000071,
+      "image_count": 1,
+      "seed": 1930760844
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 896,
+      "original_input_tokens": 896,
+      "output_tokens": 35,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.5700577679999697,
+      "image_count": 1,
+      "seed": 2150299403
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 907,
+      "original_input_tokens": 907,
+      "output_tokens": 64,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.572864255000013,
+      "image_count": 1,
+      "seed": 1284736117
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_extraction_judy garland, margaret o'brien, ",
+      "deterministic": true,
+      "input_tokens": 209,
+      "original_input_tokens": 209,
+      "output_tokens": 89,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 6.300404917999913,
+      "image_count": 0,
+      "seed": 3629713070
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 965,
+      "original_input_tokens": 965,
+      "output_tokens": 46,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.405830512999955,
+      "image_count": 1,
+      "seed": 1930760844
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 928,
+      "original_input_tokens": 928,
+      "output_tokens": 40,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.987037318000148,
+      "image_count": 1,
+      "seed": 2150299403
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 934,
+      "original_input_tokens": 934,
+      "output_tokens": 63,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.58703049199994,
+      "image_count": 1,
+      "seed": 1284736117
+    },
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 917,
+      "original_input_tokens": 917,
+      "output_tokens": 5,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 1.3514156270000512,
+      "image_count": 0,
+      "seed": 4206157711
+    }
+  ],
+  "completed_utc": "2026-10-13T19:56:22.760975+00:00"
+}

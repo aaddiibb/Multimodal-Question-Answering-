@@ -1,0 +1,12 @@
+{
+ "key": "ee0ee4205d1370943765a4cb7be088e4141079586f20cd0997539fe63b2f1ae3",
+ "text": "<modality> text </modality>\n\n<insights> The text mentions multiple characters named Anna, but none of them are associated with a TV show whose title screen shows a house. The only mention of a TV show is \"Saara Akaash,\" which is described as a television show broadcast on Star Plus in 2003-2005. However, there is no indication that this show features a house on its title screen.</insights>\n\n<answer> There is no character named Anna Akana playing a role on a TV show whose title screen shows a house based on the provided text.</answer>",
+ "input_tokens": 1952,
+ "output_tokens": 129,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.54
+}

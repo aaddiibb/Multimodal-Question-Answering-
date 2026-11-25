@@ -1,0 +1,12 @@
+{
+ "key": "fea35e6370e84064bbe4e6bb9ea00311843df112a20babb7801e8b7e567ccc22",
+ "text": "<modality> table </modality>\n\n<thora_birch_table>\n| Year | Title | Role | Notes |\n|:---|:---|:---|:---|\n| 1988–1989 | Day by Day | Molly | Recurring role (21 episodes) |\n| 1989 | Doogie Howser, M.D. | Megan | Episode: \"Vinnie Video Vici\" |\n| 1990 | Dark Avenger | Susie Donovan | Television film |\n| 1990 | Married People | Emily | Episode: \"To Live and Drive in New York\" |\n| 1990–1991 | Parenthood | Taylor Buckman | Main role (12 episodes) |\n| 1991 | Amen | Brittany | Episode: \"Nothing Says Lovin...\" |\n| 1994 | Monty | Ann Sherman | Episode: \"Here Comes the Son\" |\n| 1995 | The Outer Limits | Aggie Travers | Episode: \"The Choice\" |\n| 1997 | Promised Land | Allison Rhodes | Episode: \"Running Scared\" |\n| 1997 | Touched by an Angel | Erin | Episode: \"The Pact\" |\n| 1999 | Night Ride Home | Clea Mahler | Television film |\n| 2002 | Night Visions | Susan Thornhill | Episode: \"The Maze\" |\n| 2003 | Homeless to Harvard: The Liz Murray Story | Elizabeth \"Liz\" Murray | Television film |\n| 2005 | My Life as a Teenage Robot | Vega (voice) | Episode: \"Escape from Cluster Prime\" |\n| 2010 | The Pregnancy Pact | Sidney Bloom | Television film |\n| 2016 | Colony | Morgan | Recurring role (2 episodes) |\n| 2019–present | The Walking Dead | Gamma/Mary | Recurring role (season 10) |\n</thora_birch_table>\n\n<insights>\nThe table lists various TV programs",
+ "input_tokens": 1064,
+ "output_tokens": 448,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 29.54
+}

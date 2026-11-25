@@ -1,0 +1,12 @@
+{
+ "key": "69b071e1feb692498dc1783d4bf4d9fdd2d79aedd32b62e5796623651feba823",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no textual or tabular data provided in the images. The images depict various scenes such as a cityscape, a university logo, and a cross, but none of them contain the necessary information to answer the question about the institution joining the Mid-South Conference.</insights>\n\n<answer>Based on the provided images, there is insufficient information to determine when the institution with an enrollment of 1057 joined the Mid-South Conference.</answer>",
+ "input_tokens": 2650,
+ "output_tokens": 113,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.05
+}

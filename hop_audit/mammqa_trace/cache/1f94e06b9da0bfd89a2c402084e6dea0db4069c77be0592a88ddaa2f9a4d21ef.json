@@ -1,0 +1,12 @@
+{
+ "key": "1f94e06b9da0bfd89a2c402084e6dea0db4069c77be0592a88ddaa2f9a4d21ef",
+ "text": "The text does not contain any information about a film featuring a train on the poster. Therefore, there is no role for the title that features a train on the poster in Nona Gaye films.\n\n<answer>There is no information provided about a film featuring a train on the poster in the given text.</answer>",
+ "input_tokens": 1532,
+ "output_tokens": 65,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 6.96
+}

@@ -1,0 +1,12 @@
+{
+ "key": "ed07308cf1da743b28b002768a2e236fe92ecbb24efb3061fd1c23783e76f0a9",
+ "text": "<modality> text </modality>\n\n<insights>\n- Ali Daei was born in 1969.\n- Mehdi Mahdavikia was born in 1977.\n- The Iran national football team player with the most matches as captain active between 1993 and 2006 is Ali Daei.\n</insights>\n\n<answer>\nAli Daei was born in 1969, which is earlier than Mehdi Mahdavikia's birth year of 1977. Therefore, the older football player born out of Mehdi Mahdavikia and the Iran national football team player with the most matches as captain active between 1993 and 2006 is Ali Daei.\n</answer>",
+ "input_tokens": 1912,
+ "output_tokens": 169,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.32
+}

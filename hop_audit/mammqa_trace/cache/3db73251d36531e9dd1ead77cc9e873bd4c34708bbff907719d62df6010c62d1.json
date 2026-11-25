@@ -1,0 +1,12 @@
+{
+ "key": "3db73251d36531e9dd1ead77cc9e873bd4c34708bbff907719d62df6010c62d1",
+ "text": "The question asks about the date when the institution with the nickname \"Seahawks\" joined the Mid-South conference. However, there is no mention of such an institution joining the Mid-South conference in the provided text data. The table insight indicates that Keiser University, which has the nickname \"Seahawks,\" joined the Mid-South conference in 2018. Therefore, the question seems to be based on incorrect assumptions or missing context.\n\nTo answer the question directly:\n\n<answer>There is no institution with the nickname \"Seahawks\" that joined the Mid-South conference according to the provided text data.</answer>",
+ "input_tokens": 3897,
+ "output_tokens": 130,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 21.66
+}

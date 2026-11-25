@@ -1,0 +1,12 @@
+{
+ "key": "17d97ca5a12a8196e13f91ca63fc8119d0bcb3256d680dfd9cc0a20434e6085c",
+ "text": "<modality> image </modality>\n\n<insights> The image showcases various landmarks including a large white building with a dome in the middle of its roof, which resembles the Minnesota State Capitol Building. This structure is known to be located in St. Paul, Minnesota.</insights>\n\n<answer> The lead in the 2018 US Open of Curling for the women's team at the Minnesota State Capitol Building was Jamie Sinclair. </answer>",
+ "input_tokens": 2302,
+ "output_tokens": 94,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 11.15
+}

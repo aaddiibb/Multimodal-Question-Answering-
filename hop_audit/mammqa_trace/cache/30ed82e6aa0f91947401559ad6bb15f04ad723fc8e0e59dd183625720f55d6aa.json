@@ -1,0 +1,12 @@
+{
+ "key": "30ed82e6aa0f91947401559ad6bb15f04ad723fc8e0e59dd183625720f55d6aa",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a title card for the TV series \"Lewis\" featuring two men standing side by side in formal attire. The background includes a building with a clock tower.</insights>\n\n<answer>There is no information about the structure behind the men in the cover of the image provided.</answer>",
+ "input_tokens": 2159,
+ "output_tokens": 73,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.49
+}

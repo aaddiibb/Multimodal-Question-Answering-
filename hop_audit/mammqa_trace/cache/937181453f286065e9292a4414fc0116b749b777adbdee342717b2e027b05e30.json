@@ -1,0 +1,12 @@
+{
+ "key": "937181453f286065e9292a4414fc0116b749b777adbdee342717b2e027b05e30",
+ "text": "<modality> text </modality>\n\n<insights> The text does not contain any information about a music video from Brandy's 2010s directed by Mike Ho. The provided text only lists Brandy's collaborations with various directors but does not specify the year or the director's name.</insights>\n\n<answer> There is no information available in the provided text regarding a music video from Brandy's 2010s directed by Mike Ho.</answer>",
+ "input_tokens": 1786,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.14
+}

@@ -1,0 +1,12 @@
+{
+ "key": "3c3405aa86800f638deef58d99bd590c1d5911a8890b69dbe8d92947242e542c",
+ "text": "<modality>image</modality>\n\n<insights>The image is a movie poster for \"The Dukes of Hazzard,\" which prominently features a vehicle, specifically a car, in the background. The title screen includes the text \"THE DUKES OF HAZZARD\" along with the logo of the General Lee, a famous car used in the series.</insights>\n\n<answer>Sam Melville played Rick in the show \"The Dukes of Hazzard,\" which featured the General Lee, a vehicle associated with the title screen.</answer>",
+ "input_tokens": 1154,
+ "output_tokens": 116,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 8.81
+}

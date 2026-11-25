@@ -1,0 +1,12 @@
+{
+ "key": "02e3ad670ce92c0d553abf62770a9ab09a849a6812001d903c3fad228d04a0c1",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a movie poster titled \"Battlefield America\" with the tagline \"Where Kids Rule\". The poster features a group of young individuals performing a dance routine.</insights>\n\n<answer>Based on the provided images, the movie \"Battlefield America\" is the one that shows two guys riding surfboards on its cover.</answer>",
+ "input_tokens": 1604,
+ "output_tokens": 82,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 8.19
+}

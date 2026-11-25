@@ -1,0 +1,12 @@
+{
+ "key": "c49fc03ca9e800d98cd1ad823208f89b069ebc3558330bc19c24580c39bda93c",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts the emblem of the Government of West Bengal, featuring a globe with a triangle and the text \"Govt. of West Bengal\" below it. The emblem also includes the Bengali script for \"West Bengal\" at the top.</insights>\n\n<answer>No, Himachal Pradesh is not located on the border of the Indian state that is served by urban trams and which features a white building with multiple domes. The image provided does not depict such a location.</answer>",
+ "input_tokens": 3289,
+ "output_tokens": 113,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 17.03
+}

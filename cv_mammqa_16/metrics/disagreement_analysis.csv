@@ -1,0 +1,2 @@
+total_disagreement_questions,gold_candidate_available_in_disagreement,baseline_correct_disagreement,cv_correct_disagreement,baseline_EM_disagreement,cv_EM_disagreement,baseline_F1_disagreement,cv_F1_disagreement,disagreement_resolution_accuracy_baseline,disagreement_resolution_accuracy_cv,agreement_questions,baseline_EM_agreement,cv_EM_agreement,baseline_F1_agreement,cv_F1_agreement,CV_help_count,CV_harm_count,net_gain
+1,1,0,0,0.0,0.0,0.18181818181818182,0.18181818181818182,0.0,0.0,2,1.0,1.0,1.0,1.0,0,0,0

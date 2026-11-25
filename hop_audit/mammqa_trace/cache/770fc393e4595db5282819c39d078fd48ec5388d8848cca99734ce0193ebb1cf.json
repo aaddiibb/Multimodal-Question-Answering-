@@ -1,0 +1,12 @@
+{
+ "key": "770fc393e4595db5282819c39d078fd48ec5388d8848cca99734ce0193ebb1cf",
+ "text": "<modality> text </modality>\n\n<insights> The text provides information about the most-liked photos on Instagram but does not specify the object held by the person whose photo has the most likes. The most-liked photo mentioned is Beyoncé's twin pregnancy announcement with over 11 million likes.</insights>\n\n<answer> The question cannot be directly answered based on the provided text. The text does not specify the object held by the person whose photo has the most likes on Instagram.</answer>",
+ "input_tokens": 1865,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.66
+}

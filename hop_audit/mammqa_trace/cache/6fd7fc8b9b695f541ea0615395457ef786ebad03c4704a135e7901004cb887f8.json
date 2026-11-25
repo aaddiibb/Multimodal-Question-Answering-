@@ -1,0 +1,12 @@
+{
+ "key": "6fd7fc8b9b695f541ea0615395457ef786ebad03c4704a135e7901004cb887f8",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about various college athletic conferences, including their locations and affiliations.\n- The National Association of Intercollegiate Athletics (NAIA) is mentioned but does not specify a headquarters location.\n- The Women's College World Series is mentioned, but its location is Oklahoma City.\n</insights>\n\n<answer>\nBased on the provided text, there is no explicit mention of a headquarters in Wichita, Kansas, nor is there a clear indication of the number of NAIA football conferences associated with a specific location. The text does not provide enough information to directly compare the number of members in NAIA football conferences between a hypothetical headquarters in Wichita, Kansas, and the location of the Women's College World Series, which is Oklahoma City.\n</answer>",
+ "input_tokens": 1813,
+ "output_tokens": 166,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.51
+}

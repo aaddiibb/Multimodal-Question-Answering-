@@ -1,0 +1,12 @@
+{
+ "key": "ae97f53d79ba5cded33e37b41706796754aa3cc876f7832a86834a8246fc07bd",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists movies where Alex Wolff has acted.\n- The role \"Bennett\" appears in the movie \"My Big Fat Greek Wedding 2\".\n- The year of the movie \"My Big Fat Greek Wedding 2\" is 2016.\n</insights>\n\n<answer>\nThe movie featuring Alex Wolff as Bennett premiered in 2016.\n</answer>",
+ "input_tokens": 1070,
+ "output_tokens": 93,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.87
+}

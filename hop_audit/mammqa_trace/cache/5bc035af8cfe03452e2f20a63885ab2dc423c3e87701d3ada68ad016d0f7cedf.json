@@ -1,0 +1,12 @@
+{
+ "key": "5bc035af8cfe03452e2f20a63885ab2dc423c3e87701d3ada68ad016d0f7cedf",
+ "text": "<answer>Connor</answer>",
+ "input_tokens": 914,
+ "output_tokens": 8,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.41
+}

@@ -1,0 +1,12 @@
+{
+ "key": "9576caeb0a89acd19e42d0854330694b691a367f7bdb4fb49fa9a732c99df8b1",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks about a TV program where Thora Birch appeared during a specific year, and the program's branding included a PC on its poster.\n\n### Step 2: Extract Relevant Insights\nFrom the table:\n- Thora Birch appeared in multiple TV programs across different years.\n- The programs listed do not mention any PC branding on their posters.\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the year during which Thora Birch appeared on TV.\n2. Determine if there is a TV program from that year where the branding includes a PC.\n\n### Step 4: Answer the Subquestions\n#### Subquestion 1: Identify the year during which Thora Birch appeared on TV.\nBased on the table, the years when Thora Birch appeared on TV are:\n- 1988–1989\n- 1989\n- 1990\n- 1990–1991\n- 1991\n- 1994\n- 1995\n- 1997\n- 1997\n- 1999\n- 2002\n- 2003\n- 2005\n- 2010\n- 2016\n- 2019–present\n\n#### Subquestion 2: Determine if there is a TV program from that year where the branding includes a PC.\nSince the table does not provide information about the branding of the TV programs' posters, we cannot determine if any of the programs had PC branding based solely on the given data.\n\n### Final Answer\nBased on the available data, it is not possible to identify a TV program where Thora Birch appeared during a specific year and the program's branding included a PC on its poster. The table only provides information about the years during which she appeared on TV but does not specify the branding details of the programs' posters.",
+ "input_tokens": 3353,
+ "output_tokens": 422,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 47.43
+}

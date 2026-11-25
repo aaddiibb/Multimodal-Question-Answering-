@@ -1,0 +1,12 @@
+{
+ "key": "df367b97dfa4cc047b6b7e22d9f0b85b6249ae68336504445c9d10c3797862e4",
+ "text": "Based on the provided information, there is no match during the 2015 League 1 Cup where the home team has a visiting opponent with a logo featuring a bear. The logos shown do not feature bears. Therefore, the answer to the question is:\n\n<answer>There is no match during the 2015 League 1 Cup where the home team has a visiting opponent with a logo featuring a bear.</answer>",
+ "input_tokens": 2188,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 9.87
+}

@@ -1,0 +1,12 @@
+{
+ "key": "8abfa20a57c01045d71a75c07ea3537a9bbebfb8d565ff0f3cab2227a8f014a8",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the artist: Brandy\n2. Determine the decade: 2010s\n3. Find the year when Mike Ho directed a music video for Brandy\n4. Identify the music video from that year\n\nFrom the provided table insights:\n- Mike Ho directed the music video \"Beggin & Pleadin\" in 2016.\n\nNow, let's answer the subquestions:\n\n1. The artist is Brandy.\n2. The decade is 2010s.\n3. The year when Mike Ho directed a music video for Brandy is 2016.\n4. The music video from that year is \"Beggin & Pleadin\".\n\nTherefore, the answer to the original question is:\n\n<answer> \"Beggin & Pleadin\" </answer>",
+ "input_tokens": 2533,
+ "output_tokens": 181,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 18.49
+}

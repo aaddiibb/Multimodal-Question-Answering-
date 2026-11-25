@@ -1,0 +1,12 @@
+{
+ "key": "4285a8e1eb38c32216f72ef9e3c6fcc110d774d02ec4a4f8ce91602e2135a468",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks for the real name associated with the person having shoulder-length hair among the freelancers of Big Japan Pro Wrestling.\n\n### Step 2: Extract Relevant Insights\nFrom the image insights:\n- There is one wrestler with shoulder-length hair.\n\nFrom the text data:\n- We need to identify freelancers of Big Japan Pro Wrestling.\n- We need to find the real name associated with the person having shoulder-length hair.\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the freelancers of Big Japan Pro Wrestling.\n2. Determine if any of these freelancers have shoulder-length hair.\n3. Find the real name associated with the person having shoulder-length hair.\n\n### Step 4: Answer the Subquestions\n\n#### Subquestion 1: Identify the freelancers of Big Japan Pro Wrestling\nFrom the table:\n- Brahman Kei\n- Brahman Shu\n- Hercules Senga\n- Hideki Suzuki\n- Isami Kodaka\n- Madoka\n- Manabu Soya\n- Masashi Takeda\n- Masato Inaba\n- Onryo\n- Shinobu\n- Tsutomu Oosugi\n- Yuko Miyamoto\n\nThese individuals are freelancers of Big Japan Pro Wrestling.\n\n#### Subquestion 2: Determine if any of these freelancers have shoulder-length hair\nNone of the freelancers listed in the table have shoulder-length hair. The table does not provide any information about their hairstyles.\n\n#### Subquestion 3: Find the real name associated with the person having shoulder-length hair\nSince none of the freelancers have shoulder-length hair, there is no real name associated with a person having shoulder-length hair among the freelancers of Big Japan Pro Wrestling.\n\n### Final Answer\nThere is no real name associated with a person having shoulder-length hair among the freelancers of Big Japan Pro Wrestling.",
+ "input_tokens": 1860,
+ "output_tokens": 401,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 32.23
+}

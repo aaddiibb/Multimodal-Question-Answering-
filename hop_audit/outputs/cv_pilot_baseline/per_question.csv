@@ -1,0 +1,17 @@
+qid,type,label,em,f1,final_abstain,prediction,gold,n_latent_hops,hop_statuses,agents_committed_gold,agents_mentioning_gold
+64dabbb94b37ab25d973157fe27b5417,"Intersect(ImageListQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,True,INSUFFICIENT,James Taylor,2,REACHED;REACHED,,S1.text;S2.text
+782b7cd2730063d3406269f49f3abea5,"Compose(TextQ,ImageListQ)",AGGREGATION_LOSS,0.0,0.1905,False,Judy Garland,"Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll",1,REACHED,S1.text;S2.image,S1.text;S2.image
+5219198c4be50e67c67c373f1afdf797,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,Supriya Shukla,Sunaina,1,REACHED,,
+df1baba3c38afb8cb6574f05de962c94,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",EXTRACTION_FAILURE,0.0,0.0,True,INSUFFICIENT,Ryan Giggs,2,REACHED;NOT_SURFACED,,
+ad36bba97d42a17ea3d3dcdd8c4ccfcc,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,True,INSUFFICIENT,James Patrick Caviezel,1,LOST_IN_HANDOFF,S1.text,S1.text;S2.table
+cdc57d98ce583c80ab41090c89775274,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,1990,"July 18 to November 23, 1989",1,REACHED,,
+113e5d95caf0f6353818a711ef39f8ff,"Intersect(TableQ,TextQ)",EXTRACTION_FAILURE,0.0,0.0,True,INSUFFICIENT,Essendon,2,NOT_SURFACED;NOT_SURFACED,,
+9618d36556c0c2f3b5ee6ff644001a6d,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,INSUFFICIENT,2010,1,REACHED,,
+3683bfbecf12a74cd7d6f7da9f8ab17a,"Compare(Compose(TableQ,ImageQ),TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,INSUFFICIENT,SuperGrid,1,REACHED,,
+e950ebf7c5f25a971d748b883fc181db,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Orange,orange,1,REACHED,S1.image;S2.image,
+e596d17f170cdf8a707a8e11962ee301,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,INSUFFICIENT,yes,1,REACHED,,
+2f7dc1705f3baa62fd582c6a9057b88e,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,True,INSUFFICIENT,1976,1,REACHED,,
+669991e1b5edfd99ac207019ea8d8300,ImageQ,EXTRACTION_FAILURE,0.0,0.0,True,INSUFFICIENT,harpoon,0,,,
+1243970ae9a1c61005808b1cca886948,TextQ,CORRECT,1.0,1.0,False,Turkey,Turkey,0,,S1.text;S2.text,S1.text;S2.text
+30b210f40a1a8ef43170149dff7a18bc,TextQ,CORRECT,1.0,1.0,False,Yes,yes,0,,S1.text;S2.text,
+7173374c77f1c27e397663c455501bba,ImageListQ,EXTRACTION_FAILURE,0.0,0.0,True,INSUFFICIENT,Bell UH-1 Iroquois | Mil Mi-24 | Mil Mi-8,0,,,

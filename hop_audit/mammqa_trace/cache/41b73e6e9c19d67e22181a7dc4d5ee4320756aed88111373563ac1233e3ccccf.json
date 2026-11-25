@@ -1,0 +1,12 @@
+{
+ "key": "41b73e6e9c19d67e22181a7dc4d5ee4320756aed88111373563ac1233e3ccccf",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for \"Air Bud: Most Valuable Primate,\" which features a chimpanzee prominently on the poster. This aligns with the description in the question about a film project featuring a chimpanzee on its title poster.</insights>\n\n<answer>The Aaron Smolinski film project that features a chimpanzee on its title poster, \"Air Bud: Most Valuable Primate,\" was released.</answer>",
+ "input_tokens": 1469,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 9.13
+}

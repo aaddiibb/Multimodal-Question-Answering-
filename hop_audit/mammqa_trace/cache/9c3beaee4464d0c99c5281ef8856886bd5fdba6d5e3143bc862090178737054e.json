@@ -1,0 +1,12 @@
+{
+ "key": "9c3beaee4464d0c99c5281ef8856886bd5fdba6d5e3143bc862090178737054e",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the song title that matches the description.\n2. Determine if the original artist has blonde hair longer than their shoulders.\n3. If so, find the duration of the song from the table.\n\nBased on the provided text data, there are no songs matching the description of having an original artist with blonde hair longer than their shoulders. Therefore, the answer to the question is:\n\n<answer>There is no song on the Juliana Hatfield track listing that was originally sung by an artist with blonde hair that is longer than her shoulders.</answer>",
+ "input_tokens": 4195,
+ "output_tokens": 122,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 23.27
+}

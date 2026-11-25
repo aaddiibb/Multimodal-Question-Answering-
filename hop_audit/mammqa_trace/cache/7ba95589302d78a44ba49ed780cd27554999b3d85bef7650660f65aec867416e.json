@@ -1,0 +1,12 @@
+{
+ "key": "7ba95589302d78a44ba49ed780cd27554999b3d85bef7650660f65aec867416e",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a poster for the movie \"Children of the Damned\" which features a web on its poster.</insights>\n\n<answer>The year the English actress Sheila Allen appeared in a movie with a web on its poster was 1968.</answer>",
+ "input_tokens": 1956,
+ "output_tokens": 67,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 8.32
+}

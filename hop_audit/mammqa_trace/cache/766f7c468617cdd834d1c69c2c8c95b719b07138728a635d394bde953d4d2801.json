@@ -1,0 +1,12 @@
+{
+ "key": "766f7c468617cdd834d1c69c2c8c95b719b07138728a635d394bde953d4d2801",
+ "text": "<modality>image</modality>\n\n<insights>The images provided do not contain any textual information about Wes Johnson being a voice actor for either \"The Elder Scrolls V: Skyrim\" or the World of Warcraft expansion. The images shown are for \"Oblivion,\" \"Morrowind,\" \"Hammer & Sickle,\" \"Shivering Isles,\" \"Star Trek Conquest,\" \"Star Trek Legacy,\" \"World of Warcraft: Battle for Azeroth,\" \"The Elder Scrolls V: Skyrim,\" \"Fallout 4,\" \"Fallout 3,\" \"Unreal II: The Awakening,\" \"Octopath Traveler,\" and \"The Elder Scrolls Legends.\" None of these games are directly related to the question.</insights>\n\n<answer>Based on the provided images, there is no information about Wes Johnson being a voice actor for either \"The Elder Scrolls V: Skyrim\" or the World of Warcraft expansion. Therefore, it cannot be determined which game he voiced first between these two options.</answer>",
+ "input_tokens": 2099,
+ "output_tokens": 206,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 19.54
+}

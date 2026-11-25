@@ -1,0 +1,12 @@
+{
+ "key": "6ebee06fdf4d033c92923753cf93e0babd0504437a74e22345c2d377fe5dbaa6",
+ "text": "<answer>Week 7</answer>",
+ "input_tokens": 1614,
+ "output_tokens": 10,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.59
+}

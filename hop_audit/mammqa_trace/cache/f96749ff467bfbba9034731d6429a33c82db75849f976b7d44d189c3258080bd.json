@@ -1,0 +1,12 @@
+{
+ "key": "f96749ff467bfbba9034731d6429a33c82db75849f976b7d44d189c3258080bd",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image is a promotional poster for the movie \"Rocketman,\" which features Taron Egerton as Elton John. The poster also includes the text \"TARON EGERTON IS ELTON JOHN\" and \"ROCKETMAN IN CINEMAS MAY 29.\" This suggests that Taron Egerton played Elton John in the movie.</insights>\n\n<answer>Taron Egerton played Elton John in the movie \"Rocketman.\"</answer>\n\n<subanswer>Did Taron Egerton play Elton John?</subanswer>",
+ "input_tokens": 2394,
+ "output_tokens": 130,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 14.27
+}

@@ -1,0 +1,12 @@
+{
+ "key": "efebe89f9d4235f2212243f53f2bc8fe73ae37029a7ddccc96109907894ead0c",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks about the channels where Fazila Kaiser's works in her select filmography were featured during the year she worked on the show \"Ghairat.\"\n\n#### Insights from the Image:\n- The image mentions \"Ghairat\" as a television show airing on ARY Digital.\n\n#### Insights from the Text Data:\n- Fazila Kaiser worked on \"Ghairat\" in 2017.\n- The table shows that Fazila Kaiser worked on \"Ghairat\" on ARY Digital.\n\n#### Insights from the Markdown Table:\n- Fazila Kaiser worked on \"Ghairat\" in 2017 on ARY Digital.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. What year did Fazila Kaiser work on \"Ghairat\"?\n2. Which channel featured Fazila Kaiser's works in her select filmography during this year?\n\n### Step 3: Answer the Subquestions\n\n1. **What year did Fazila Kaiser work on \"Ghairat\"?**\n   - From the image and the table, we can see that Fazila Kaiser worked on \"Ghairat\" in 2017.\n\n2. **Which channel featured Fazila Kaiser's works in her select filmography during this year?**\n   - From the image and the table, we can see that Fazila Kaiser worked on \"Ghairat\" on ARY Digital.\n\n### Final Answer\n\nFazila Kaiser's works in her select filmography were featured on ARY Digital during the year she worked on \"Ghairat.\"",
+ "input_tokens": 1874,
+ "output_tokens": 341,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 27.77
+}

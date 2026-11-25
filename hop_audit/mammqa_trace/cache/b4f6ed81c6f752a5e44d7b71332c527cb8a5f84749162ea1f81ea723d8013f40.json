@@ -1,0 +1,12 @@
+{
+ "key": "b4f6ed81c6f752a5e44d7b71332c527cb8a5f84749162ea1f81ea723d8013f40",
+ "text": "The provided data does not contain any information related to the 1998-99 Biathlon World Cup or the specific question asked. Therefore, I cannot extract relevant insights or provide an answer based on the given information.",
+ "input_tokens": 4547,
+ "output_tokens": 47,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 15.61
+}

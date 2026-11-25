@@ -1,0 +1,12 @@
+{
+ "key": "3bfb129e3c1f1c261dcca6e4e7c5e5ad3e8665c50b48f8792c519f3118735f87",
+ "text": "The text insight indicates that there is no information about a city with a statue holding one arm above its head. The images provided show various cities in Ukraine, but none of them appear to have a statue holding one arm above its head. Therefore, we cannot determine which venue is listed in the home venues record for the Ukraine national football team in such a city.\n\n<answer>\nBased on the provided data, it is not possible to answer the question about the venues listed in the home venues record for the Ukraine national football team in a city with a statue holding one arm above its head.\n</answer>",
+ "input_tokens": 2811,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 16.1
+}

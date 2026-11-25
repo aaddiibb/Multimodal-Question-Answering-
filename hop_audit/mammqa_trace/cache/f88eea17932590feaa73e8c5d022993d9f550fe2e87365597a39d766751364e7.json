@@ -1,0 +1,12 @@
+{
+ "key": "f88eea17932590feaa73e8c5d022993d9f550fe2e87365597a39d766751364e7",
+ "text": "<modality>image</modality>\n\n<insights>The emblem for the team that was the home team in round 4 of the 2002 Finnish Cup with a Tie no of 190 is shown in the image. The emblem features a soccer ball at the bottom and a crown above it.</insights>\n\n<answer>The item on the top of the emblem is a crown.</answer>",
+ "input_tokens": 1799,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 8.76
+}

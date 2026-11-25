@@ -1,0 +1,12 @@
+{
+ "key": "76248f93b29e22d9bc238f53631ebba271d0810903f831ae2d1adc17ccce9965",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about multiple national parks in different states of India.\n- The question asks about a national park that is the main natural habitat of rhinoceros in northeast India.\n- The text mentions several national parks including Kaziranga National Park, Gorumara National Park, and Jaldapara National Park.\n- Kaziranga National Park is specifically mentioned as being in Assam, which is in northeast India.\n</insights>\n\n<answer>\nAssam, northeast India, has a national park that is the main natural habitat of rhinoceros.\n</answer>\n\n<subanswer>\nKaziranga National Park is the national park in Assam that serves as the main natural habitat for rhinoceros.\n</subanswer>",
+ "input_tokens": 1973,
+ "output_tokens": 167,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.43
+}

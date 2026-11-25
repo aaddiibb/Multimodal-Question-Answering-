@@ -1,0 +1,12 @@
+{
+ "key": "d776c951f5dc0675d93c98b0a7c420c7a30ed90d3b72e957c76742d477fc4efa",
+ "text": "Based on the provided table insights and multimodal inputs, let's break down the question into simpler subquestions:\n\n1. **Which game features a cover showing a gun-wielding man?**\n   - From the multimodal inputs, we see that the game with a cover showing a gun-wielding man is \"World of Warcraft: Battle for Azeroth.\"\n\n2. **Which game was Wes Johnson involved in earlier: Fallout 4 or World of Warcraft: Battle for Azeroth?**\n   - According to the table insights, Wes Johnson worked on multiple games including Fallout 4 and World of Warcraft: Battle for Azeroth.\n   - The game with a cover showing a gun-wielding man is World of Warcraft: Battle for Azeroth.\n   - We need to determine the release dates of these games to answer which one Wes Johnson was involved in earlier.\n\n3. **What are the release dates of Fallout 4 and World of Warcraft: Battle for Azeroth?**\n   - Fallout 4 was released in 2015.\n   - World of Warcraft: Battle for Azeroth was released in 2018.\n\nNow, let's answer the original question:\n\n<answer>\nWes Johnson was involved in the game World of Warcraft: Battle for Azeroth earlier than Fallout 4.\n</answer>",
+ "input_tokens": 3275,
+ "output_tokens": 272,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 31.93
+}

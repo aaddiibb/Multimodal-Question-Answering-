@@ -1,0 +1,12 @@
+{
+ "key": "6c7a02c3d69c94b0e1066112e627b83d48f8e225b94f20167eb0b4daa43ea57b",
+ "text": "<modality>image</modality>\n\n<insights>The image provided does not contain any textual information about the year when Jacob Perez worked on a show. The image appears to be a logo for \"Big Time Rush,\" which is a television series, but there is no indication of the year it aired.</insights>\n\n<answer>There is insufficient information in the image to determine the year when Jacob Perez worked on a show.</answer>",
+ "input_tokens": 1718,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 8.8
+}

@@ -1,0 +1,12 @@
+{
+ "key": "bf3cf23cdf884b8659efba635bc9e50901a02d7e9a80c48601fada98889d8342",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a musical performance titled \"Grease,\" which is a rock-and-roll musical comedy hit. The poster features a band playing instruments, suggesting a live performance setting.</insights>\n\n<answer>Grease</answer>\n\n<subanswer>Grease</subanswer>",
+ "input_tokens": 1743,
+ "output_tokens": 75,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 7.88
+}

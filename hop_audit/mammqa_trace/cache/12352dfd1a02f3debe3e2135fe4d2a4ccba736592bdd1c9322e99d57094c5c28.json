@@ -1,0 +1,12 @@
+{
+ "key": "12352dfd1a02f3debe3e2135fe4d2a4ccba736592bdd1c9322e99d57094c5c28",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\n#### Text Insight:\n- The surname Fletcher has English, Scottish, and Irish origins.\n- Fletcher is derived from the Middle English, Old English \"Fulcher\" or Old French flech(i)er.\n- The English word was borrowed into the Goidelic languages, leading to the development of the Scottish name \"Mac an Fhleisteir\" (also spelt \"Mac an Fhleisdeir\"), \"the arrowsmith's son\".\n\n#### Table Insight:\n- Star India's channels and their languages:\n  - Star One: Hindi\n  - Life OK: Hindi\n  - Star Movies Action: English\n  - FX: English\n  - Fox Crime: Hindi, English\n  - Star Sports 4: English\n  - Star News: Hindi\n  - Channel V: Hindi\n  - Nat Geo People: English\n  - Nat Geo Music: English\n  - Star Bharat: Hindi\n  - ABP News: Hindi\n  - Star One: Hindi\n  - Star Viva: Hindi\n  - Star Movies Action: English\n  - Fox Crime: Hindi, English\n\n#### Image Insights:\n- Star Bharat logo (Hindi)\n- Star One logo (Hindi)\n- Star Viva logo (Hindi)\n- Star Movies Action logo (English)\n- Fox Crime logo (Hindi, English)\n\n### Step 2: Break Down the Question into Subquestions\n\n1. What is the language associated with the surname Fletcher?\n2. Which channel of Star India is the language of the surname Fletcher associated with?\n\n### Step 3: Extract Relevant Insights\n\nFrom the text insight:\n- The surname Fletcher has Scottish origins, specifically \"Mac an Fhleisteir\" in Scottish Gaelic.\n\nFrom the table insight:\n- Star Bharat is the channel associated with the language of Scottish Gaelic.\n\n### Step 4: Formulate Answers\n\n1. The language associated with the surname Fletcher is Scottish Gaelic.\n2. The channel of Star India where the language of the surname Fletcher is associated is Star Bharat.\n\n### Final Answer\n\n<answer>The language extract that the surname Fletcher comes from, which is also the language of the defunct general entertainment channel of Star India, is Scottish Gaelic.</answer>",
+ "input_tokens": 2066,
+ "output_tokens": 475,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 40.54
+}

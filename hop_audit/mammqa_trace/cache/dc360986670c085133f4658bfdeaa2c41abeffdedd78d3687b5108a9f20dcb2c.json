@@ -1,0 +1,12 @@
+{
+ "key": "dc360986670c085133f4658bfdeaa2c41abeffdedd78d3687b5108a9f20dcb2c",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various titles created by Toru Iwatani along with their release years.\n- The titles mentioned in the question are \"Pac-Man\" and \"Libble Rabble\".\n- \"Pac-Man\" was released in 1980.\n- \"Libble Rabble\" was released in 1983.\n</insights>\n\n<answer>\n\"Libble Rabble\" was released more recently than \"Pac-Man\".\n</answer>",
+ "input_tokens": 813,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.36
+}

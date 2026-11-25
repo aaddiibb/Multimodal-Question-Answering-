@@ -1,0 +1,12 @@
+{
+ "key": "b68243c3da04e84155dc14f8e398af7116b4618dbe8d598cf8e42e8f96a4083b",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists players who have played for the Iran national football team.\n- The column 'Years active' provides the range of years each player has been active.\n- The column 'Matches as captain' indicates the number of matches each player has captained.\n- Mehdi Mahdavikia is listed with the most caps at 110.\n- The player with the most matches as captain active between 1993 and 2006 is Ali Daei with 80 matches as captain.\n</insights>\n\n<answer>\nAli Daei is the player with the most matches as captain active between 1993 and 2006.\n</answer>\n\n<subanswer>\nMehdi Mahdavikia is the older football player born out of the Iran national football team.\n</subanswer>",
+ "input_tokens": 989,
+ "output_tokens": 188,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.37
+}

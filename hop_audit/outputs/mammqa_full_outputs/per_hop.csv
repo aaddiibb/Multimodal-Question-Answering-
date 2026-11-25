@@ -1,0 +1,14 @@
+qid,hop_index,items,modalities,in_context,status,first_stage_surfaced,surfaced_by,raw_available_to,final_text_mentions,channels
+710a6d2254076ea58756c6c7cc211f1e,0,The Bad News Bears,table,True,REACHED,2,S2.text,S1.table;S2.text;S2.image,False,
+0d8f2779137fb47db953c4af5247ffe5,0,The Bad News Bears,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+e240f5fe65b39eee70d3576cff88fe5a,0,"Tell Me That You Love Me, Junie Moon",image,False,NO_EVIDENCE,,,,False,
+4ed96e69a31b726165be584f61e9eb54,0,2019–20,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+d82d381af11d76d8a70601251ecb8ca5,0,Hollywood Park Racetrack,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+471a2c824769af89d5d77a881462c775,0,Kentucky Derby,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+d82159f62e879044fba10f810f13e40c,0,Kentucky Derby,table,True,REACHED,1,S1.text;S2.text,S1.table;S2.text;S2.image,False,
+3344a76645a7f19f211715e808f5dcb7,0,Kentucky Derby,table,True,REACHED,1,S1.text;S2.text,S1.table;S2.text;S2.image,False,
+ec9d3b4ac6a30bb982f0173384fac319,0,Kentucky Derby,table,True,REACHED,2,S2.text,S1.table;S2.text;S2.image,False,
+d8e9287f05d916923669b03d654bde4d,0,Kentucky Derby,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+9d75888800a78297a2f47b124e58cdfc,0,Santa Anita Park,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+22c2cdbcd854e49b33b67db7930d21ef,0,Kentucky Derby,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+0bb48bd1c2138d237c2b6676555ec7f0,0,Kentucky Derby,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped

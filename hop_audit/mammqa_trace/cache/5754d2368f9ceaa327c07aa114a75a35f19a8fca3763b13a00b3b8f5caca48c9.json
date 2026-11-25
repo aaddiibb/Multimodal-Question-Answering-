@@ -1,0 +1,12 @@
+{
+ "key": "5754d2368f9ceaa327c07aa114a75a35f19a8fca3763b13a00b3b8f5caca48c9",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image shows a person wearing a racing suit with the number 71 and a helmet with a blue and white design. The motorcycle has a green frame with the word \"Kawasaki\" written on it.</insights>\n\n<answer>There is no information about the positions achieved in JiR's results summary for the class Moto2 and the bike Motobi TSR6 in this image.</answer>",
+ "input_tokens": 3339,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 17.16
+}

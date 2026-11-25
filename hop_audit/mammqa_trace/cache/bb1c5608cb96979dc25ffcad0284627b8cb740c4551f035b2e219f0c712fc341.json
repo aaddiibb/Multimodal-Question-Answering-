@@ -1,0 +1,12 @@
+{
+ "key": "bb1c5608cb96979dc25ffcad0284627b8cb740c4551f035b2e219f0c712fc341",
+ "text": "Based on the provided table insights and the multimodal inputs, let's break down the question into simpler subquestions:\n\n1. Identify the legumes mentioned in the multimodal inputs.\n2. Determine which of these legumes have flowers and edible seeds.\n3. Find the seed name associated with each legume identified in step 2.\n\nNow, let's address these subquestions:\n\n1. The legumes mentioned in the multimodal inputs are:\n   - Peanut (A. hypogaea)\n   - Chickpea, Garbanzo Bean, Gram (C. arietinum)\n   - Pea (P. sativum)\n   - Indian Beechnut (M. pinnata)\n   - Pigeon Pea (C. Cajan)\n   - Soybean (G. max)\n   - Lima Bean (P. lunatus)\n   - Common Bean (P. vulgaris)\n   - Adzuki Bean (V. angularis)\n   - Black Gram (V. mungo)\n   - Mung Bean, Green Gram (V. radiata)\n   - Bambara Groundnut (V. subterranea)\n   - Cowpea (V. unguiculata)\n   - Lentil (L. culinaris)\n   - Fava Bean, Broad Bean (V. faba)\n\n2. Among these legumes, those with flowers and edible seeds are:\n   - Peanut (A. hypogaea)\n   - Chickpea, Garbanzo Bean, Gram (C. arietinum)\n   - Pea (P. sativum)\n   - Pigeon Pea (C. Cajan)\n   - Soybean (G. max)\n   - Lima Bean (P. lunatus)\n   - Common Bean (P. vulgaris)\n   - Adzuki Bean (V. angularis)\n   - Black Gram (V. mungo)\n   - Mung Bean, Green Gram (V. radiata)\n   - Cowpea (V. unguiculata)\n   - Lentil (L. culinaris)\n   - Fava Bean, Broad Bean (V. faba)\n\n3. The seed names associated with these legumes are:\n   - Peanut: Peanut\n   - Chickpea, Garbanzo Bean, Gram: Chickpea\n   - Pea: Pea\n   - Pigeon Pea: Pigeon Pea\n   - Soybean: Soy",
+ "input_tokens": 4614,
+ "output_tokens": 512,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 72.31
+}

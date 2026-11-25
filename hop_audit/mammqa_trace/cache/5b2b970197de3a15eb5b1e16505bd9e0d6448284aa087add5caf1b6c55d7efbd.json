@@ -1,0 +1,12 @@
+{
+ "key": "5b2b970197de3a15eb5b1e16505bd9e0d6448284aa087add5caf1b6c55d7efbd",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no images containing the information about the full title of the Production in the Theater Credits of Michael Potts in 2002.</insights>\n\n<answer>There is insufficient information in the provided images to determine the full title of the Production in the Theater Credits of Michael Potts in 2002.</answer>",
+ "input_tokens": 3375,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 16.07
+}

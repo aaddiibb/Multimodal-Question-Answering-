@@ -1,0 +1,12 @@
+{
+ "key": "d321ac9478b83d9c3045f599cbda1b320f55a71dee25d2e1453596eb309d20f6",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the number of wins for different federal subjects in the Miss Russia competition.\n- Yaroslavl Oblast has won once in 1998.\n- The city that was the capital of Russia before Moscow is not listed in the table.\n</insights>\n\n<answer>\nYaroslavl Oblast is the federal subject with fewer wins by region of Miss Russia, having won once. However, the question also asks about the city that was the capital of Russia before Moscow, which is not present in the provided data.\n</answer>",
+ "input_tokens": 959,
+ "output_tokens": 127,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.73
+}

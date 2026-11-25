@@ -1,0 +1,12 @@
+{
+ "key": "09ba25cd7237a15f00d18120f3eda7dff98be5b3ee2f07a2d06a72346de6a6a5",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a book cover featuring a person holding a bow and arrow, with the title \"Brian's Hunt\" by Gary Paulsen.</insights>\n\n<answer>On the cover of the book \"Brian's Hunt\" by Gary Paulsen, the man has a bow loaded with arrows.</answer>",
+ "input_tokens": 2321,
+ "output_tokens": 74,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 10.36
+}

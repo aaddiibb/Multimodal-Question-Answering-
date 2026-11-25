@@ -1,0 +1,12 @@
+{
+ "key": "d4dc8470bfe61be0bf099c6317b76d17872b85a45392c4aa5530ef9a554c5fc3",
+ "text": "Based on the provided information, the film titled \"Mahanati\" features a poster of a horse. The movie was released on May 5th, 2017.\n\n<answer>\nThe year when the S. Dharam Tej film title with a poster of a horse was released is 2017.\n</answer>\n\n<subanswer>\n- What is the film title that has a poster of a horse?\n- When was the film \"Mahanati\" released?\n</subanswer>",
+ "input_tokens": 3166,
+ "output_tokens": 105,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 16.22
+}

@@ -1,0 +1,12 @@
+{
+ "key": "598453e0c7b971c8512306226fcf42862a4a62ac08b093fbe2c33ce5d908dd52",
+ "text": "It seems like the question is asking about the logo on the Air Jordan Retro XII sneaker, specifically what the man in the silhouette is wearing on his ear. However, the provided data does not contain any information about the logo or the details of the Air Jordan Retro XII sneaker. Therefore, based on the given information, there is no answer available to the question.\n\n<answer>The provided data does not contain any information about the logo or the details of the Air Jordan Retro XII sneaker. Therefore, based on the given information, there is no answer available to the question.</answer>",
+ "input_tokens": 4124,
+ "output_tokens": 119,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 21.23
+}

@@ -1,0 +1,12 @@
+{
+ "key": "568161104186d3ff2b6d8e684bd0dfbba34ca94325ea8a140b665251399ed9e8",
+ "text": "<modality> text </modality>\n\n<insights> The text provides information about the film \"Muriel,\" mentioning that Hélène, a widow running an antique business, is visited by a past lover, Alphonse. However, there is no mention of a person in a TV title cover playing Muriel. The text does not contain any information about a TV title cover or a person playing Muriel in a TV show.</insights>\n\n<answer> There is no information provided about a person in a TV title cover where she played Muriel. The text only discusses the film \"Muriel\" and its characters.</answer>",
+ "input_tokens": 1735,
+ "output_tokens": 136,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.47
+}

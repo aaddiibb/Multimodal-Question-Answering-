@@ -1,0 +1,12 @@
+{
+ "key": "7153a6012aa92f26cc187413fb8d0b92f3fef174deb12661a0acb66c375f26ea",
+ "text": "The provided text does not contain any information about a large white mansion with a dome in the middle of its roof. The question asks for the lead in the 2018 US Open of Curling for the women's team at this location. However, the text only mentions various curling championships and events without specifying the location. Therefore, it is not possible to determine the lead in the 2018 US Open of Curling for the women's team based on the given data.\n\n<answer>There is no information provided in the given text about a large white mansion with a dome in the middle of its roof. Therefore, it is not possible to determine the lead in the 2018 US Open of Curling for the women's team based on the given data.</answer>",
+ "input_tokens": 2411,
+ "output_tokens": 163,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 16.92
+}

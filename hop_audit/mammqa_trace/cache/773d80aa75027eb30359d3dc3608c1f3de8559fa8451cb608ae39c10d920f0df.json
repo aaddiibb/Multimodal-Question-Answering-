@@ -1,0 +1,12 @@
+{
+ "key": "773d80aa75027eb30359d3dc3608c1f3de8559fa8451cb608ae39c10d920f0df",
+ "text": "<modality> image(s)</modality>\n\n<insights> The image contains uniforms of different NFL teams. However, there is no direct information about the 2001 New Orleans Saints' opponents or their Super Bowl appearances.</insights>\n\n<answer> There is insufficient information in the provided images to determine the 2001 New Orleans Saints' 12:00PM CT regular season opponent that made it to the Super Bowl in 2017.</answer>",
+ "input_tokens": 1583,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 9.71
+}

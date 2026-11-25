@@ -1,0 +1,12 @@
+{
+ "key": "7f6abd73aa7feb4329ff4745bdb6f392ce087484694d52626f7048d5b213b87d",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the state in northeast India where there is a national park that serves as the main natural habitat for rhinoceros. The text insight provides information about national parks in northeast India, mentioning Kaziranga National Park as the one located in Assam, which is in northeast India. The table also lists several national parks in northeast India, including Kaziranga National Park, which is known to be the primary habitat for rhinoceros.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Which state in northeast India contains a national park?\n2. Is Kaziranga National Park in Assam the correct national park?\n3. Does Kaziranga National Park serve as the main natural habitat for rhinoceros?\n\n### Final Answer\n\n<answer>\nAssam, northeast India, has a national park that is the main natural habitat for rhinoceros.\n</answer>",
+ "input_tokens": 4085,
+ "output_tokens": 199,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 29.68
+}

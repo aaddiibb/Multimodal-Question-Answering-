@@ -1,0 +1,12 @@
+{
+ "key": "d4bf96222ea652d2c0a0ba327cef5556082eba9b419f304ab3c2236ce9d87674",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the conferences and their champions along with their records.\n- Paul Quinn was the champion in the Southwestern Athletic Conference with a record of 3–0–2.\n</insights>\n\n<answer>\nThe conference in the 1924 college football season's minor conferences that had the same record as the Southwestern Athletic Conference, where Paul Quinn was the champion, is the Southwestern Athletic Conference itself.\n</answer>",
+ "input_tokens": 1060,
+ "output_tokens": 103,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.87
+}

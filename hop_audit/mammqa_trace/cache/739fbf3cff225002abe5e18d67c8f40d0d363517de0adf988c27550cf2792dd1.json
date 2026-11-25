@@ -1,0 +1,12 @@
+{
+ "key": "739fbf3cff225002abe5e18d67c8f40d0d363517de0adf988c27550cf2792dd1",
+ "text": "<modality> table </modality>\n\n<insights>\n- The track length of 3:32 corresponds to the song \"Stay the Night.\"\n- The artist for this track is STATE CHAMPS.\n</insights>\n\n<answer>\nSTATE CHAMPS sings the track that was 3:32 long in the Punk Goes Pop Vol. 6 album.\n</answer>",
+ "input_tokens": 1044,
+ "output_tokens": 81,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.15
+}

@@ -1,0 +1,12 @@
+{
+ "key": "02816ab7d02c0f8180eed45f829da75e175523b6be7b245d517b9a74a75e1912",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is the logo for the Appalachian League, which features an eagle on its emblem.</insights>\n\n<answer>No, the pitcher does not take a turn at bat in the Appalachian League.</answer>",
+ "input_tokens": 1554,
+ "output_tokens": 55,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 5.97
+}

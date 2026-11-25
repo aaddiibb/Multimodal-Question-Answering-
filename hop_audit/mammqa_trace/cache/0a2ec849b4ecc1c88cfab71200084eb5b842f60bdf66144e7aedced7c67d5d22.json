@@ -1,0 +1,12 @@
+{
+ "key": "0a2ec849b4ecc1c88cfab71200084eb5b842f60bdf66144e7aedced7c67d5d22",
+ "text": "<answer>There is no film titled \"Barbara Dirikson\" from 2007, so the role of Flora played by Barbara Dirikson in such a film cannot be determined from the given data.</answer>",
+ "input_tokens": 1141,
+ "output_tokens": 49,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 4.61
+}

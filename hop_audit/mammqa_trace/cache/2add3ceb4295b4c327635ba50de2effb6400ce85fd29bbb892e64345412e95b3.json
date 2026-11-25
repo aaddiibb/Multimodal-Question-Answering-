@@ -1,0 +1,12 @@
+{
+ "key": "2add3ceb4295b4c327635ba50de2effb6400ce85fd29bbb892e64345412e95b3",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for \"The World's End,\" which features two police officers prominently displayed on the poster. The tagline \"Prepare to get annihilated\" suggests a comedic tone, but the presence of police officers hints at a potential action or crime element in the film.</insights>\n\n<answer>The film featuring two police officers in the title poster that Garth Jennings had a role in is \"The World's End,\" released in 2013.</answer>",
+ "input_tokens": 1560,
+ "output_tokens": 111,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 9.73
+}

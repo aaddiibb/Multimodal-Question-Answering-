@@ -1,0 +1,12 @@
+{
+ "key": "ba66e1a418b4995e047423556fe75ebb898b423a8b44d3f46a0de400268e40a0",
+ "text": "The question asks about the character Anna Akana played on the TV show whose title screen shows a house. From the provided data, we can extract the following insights:\n\n- Anna Akana played the role of Gloria in the TV show \"Big City Greens.\"\n- The title screen of \"Big City Greens\" shows a house.\n\nBased on these insights, the answer to the question is:\n\n<answer>Anna Akana played the role of Gloria on the TV show \"Big City Greens,\" which has a house in its title screen.</answer>",
+ "input_tokens": 2849,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 14.08
+}

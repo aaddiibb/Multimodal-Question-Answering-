@@ -1,0 +1,12 @@
+{
+ "key": "e38f48b18408ff060781149e43ce9e715926f53ea3e0f8d10a012784f79ba201",
+ "text": "<insights>\n- Association football has 4 billion fans and is popular globally.\n- Cricket has 2.5 billion fans and is popular in the UK and Commonwealth.\n- Field hockey has 2 billion fans and is popular in Europe, Africa, Asia, and Australia.\n- Tennis has 1 billion fans and is popular globally.\n- Volleyball has 900 million fans and is popular in Western Europe and North America.\n- Basketball has 825 million fans and is popular globally.\n- Baseball has 500 million fans and is popular in the United States, Caribbean, and Japan.\n- Rugby has 475 million fans and is popular in the UK and Commonwealth.\n- Golf has 450 million fans and is popular in Western Europe, East Asia, and North America.\n</insights>\n\n<subanswer>Jackie Robinson played football, basketball, and track, in addition to baseball.</subanswer>\n\n<answer>Jackie Robinson played football, basketball, and track, in addition to baseball. Among the sports that are popular in the global sphere, he played football, basketball, and track, but not cricket, field hockey, tennis, volleyball, rugby, golf, or hockey.</answer>",
+ "input_tokens": 3409,
+ "output_tokens": 252,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 30.88
+}

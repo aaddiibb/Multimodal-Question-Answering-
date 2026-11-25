@@ -1,0 +1,12 @@
+{
+ "key": "94e1ac8feade076ee20feff15c9ea933e72ee165717f092440f62a31259cd4bd",
+ "text": "<answer>Jackson Brundage</answer>",
+ "input_tokens": 1095,
+ "output_tokens": 11,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.93
+}

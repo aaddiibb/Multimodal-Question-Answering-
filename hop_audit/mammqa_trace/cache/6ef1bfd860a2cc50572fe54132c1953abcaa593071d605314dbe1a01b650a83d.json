@@ -1,0 +1,12 @@
+{
+ "key": "6ef1bfd860a2cc50572fe54132c1953abcaa593071d605314dbe1a01b650a83d",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person wearing a cowboy hat.</insights>\n\n<answer>She is wearing a cowboy hat.</answer>",
+ "input_tokens": 3700,
+ "output_tokens": 38,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 12.29
+}

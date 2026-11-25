@@ -1,0 +1,12 @@
+{
+ "key": "4730c9ff0acd250f0c5101b22f346f22e87b96fe6d58d69984e3d5763e417d23",
+ "text": "<modality>text</modality>\n\n<insights>The question asks about the singles released by Angels & Airwaves in 2014 that were included on the album \"The Dream Walker\". The key information here is the artist (Angels & Airwaves), the year (2014), the album (\"The Dream Walker\"), and the focus on singles.</insights>\n\n<answer>To determine which singles from Angels & Airwaves released in 2014 were on the album \"The Dream Walker\", we need to identify the singles released by Angels & Airwaves in 2014 and check if they appear on the album \"The Dream Walker\".</answer>\n\n<subanswer>What singles were released by Angels & Airwaves in 2014?</subanswer>\n<subanswer>Which of those singles were included on the album \"The Dream Walker\"?</subanswer>",
+ "input_tokens": 632,
+ "output_tokens": 186,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.56
+}

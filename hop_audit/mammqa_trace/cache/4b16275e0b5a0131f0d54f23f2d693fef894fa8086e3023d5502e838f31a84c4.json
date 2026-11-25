@@ -1,0 +1,12 @@
+{
+ "key": "4b16275e0b5a0131f0d54f23f2d693fef894fa8086e3023d5502e838f31a84c4",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a historic building with a red-tiled roof and white trim, situated in a grassy area. There are no visible signs of a statue of an angel or a north-south US highway.</insights>\n\n<answer>The image does not provide enough information to determine the north-south US highway that goes through Clay Township and the Mid-South Conference former affiliate member city that has a statue of an angel.</answer>",
+ "input_tokens": 2925,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 14.21
+}

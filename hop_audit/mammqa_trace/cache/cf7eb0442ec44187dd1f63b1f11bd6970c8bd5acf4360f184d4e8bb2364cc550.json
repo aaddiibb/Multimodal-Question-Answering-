@@ -1,0 +1,12 @@
+{
+ "key": "cf7eb0442ec44187dd1f63b1f11bd6970c8bd5acf4360f184d4e8bb2364cc550",
+ "text": "<modality>text</modality>\n\n<insights>\n- The text mentions \"All I Do Is Think of You\" as a ballad single released by The Jackson 5 as the B-side to the group's single, \"Forever Came Today\" on the Motown label in 1975.\n- The Jackson 5 left Motown for CBS the following year, so this album would have been their last release under Motown.\n- The Jackson 5's last Motown album was \"Moving Violation,\" which was released in 1975.\n</insights>\n\n<answer>\nThe December 1969 music album by the artist who made \"All I Do Is Think of You\" was \"Moving Violation\" by The Jackson 5.\n</answer>\n\n<subanswer>\n- The Jackson 5's last Motown album was \"Moving Violation,\" which was released in 1975.\n</subanswer>",
+ "input_tokens": 1429,
+ "output_tokens": 197,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 15.17
+}

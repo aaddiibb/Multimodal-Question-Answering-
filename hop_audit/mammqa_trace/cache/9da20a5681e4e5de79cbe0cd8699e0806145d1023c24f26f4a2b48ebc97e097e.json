@@ -1,0 +1,12 @@
+{
+ "key": "9da20a5681e4e5de79cbe0cd8699e0806145d1023c24f26f4a2b48ebc97e097e",
+ "text": "The provided table insights indicate that the question pertains to the 1963 Golden State 400 race, where the driver had a time/status of \"+8 laps\" and was driving a car manufactured by Mercury. However, the multimodal inputs do not provide any specific details about the driver meeting these criteria. Therefore, based on the available information, there isn't enough evidence to identify the specific driver who fits the description.\n\n<answer>There is insufficient information in the multimodal inputs to determine which driver had a time/status of \"+8 laps\" and was driving a car manufactured by Mercury in the 1963 Golden State 400 race.</answer>",
+ "input_tokens": 3551,
+ "output_tokens": 139,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 20.76
+}

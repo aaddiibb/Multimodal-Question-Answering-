@@ -1,0 +1,12 @@
+{
+ "key": "fd5d928a84153d3b87694b7fad40ceb859975a387cc556198575fa5a99476c18",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a man wearing a suit and tie.</insights>\n\n<answer>No, the person in the image does not appear to be wearing a tie.</answer>",
+ "input_tokens": 2480,
+ "output_tokens": 47,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 8.1
+}

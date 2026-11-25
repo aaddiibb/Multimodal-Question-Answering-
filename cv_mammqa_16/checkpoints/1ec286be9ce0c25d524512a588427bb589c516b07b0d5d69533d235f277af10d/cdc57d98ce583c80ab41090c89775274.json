@@ -1,0 +1,300 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "cdc57d98ce583c80ab41090c89775274",
+  "question": "When was the movie where Kirk Baltz had the role of Edwards made",
+  "context_digest": "b588eba4aaa641a513e3d999f8656ee243512558c5dcbe4224a23e95920d5ff1",
+  "source_ids": [
+    "e52472c82fb49d2d06a7418daedb4bee",
+    "d68118095efb505fedd724dde0a4eeb3"
+  ],
+  "modalities": [
+    "table",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The provided text does not mention a movie where Kirk Baltz played the role of Edwards. It discusses \"Dances with Wolves,\" which is a different film.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The provided text does not mention a movie where Kirk Baltz played the role of Edwards. It discusses \"Dances with Wolves,\" which is a different film."
+      },
+      "table": {
+        "agent": "table",
+        "answer": "1990",
+        "insight": "The movie \"Dances with Wolves\" is when Kirk Baltz played the role of Edwards.",
+        "raw_output": "ANSWER: 1990\nINSIGHT: The movie \"Dances with Wolves\" is when Kirk Baltz played the role of Edwards."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided table does not list a movie where Kirk Baltz played the role of Edwards.",
+        "evidence_reference": "The table shows \"Dances with Wolves\" but does not specify Edwards' role.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided table does not list a movie where Kirk Baltz played the role of Edwards.\nEVIDENCE: The table shows \"Dances with Wolves\" but does not specify Edwards' role."
+      },
+      "table": {
+        "agent": "table_anchor",
+        "answer": "1990",
+        "reason": "The movie \"Dances with Wolves,\" where Kirk Baltz played the role of Edwards, was made in 1990.",
+        "evidence_reference": "[TEXT: Dances with Wolves | id=d68118095efb505fedd724dde0a4eeb3]",
+        "raw_output": "ANSWER: 1990\nREASON: The movie \"Dances with Wolves,\" where Kirk Baltz played the role of Edwards, was made in 1990.\nEVIDENCE: [TEXT: Dances with Wolves | id=d68118095efb505fedd724dde0a4eeb3]"
+      }
+    },
+    "shared_seconds": 16.88793811200003,
+    "shared_digest": "c7a7332aa34f91be2ea55f44443a397c16c380e5decf05701b0b2531614eba4d"
+  },
+  "baseline": {
+    "answer": "1990",
+    "raw_output": "FINAL: 1990",
+    "seconds": 0.9438042550000318,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "1990",
+    "raw_output": "1990",
+    "seconds": 20.134042763000025,
+    "calls": 6,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 1,
+      "unique_candidate_count": 1,
+      "consensus_answer": "1990",
+      "consensus_count": 1,
+      "stage2_disagreement": false,
+      "agreement_type": "single_concrete_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [
+      {
+        "answer": "1990",
+        "normalized_answer": "1990",
+        "supporting_agents": [
+          "table_anchor"
+        ],
+        "reasons": [
+          "The movie \"Dances with Wolves,\" where Kirk Baltz played the role of Edwards, was made in 1990."
+        ],
+        "evidence_references": [
+          "[TEXT: Dances with Wolves | id=d68118095efb505fedd724dde0a4eeb3]"
+        ],
+        "claims": [
+          {
+            "text": "Kirk Baltz played the role of Edwards in the movie \"Dances with Wolves.\"",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "table",
+              "evidence_note": "The table shows that Kirk Baltz played the role of Edwards in the movie \"Dances with Wolves\" in 1990.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: table\nEVIDENCE_NOTE: The table shows that Kirk Baltz played the role of Edwards in the movie \"Dances with Wolves\" in 1990.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The movie \"Dances with Wolves\" was released in 1990.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "table",
+              "evidence_note": "The provided table shows that Kirk Baltz played the role of Edwards in the movie \"Dances with Wolves,\" which was made in 1990.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: table\nEVIDENCE_NOTE: The provided table shows that Kirk Baltz played the role of Edwards in the movie \"Dances with Wolves,\" which was made in 1990.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "Kirk Baltz's role as Edwards in \"Dances with Wolves\" was made in 1990.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "table",
+              "evidence_note": "The table shows that Kirk Baltz played the role of Edwards in \"Dances with Wolves\" in 1990.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: table\nEVIDENCE_NOTE: The table shows that Kirk Baltz played the role of Edwards in \"Dances with Wolves\" in 1990.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "1990",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 3,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 368,
+      "original_input_tokens": 368,
+      "output_tokens": 43,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.352901144000043,
+      "image_count": 0,
+      "seed": 3308171326
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 720,
+      "original_input_tokens": 720,
+      "output_tokens": 32,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.076159351999877,
+      "image_count": 0,
+      "seed": 1233894332
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 783,
+      "original_input_tokens": 783,
+      "output_tokens": 50,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.3678712430000814,
+      "image_count": 0,
+      "seed": 3790131662
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 420,
+      "original_input_tokens": 420,
+      "output_tokens": 80,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 6.0708134520000385,
+      "image_count": 0,
+      "seed": 311305969
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 269,
+      "original_input_tokens": 269,
+      "output_tokens": 8,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.9401032190000933,
+      "image_count": 0,
+      "seed": 3387233120
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "claim_extraction_1990",
+      "deterministic": true,
+      "input_tokens": 149,
+      "original_input_tokens": 149,
+      "output_tokens": 70,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.985097304999954,
+      "image_count": 0,
+      "seed": 559695169
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 1091,
+      "original_input_tokens": 1091,
+      "output_tokens": 47,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.525106600000072,
+      "image_count": 0,
+      "seed": 4168105229
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 1090,
+      "original_input_tokens": 1090,
+      "output_tokens": 51,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.764244676999851,
+      "image_count": 0,
+      "seed": 207532389
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 1097,
+      "original_input_tokens": 1097,
+      "output_tokens": 45,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.37568719900014,
+      "image_count": 0,
+      "seed": 4159391601
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 505,
+      "original_input_tokens": 505,
+      "output_tokens": 5,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.8486758049998571,
+      "image_count": 0,
+      "seed": 133205459
+    },
+    {
+      "qid": "cdc57d98ce583c80ab41090c89775274",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 62,
+      "original_input_tokens": 62,
+      "output_tokens": 8,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6132340470001054,
+      "image_count": 0,
+      "seed": 1455366253
+    }
+  ],
+  "completed_utc": "2026-10-13T19:58:20.700433+00:00"
+}

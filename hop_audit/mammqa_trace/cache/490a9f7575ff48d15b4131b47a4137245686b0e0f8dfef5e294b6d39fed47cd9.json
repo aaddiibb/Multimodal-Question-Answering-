@@ -1,0 +1,12 @@
+{
+ "key": "490a9f7575ff48d15b4131b47a4137245686b0e0f8dfef5e294b6d39fed47cd9",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about Rochelle Aytes, mentioning her role in \"CrazySexyCool: The TLC Story\" as Perri \"Pebbles\" Reid.\n- The text does not mention Laura Mennell or her role in a movie.\n</insights>\n\n<answer>\nThe provided text does not contain information about Laura Mennell or her role in a movie. Therefore, it is not possible to determine the country of origin shared by Rochelle Aytes and the movie where Laura Mennell played Allie based on the given data.\n</answer>",
+ "input_tokens": 1757,
+ "output_tokens": 130,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.17
+}

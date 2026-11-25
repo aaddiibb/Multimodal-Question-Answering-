@@ -1,0 +1,12 @@
+{
+ "key": "c17e285b413c26c7599eb705133c01a7a53795aaa5450bfe0868b819f19bd1a3",
+ "text": "<modality> image(s) </modality>\n\n<insights> The images depict various legumes with flowers and edible seeds. These include peanuts, chickpeas, peas, soybeans, lima beans, cowpeas, lentils, and mung beans.</insights>\n\n<answer> The seed names for legumes with flowers and edible seeds include peanut, chickpea, pea, soybean, lima bean, cowpea, lentil, and mung bean.</answer>",
+ "input_tokens": 3441,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 17.78
+}

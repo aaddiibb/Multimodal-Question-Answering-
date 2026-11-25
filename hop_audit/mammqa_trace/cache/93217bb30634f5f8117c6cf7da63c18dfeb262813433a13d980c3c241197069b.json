@@ -1,0 +1,12 @@
+{
+ "key": "93217bb30634f5f8117c6cf7da63c18dfeb262813433a13d980c3c241197069b",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the date when Stacey Keating won a tournament.\n2. Find the corresponding tournament name from the ALPG Tour schedule.\n\nFrom the text insight, we know that Stacey Keating won two tournaments in 2011, but not in 2012. Therefore, there is no answer available based on the given information.\n\n<answer>\nThere is no answer available based on the given information.\n</answer>",
+ "input_tokens": 3973,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 20.12
+}

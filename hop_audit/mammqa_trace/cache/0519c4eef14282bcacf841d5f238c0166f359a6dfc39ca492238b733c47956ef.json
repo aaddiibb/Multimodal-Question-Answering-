@@ -1,0 +1,12 @@
+{
+ "key": "0519c4eef14282bcacf841d5f238c0166f359a6dfc39ca492238b733c47956ef",
+ "text": "<answer>\nThere is insufficient information in the provided data to determine the number of games played by a player with short red hair in Major League Soccer.\n</answer>",
+ "input_tokens": 894,
+ "output_tokens": 34,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.92
+}

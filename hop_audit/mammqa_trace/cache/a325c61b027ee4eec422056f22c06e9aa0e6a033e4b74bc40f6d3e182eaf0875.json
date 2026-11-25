@@ -1,0 +1,12 @@
+{
+ "key": "a325c61b027ee4eec422056f22c06e9aa0e6a033e4b74bc40f6d3e182eaf0875",
+ "text": "<modality> table </modality>\n\n<insights>\n- Tommy Sands played Joey Rand in the show \"Hawaii Five-O\" in 1968.\n</insights>\n\n<answer>\nIn the show where Tommy Sands played Joey Rand (\"Hawaii Five-O\"), the character of the first McGarrett was played by Jack Lord.\n</answer>\n\n<subanswer>\n- What role did Tommy Sands play in \"Hawaii Five-O\"?\n- Who played the first McGarrett in \"Hawaii Five-O\"?\n</subanswer>",
+ "input_tokens": 877,
+ "output_tokens": 114,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.61
+}

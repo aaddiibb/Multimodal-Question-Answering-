@@ -1,0 +1,12 @@
+{
+ "key": "648a388f085bf18b1f0f2ab9e952571f1f31e87bab5e56e349ea143754e9c0b3",
+ "text": "<modality>image</modality>\n\n<insights>The image contains movie posters for four films: \"Sione's Wedding,\" \"The Ferryman,\" \"The Tattooist,\" and \"In Her Line of Fire.\" The question asks about a star who acted in two of these films and also starred in another film where the role of Chef Sebastian Tasi was played by Robbie Magasiva.</insights>\n\n<answer>Based on the provided images, the star who acted in both \"Sione's Wedding\" and \"The Tattooist\" is Sione Tu'ipulotu. The role of Chef Sebastian Tasi in \"The Tattooist\" was played by Robbie Magasiva.</answer>\n\n<subanswer>What is the name of the star who acted in both \"Sione's Wedding\" and \"The Tattooist\"? </subanswer>",
+ "input_tokens": 1272,
+ "output_tokens": 175,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 12.83
+}

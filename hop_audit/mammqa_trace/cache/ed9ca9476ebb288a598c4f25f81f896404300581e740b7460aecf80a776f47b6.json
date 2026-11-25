@@ -1,0 +1,12 @@
+{
+ "key": "ed9ca9476ebb288a598c4f25f81f896404300581e740b7460aecf80a776f47b6",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. What is the role of Shaun Chen and Rebecca Lim in the Star Awards of 2017?\n   - Answer: Performers\n\n2. What were all the shows where the role was the same as the one held by Shaun Chen and Rebecca Lim in the Star Awards of 2017?\n\nBased on the provided information, we can see that Shaun Chen and Rebecca Lim both performed in Prelude 3. Therefore, the answer to the original question is:\n\n<answer>\nThe shows where the role was the same as the one held by Shaun Chen and Rebecca Lim in the Star Awards of 2017 were Prelude 3.\n</answer>",
+ "input_tokens": 3859,
+ "output_tokens": 147,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 23.59
+}

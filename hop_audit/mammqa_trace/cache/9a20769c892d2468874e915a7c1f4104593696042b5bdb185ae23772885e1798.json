@@ -1,0 +1,12 @@
+{
+ "key": "9a20769c892d2468874e915a7c1f4104593696042b5bdb185ae23772885e1798",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The images depict movie posters, but there is no clear indication of the singers mentioned in the question being featured in any of them.</insights>\n\n<answer>Based on the provided images, it is not possible to determine who was a co-singer of Sona Mohapatra in Bollywood first between the singer of \"Main Tera Boyfriend\" or Keerthi Sagathia, Shazneen Arethna.</answer>",
+ "input_tokens": 2680,
+ "output_tokens": 108,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.53
+}

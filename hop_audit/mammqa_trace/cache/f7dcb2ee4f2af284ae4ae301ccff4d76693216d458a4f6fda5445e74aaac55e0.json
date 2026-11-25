@@ -1,0 +1,12 @@
+{
+ "key": "f7dcb2ee4f2af284ae4ae301ccff4d76693216d458a4f6fda5445e74aaac55e0",
+ "text": "<modality>image</modality>\n\n<insights>The image provided contains logos of various universities. The university with the logo featuring three flowers and an open book is Thammasat University.</insights>\n\n<answer>Thammasat University</answer>\n\n<subanswer>What field was the honorary degree given by Thammasat University?</subanswer>",
+ "input_tokens": 2788,
+ "output_tokens": 76,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 11.46
+}

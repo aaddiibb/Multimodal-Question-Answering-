@@ -1,0 +1,12 @@
+{
+ "key": "fd3a98e4bdf3687fce90bf2bd305b9d6196a4e536d622f1a52cb5a10be38d93d",
+ "text": "<answer>\n- \"Crash\": Jose Ferrer, Sue Lyon, John Ericson, Leslie Parrish, John Carradine, Reggie Nalder\n- \"Breach\": Ryan Phillippe\n- \"Revenge for Jolly!\": Oscar Isaac, Elijah Wood, Adam Brody, Ryan Phillippe, Kristen Wiig\n- \"Gosford Park\": Ryan Phillippe\n</answer>",
+ "input_tokens": 1557,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.39
+}

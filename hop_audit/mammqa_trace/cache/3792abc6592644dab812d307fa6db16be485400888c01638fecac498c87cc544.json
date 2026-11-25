@@ -1,0 +1,12 @@
+{
+ "key": "3792abc6592644dab812d307fa6db16be485400888c01638fecac498c87cc544",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image appears to be a promotional poster for a television show titled \"Silence of the Heart,\" featuring two actors, Charlie Sheen and Chad Lowe. However, there is no direct information about the year the show went off the air.</insights>\n\n<answer>There is insufficient information in the image to determine the year the show \"Silence of the Heart\" went off the air.</answer>",
+ "input_tokens": 1844,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 9.95
+}

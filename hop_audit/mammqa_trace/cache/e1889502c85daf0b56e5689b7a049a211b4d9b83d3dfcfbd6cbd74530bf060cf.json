@@ -1,0 +1,12 @@
+{
+ "key": "e1889502c85daf0b56e5689b7a049a211b4d9b83d3dfcfbd6cbd74530bf060cf",
+ "text": "<modality>image</modality>\n\n<insights>The images provided do not contain any information about Paul Feig's television productions or the actors playing lawyers in those shows. The images shown are for \"Freaks and Geeks,\" \"Arrested,\" \"Mad Men,\" \"30 Rock,\" \"Parks and Recreation,\" \"Bored to Death,\" \"Nurse Jackie,\" \"Other Space,\" and \"The Joel McHale Show.\" None of these titles match the description of a television show directed by Paul Feig where a lawyer character appears prominently with a green-colored poster.</insights>\n\n<answer>Based on the provided images, there is no information about Paul Feig's television productions or the actors playing lawyers in those shows. Therefore, it is impossible to determine who played the lawyer in a TV show with a green-colored poster directed by Paul Feig.</answer>",
+ "input_tokens": 1711,
+ "output_tokens": 182,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 15.16
+}

@@ -1,0 +1,12 @@
+{
+ "key": "df6336aca9ed841a59cefc7c1ace34d6e7d3a26f2b8e8ff984ca6e2dfefa061f",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a man holding an Oscar statuette in his left hand.</insights>\n\n<answer>Iain Canning acted in the film Widows directed by Steve McQueen holding an Oscar statuette in his left hand.</answer>",
+ "input_tokens": 2333,
+ "output_tokens": 62,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 9.43
+}

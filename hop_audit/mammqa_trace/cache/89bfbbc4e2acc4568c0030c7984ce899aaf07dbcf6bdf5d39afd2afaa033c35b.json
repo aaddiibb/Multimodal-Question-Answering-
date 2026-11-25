@@ -1,0 +1,12 @@
+{
+ "key": "89bfbbc4e2acc4568c0030c7984ce899aaf07dbcf6bdf5d39afd2afaa033c35b",
+ "text": "<modality> image </modality>\n\n<insights> The image shows a tennis match where players are using rackets to hit a ball. The ball appears to be yellow.</insights>\n\n<answer> The ball used in the sport shown in the image is yellow.</answer>",
+ "input_tokens": 3416,
+ "output_tokens": 59,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 13.21
+}

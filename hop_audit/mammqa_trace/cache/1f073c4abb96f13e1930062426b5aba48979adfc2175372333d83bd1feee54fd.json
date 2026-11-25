@@ -1,0 +1,12 @@
+{
+ "key": "1f073c4abb96f13e1930062426b5aba48979adfc2175372333d83bd1feee54fd",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but none of them feature Noah Huntley playing King Magnus.</insights>\n\n<answer>Based on the provided images, there is no movie where Noah Huntley plays King Magnus.</answer>",
+ "input_tokens": 2055,
+ "output_tokens": 58,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 7.62
+}

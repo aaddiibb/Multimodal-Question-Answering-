@@ -1,0 +1,12 @@
+{
+ "key": "b24b8adc31caab84d331471c70b2b1674ab928e39db256f22b0863476307bc0c",
+ "text": "<modality>image</modality>\n\n<insights>The image displays the title card for the television series \"Castle,\" featuring a silhouette of a bridge over water.</insights>\n\n<answer>Bridge</answer>",
+ "input_tokens": 1837,
+ "output_tokens": 45,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 6.07
+}

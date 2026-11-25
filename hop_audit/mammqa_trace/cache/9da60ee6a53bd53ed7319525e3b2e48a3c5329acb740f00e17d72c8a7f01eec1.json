@@ -1,0 +1,12 @@
+{
+ "key": "9da60ee6a53bd53ed7319525e3b2e48a3c5329acb740f00e17d72c8a7f01eec1",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not contain any information about a player on the list for clean sheets in the 2016-17 Liga I on Dinamo Bucuresti.\n- There is no mention of any player wearing something on their left hand.\n</insights>\n\n<answer>\nThere is insufficient information in the provided text to determine what the player on the list for clean sheets in the 2016-17 Liga I on Dinamo Bucuresti is wearing on their left hand.\n</answer>",
+ "input_tokens": 1636,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.09
+}

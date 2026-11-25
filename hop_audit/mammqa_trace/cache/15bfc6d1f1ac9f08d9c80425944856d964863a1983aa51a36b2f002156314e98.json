@@ -1,0 +1,12 @@
+{
+ "key": "15bfc6d1f1ac9f08d9c80425944856d964863a1983aa51a36b2f002156314e98",
+ "text": "<answer>There is no information about the Aenne Burda Award or the winner's hair color in the provided text data. Therefore, it is not possible to determine the year when the winner had dark brown hair for the Aenne Burda Award.</answer>",
+ "input_tokens": 1167,
+ "output_tokens": 54,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 4.95
+}

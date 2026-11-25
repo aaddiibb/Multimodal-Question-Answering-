@@ -1,0 +1,12 @@
+{
+ "key": "907223f3bcf46300e178f4c35db0ae843a64080d9d329e4dcd6c43ae1740d718",
+ "text": "<answer>Player 15</answer>",
+ "input_tokens": 1415,
+ "output_tokens": 11,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.31
+}

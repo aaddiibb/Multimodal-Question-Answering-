@@ -1,0 +1,12 @@
+{
+ "key": "fadab657ac9d6386e4bf31a4c9f4593f73a81794997655a10d602787c72a1828",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a logo featuring a basketball.</insights>\n\n<answer>The logo features a basketball.</answer>",
+ "input_tokens": 1325,
+ "output_tokens": 36,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 4.52
+}

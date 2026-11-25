@@ -1,0 +1,2 @@
+total_claims,supported,partial,unsupported,contradicted,not_verifiable,average_claims_per_question,average_verification_calls_per_question,questions_with_claim_verification,questions_with_dispute,questions_with_repair,repair_activation_rate,repair_success_count,repair_candidate_rescue_count,repair_harm_count,claim_rescue_count,claim_damage_count
+20,20,0,0,0,0,1.25,1.25,6,1,0,0.0,0,0,0,0,0

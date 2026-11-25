@@ -1,0 +1,12 @@
+{
+ "key": "fdce12f9fb7437de80d046d688bc0c4841963224eaa7ba44cd1100c080192e18",
+ "text": "Let's break down the question step-by-step:\n\n### Step 1: Understand the Question\nThe question asks about a park/resort that was opened in 1991 and is associated with Universal Creative, specifically the Harry Potter-themed area.\n\n### Step 2: Extract Relevant Insights\nFrom the image insight:\n- The image shows the logo of Universal Studios Hollywood, which is a theme park located in Los Angeles, California.\n- It is known for its various attractions including the Harry Potter-themed area.\n\nFrom the text data:\n- The Wizarding World of Harry Potter is a chain of themed areas at Universal Parks & Resorts based on the \"Harry Potter\" media franchise.\n- The Wizarding World of Harry Potter includes attractions like the E.T. Adventure, Back to the Future: The Ride, and Jurassic Park: The Ride.\n- The E.T. Adventure was opened in Universal Studios Hollywood in 1991.\n\n### Step 3: Break Down the Question into Subquestions\n1. **When was Universal Studios Hollywood opened?**\n   - The image insight confirms this is Universal Studios Hollywood.\n   \n2. **What attractions were opened in 1991 at Universal Studios Hollywood?**\n   - From the text data, we know the E.T. Adventure was opened in 1991.\n\n3. **Is the Harry Potter-themed area part of Universal Creative?**\n   - Yes, the Wizarding World of Harry Potter is part of Universal Creative.\n\n### Step 4: Formulate Answers\n1. **When was Universal Studios Hollywood opened?**\n   - Universal Studios Hollywood was opened in 1968.\n\n2. **What attractions were opened in 1991 at Universal Studios Hollywood?**\n   - The E.T. Adventure was opened in 1991 at Universal Studios Hollywood.\n\n3. **Is the Harry Potter-themed area part of Universal Creative?**\n   - Yes, the Harry Potter-themed area is part of Universal Creative.\n\n### Final Answer\nThe park/resort that was opened in 1991 and is associated with Universal Creative, specifically the Harry Potter-themed area, is Universal Studios Hollywood.",
+ "input_tokens": 2351,
+ "output_tokens": 438,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 37.87
+}

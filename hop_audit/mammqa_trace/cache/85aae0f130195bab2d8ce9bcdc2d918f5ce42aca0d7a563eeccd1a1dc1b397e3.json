@@ -1,0 +1,12 @@
+{
+ "key": "85aae0f130195bab2d8ce9bcdc2d918f5ce42aca0d7a563eeccd1a1dc1b397e3",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"What is the activity being performed in the 2008-11 M. Harriell stage production poster?\"\n\n### Step 2: Extract Relevant Insights\nFrom the table insight:\n- The table lists Marcy Harriell's roles across different years and theaters.\n- The year 2008-11 corresponds to the production \"In the Heights\" at the Richard Rodgers Theatre.\n- The role listed for this production is \"Vanessa\".\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the specific production mentioned in the question.\n2. Determine the role Marcy Harriell played in that production.\n3. Confirm the time period associated with the production.\n\n### Step 4: Answer the Subquestions\n1. The specific production mentioned in the question is \"In the Heights\".\n2. Marcy Harriell played the role of \"Vanessa\" in this production.\n3. The time period associated with the production is 2008-11.\n\n### Final Answer\nThe activity being performed in the 2008-11 M. Harriell stage production poster is \"In the Heights\" at the Richard Rodgers Theatre, where she played the role of \"Vanessa\".",
+ "input_tokens": 3001,
+ "output_tokens": 284,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 31.73
+}

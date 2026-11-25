@@ -1,0 +1,151 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "7173374c77f1c27e397663c455501bba",
+  "question": "There is a propeller on which of the aircrafts used by the Air Force of the Kampuchean Revolutionary Army?",
+  "context_digest": "a2ce1a11d7f7bfa587528430edb4fcebbccdc9eeab85164340707488b4ea5aa8",
+  "source_ids": [
+    "eaebb69e051c5d32ede3ed5e32ff5488",
+    "90f272b8e9b07a5a9ed260a135bad142",
+    "95f47d84f76507f47eddcc7fd48e5209"
+  ],
+  "modalities": [
+    "image"
+  ],
+  "shared": {
+    "stage1": {
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "INSUFFICIENT\n\nThe images provided do not contain any aircraft associated with the Kampuchean Revolutionary Army.",
+        "raw_output": "INSUFFICIENT\n\nThe images provided do not contain any aircraft associated with the Kampuchean Revolutionary Army."
+      }
+    },
+    "stage2": {
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The images provided do not contain any aircraft associated with the Kampuchean Revolutionary Army.",
+        "evidence_reference": "[NO OTHER MODALITY IS AVAILABLE]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The images provided do not contain any aircraft associated with the Kampuchean Revolutionary Army.\nEVIDENCE: [NO OTHER MODALITY IS AVAILABLE]"
+      }
+    },
+    "shared_seconds": 7.781327448999946,
+    "shared_digest": "c9d13ab082eb7a9ccb7ab4472ce927b94afc8dcee6046440184446c8c20036b4"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "FINAL: INSUFFICIENT",
+    "seconds": 0.6711855410001135,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.0164617929999622,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "7173374c77f1c27e397663c455501bba",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 1822,
+      "original_input_tokens": 1822,
+      "output_tokens": 22,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.706927580000183,
+      "image_count": 3,
+      "seed": 2313460892
+    },
+    {
+      "qid": "7173374c77f1c27e397663c455501bba",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 169,
+      "original_input_tokens": 169,
+      "output_tokens": 41,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.0659817250000287,
+      "image_count": 0,
+      "seed": 2841492417
+    },
+    {
+      "qid": "7173374c77f1c27e397663c455501bba",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 182,
+      "original_input_tokens": 182,
+      "output_tokens": 6,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6674810819999948,
+      "image_count": 0,
+      "seed": 1534756782
+    },
+    {
+      "qid": "7173374c77f1c27e397663c455501bba",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 202,
+      "original_input_tokens": 202,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5290828899999269,
+      "image_count": 0,
+      "seed": 2091435308
+    },
+    {
+      "qid": "7173374c77f1c27e397663c455501bba",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4804207680001582,
+      "image_count": 0,
+      "seed": 3786278598
+    }
+  ],
+  "completed_utc": "2026-10-13T20:01:55.445169+00:00"
+}

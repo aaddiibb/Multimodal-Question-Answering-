@@ -1,0 +1,12 @@
+{
+ "key": "c1363ce6baafdc3928e4203d34413111f3ccafdb720c111e4d5bf4b359ccac2a",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. What park/resort was one of the physical attractions of Universal Creative and is also the park that Harry Potter is in at Disney World?\n2. When the opening date is 1991, what park/resort does this correspond to?\n\nNow let's address each subquestion:\n\n### Subquestion 1:\nWhat park/resort was one of the physical attractions of Universal Creative and is also the park that Harry Potter is in at Disney World?\n\nThe park that Harry Potter is in at Disney World is Universal Studios Florida.\n\n### Subquestion 2:\nWhen the opening date is 1991, what park/resort does this correspond to?\n\nBased on the provided insights:\n- E.T. Adventure opened in Universal Studios Florida in 1990.\n- Back to the Future: The Ride opened in Universal Studios Florida in 1993.\n- Backdraft opened in Universal Studios Hollywood in 1991.\n\nTherefore, the park/resort that corresponds to the opening date of 1991 is Universal Studios Hollywood.\n\nFinal Answer:\nUniversal Studios Hollywood",
+ "input_tokens": 3608,
+ "output_tokens": 232,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 29.41
+}

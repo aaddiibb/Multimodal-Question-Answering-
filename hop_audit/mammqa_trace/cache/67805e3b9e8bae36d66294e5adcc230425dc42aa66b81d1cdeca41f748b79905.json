@@ -1,0 +1,12 @@
+{
+ "key": "67805e3b9e8bae36d66294e5adcc230425dc42aa66b81d1cdeca41f748b79905",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks which video game title Wes Johnson was a voice actor for first between \"World of Warcraft: Battle for Azeroth\" and \"The Elder Scrolls V: Skyrim\".\n\n#### Insights:\n- The text insight states that Wes Johnson did not voice either \"World of Warcraft: Battle for Azeroth\" or \"The Elder Scrolls V: Skyrim\".\n- The table provides a chronological list of Wes Johnson's voice acting roles.\n- The images show the covers of \"The Elder Scrolls IV: Oblivion\", \"The Elder Scrolls III: Morrowind\", and \"The Elder Scrolls V: Skyrim\".\n\n### Step 2: Break Down the Question into Subquestions\n1. Was Wes Johnson a voice actor for \"World of Warcraft: Battle for Azeroth\"?\n2. Was Wes Johnson a voice actor for \"The Elder Scrolls V: Skyrim\"?\n\nBased on the provided information, we can see that Wes Johnson voiced \"World of Warcraft: Battle for Azeroth\" in 2018 but not \"The Elder Scrolls V: Skyrim\". Therefore, he cannot have voiced \"The Elder Scrolls V: Skyrim\" first.\n\n### Final Answer\n<answer>Wes Johnson was a voice actor for \"World of Warcraft: Battle for Azeroth\" after \"The Elder Scrolls V: Skyrim\", so he was not a voice actor for \"The Elder Scrolls V: Skyrim\" first.</answer>",
+ "input_tokens": 2337,
+ "output_tokens": 297,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 28.37
+}

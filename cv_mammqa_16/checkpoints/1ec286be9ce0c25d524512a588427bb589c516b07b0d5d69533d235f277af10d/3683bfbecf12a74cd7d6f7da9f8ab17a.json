@@ -1,0 +1,192 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+  "question": "Was the Title that features a woman in sunglasses on its poster or SuperGrid, the one with most recent year in filmography of Natalie Krill?",
+  "context_digest": "c69c024edef407df3b6206cdaa467e8e1ac4eb98117e2acfeb412cb8a6841ae1",
+  "source_ids": [
+    "ba85f5f1aff561a6c4169f9e75ffba38",
+    "8a0bc8ff19099bce9b1e707c96e16900"
+  ],
+  "modalities": [
+    "image",
+    "table"
+  ],
+  "shared": {
+    "stage1": {
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "The table does not provide any information about the posters for the titles featuring a woman in sunglasses or the most recent year in Natalie Krill's filmography.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The table does not provide any information about the posters for the titles featuring a woman in sunglasses or the most recent year in Natalie Krill's filmography."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image shows a movie poster for \"Molly's Game,\" which features a woman wearing sunglasses. However, there is no mention of \"SuperGrid\" or Natalie Krill's filmography in the provided image.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image shows a movie poster for \"Molly's Game,\" which features a woman wearing sunglasses. However, there is no mention of \"SuperGrid\" or Natalie Krill's filmography in the provided image."
+      }
+    },
+    "stage2": {
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image metadata confirms \"Molly's Game\" but does not provide information about Natalie Krill's filmography or compare it to SuperGrid.",
+        "evidence_reference": "The image is of the movie \"Molly's Game.\"",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image metadata confirms \"Molly's Game\" but does not provide information about Natalie Krill's filmography or compare it to SuperGrid.\nEVIDENCE: The image is of the movie \"Molly's Game.\""
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image shows a movie poster for \"Molly's Game,\" but there is no information about \"SuperGrid\" or Natalie Krill's filmography in the provided image.",
+        "evidence_reference": "[Table showing Natalie Krill's filmography]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image shows a movie poster for \"Molly's Game,\" but there is no information about \"SuperGrid\" or Natalie Krill's filmography in the provided image.\nEVIDENCE: [Table showing Natalie Krill's filmography]"
+      }
+    },
+    "shared_seconds": 17.230537496000125,
+    "shared_digest": "926e1222e020651072128d92b56bf20cb7b32cfd7c7d6e4107e7636c32a72cb3"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "FINAL: INSUFFICIENT",
+    "seconds": 0.7990469619999203,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.1426020030000927,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 404,
+      "original_input_tokens": 404,
+      "output_tokens": 42,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.3794083719999435,
+      "image_count": 0,
+      "seed": 1610937328
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 476,
+      "original_input_tokens": 476,
+      "output_tokens": 54,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.48579255300001,
+      "image_count": 1,
+      "seed": 3482233195
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 544,
+      "original_input_tokens": 544,
+      "output_tokens": 56,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.700065366999979,
+      "image_count": 1,
+      "seed": 3710313471
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 478,
+      "original_input_tokens": 478,
+      "output_tokens": 60,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.650472865999973,
+      "image_count": 0,
+      "seed": 1149712530
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 270,
+      "original_input_tokens": 270,
+      "output_tokens": 6,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.7955121459999646,
+      "image_count": 0,
+      "seed": 3633830356
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 285,
+      "original_input_tokens": 285,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6630932099999427,
+      "image_count": 0,
+      "seed": 2235371743
+    },
+    {
+      "qid": "3683bfbecf12a74cd7d6f7da9f8ab17a",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4720319280002059,
+      "image_count": 0,
+      "seed": 2221663381
+    }
+  ],
+  "completed_utc": "2026-10-13T19:59:34.245795+00:00"
+}

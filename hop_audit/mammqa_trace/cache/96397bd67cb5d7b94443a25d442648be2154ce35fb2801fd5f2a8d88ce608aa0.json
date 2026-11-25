@@ -1,0 +1,12 @@
+{
+ "key": "96397bd67cb5d7b94443a25d442648be2154ce35fb2801fd5f2a8d88ce608aa0",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Mark Consuelos' roles over different years.\n- The role \"Vic\" was played in the year 2016.\n</insights>\n\n<answer>\nMark Consuelos played Vic in the 2016 movie \"All We Had.\"\n</answer>\n\n<subanswer>\n- The role \"Vic\" was played in the year 2016.\n</subanswer>",
+ "input_tokens": 860,
+ "output_tokens": 101,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.98
+}

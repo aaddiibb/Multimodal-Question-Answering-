@@ -1,0 +1,12 @@
+{
+ "key": "8e9403f2e96edbe94eb9525e739f7d54a99169a3706f9bea07c98a541e22a44d",
+ "text": "<modality> table </modality>\n\n<insights>\n- Michael Cassidy played the role of Greg McClintock in the TV show \"Castle\".\n- The show \"Castle\" features a structure above the water which is a castle.\n</insights>\n\n<answer>\nThe role of Greg McClintock was played by actor Michael Cassidy in the television title \"Castle\", whose advertisement features a castle above the water.\n</answer>",
+ "input_tokens": 1076,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.59
+}

@@ -1,0 +1,12 @@
+{
+ "key": "7e53792f7aafc5525bc607b0d913b13ab2fe53ae9c9e24fb0b3e9c37e25d6ef7",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various projects and their corresponding parks/resorts along with their opening dates.\n- Projects with an opening date of 1991 include: E.T. Adventure, Back to the Future: The Ride, and Backdraft.\n- The park that Harry Potter is in at Disney World is Universal Studios Florida.\n</insights>\n\n<answer>\nUniversal Studios Florida</answer>\n\n<subanswer>\n- E.T. Adventure opened in Universal Studios Florida in 1990.\n- Back to the Future: The Ride opened in Universal Studios Florida in 1993.\n- Backdraft opened in Universal Studios Hollywood in 1991.\n</subanswer>",
+ "input_tokens": 1270,
+ "output_tokens": 152,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.06
+}

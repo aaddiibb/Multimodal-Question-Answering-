@@ -1,0 +1,12 @@
+{
+ "key": "9c04b2cedf0859c2db66a37c58d34c63ce72183a0b86b9b23d4953c58da3405e",
+ "text": "<answer>Toby Bailey</answer>",
+ "input_tokens": 1231,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.23
+}

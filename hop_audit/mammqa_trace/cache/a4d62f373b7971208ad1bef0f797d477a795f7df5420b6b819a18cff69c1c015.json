@@ -1,0 +1,12 @@
+{
+ "key": "a4d62f373b7971208ad1bef0f797d477a795f7df5420b6b819a18cff69c1c015",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but none of them feature only two women prominently. The poster for \"Rakshadikari Bajji (Oppu)\" has two women featured, but it does not specify if they are the only two women in the movie.</insights>\n\n<answer>Based on the provided images, there is no clear indication that Ranjan Pramod was more recently involved in the movie \"Manassinakkare\" or the movie whose poster features only two women. The image does not provide enough information to determine this.</answer>",
+ "input_tokens": 1559,
+ "output_tokens": 127,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.83
+}

@@ -1,0 +1,12 @@
+{
+ "key": "8ff4f49f4a6f2287f453ef4ffd12930728b1de7ee3ba00e1b3b400036819dcf1",
+ "text": "<answer>The item on the top of the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup is a crown.</answer>",
+ "input_tokens": 1205,
+ "output_tokens": 38,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.76
+}

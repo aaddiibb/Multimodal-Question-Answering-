@@ -1,0 +1,12 @@
+{
+ "key": "73e904bada959f9f40ca34692c2f45a8139a723e7fa7987c2510853d822ad80a",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. What is the native name of the version of \"Hundred Acre Wood\" mentioned in the question?\n2. Is the language used in the version of \"Hundred Acre Wood\" that has a native name of \"Bosque dos Cem Acres\" the same as Spanish?\n\nThe answer to the original question can be derived from the insights provided and the text data.",
+ "input_tokens": 4016,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 18.54
+}

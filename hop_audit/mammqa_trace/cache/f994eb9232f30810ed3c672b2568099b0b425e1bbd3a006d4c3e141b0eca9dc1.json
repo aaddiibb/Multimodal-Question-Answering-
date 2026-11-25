@@ -1,0 +1,12 @@
+{
+ "key": "f994eb9232f30810ed3c672b2568099b0b425e1bbd3a006d4c3e141b0eca9dc1",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Anna Akana's roles across different TV shows.\n- The show \"Big City Greens\" has a house on its title screen.\n- Anna Akana played the role of Gloria in \"Big City Greens.\"\n</insights>\n\n<answer>\nThe television show that features a house on its title screen and Anna Akana as an actress is \"Big City Greens.\" However, there is no mention of Jude or his boyfriends in the provided table. Therefore, based on the given data, we cannot determine Jude's boyfriend's name.\n</answer>",
+ "input_tokens": 892,
+ "output_tokens": 127,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.42
+}

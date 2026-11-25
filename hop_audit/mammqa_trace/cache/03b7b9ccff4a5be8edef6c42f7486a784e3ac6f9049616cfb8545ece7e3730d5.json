@@ -1,0 +1,12 @@
+{
+ "key": "03b7b9ccff4a5be8edef6c42f7486a784e3ac6f9049616cfb8545ece7e3730d5",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists dates, headliners, events/tours, supporting acts, and additional columns labeled \"_1\".\n- The headliner on May 8 is Reba McEntire.\n</insights>\n\n<answer>\nReba McEntire was the headliner at the Target Center concert on May 8.\n</answer>\n\n<subanswer>\nThe headliner on May 8 is Reba McEntire.\n</subanswer>",
+ "input_tokens": 1055,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.87
+}

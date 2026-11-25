@@ -1,0 +1,16 @@
+qid,hop_index,items,modalities,in_context,status,first_stage_surfaced,surfaced_by,raw_available_to,final_text_mentions,channels
+64dabbb94b37ab25d973157fe27b5417,0,James Taylor,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.image,False,S1.text->S2.text:carried
+64dabbb94b37ab25d973157fe27b5417,1,James Taylor,image,True,REACHED,1,S1.text;S2.text,S1.image;S2.text,False,
+782b7cd2730063d3406269f49f3abea5,0,"St. Louis, Missouri",image,True,REACHED,1,S1.image;S2.text,S1.image;S2.text,False,S1.image->S2.image:dropped
+5219198c4be50e67c67c373f1afdf797,0,Main Tera Hero,image,True,REACHED,1,S1.text;S1.image;S2.text;S2.image,S1.image;S2.text,False,S1.image->S2.image:carried
+df1baba3c38afb8cb6574f05de962c94,0,Thierry Henry,image,True,REACHED,2,S2.text,S1.image;S2.text,False,
+df1baba3c38afb8cb6574f05de962c94,1,Ryan Giggs,text,True,NOT_SURFACED,,,S1.text;S2.image,False,
+ad36bba97d42a17ea3d3dcdd8c4ccfcc,0,Person of Interest,table,True,LOST_IN_HANDOFF,1,S1.text,S1.table;S2.text,False,
+cdc57d98ce583c80ab41090c89775274,0,Dances with Wolves,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.table;S2.text,False,S1.table->S2.table:carried
+113e5d95caf0f6353818a711ef39f8ff,0,Essendon Football Club,text,True,NOT_SURFACED,,,S1.text;S2.table,False,
+113e5d95caf0f6353818a711ef39f8ff,1,Essendon,table,True,NOT_SURFACED,,,S1.table;S2.text,False,
+9618d36556c0c2f3b5ee6ff644001a6d,0,MacBook Air,table,True,REACHED,2,S2.table,S1.table;S2.text,False,None->S2.table:unsupported_surface
+3683bfbecf12a74cd7d6f7da9f8ab17a,0,Molly's Game,image,True,REACHED,1,S1.image;S2.table;S2.image,S1.image;S2.table,False,S1.image->S2.image:carried
+e950ebf7c5f25a971d748b883fc181db,0,Calgary Boomers,table,True,REACHED,2,S2.table;S2.image,S1.table;S2.image,False,None->S2.table:unsupported_surface
+e596d17f170cdf8a707a8e11962ee301,0,Little Boy,table,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.table;S2.image,False,S1.table->S2.table:carried
+2f7dc1705f3baa62fd582c6a9057b88e,0,Gus (1976 film),image,True,REACHED,1,S1.image;S2.table,S1.image;S2.table,False,S1.image->S2.image:dropped

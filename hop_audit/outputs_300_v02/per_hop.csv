@@ -1,0 +1,341 @@
+qid,hop_index,items,modalities,in_context,status,first_stage_surfaced,surfaced_by,raw_available_to,final_text_mentions,channels
+f1d8bf21d404686f93b0993778905686,0,Love Sex aur Dhokha,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+b18df92399d5d28a9e28236f3046c50f,0,Sydney Swans | Western Bulldogs,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+b18df92399d5d28a9e28236f3046c50f,1,Footscray,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+e7e728212dd999b3cf1a8de67442d3ac,0,Carrie Underwood,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+983896c1506e70dabb50e77a717268d9,0,The Parent Trap,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+87d0d1beddda61d9333506028006c7bd,0,Williamstown Theatre Festival,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+b04f9ebb5c841438872ffd1342c788e5,0,Elton John,text,True,REACHED,1,S1.image;S2.image,S1.text;S2.table;S2.image,False,
+96aad9d0dc7fcb9fdea8db970f90853a,0,Taarak Mehta Ka Ooltah Chashmah,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+062686b4df599f4111761a0753f4c6c1,0,Transformers: The Game | Transformers Autobots,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+062686b4df599f4111761a0753f4c6c1,1,Transformers: The Game | Transformers Autobots,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+4ea83a52d230178274421f426d8e3dc3,0,Bayernliga,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+cc5273a106f1c124aab46feb4f9461b0,0,Twelfth Night,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+1d96824848914bb5ab82bd87085605ce,0,Ali Daei,text,True,REACHED,1,S1.table;S2.table;S2.image,S1.text;S2.table;S2.image,True,
+12b5572cf9bbb103a607a9e0b880c94a,0,Need Your Love So Bad,table,True,REACHED,2,S2.text,S1.table;S2.text;S2.image,False,
+8fba1443e531d82871ccbd5a8ab9f3be,0,Pet Shop Boys,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+380f72986c6728b13c17f77dc6c22205,0,Lukko,image,True,REACHED,1,S1.table;S2.table,S1.image;S2.text;S2.table,False,
+13c2a1185b4afbdb3ff93e673e6aa82a,0,Liz Phair,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+591fea517306d7aaa6d40ab6d92c60c7,0,1997,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+591fea517306d7aaa6d40ab6d92c60c7,1,1997 | 1997,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+74f9019633803db0ac332ee70ff326b0,0,Reba McEntire,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+ff7ecb97b47ba179fb7b7ee98d488d1a,0,The Fosters (2013 TV series),image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,True,S1.image->S2.image:carried
+3e0e050e933e43ccb163b7fcc7535b21,0,The Polar Express (film),image,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+6cdbdb112202d243e6a061fab81e9b7a,0,FC Den Bosch,image,True,REACHED,2,S2.table;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+c900076a1a7a0d6a586e6e5dc7d60696,0,The Amazing World of Gumball,image,True,REACHED,1,S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+24d401e9e9842ac66ee811ea21fbb509,0,"""When I Need You"" — Rod Stewart",table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+c38d39b39912cc58a0822432b6660fbf,0,Kansas City Chiefs,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+ede9a615811ae817b7e7e4cce658b595,0,Miami Vice,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+c49e7cfc4919fe9ca4a361579c582e39,0,Harry Potter and the Goblet of Fire,text,True,REACHED,1,S1.table;S2.table;S2.image,S1.text;S2.table;S2.image,False,
+ddc3ef7735c55abceb3dcd2c0b863498,0,FC Espoo,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+20f925030747b53b816d9f5436a6109c,0,Tyler Turner | Richmond Laryea | Harrison Heath | Hadji Barry | Mason Stajduhar | Bryan Róchez,table,True,REACHED,2,S2.text;S2.image,S1.table;S2.text;S2.image,False,
+20f925030747b53b816d9f5436a6109c,1,Tyler Turner | Richmond Laryea | Harrison Heath | Hadji Barry | Mason Stajduhar | Bryan Róchez,table,True,REACHED,2,S2.text;S2.image,S1.table;S2.text;S2.image,False,
+ab3c347c802bfdfd80b53320400e263c,0,BAFTA TV Award,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+3381825f509615f7d458fd6205d07e77,0,I Put a Spell on You,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+042167257f2a553469fa2c3bfef659f6,0,One Tree Hill,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+0a8b8b970675ee05c9579f4330c19d70,0,Slugterra | Kick Buttowski: Suburban Daredevil,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+0a8b8b970675ee05c9579f4330c19d70,1,Slugterra | Kick Buttowski: Suburban Daredevil,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+50e892833f89d565b6f5dc57a237b325,0,Death Note,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e1121329fd8a39084973981b0ae09f4a,0,The World's End,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+b8b26f0400eb24a66b16445077a0a81e,0,Coventry Bears,image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+e4fedf45de5b3fdb19ab04f43bb2377a,0,Steve McQueen,table,True,REACHED,1,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+57e8c0c3de0b05088ff7a3c85edef187,0,Kempton,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+69389b694bb9a06f7f023eadf8ba1f61,0,"""I Told You So""",table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+10af21e2b2756b42cc049dbbd73fe4ef,0,As You Like It,table,True,REACHED,1,S1.text;S2.image,S1.table;S2.text;S2.image,False,
+daf24c25a5126e8caf6773a7cd956298,0,Millettia pinnata,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+e368b925129bc3ad35a94a6d5e9de770,0,Lionel Messi,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+b34e6f73a8e2041acfdaa10be9d590bc,0,Airbus UK Broughton F.C.,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+12cc070c25eedb638ec9b018e4678156,0,Kentucky Derby,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+12cc070c25eedb638ec9b018e4678156,1,Kentucky Derby,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+f45e8147c2d7cd59000bb36574120900,0,Mark Williams (snooker player),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+f45e8147c2d7cd59000bb36574120900,1,Ronnie O'Sullivan,text,True,REACHED,2,S2.image,S1.text;S2.table;S2.image,False,
+3d1cfc992ee4774dba9a663ca9b36809,0,Harry Potter and the Goblet of Fire,text,True,REACHED,1,S1.table;S1.image;S2.text;S2.table,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+6ff171b80a0f0f8144a65f16be37b24c,0,Performers,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+7bd7f567ed3392942c746c652e356be8,0,Phil Taylor,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+1ad0c10aa88ae1ee3af333e942b146a8,0,The Hunley,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e723bdfa758e95165ffdbb99dab1bdc2,0,Talking Heads,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+ff9aba2705aed6a76fe35afa2ad24d6f,0,Archbishop Williams High School,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+8f175a0cb4fa6ff5d62cb680638c98eb,0,Union Pacific Railroad,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+86d78c3d0b404a680cdb247e15babd64,0,"""The Beast""",table,True,REACHED,1,S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:dropped
+86d78c3d0b404a680cdb247e15babd64,1,"""The Beast""",table,True,REACHED,1,S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:dropped
+445bc5e02f240a4d151b30e9ec6dea80,0,Grimstad,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+49ee63cd9334f492856f4f03aff1807e,0,Harry Potter and the Goblet of Fire,table,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+650e85cfb29a3e913d55831c30090080,0,Joanna Jędrzejczyk,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+52d8d419290b16a96633cd9920f1ea8c,0,Midnite Spares,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+ac9c96e3b92ac9227a8a5f2ccea4d780,0,James Augustine | Marcin Gortat | J. J. Redick,image,True,REACHED,1,S1.table;S2.text,S1.image;S2.text;S2.table,False,
+ac9c96e3b92ac9227a8a5f2ccea4d780,1,James Augustine | Marcin Gortat | J. J. Redick,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+2d4201adb565f16f8024fe3225f301dd,0,Central Intelligence,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+28411052506c4009e3707aefe55fab15,0,Michael Jordan,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+9836e53dcac8847a9af8e414b2d68cf2,0,Angry All the Time,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+3c464ec9ff6ae28426640fdd51aaf2fd,0,Jaime Penedo,table,True,REACHED,1,S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+6780758fb1ebc547582c186ca681b84d,0,Inspector Lewis,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+c0674458cd26df97b8e5579d871016e5,0,The Dukes of Hazzard,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+09806284de195b3747072c1b4df7b034,0,Whitney Houston,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+67e67f6e04a508420dbf6e0736038686,0,James Taylor,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+375ab64096ab9e840266206aff6f461a,0,Enemy of the State,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.image,S1.text;S2.table;S2.image,True,S1.text->S2.text:carried
+bf39d84c7e1ce3e0f7b98c1b8e4be6ef,0,Martina McBride,text,True,LOST_IN_HANDOFF,1,S1.table,S1.text;S2.table;S2.image,False,
+bf39d84c7e1ce3e0f7b98c1b8e4be6ef,1,Martina McBride,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+05cf9d2b18e4c0358e321dbd28b12d14,0,Atlanta Falcons,text,True,REACHED,2,S2.image,S1.text;S2.table;S2.image,False,
+05cf9d2b18e4c0358e321dbd28b12d14,1,Atlanta Falcons | at Atlanta Falcons,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+e9cfe3d149fccbf737f3cca2ab607e46,0,Boris Said,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+c94e7a70bb7f9b7ee82c7a4320eb756a,0,Golden State Warriors,text,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+71c65b4e835609c89fff04ef226eb27f,0,Bugatti,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.image,S1.text;S2.table;S2.image,True,S1.text->S2.text:carried
+fdd0c88d5c107669cc4b6813894b7f5e,0,Beyoncé,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+6b0c1ee8eaaa43d13e176b4833a0ecb3,0,East Bengal F.C.,image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+a2f15e58d703567c1a32d440ddf30299,0,Hawaii Five-O (1968 TV series),image,True,REACHED,1,S1.image;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+c932bd00be5ba7df47e96f7f18c69eda,0,Macbeth,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+1982ea14d6fa923927619d4a4c68db87,0,Alice Through the Looking Glass,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+2905288d5e473cf4a199a909aac1be93,0,A Beautiful Mind (film),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+378f2ab361968ed2720f48eface3889a,0,Beauty and the Beast,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+e9d115431bb3af91b67f8d57b3c8616a,0,Rick Mears,text,True,REACHED,1,S1.table;S2.table;S2.image,S1.text;S2.table;S2.image,False,
+e9d115431bb3af91b67f8d57b3c8616a,1,Rick Mears,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e3adf9992eeb8686e5001ac112de7178,0,Pat Summerall,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+39bd3f9ddc4b33aee21bce4774d54834,0,Mrs. Renfrew,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+871e09ce0d6dd22c33e2abc5e070ded3,0,I Am Legend,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+9475edd08caab8f60fc5f4e14be760b0,0,Ateneo Blue Eagles,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+16ad0ff40da24c7330ca490987dadf87,0,Islam,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+6273c933272b9332f9a70bf27dd84e68,0,Sachin Tendulkar,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+265c9d2214f57787e65302039ec8b8f9,0,Budapest,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,True,S1.text->S2.text:carried
+bc2e226b953fe9073c646c40b6fbbe73,0,Girl Meets World,image,True,REACHED,2,S2.text;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+7304d0bba0ec848c223e4b203e2d0158,0,True True Lie,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+a9c9a80d9b266cf786ebd2b3cba0d60f,0,Call the Midwife,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+c24d916959a91e823faa7a8ce8292bc7,0,Jerrod Niemann,text,True,REACHED,1,S1.table;S2.image,S1.text;S2.table;S2.image,False,
+c24d916959a91e823faa7a8ce8292bc7,1,Jerrod Niemann,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+d4f7ddfba90360ad1e0fb4c100b7ab41,0,Wakaba Higuchi,image,True,REACHED,2,S2.text;S2.image,S1.image;S2.text;S2.table,True,None->S2.image:unsupported_surface
+d4f7ddfba90360ad1e0fb4c100b7ab41,1,Wakaba Higuchi,table,True,REACHED,2,S2.text;S2.image,S1.table;S2.text;S2.image,True,
+82edc4d2853f5563dbce0001a3944d20,0,Blue Chips,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+51f16e3b8adb750b07683daf4487094d,0,UMF Tindastóll,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+394605f7d9fd8c2bd078361bc26ada7c,0,TBD,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+63892c41545d011066d4a5e9a75dc71d,0,Warner Bros. Records,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+c07c108b8be892dd32e4485406ba61b4,0,Best Supporting Actress,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+c07c108b8be892dd32e4485406ba61b4,1,Best Supporting Actress | Best Supporting Actress | Best Supporting Actress,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+f11cff3920ce9f8a27dc4fe961f10d5c,0,Gladys Knight,text,True,REACHED,2,S2.image,S1.text;S2.table;S2.image,False,
+ebbc4d5836afde56f6c50d6f06deff2e,0,The Bling Ring,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+c328bffe44419f1ef817569e82fc6d2c,0,Torino F.C.,image,True,REACHED,1,S1.image;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+7ad698710c7ccb4f92bde540a1f189e4,0,Hawaii Five-O,table,True,REACHED,1,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+d8a3cc4403fbcb2ea99382815730ddec,0,Krka,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+f378e6c2b3178511b6987480dc57f417,0,Jeff Larentowicz,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+fe687c0c73f3094669d5ec9eaddc0e15,0,Washoe County,text,True,REACHED,1,S1.image;S2.image,S1.text;S2.table;S2.image,False,
+111e2c6d6aac95d1ebd632d2e37a70e7,0,"St. Louis, Missouri",text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+c93e3959754568b3799ea4bd6b355818,0,Charlotte Hornets,image,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+2cca87e7b1b77ee2e3f4f83119c1854c,0,basketball | tennis,text,True,REACHED,1,S1.table;S2.text;S2.table,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+2cca87e7b1b77ee2e3f4f83119c1854c,1,Tennis | Table tennis | Basketball,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+0efd517e21041f77d5bd4827eb93391e,0,General Electric,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+f32edadabeda35d4aaf685ca937386a9,0,Trey Parker,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+069ac34398c0b27d57efddea30e510e4,0,SMU Mustangs football,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+069ac34398c0b27d57efddea30e510e4,1,SMU,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+d27caed0b360cd98c8b04c53751582c8,0,Whitney Houston,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+31979c4f4273dfe571df8d50d268bf8b,0,Father,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+966c44b2a49b38286ff313a2386824cc,0,Mertis John Jr.,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+a1e42da526ff18d90cd2eda775fc3be2,0,The Jackson 5,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+8ee6828df3f7dff3e979d0b87a2e812e,0,Kirikou,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+23784e8b16f3c60960174e8b7e94d117,0,Neel Jani,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+ee7f5fc0979ce89e85a801542edd8ad4,0,"Jacksonville, Florida",image,True,REACHED,1,S1.text;S2.text;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+1f4c0c5d7a5fe2d4bac22baf5bef68c2,0,Milad Meydavoudi,image,True,REACHED,1,S1.table;S2.text,S1.image;S2.text;S2.table,False,
+1f4c0c5d7a5fe2d4bac22baf5bef68c2,1,Milad Meydavoudi,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+5f0702dcdf0137e481d95b62ae6ea23d,0,Jesus Christ Superstar,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+76d853b0293fed49f6faa47b17057a6b,0,1998 | 1999 | 2001 | 2002,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+76d853b0293fed49f6faa47b17057a6b,1,1998 | 1999 | 2001 | 2002,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+29af2f314cb813aead8134609ecca5b1,0,Cat on a Hot Tin Roof,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+c03a4eff02cfcf14693ab23434683fb9,0,Dolly Parton,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+b7106bcf7704805ca0ba84ddd85004f4,0,Vladimir Guerrero,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+bed46f5100d7cab5c4f1115a7c3638be,0,"""Paralyzed"" | ""The Wolfpack""",table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+bed46f5100d7cab5c4f1115a7c3638be,1,"""Paralyzed"" | ""The Wolfpack""",table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+c81c4000f886ed9ebe29f8989088575e,0,Islam,text,True,REACHED,2,S2.text,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+c81c4000f886ed9ebe29f8989088575e,1,Islam,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+62bcc955094e4f2dc3e8a3b41384b58d,0,Hearst Communications,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+796d86b407796b748d9feb9e9187a898,0,Magdalena Forsberg,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+cad2a8c3d084b5c5f32b28954a00702b,0,Land Rover Defender,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+a4a3b369ef71a1cb710e993ac313812c,0,A Dog's Purpose,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+3590ab0420e71d37892fcfda94aee409,0,DNQ,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+d771de45b0645ba154948c0db000d3be,0,Saint Petersburg,text,True,REACHED,2,S2.table;S2.image,S1.text;S2.table;S2.image,False,
+189b3d7c3139f85469bfc72e423a9b44,0,Owen Racing Organisation,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+424e731dec99fd3b36fb5ba2c59d1f16,0,Evolution World Tour,image,True,REACHED,2,S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+540ceea7e372fedb11d29561059d974e,0,Twelfth Night,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:dropped
+41a0f1050d12b5ef209a19dd4a4822b3,0,Girl Meets World,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+7d88a7aeac7eb0f69c74c1f642ed48c0,0,P. Susheela,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+0f22b5d312a0b8cc97455e66ddda260c,0,Gosford Park,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+e1fbbed63ee293abb898a5de10fefc69,0,Kingdom Hearts II | Kingdom Hearts II: Final Mix+,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+e1fbbed63ee293abb898a5de10fefc69,1,Kingdom Hearts II: Final Mix+,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+7adcb26fda18602af51a8b9f2061f94f,0,Uttar Pradesh,image,True,LOST_IN_HANDOFF,1,S1.table,S1.image;S2.text;S2.table,False,
+ab92d78f544f09ec7b61496ece7c0833,0,Friends with Benefits,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,True,S1.text->S2.text:carried
+74e41eba24bcaeb1212cb23425f1e69e,0,USA Rugby TV | ESPN3,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+4778c9f3b15c46c0f7cb8779c3ca4b1c,0,Ashtone Morgan,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+a5e00e7fd6d976c2b4b397c47ab40014,0,Sully (film),image,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+a5e00e7fd6d976c2b4b397c47ab40014,1,Sully,table,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+c528ad759ef7277b55426514b219bffb,0,School of Rock,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+df6a224711b6900ef8e1a91e057b4865,0,Sex and the City 2,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+4a870e608f53021d46b2ee4bd3c9eea8,0,Sergei Prokofiev,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+0f0b4253d4f4b8e75740308b6a73619b,0,The Fosters (2013 TV series),image,True,REACHED,1,S1.text;S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+6bce25aa30561e06dd9cb3bb1003b627,0,Tennis,table,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+9264216e2fb4bb4868a823e887d09783,0,Trick 'r Treat,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+a0c18732582c6572f58774c7ae4543fd,0,Penny Hardaway,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+d8a47742253fc5049ddeeef9f495f7b2,0,A Beautiful Mind (film),image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+d8a47742253fc5049ddeeef9f495f7b2,1,The Divergent Series: Insurgent | The Divergent Series: Allegiant,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+11f0f941600ad6c30e9af93cc9f51712,0,"Ave Maria, Florida",image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+d7c27ea21b8462542f1c66c526418200,0,Murphy's Law,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+5a92dd84de9fc1a8fa23cc73483d2753,0,From Russia With Love,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+29ff34fcffe7fc9ebeb42bb1b1fd826b,0,Enny Romero,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+65dfcfcd8831e3740f9ad1f9728c6adf,0,Lviv,image,True,REACHED,2,S2.image,S1.image;S2.text;S2.table,True,None->S2.image:unsupported_surface
+950e8463e15d9ae0dadd4d25bc4e9b5d,0,Inside Amy Schumer,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+781e728f3710587c2eb30edee58f2021,0,Jingle All the Way,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e8874819c8c171d83e26e0ae0f4d2ce4,0,Kaziranga National Park,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+4f95c12e4d2d0b0eb114f3e91db5fbc1,0,Diego Maradona,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+4f95c12e4d2d0b0eb114f3e91db5fbc1,1,Pelé,text,True,REACHED,1,S1.text;S1.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:dropped
+ed06a4b34fa212d6be4522a017d58b82,0,Circa 450–457,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+07b2f4699287ff38512d66e98b250014,0,Meet Bros | Arijit Singh | Neha Kakkar.,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+c3abb465eda6c041d19c7cac507593ed,0,Oxnard College,image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+b85822a4402c85f6f77dec45014232a0,0,Alexandra Trusova,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+04dfd7512cbb416af41988232cdd0c68,0,Rick Mears,text,True,LOST_IN_HANDOFF,1,S1.table,S1.text;S2.table;S2.image,False,
+04dfd7512cbb416af41988232cdd0c68,1,Rick Mears,table,True,LOST_IN_HANDOFF,1,S1.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+682370aa53895c2ba3cd49037167518b,0,Seacom Skills University,image,True,REACHED,1,S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+1a6f5a7e7e93514a7515977a3511a822,0,"""Stay the Night""",table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+7a892a574302f8422626eac74b696b95,0,Venom (1971 film),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+64abc23e9b46cbe9da333347dbd60c1e,0,Christa B. Allen,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+f44867274c5f1bf9a001f953c86754f1,0,Panathinaikos B.C.,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+81088e10057564782ada42345f1b51bc,0,28 Days Later,table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+287040504a31a4770a12ccb07c36eb13,0,Saw V,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+014f0f79f9af827ba68cbf1b65130f51,0,Vijayakanth,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+7e2b401896aeccf738c7397de9e8d7cf,0,The Nightmare Before Christmas,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+b11b7bb67eb7917ca109edb62828f618,0,The Winter's Tale,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e6bf1ac6cc85c5563ae4a2dc1ce33d5f,0,"""Why""",table,True,REACHED,1,S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+04bbb16534dfab370b011a84d70bf051,0,The Nun's Story (film),image,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+e8eec540759053e716f0d4a1010e199f,0,Brian's Hunt,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+5fa187a053d883f7d8f70660ecb8dcdb,0,Reinhardt University,table,True,REACHED,1,S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+7c1c225becb07847f5f84e6af0417b7b,0,High Desert Yardbirds,image,True,REACHED,1,S1.image;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+806102fe5327afe00614677954db5579,0,Talking Heads,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e67df619b8e0d9bf4eb1d7740505fd88,0,SMU Mustangs football,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+a8c6be32a981a89d6f99e81de18f0b2a,0,Call the Midwife,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+082e679ef7335d449e250974bacc6101,0,3–0–2,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+7faa3a358a3e25fbf959d54fa05a6e91,0,Michael Bradley (soccer),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+3be96f38162933c89eda66879560e41e,0,Kew Retail Park,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+15e4aa743bf354ea03704de66e12b782,0,Thor: The Dark World | Thor: Ragnarok,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+a2683d2d5cb57888f39f06ed08115ba1,0,Supreme (film),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+2056dcf5ed1c70cb799c09a023a4f73c,0,Snow White and the Huntsman,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+645a861de74604e8025caf759f425748,0,2017,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+3e99b830ec0f40e6ad9b94766200bb9e,0,Muthyamantha Muddu,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+168d9f74f7f355cc97139f9a2814b69d,0,Luck (TV series),image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+c8c72cfb2d1f4e8fbfb77f876f8262f6,0,Wild Roses (TV series),image,True,REACHED,1,S1.image;S2.text,S1.image;S2.text;S2.table,False,S1.image->S2.image:dropped
+854f0e26aba9770919a08d5ed6a54cac,0,MVP: Most Valuable Primate,image,True,REACHED,1,S1.table;S2.table,S1.image;S2.text;S2.table,False,
+9c3996fcf2af4de7daa540e1e2286470,0,Slumdog Millionaire,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+17bea087783c5c4a2d4ee6ffb21920e3,0,Grey's Anatomy,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+54e4a753600ab1ecc963dd11a5726116,0,Universal Studios Florida,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+54e4a753600ab1ecc963dd11a5726116,1,Universal Studios Florida,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+cc2d57102e3fc11d7aabc7b1f3b11e1f,0,World of Warcraft: Battle for Azeroth,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+cc2d57102e3fc11d7aabc7b1f3b11e1f,1,The Elder Scrolls V: Skyrim,table,True,REACHED,1,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+9d249d4e530d7a3cdc9807f1e7cd584f,0,Lionel Messi,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+3f14c9a8448f16f5d983667eee0bf65e,0,Nil Battey Sannata,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+ab47a6769bedf581f22c8db06a36361f,0,Castilla,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+725ca323b783e2b010c73a88a938a370,0,Green Day,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+220f55e31592a5ed8e804402e012a39f,0,I Am Sam,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+97dfcada221ed75c850c5a1dc9965a0d,0,Joan Sims,text,True,REACHED,2,S2.image,S1.text;S2.table;S2.image,False,
+f356667690a995336f76344d097bb595,0,Pac-Land,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+e6ebef376a5f8d390513c0942a3861ef,0,Portuguese,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:dropped
+1596e3f73a33e24da59a19a2dece6cbb,0,Need Your Love So Bad,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+9ced6c0c15cabb527367db9dce03e59a,0,West Chester Golden Rams,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+2f34ec15d30206535baa99d709903307,0,"5.5"" 720 x 1280",table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+e6820a7887a5ed27294ae43fad3445f9,0,Walk with Me,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+f2c60a572ce83bacbf78cda7dc625b0c,0,Casoria,image,True,REACHED,2,S2.text;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+e562298d120bab0803434d2784357755,0,Operation Dumbo Drop,image,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+4437c68c9183d1abbf460c40769dc071,0,Oscar Micheaux,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+8824955c9280e6907177511dda24d7e4,0,"Nov 27–28, 2011",table,True,NOT_SURFACED,,,S1.table;S2.text;S2.image,False,
+911f0e3da26d46f30316abb7d56fd163,0,R1 Airlines,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+d275b09a6529489133dae0d8ce678043,0,Onryo (wrestler),image,True,REACHED,2,S2.text;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+db0e7104ed87fbb5abe784501c9c86a1,0,Bluefield College | Faulkner University | Point University,image,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+db0e7104ed87fbb5abe784501c9c86a1,1,Bluefield College | Faulkner University | Point University,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+daa6355a6b176227813640a8b9be4353,0,Michael Jordan,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+5980eb0068c2d2a2ec2193ff2f8696e8,0,The Nun's Story (film),image,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,True,None->S2.image:unsupported_surface
+c132fc928153e2009b49449383b28f9e,0,Song of the South,text,True,REACHED,2,S2.table;S2.image,S1.text;S2.table;S2.image,False,
+ce4c783ec908dc4139773ba5e6ed6d88,0,The Streets of San Francisco,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+03b001f3f7c21e7ef83f05df77e66d4f,0,Oklahoma City,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+493ce9b7696dc9a3c048cbbe8930031c,0,Castle,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+f0a47f05569b501151bc6aac89a2c89d,0,English,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+f0a47f05569b501151bc6aac89a2c89d,1,English,table,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,None->S2.table:unsupported_surface
+723cff08515cf6f04223f8218c481b0c,0,Spider-Man 2,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+57d2f3b4f7f8ebbb7c8f35d730fcceb5,0,5th | 28th | 39th | 11th | 4th | 10th | NC | 20th | NC | NC | NC | NC | NC,table,True,REACHED,2,S2.image,S1.table;S2.text;S2.image,False,
+1250357fe7efc2308c84e0c0b580e2c9,0,The Amazing World of Gumball,image,True,REACHED,1,S1.table;S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+9e1d388983bdccc4f4f3cce86c9cfbc7,0,Lego House,image,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+043d8199746ded4fba667a607684173a,0,Girl Meets World,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+84a89298751f5034887bb17df265bcfd,0,In the Heights,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+356070d6932cb55157b6163b819c8f21,0,Good Morning America,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+d96a20235dd15e1eb8544ad9d28494e2,0,"""Something in the Water""",table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,True,S1.table->S2.table:carried
+9062f0a10733ef0abf180e6788feca29,0,Canadian Football League,table,True,REACHED,1,S1.text;S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+aa50d519067acf344d4b01187575b13e,0,Snoop Dogg,text,True,REACHED,2,S2.table;S2.image,S1.text;S2.table;S2.image,False,
+aa50d519067acf344d4b01187575b13e,1,Snoop Dogg,table,True,REACHED,2,S2.table;S2.image,S1.table;S2.text;S2.image,False,None->S2.table:unsupported_surface
+677018adc8228b876dbd2967b05634ec,0,The Nun's Story (film),image,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,True,S1.image->S2.image:carried
+677018adc8228b876dbd2967b05634ec,1,The African Queen,text,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+71aa5ca0adee50856ac97ff2280b4dfc,0,120 Minutes,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+651a585e5b5500161eb187e87677a16c,0,2016,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+3c76a1f8ad00a1c6928a65a370f48cbf,0,Mass Effect 3,image,True,REACHED,1,S1.image;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+57ed1695ef2b175552dbcf597f975d71,0,George Sims (American football),image,True,REACHED,2,S2.text;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+57ed1695ef2b175552dbcf597f975d71,1,George Sims,table,True,REACHED,2,S2.text;S2.image,S1.table;S2.text;S2.image,False,
+3e01211c7699437a3432146b9e374d55,0,Lassie (1954 TV series),image,True,REACHED,1,S1.table;S1.image;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+0318e3b1eb51736bf111d233a396fdbf,0,Hot Fuzz,image,True,REACHED,1,S1.table;S2.table,S1.image;S2.text;S2.table,False,
+7873682e71d6f76b235c48fbfbde72b7,0,World of Demons,table,True,REACHED,1,S1.table;S2.text,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+3a7faddd273f1364ac9fbb66b6658fe9,0,Achuvinte Amma,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+cc9541815a25b26ca612f9895c273925,0,RCTI,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+cc9541815a25b26ca612f9895c273925,1,RCTI | RCTI | RCTI,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+8b8caa13c597e3c0b5656eb1ff1e816f,0,Parks and Recreation,image,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+f84b94c833d89d1bd23d2831fd45229c,0,Bette Midler,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+886f92bcdd89eb6b7ac0f2e069d3b730,0,Day by Day (American TV series),image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+830197a234920e4ab599a35b47974ea0,0,University of Wollongong,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+b0a785f3f132bf18d9fcf1d1f8dea298,0,Future World (film),image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+52fa3798ab4a7626072f3e47b329789e,0,Billy Joel,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+8216c175a7d406fedd3d163d8ed6c387,0,Siem Reap province | Kampong Chhnang province,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+8216c175a7d406fedd3d163d8ed6c387,1,Siem Reap Stadium,table,True,REACHED,2,S2.text,S1.table;S2.text;S2.image,False,
+0e9d96fb7b5f17969db33f2e613b20ee,0,Reba McEntire,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+216ff289c079b301de87c96270d371ba,0,The Story on Page One (film),image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+9418e274d0aa06e5cefc3ab80219351a,0,Coronation Street,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+de22c413b35b616bf5123f20e8c97449,0,Karai,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+8327f9a26ec1ce848a80e2500f70929a,0,The Moon Is Blue,image,True,REACHED,1,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,True,S1.image->S2.image:carried
+1f3664fd1742fa7c5b54fd39300c6534,0,National League,image,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+42e8a744df1cab9aa5ad0964fa216813,0,Secret Garden (South Korean TV series),image,True,REACHED,2,S2.text;S2.table,S1.image;S2.text;S2.table,False,
+6fac63e14f667e265c0451b184566a47,0,Gmina Janowice Wielkie,image,True,REACHED,1,S1.table;S2.table;S2.image,S1.image;S2.text;S2.table,False,None->S2.image:unsupported_surface
+dd920fa1a56fece13a4585ff36c7e016,0,David Ling,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+40b3e2453fe619126174d64bec19157c,0,Skiddaw,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+7cb75d90b1499793f280d0ec828cc008,0,Hammer & Sickle,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+2796902e5aa2f7bcfaf8f91cd032aea2,0,The Inspectors,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+37675a30a1c36e162a68f1e0ff8be63f,0,Bob Ross,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+37675a30a1c36e162a68f1e0ff8be63f,1,Bob Ross,table,True,REACHED,1,S1.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+14cfca87a84d25ca17313ad43e0b8f88,0,The Lion King,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+3b8c10bbf59a3d8722dcbb3a3cfd3575,0,University of Southern California,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+119c9a9bf38ca9f84a3900d7c7fd1fe5,0,22nd Star Awards Ceremony,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+119c9a9bf38ca9f84a3900d7c7fd1fe5,1,22nd Star Awards Ceremony,table,True,REACHED,1,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+974c10e442226d4f9e1e042aca404a0c,0,Spider-Man: Homecoming,text,True,REACHED,2,S2.text;S2.table,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+691dfdcfe1a2884998f1fe60b6f7ef15,0,University of Wollongong,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+a7056d9fc4bb2bffec3e7f3a9a72a61a,0,John Denver,text,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+a7056d9fc4bb2bffec3e7f3a9a72a61a,1,John Denver,table,True,REACHED,1,S1.text;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,None->S2.table:unsupported_surface
+d2322ed754451eb703f6c1379f0535e8,0,Arjen Robben,table,True,REACHED,2,S2.text,S1.table;S2.text;S2.image,False,
+81712f380ca5dd8d58c333fc1c366ef3,0,Carrie (1976 film),image,True,REACHED,1,S1.table;S2.table,S1.image;S2.text;S2.table,False,
+81712f380ca5dd8d58c333fc1c366ef3,1,Carrie,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+1946869d518678a95a5d2d51961818aa,0,PlayStation Theater,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+35ffa88a447dd6ca8ed2d90564ed87a8,0,Horse Doctor,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+a1b40c12a33c4e429cd72d8a88899454,0,Now Add Honey,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+87f95c06500b8852cac891a2697cc2f1,0,Good Burger,image,True,REACHED,1,S1.table;S2.text,S1.image;S2.text;S2.table,False,
+87f95c06500b8852cac891a2697cc2f1,1,Battlefield America,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:dropped
+4e09696e32e1a916372d090e986af012,0,"Saint Paul, Minnesota",image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+022a4190652d4999aa326d64a6bf87a4,0,Keiser University,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+9c95db901f2796d3207c152fdd9391ad,0,My Big Fat Greek Wedding 2,table,True,REACHED,1,S1.table;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+ee790547f5facabb581c8806e4babdeb,0,The Partridge Family,image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+0784b43a6c6eeddb318f65ea2baf397e,0,United States Air Force Academy,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+4cdb083b7d32719ff0ed63588765de4d,0,All We Had,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+7991b4f0ed0106d4693f18194e767658,0,Wildest Dreams (Brandy Norwood song),image,True,REACHED,1,S1.image;S2.text,S1.image;S2.text;S2.table,False,S1.image->S2.image:dropped
+7a8a030df747a67a6715393e82e7c723,0,Caterina Fake,image,True,REACHED,2,S2.text,S1.image;S2.text;S2.table,False,
+20eeccd19adb6f739680f234c37314ed,0,Federal government of the United States,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+32fa293b30513e3619128925a64389a1,0,Roberto De Vicenzo,text,True,REACHED,1,S1.text;S1.table;S2.table,S1.text;S2.table;S2.image,False,S1.text->S2.text:dropped
+e1238a0f20b1360ddbf16448f57484d3,0,Diary of a Wimpy Kid,text,True,REACHED,1,S1.text;S1.image;S2.text;S2.table;S2.image,S1.text;S2.table;S2.image,True,S1.text->S2.text:carried
+f6e543bad0cfd5933910a923705275ea,0,David Beckham,table,True,REACHED,1,S1.table;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+fcf2b36770bef483cbc122713f17f125,0,Tim McGraw,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+fcf2b36770bef483cbc122713f17f125,1,Tim McGraw,table,True,REACHED,1,S1.text;S2.text,S1.table;S2.text;S2.image,False,
+af3e03d30cebb1708b672ab3f238b827,0,Clemson Tigers women's basketball,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+782bfbc63ccd5db12e1efe9afd9e0752,0,Ali Daei,table,True,REACHED,1,S1.text;S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+e3027465630e99e8f964a29664034467,0,Grand Funk Railroad,text,True,REACHED,1,S1.text;S2.text;S2.image,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+7b5a18fe0ff6b814cc3e7e79d58dd314,0,The Nice Guys,table,True,REACHED,1,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+550f9f620d53ee8077154847af3b4651,0,Venice,text,True,REACHED,1,S1.table;S2.text;S2.table,S1.text;S2.table;S2.image,False,None->S2.text:unsupported_surface
+beb5d85dc0811603152bb64c768dd412,0,Missouri State University,image,True,REACHED,1,S1.image;S2.text;S2.image,S1.image;S2.text;S2.table,False,S1.image->S2.image:carried
+78eab38140bfb9b730f155eb83e18ca8,0,Walmart,table,True,REACHED,1,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried
+bb4dfe5176aa20b3b24f42c864c6ebb6,0,Montgomery Gentry,text,True,REACHED,1,S1.text;S2.text,S1.text;S2.table;S2.image,False,S1.text->S2.text:carried
+1f23c6976ee393391a9cbf26421ed1ac,0,Delon Armitage,image,True,NOT_SURFACED,,,S1.image;S2.text;S2.table,False,
+16f832a8ae461b35dff86a41827b3179,0,Beyoncé,text,True,NOT_SURFACED,,,S1.text;S2.table;S2.image,False,
+8fe79ee97c1ac904fc538e861d9b7c9e,0,Promised Land (TV series),image,True,LOST_IN_HANDOFF,1,S1.table,S1.image;S2.text;S2.table,False,
+77f3a5b3c0707ded5197accd871bfe17,0,Lost in Space,table,True,REACHED,1,S1.table;S2.text;S2.table,S1.table;S2.text;S2.image,False,S1.table->S2.table:carried

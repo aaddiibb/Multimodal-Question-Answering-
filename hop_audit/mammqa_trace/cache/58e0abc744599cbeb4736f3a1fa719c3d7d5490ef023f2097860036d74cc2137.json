@@ -1,0 +1,12 @@
+{
+ "key": "58e0abc744599cbeb4736f3a1fa719c3d7d5490ef023f2097860036d74cc2137",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the channels where Fazila Kaiser's work \"Ghairat\" was featured in the year she worked on it. The text insight confirms there is no information about Fazila Kaiser working on Ghairat or the channels where her works were featured. However, the table provides information about Fazila Kaiser's works and the channels they were featured on.\n\n### Step 2: Break Down the Question into Subquestions\n1. What year did Fazila Kaiser work on Ghairat?\n2. On which channel was Ghairat featured?\n\n### Step 3: Extract Relevant Insights\nFrom the table:\n- Fazila Kaiser worked on Ghairat in 2017.\n- Ghairat was featured on ARY Digital.\n\n### Final Answer\nIn the year 2017, Fazila Kaiser worked on Ghairat, and it was featured on ARY Digital.",
+ "input_tokens": 2415,
+ "output_tokens": 202,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 20.99
+}

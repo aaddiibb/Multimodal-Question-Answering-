@@ -1,0 +1,12 @@
+{
+ "key": "e2fc37b99f8f5ed569d6956f60e87ac0d3f46ad6262ba6bf7ef8460c95c95720",
+ "text": "Based on the provided text data and images, there is no specific mention of a TV show with a logo featuring blocks. The images provided do not correspond to any TV show with a block logo. Therefore, it is not possible to determine the years when Thora Birch appeared in a TV show with blocks on its logo using the given information.\n\n<answer>\nIt is not possible to determine the years when Thora Birch appeared in a TV show with blocks on its logo based on the provided data.\n</answer>",
+ "input_tokens": 3242,
+ "output_tokens": 103,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 15.49
+}

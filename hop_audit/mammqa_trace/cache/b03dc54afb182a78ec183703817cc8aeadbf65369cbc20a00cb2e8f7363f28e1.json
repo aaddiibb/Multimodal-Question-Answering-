@@ -1,0 +1,12 @@
+{
+ "key": "b03dc54afb182a78ec183703817cc8aeadbf65369cbc20a00cb2e8f7363f28e1",
+ "text": "<modality> text </modality>\n\n<insights>\n- Brian Downing was inducted into the California Angels Hall of Fame in 2009.\n- The Baseball Writers' Association of America (BBWAA) elected Chipper Jones, Vladimir Guerrero, Jim Thome, and Trevor Hoffman to the Hall of Fame in 2018.\n</insights>\n\n<answer>\nTo determine if Brian Downing or the person who made the MLB Hall of Fame in 2018 has a more recent year in the Los Angeles Angels' Hall of Fame, we need to compare the induction year of Brian Downing and the election year of the 2018 Hall of Fame inductees.\n\nBrian Downing was inducted into the California Angels Hall of Fame in 2009.\nChipper Jones, Vladimir Guerrero, Jim Thome, and Trevor Hoffman were elected to the Hall of Fame in 2018.\n\nSince 2009 is earlier than 2018, the person who made the MLB Hall of Fame in 2018 (Chipper Jones, Vladimir Guerrero, Jim Thome, or Trevor Hoffman) has a more recent year in the Los Angeles Angels' Hall of Fame compared to Brian Downing.\n</answer>",
+ "input_tokens": 2108,
+ "output_tokens": 260,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 22.02
+}

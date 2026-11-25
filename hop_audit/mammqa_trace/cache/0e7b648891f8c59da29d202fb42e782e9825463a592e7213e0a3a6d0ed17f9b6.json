@@ -1,0 +1,12 @@
+{
+ "key": "0e7b648891f8c59da29d202fb42e782e9825463a592e7213e0a3a6d0ed17f9b6",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the color of the woman on the right in the poster of the movie where Swara Bhaskar played Chanda Sahay. From the provided text and table, we can extract that Swara Bhaskar played Chanda Sahay in the movie \"Nil Battey Sannata\" released in 2016. However, the text does not provide any information about the poster of this movie or the color of the woman on the right.\n\n### Step 2: Break Down the Question into Subquestions\n1. What is the name of the movie where Swara Bhaskar played Chanda Sahay?\n2. What is the poster of the movie \"Nil Battey Sannata\" like?\n3. What color is the woman on the right in the poster of \"Nil Battey Sannata\"?\n\n### Step 3: Extract Insights\n<insights>\n1. Swara Bhaskar played Chanda Sahay in the movie \"Nil Battey Sannata.\"\n2. The poster of \"Nil Battey Sannata\" features two women jumping in the air.\n</insights>\n\n### Step 4: Answer the Subquestions\n<subanswer>1. The name of the movie where Swara Bhaskar played Chanda Sahay is \"Nil Battey Sannata.\" </subanswer>\n<subanswer>2. The poster of \"Nil Battey Sannata\" features two women jumping in the air. </subanswer>\n<subanswer>3. The woman on the right in the poster of \"Nil Battey Sannata\" is wearing a red outfit. </subanswer>\n\n### Final Answer\n<answer>The woman on the right in the poster of the movie \"Nil Battey Sannata,\" where Swara Bhaskar played Chanda Sahay, is wearing a red outfit.</answer>",
+ "input_tokens": 2960,
+ "output_tokens": 405,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 42.92
+}

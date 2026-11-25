@@ -1,0 +1,12 @@
+{
+ "key": "995fa5d716503feeef8f38e07c916276141c5a69e30caa1415bbb377fab09671",
+ "text": "<modality>image</modality>\n\n<insights>The image provided shows the logo of Airbus UK Broughton, which has an airplane depicted on it.</insights>\n\n<answer>Based on the provided image, the top scorer from the club with an airplane on its logo in the Welsh Premier League in 2009-10 was from Airbus UK Broughton.</answer>",
+ "input_tokens": 1694,
+ "output_tokens": 82,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.73
+}

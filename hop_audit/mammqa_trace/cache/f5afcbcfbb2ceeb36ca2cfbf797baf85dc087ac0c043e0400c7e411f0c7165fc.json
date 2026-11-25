@@ -1,0 +1,12 @@
+{
+ "key": "f5afcbcfbb2ceeb36ca2cfbf797baf85dc087ac0c043e0400c7e411f0c7165fc",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the years and fields of study for Chulabhorn's honorary degrees.\n- The most recent year mentioned is 2005.\n- The field of study for the most recent year is Biomedical Science at Prince of Songkla University.\n</insights>\n\n<answer>\nPrince of Songkla University is the most recent honorary degree recipient for Chulabhorn.\n</answer>",
+ "input_tokens": 948,
+ "output_tokens": 97,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.14
+}

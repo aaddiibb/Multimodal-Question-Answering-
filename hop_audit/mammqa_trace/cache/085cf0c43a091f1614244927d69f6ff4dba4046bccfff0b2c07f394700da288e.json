@@ -1,0 +1,12 @@
+{
+ "key": "085cf0c43a091f1614244927d69f6ff4dba4046bccfff0b2c07f394700da288e",
+ "text": "<modality>image</modality>\n\n<insights>The first image contains a poster for the movie \"Ladyhawke,\" which features a single person prominently displayed. The second image is for \"Lethal Weapon 2,\" which has two individuals on the poster. The third image is for \"Eraser,\" featuring a single person. The fourth image is for \"Space Cowboys,\" which has multiple individuals on the poster. The fifth image is for \"Letters from Iwo Jima,\" which also has multiple individuals. The sixth image is for \"American Sniper,\" which has multiple individuals. The seventh image is for \"Sicario,\" which has multiple individuals. The eighth image is for \"Sully,\" which features a single person.</insights>\n\n<answer>The movie with one person in its poster is \"Ladyhawke.\" Alan Robert Murray was nominated for an Academy Award for his work on \"Letters from Iwo Jima.\"</answer>",
+ "input_tokens": 1624,
+ "output_tokens": 194,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 15.64
+}

@@ -1,0 +1,276 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "5219198c4be50e67c67c373f1afdf797",
+  "question": "in Filmography of Supriya Shukla, who is the heroine of the film that cover has a man with two women around him on i?",
+  "context_digest": "17a9c420bd7b8544fab93855d13bbc351a6e5b727e0c1181e12bebaf431449e0",
+  "source_ids": [
+    "347191ab7a5e12fa2181e90b78d1b89a",
+    "4d5d6419f533b23fc0ccf7868c748948"
+  ],
+  "modalities": [
+    "image",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The provided text does not mention any film cover featuring a man with two women around him. It describes the plot of \"Main Tera Hero,\" which does not match the description given in the question.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The provided text does not mention any film cover featuring a man with two women around him. It describes the plot of \"Main Tera Hero,\" which does not match the description given in the question."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "Supriya Shukla",
+        "insight": "The film \"Main Tera Hero\" features Supriya Shukla as one of the heroines, alongside Varun Dhawan and Ileana D'Cruz.",
+        "raw_output": "ANSWER: Supriya Shukla\nINSIGHT: The film \"Main Tera Hero\" features Supriya Shukla as one of the heroines, alongside Varun Dhawan and Ileana D'Cruz."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image metadata does not provide information about the filmography of Supriya Shukla or the specific film mentioned in the question.",
+        "evidence_reference": "The image is for the movie \"Main Tera Hero.\"",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image metadata does not provide information about the filmography of Supriya Shukla or the specific film mentioned in the question.\nEVIDENCE: The image is for the movie \"Main Tera Hero.\""
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "Supriya Shukla",
+        "reason": "The film \"Main Tera Hero\" features Supriya Shukla as one of the heroines, alongside Varun Dhawan and Ileana D'Cruz.",
+        "evidence_reference": "[TEXT: Main Tera Hero | id=347191ab7a5e12fa2181e90b78d1b89a]",
+        "raw_output": "ANSWER: Supriya Shukla\nREASON: The film \"Main Tera Hero\" features Supriya Shukla as one of the heroines, alongside Varun Dhawan and Ileana D'Cruz.\nEVIDENCE: [TEXT: Main Tera Hero | id=347191ab7a5e12fa2181e90b78d1b89a]"
+      }
+    },
+    "shared_seconds": 19.759595343,
+    "shared_digest": "b63e5c1324caf061ac794a5b8a97a8eaf6b98d477597f9cdaca64baaf82d6274"
+  },
+  "baseline": {
+    "answer": "Supriya Shukla",
+    "raw_output": "FINAL: Supriya Shukla",
+    "seconds": 1.0292590619999373,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "Supriya Shukla",
+    "seconds": 14.666958329999943,
+    "calls": 5,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 1,
+      "unique_candidate_count": 1,
+      "consensus_answer": "Supriya Shukla",
+      "consensus_count": 1,
+      "stage2_disagreement": false,
+      "agreement_type": "single_concrete_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [
+      {
+        "answer": "Supriya Shukla",
+        "normalized_answer": "supriya shukla",
+        "supporting_agents": [
+          "image_anchor"
+        ],
+        "reasons": [
+          "The film \"Main Tera Hero\" features Supriya Shukla as one of the heroines, alongside Varun Dhawan and Ileana D'Cruz."
+        ],
+        "evidence_references": [
+          "[TEXT: Main Tera Hero | id=347191ab7a5e12fa2181e90b78d1b89a]"
+        ],
+        "claims": [
+          {
+            "text": "Supriya Shukla starred in the film \"Main Tera Hero\".",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "image",
+              "evidence_note": "The image shows the movie poster for \"Main Tera Hero,\" which features Supriya Shukla as one of the actresses.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: image\nEVIDENCE_NOTE: The image shows the movie poster for \"Main Tera Hero,\" which features Supriya Shukla as one of the actresses.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The film \"Main Tera Hero\" features a cover image showing a man surrounded by two women.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "image",
+              "evidence_note": "The provided image shows a movie poster for \"Main Tera Hero\" featuring a man surrounded by two women.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: image\nEVIDENCE_NOTE: The provided image shows a movie poster for \"Main Tera Hero\" featuring a man surrounded by two women.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 4.0,
+        "candidate_total_score": 4.0,
+        "revision_occurred": false,
+        "original_answer": "Supriya Shukla",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 2,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 426,
+      "original_input_tokens": 426,
+      "output_tokens": 51,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.946725113000184,
+      "image_count": 0,
+      "seed": 3000097504
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 460,
+      "original_input_tokens": 460,
+      "output_tokens": 49,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.161333131999982,
+      "image_count": 1,
+      "seed": 711443877
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 537,
+      "original_input_tokens": 537,
+      "output_tokens": 54,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.565788438000027,
+      "image_count": 1,
+      "seed": 847533313
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 495,
+      "original_input_tokens": 495,
+      "output_tokens": 94,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 7.071044731000029,
+      "image_count": 0,
+      "seed": 118792198
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 303,
+      "original_input_tokens": 303,
+      "output_tokens": 9,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 1.025598792999972,
+      "image_count": 0,
+      "seed": 705417812
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "claim_extraction_supriya shukla",
+      "deterministic": true,
+      "input_tokens": 175,
+      "original_input_tokens": 175,
+      "output_tokens": 67,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.791960784999901,
+      "image_count": 0,
+      "seed": 2244869418
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 873,
+      "original_input_tokens": 873,
+      "output_tokens": 46,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.318457973000022,
+      "image_count": 1,
+      "seed": 2494086326
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 877,
+      "original_input_tokens": 877,
+      "output_tokens": 41,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.000697390999903,
+      "image_count": 1,
+      "seed": 2694156245
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 467,
+      "original_input_tokens": 467,
+      "output_tokens": 7,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.9823641940001835,
+      "image_count": 0,
+      "seed": 1677028509
+    },
+    {
+      "qid": "5219198c4be50e67c67c373f1afdf797",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 64,
+      "original_input_tokens": 64,
+      "output_tokens": 7,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5555695019997984,
+      "image_count": 0,
+      "seed": 887040638
+    }
+  ],
+  "completed_utc": "2026-10-13T19:56:58.218316+00:00"
+}

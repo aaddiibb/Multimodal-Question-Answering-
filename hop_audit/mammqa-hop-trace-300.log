@@ -1,0 +1,104 @@
+7.9s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.9s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.9s 3 0.00s - to python to disable frozen modules.
+7.9s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+8.6s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+8.6s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+8.6s 7 0.00s - to python to disable frozen modules.
+8.6s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+24.6s 9 PyTorch 2.11.0+cu128 | GPUs: ['Tesla T4', 'Tesla T4']
+39.2s 10 transformers 5.16.1
+39.2s 11 MOCK = False | workers = 2
+39.3s 12 [2026-10-30 04:00:24] 300 questions | selection sha256 680d34ad38ea7d7a | allocation {'Compare': 49, 'Compose': 192, 'Intersect': 26, 'TableQ': 33}
+47.0s 13 [2026-10-30 04:00:31] dev     /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_dev.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_dev.jsonl
+47.0s 14 [2026-10-30 04:00:31] texts   /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_texts.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_texts.jsonl
+47.0s 15 [2026-10-30 04:00:31] tables  /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_tables.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_tables.jsonl
+47.0s 16 [2026-10-30 04:00:31] images  /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_images.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_images.jsonl
+53.0s 17 [2026-10-30 04:00:37] records: texts 2895/2895 tables 261/261 images 2525/2525
+53.1s 18 [2026-10-30 04:00:38] official image files resolved: 2525/2525
+53.2s 19 [2026-10-30 04:00:38] items written | images/question mean 10.0 max 15 | questions with missing image files: 0
+54.6s 20 [2026-10-30 04:00:39] resume: imported 0 finished questions from earlier versions
+56.0s 21 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+56.0s 22 
+56.0s 23 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+122.8s 24 [2026-10-30 04:01:47] model source: /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-7B-Instruct/snapshots/cc594898137f460bfe9f0759e9844b3ce807cfb5
+122.9s 25 Writing /kaggle/working/mammqa_trace_worker.py
+182.9s 26 [2026-10-30 04:02:47] progress 0/300 | 0.0 q/h | ETA nan h | errors 0
+782.9s 27 [2026-10-30 04:12:47] progress 8/300 | 43.6 q/h | ETA 6.7 h | errors 0
+1382.9s 28 [2026-10-30 04:22:47] progress 18/300 | 51.4 q/h | ETA 5.5 h | errors 0
+1982.9s 29 [2026-10-30 04:32:47] progress 28/300 | 54.2 q/h | ETA 5.0 h | errors 0
+2582.9s 30 [2026-10-30 04:42:47] progress 39/300 | 57.1 q/h | ETA 4.6 h | errors 0
+3182.9s 31 [2026-10-30 04:52:47] progress 46/300 | 54.1 q/h | ETA 4.7 h | errors 0
+3782.9s 32 [2026-10-30 05:02:47] progress 57/300 | 56.1 q/h | ETA 4.3 h | errors 0
+4382.9s 33 [2026-10-30 05:12:47] progress 66/300 | 55.8 q/h | ETA 4.2 h | errors 0
+4982.9s 34 [2026-10-30 05:22:47] progress 77/300 | 57.0 q/h | ETA 3.9 h | errors 0
+5583.0s 35 [2026-10-30 05:32:47] progress 86/300 | 56.7 q/h | ETA 3.8 h | errors 0
+6183.0s 36 [2026-10-30 05:42:47] progress 96/300 | 57.0 q/h | ETA 3.6 h | errors 0
+6783.0s 37 [2026-10-30 05:52:47] progress 106/300 | 57.3 q/h | ETA 3.4 h | errors 0
+7383.0s 38 [2026-10-30 06:02:47] progress 114/300 | 56.5 q/h | ETA 3.3 h | errors 0
+7983.0s 39 [2026-10-30 06:12:47] progress 124/300 | 56.8 q/h | ETA 3.1 h | errors 0
+8583.0s 40 [2026-10-30 06:22:47] progress 132/300 | 56.2 q/h | ETA 3.0 h | errors 0
+9183.0s 41 [2026-10-30 06:32:47] progress 144/300 | 57.2 q/h | ETA 2.7 h | errors 0
+9783.0s 42 [2026-10-30 06:42:47] progress 152/300 | 56.6 q/h | ETA 2.6 h | errors 0
+10383.0s 43 [2026-10-30 06:52:47] progress 161/300 | 56.5 q/h | ETA 2.5 h | errors 0
+10983.1s 44 [2026-10-30 07:02:47] progress 171/300 | 56.7 q/h | ETA 2.3 h | errors 0
+11583.1s 45 [2026-10-30 07:12:47] progress 182/300 | 57.2 q/h | ETA 2.1 h | errors 0
+12183.1s 46 [2026-10-30 07:22:48] progress 192/300 | 57.3 q/h | ETA 1.9 h | errors 0
+12783.1s 47 [2026-10-30 07:32:48] progress 202/300 | 57.4 q/h | ETA 1.7 h | errors 0
+13383.1s 48 [2026-10-30 07:42:48] progress 211/300 | 57.3 q/h | ETA 1.6 h | errors 0
+13983.1s 49 [2026-10-30 07:52:48] progress 221/300 | 57.4 q/h | ETA 1.4 h | errors 0
+14583.1s 50 [2026-10-30 08:02:48] progress 230/300 | 57.3 q/h | ETA 1.2 h | errors 0
+15183.2s 51 [2026-10-30 08:12:48] progress 240/300 | 57.4 q/h | ETA 1.0 h | errors 0
+15783.2s 52 [2026-10-30 08:22:48] progress 250/300 | 57.5 q/h | ETA 0.9 h | errors 0
+16383.2s 53 [2026-10-30 08:32:48] progress 261/300 | 57.8 q/h | ETA 0.7 h | errors 0
+16983.2s 54 [2026-10-30 08:42:48] progress 269/300 | 57.4 q/h | ETA 0.5 h | errors 0
+17583.2s 55 [2026-10-30 08:52:48] progress 279/300 | 57.5 q/h | ETA 0.4 h | errors 0
+18183.2s 56 [2026-10-30 09:02:48] progress 289/300 | 57.6 q/h | ETA 0.2 h | errors 0
+18423.2s 57 [2026-10-30 09:06:48] worker 1 finished (exit 0); 0 of its questions not done
+18783.3s 58 [2026-10-30 09:12:48] progress 296/300 | 57.1 q/h | ETA 0.1 h | errors 0
+19263.3s 59 [2026-10-30 09:20:48] worker 0 finished (exit 0); 0 of its questions not done
+19263.3s 60 [2026-10-30 09:20:48] progress 300/300 | 56.4 q/h | ETA 0.0 h | errors 0
+19263.4s 61 [2026-10-30 09:20:48] PREDICTIONS FROZEN: 300/300 sha256 8d88b92ad949e282 — gold evaluation starts now
+19264.6s 62 {
+19264.6s 63 "n": 300,
+19264.6s 64 "EM": 0.2867,
+19264.6s 65 "F1": 0.3526,
+19264.6s 66 "EM_by_type": {
+19264.6s 67 "Compare": [
+19264.6s 68 0.3878,
+19264.6s 69 49
+19264.6s 70 ],
+19264.6s 71 "Compose": [
+19264.6s 72 0.276,
+19264.6s 73 192
+19264.6s 74 ],
+19264.6s 75 "Intersect": [
+19264.6s 76 0.1538,
+19264.6s 77 26
+19264.6s 78 ],
+19264.6s 79 "TableQ": [
+19264.6s 80 0.303,
+19264.6s 81 33
+19264.6s 82 ]
+19264.6s 83 },
+19264.6s 84 "mean_seconds_per_question": 124.6,
+19264.6s 85 "calls_hitting_token_cap": 62,
+19264.6s 86 "evidence_shortenings": 0,
+19264.6s 87 "errors": [],
+19264.6s 88 "frozen": {
+19264.6s 89 "n": 300,
+19264.6s 90 "of": 300,
+19264.6s 91 "sha256": "8d88b92ad949e282111b73f96c50d311554596f022521d1419683cbbc0c242fd",
+19264.6s 92 "selection_sha256": "680d34ad38ea7d7a05a5c82fd701b8fe3fe2d3fa0e9dc2ed74d47ce82918e7e4",
+19264.6s 93 "frozen_utc": "2026-10-30T09:20:48Z"
+19264.6s 94 },
+19264.6s 95 "wall_hours": 5.35
+19264.6s 96 }
+19268.1s 97 /usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+19268.1s 98 cells[i][c] = re.sub('\\\\\|', '|', cell)
+19268.3s 99 /usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+19268.3s 100 text = re.sub(r'_', '\_', text) # Escape underscores in display text
+19269.1s 101 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+19269.1s 102 [NbConvertApp] Writing 118379 bytes to __notebook__.ipynb
+19271.7s 103 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+19272.4s 104 [NbConvertApp] Writing 600213 bytes to __results__.html

@@ -1,0 +1,12 @@
+{
+ "key": "945c066c932251c3249f9f8e346de3306a908fe6ef47610ef661e3005b092e1c",
+ "text": "<modality>image</modality>\n\n<insights>The image contains logos representing various teams, including one with a paw print design.</insights>\n\n<answer>Unfortunately, the image does not contain any information about the attendance for the game where the team with a paw print on its logo played. The image only displays logos of different teams.</answer>",
+ "input_tokens": 2019,
+ "output_tokens": 73,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 8.77
+}

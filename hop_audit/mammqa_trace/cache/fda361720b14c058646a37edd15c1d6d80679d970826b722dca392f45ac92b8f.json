@@ -1,0 +1,12 @@
+{
+ "key": "fda361720b14c058646a37edd15c1d6d80679d970826b722dca392f45ac92b8f",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no images provided.</insights>\n\n<answer>There is no image provided to extract insights from.</answer>",
+ "input_tokens": 1257,
+ "output_tokens": 44,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 4.74
+}

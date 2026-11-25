@@ -1,0 +1,12 @@
+{
+ "key": "80c0b96d550434d54571909203d737afb9aed2f238645a303e6816fad854359e",
+ "text": "<modality> text </modality>\n\n<insights> The text does not contain any information about a Juliana Hatfield track listing or an artist with blonde hair that is longer than her shoulders. There is no specific duration mentioned for any song in the provided text.</insights>\n\n<answer> The provided text does not contain enough information to determine the length of the song on the Juliana Hatfield track listing that was originally sung by an artist with blonde hair that is longer than her shoulders. Therefore, there is no answer available based on the given data.</answer>",
+ "input_tokens": 1493,
+ "output_tokens": 117,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.9
+}

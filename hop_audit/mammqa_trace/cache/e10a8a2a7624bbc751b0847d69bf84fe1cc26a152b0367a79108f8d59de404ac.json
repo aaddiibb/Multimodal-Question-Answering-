@@ -1,0 +1,12 @@
+{
+ "key": "e10a8a2a7624bbc751b0847d69bf84fe1cc26a152b0367a79108f8d59de404ac",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks for the writer of the song titled \"Blues for Greeny\" when Little Willie John was the original artist.\n\n### Step 2: Extract Relevant Insights\nFrom the table insights:\n- The table lists songs from the album \"Blues for Greeny.\"\n- The row where Little Willie John is the original artist is number 5.\n- The writer(s) for this song can be found in the \"Writer(s)\" column.\n\nFrom the text data:\n- The album \"Blues for Greeny\" is the tenth solo studio covers album by Irish guitarist Gary Moore, released in 1995.\n- The opening track, \"I Believe My Time Ain't Long,\" is a variation on the Robert Johnson song \"Dust My Broom.\"\n- The album was recorded using the same 1959 Les Paul Standard used to record the original tracks, Green having loaned and then sold the guitar to Moore after leaving Fleetwood Mac.\n\n### Step 3: Break Down the Question into Subquestions\n1. What is the title of the track listing of \"Blues for Greeny\" when Little Willie John was the original artist?\n2. Who is the writer of the song titled \"Blues for Greeny\" when Little Willie John was the original artist?\n\n### Step 4: Answer the Subquestions\nBased on the insights provided:\n- The row where Little Willie John is the original artist is number 5.\n- The writer(s) for this song can be found in the \"Writer(s)\" column.\n\nSince the table does not provide specific writer information for each song, we need to infer from the context that the writer of the song titled \"Blues for Greeny\" when Little Willie John was the original artist is Mertis John Jr., as mentioned in the text data.\n\n### Final Answer\n<answer>The title of the track listing of \"Blues for Greeny\" when Little Willie John was the original artist was written by Mertis John Jr.</answer>",
+ "input_tokens": 2649,
+ "output_tokens": 431,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 40.63
+}

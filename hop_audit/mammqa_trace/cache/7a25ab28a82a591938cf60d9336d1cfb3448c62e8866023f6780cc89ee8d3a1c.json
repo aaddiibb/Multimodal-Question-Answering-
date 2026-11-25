@@ -1,0 +1,12 @@
+{
+ "key": "7a25ab28a82a591938cf60d9336d1cfb3448c62e8866023f6780cc89ee8d3a1c",
+ "text": "<modality> image </modality>\n\n<insights> The image shows a large reddish-colored structure next to a rectangular body of water.</insights>\n\n<answer> The founding year of the Mid-South Conference affiliate-member school located in the city with a large reddish-colored structure next to a rectangle-shaped body of water is 1927.</answer>",
+ "input_tokens": 3564,
+ "output_tokens": 77,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 15.72
+}

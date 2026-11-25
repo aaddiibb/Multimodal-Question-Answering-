@@ -1,0 +1,12 @@
+{
+ "key": "08d865256d490765db844829fb1053862b4a6550130d68d2334534c7e9fe4e6e",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a woman with dark brown hair.</insights>\n\n<answer>The year when the winner had dark brown hair was 2014.</answer>",
+ "input_tokens": 3727,
+ "output_tokens": 46,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 13.08
+}

@@ -1,0 +1,12 @@
+{
+ "key": "77f916fa9e740e5d195f667c6aadbd57afa176c62e37aa3ee1672e0434d04ddc",
+ "text": "The text insight indicates that there is no information about the 1998-99 Biathlon World Cup in the provided text. Therefore, it is not possible to answer the question based on the given data.\n\n<answer>The provided text does not contain any information about the 1998-99 Biathlon World Cup. Therefore, it is not possible to answer the question based on the given data.</answer>",
+ "input_tokens": 4740,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 20.89
+}

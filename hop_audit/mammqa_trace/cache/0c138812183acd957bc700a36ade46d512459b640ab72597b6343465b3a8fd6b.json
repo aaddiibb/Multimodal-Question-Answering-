@@ -1,0 +1,12 @@
+{
+ "key": "0c138812183acd957bc700a36ade46d512459b640ab72597b6343465b3a8fd6b",
+ "text": "<modality> text </modality>\n\n<insights> The text does not contain any information about Agnez Mo or her roles in variety shows in the year 2010. The provided text discusses various TV shows and their networks, but there is no mention of Agnez Mo or her activities in 2010.</insights>\n\n<answer> There is insufficient information in the provided text to determine the network for variety shows of Agnez Mo in the year 2010. The text does not contain any relevant details about Agnez Mo or her roles in variety shows.</answer>",
+ "input_tokens": 1957,
+ "output_tokens": 125,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.96
+}

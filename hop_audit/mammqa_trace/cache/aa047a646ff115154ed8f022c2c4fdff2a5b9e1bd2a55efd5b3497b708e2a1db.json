@@ -1,0 +1,12 @@
+{
+ "key": "aa047a646ff115154ed8f022c2c4fdff2a5b9e1bd2a55efd5b3497b708e2a1db",
+ "text": "Based on the provided text and table, there is no information about Akiva Goldsman or the movies \"Lost in Space\" or the one with a lone, forward-looking man with a dimpled chin. Therefore, it is impossible to determine which movie Akiva Goldsman was involved in more recently based on this data.\n\n<answer>There is insufficient information in the provided text to answer the question accurately. The text does not mention Akiva Goldsman or the movies \"Lost in Space\" or the one with a lone, forward-looking man with a dimpled chin.</answer>",
+ "input_tokens": 2761,
+ "output_tokens": 120,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 15.7
+}

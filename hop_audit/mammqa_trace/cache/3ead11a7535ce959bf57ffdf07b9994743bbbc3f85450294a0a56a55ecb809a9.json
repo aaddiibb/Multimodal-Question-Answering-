@@ -1,0 +1,12 @@
+{
+ "key": "3ead11a7535ce959bf57ffdf07b9994743bbbc3f85450294a0a56a55ecb809a9",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the relevant information from the table insight:\n   - The table lists players loaned to Orlando City B on March 25, 2016.\n   - Players listed are Tyler Turner, Richmond Laryea, Harrison Heath, Hadji Barry, and Mason Stajduhar.\n\n2. Analyze the text data:\n   - The text mentions Orlando City SC and its involvement in the MLS season in 2016.\n   - It does not provide specific information about players being loaned to Orlando City B on March 25, 2016.\n\n3. Extract relevant information from the images:\n   - The first image shows a player wearing an Orlando City jersey.\n   - The second image shows a player wearing an Orlando City B jersey.\n   - The third image shows a player wearing an Orlando City jersey.\n   - The fourth image shows the Orlando City B logo.\n\nBased on the above analysis, we can conclude that the players loaned to Orlando City B on March 25, 2016 are Tyler Turner, Richmond Laryea, Harrison Heath, Hadji Barry, and Mason Stajduhar.",
+ "input_tokens": 3943,
+ "output_tokens": 248,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 35.08
+}

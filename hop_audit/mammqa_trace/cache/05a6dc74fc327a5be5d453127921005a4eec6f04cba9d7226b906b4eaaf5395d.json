@@ -1,0 +1,12 @@
+{
+ "key": "05a6dc74fc327a5be5d453127921005a4eec6f04cba9d7226b906b4eaaf5395d",
+ "text": "The question asks about a player on Dinamo București's list for clean sheets in the 2016-17 Liga I who is wearing something on their left hand. However, the provided table does not contain any information about players' attire or accessories. Therefore, we cannot determine what the player is wearing on their left hand based on the given data.\n\nTo answer this question accurately, we would need additional information about the players' attire or accessories during the 2016-17 Liga I season.",
+ "input_tokens": 2887,
+ "output_tokens": 110,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.6
+}

@@ -1,0 +1,109 @@
+{
+ "id": "ee790547f5facabb581c8806e4babdeb",
+ "question": "In what years did Susan Dey appear in the TV show with a cracked egg on its poster?",
+ "prediction": "1970 to 1974",
+ "parse_method": "answer_tag",
+ "stage1": {
+  "text": {
+   "status": "available",
+   "output": "<modality> text </modality>\n\n<insights> The text does not mention a TV show with a cracked egg on its poster featuring Susan Dey. The information provided includes details about various TV shows and their creators, but there is no reference to a show with a cracked egg on its poster.</insights>\n\n<answer> There is no information provided about a TV show with a cracked egg on its poster featuring Susan Dey. Therefore, it is not possible to determine the years in which Susan Dey appeared in such a show based on the given text.</answer>"
+  },
+  "table": {
+   "status": "available",
+   "output": "<modality> table </modality>\n\n<insights>\n- The table lists various roles Susan Dey played across different TV shows.\n- There is no mention of a TV show with a cracked egg on its poster.\n</insights>\n\n<answer>\nThere is no information provided about a TV show with a cracked egg on its poster. Therefore, it cannot be determined in which years Susan Dey appeared in such a show based on the given data.\n</answer>"
+  },
+  "image": {
+   "status": "available",
+   "output": "<modality>image</modality>\n\n<insights>The image shows a title card for \"The Partridge Family\" with a cracked egg on its poster.</insights>\n\n<answer>1970s</answer>\n\n<subanswer>The Partridge Family aired from 1970 to 1974.</subanswer>"
+  }
+ },
+ "stage2": {
+  "text": "### Step 1: Understand the Question and Analyze Inputs\n\n#### Text Insight:\nThe text does not mention a TV show with a cracked egg on its poster featuring Susan Dey. It provides details about various TV shows and their creators but does not reference a show with a cracked egg on its poster.\n\n#### Table Insight:\nThe table lists the years Susan Dey appeared in different TV shows, but none of them feature a cracked egg on their posters.\n\n#### Image Insights:\n- The first image is a poster for \"The Partridge Family,\" which features a cracked egg design.\n- The second image is for \"Circle of Fear,\" which has a cracked egg design.\n- The third image is for \"Goober and the Ghost Chasers,\" which also has a cracked egg design.\n- The fourth image is for \"Partridge Family 2200 A.D.\" which has a cracked egg design.\n- The fifth image is for \"Hawaii Five-O.\"\n- The sixth image is for \"S.W.A.T.\"\n- The seventh image is for \"The Quest.\"\n- The eighth image is for \"The Streets of San Francisco.\"\n- The ninth image is for \"L.A. Law.\"\n- The tenth image is for \"Third Watch.\"\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there a TV show with a cracked egg on its poster featuring Susan Dey?\n2. If so, in what years did Susan Dey appear in that show?\n\n### Final Answer\n\nThere is no information provided about a TV show with a cracked egg on its poster featuring Susan Dey. Therefore, it is not possible to determine the years in which Susan Dey appeared in such a show based on the given text and images.",
+  "table": "Let's break down the question into simpler subquestions:\n\n1. Is there any information about a TV show with a cracked egg on its poster?\n2. If so, in which years did Susan Dey appear in this TV show?\n\nBased on the provided data, we can see that there is no information about a TV show with a cracked egg on its poster. Therefore, we cannot determine in which years Susan Dey appeared in such a show based on the given data.\n\n<answer>\nThere is no information provided about a TV show with a cracked egg on its poster. Therefore, it cannot be determined in which years Susan Dey appeared in such a show based on the given data.\n</answer>",
+  "image": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"In what years did Susan Dey appear in the TV show with a cracked egg on its poster?\"\n\n### Step 2: Extract Relevant Insights\nFrom the image insight:\n- The image shows a title card for \"The Partridge Family\" with a cracked egg on its poster.\n\nFrom the text data:\n- Susan Dey appeared in \"The Partridge Family\" from 1970 to 1974.\n\n### Step 3: Break Down the Question into Subquestions\n1. What is the TV show with a cracked egg on its poster?\n   - The Partridge Family\n2. In what years did Susan Dey appear in \"The Partridge Family\"?\n\n### Step 4: Answer the Subquestions\n1. The TV show with a cracked egg on its poster is \"The Partridge Family.\"\n2. Susan Dey appeared in \"The Partridge Family\" from 1970 to 1974.\n\n### Final Answer\nSusan Dey appeared in the TV show \"The Partridge Family\" from 1970 to 1974."
+ },
+ "final_raw": "<answer>1970 to 1974</answer>",
+ "calls": {
+  "s1_text": {
+   "key": "6e9594ea32bda2a895d1189c73c14f65e4b68495e932dc51319a513463676f24",
+   "input_tokens": 1858,
+   "output_tokens": 118,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 10.91
+  },
+  "s1_table": {
+   "key": "f4507deca49cc6094c96f9fac1496de16d67945dd203f49ca27915415dbb0b33",
+   "input_tokens": 1128,
+   "output_tokens": 96,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 7.31
+  },
+  "s1_image": {
+   "key": "2013885bc522da80c65aec76c8d4a8c7780a3c9069a7a2d0f28586f2f2dd596a",
+   "input_tokens": 2474,
+   "output_tokens": 72,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 14,
+   "tokens_per_image": 228,
+   "oom_fallback": false,
+   "seconds": 10.39
+  },
+  "s2_text": {
+   "key": "7ba5b09fc7440ed18cd74af85ec5ffca7a1eb28800643a79a02c393ce888b24e",
+   "input_tokens": 2804,
+   "output_tokens": 355,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 14,
+   "tokens_per_image": 228,
+   "oom_fallback": false,
+   "seconds": 36.13
+  },
+  "s2_table": {
+   "key": "68a0d73ae6dd6df6fc7cd5c7876c896588e65446955379ca67c98bdbe910fa4b",
+   "input_tokens": 3514,
+   "output_tokens": 142,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 14,
+   "tokens_per_image": 228,
+   "oom_fallback": false,
+   "seconds": 20.83
+  },
+  "s2_image": {
+   "key": "db7ad5aa511f45717f1005e6a012e7793344e6b4f0d5cca8352fcfd5d639088f",
+   "input_tokens": 2145,
+   "output_tokens": 253,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 22.06
+  },
+  "s3": {
+   "key": "285e505fde8a700bcaf44426a2040001e5ed1322e263f6b5f0d82d957c73d157",
+   "input_tokens": 1063,
+   "output_tokens": 17,
+   "hit_max_new_tokens": false,
+   "evidence_shortenings": 0,
+   "n_images": 0,
+   "tokens_per_image": 0,
+   "oom_fallback": false,
+   "seconds": 2.4
+  }
+ },
+ "n_images": 14,
+ "missing_images": [],
+ "worker": 0,
+ "seconds": 110.5
+}

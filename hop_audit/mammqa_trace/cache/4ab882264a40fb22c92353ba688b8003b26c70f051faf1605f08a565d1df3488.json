@@ -1,0 +1,12 @@
+{
+ "key": "4ab882264a40fb22c92353ba688b8003b26c70f051faf1605f08a565d1df3488",
+ "text": "<modality> image(s) </modality>\n\n<insights> The image shows a baseball player wearing a Pittsburgh Pirates uniform, which suggests he is part of the team. However, there is no visible indication of an injury or being on the disabled list.</insights>\n\n<answer> There is insufficient information in the images to determine if the player shown has been on the disabled list or the nature of any injury.</answer>",
+ "input_tokens": 3668,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 16.23
+}

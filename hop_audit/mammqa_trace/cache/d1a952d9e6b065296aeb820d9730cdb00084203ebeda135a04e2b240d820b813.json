@@ -1,0 +1,12 @@
+{
+ "key": "d1a952d9e6b065296aeb820d9730cdb00084203ebeda135a04e2b240d820b813",
+ "text": "Let's break down the question into simpler parts:\n\n1. **Who was the artist in a 2003 guest appearance of Don \"Magic\" Juan?**\n   - From the table insight, we know that Don \"Magic\" Juan performed two songs in 2003. However, there is no mention of a guest appearance by another artist in 2003.\n\n2. **Who sings \"Roll Me Up and Smoke Me When I Die\" with Willie Nelson?**\n   - According to the text data, \"Roll Me Up and Smoke Me When I Die\" is a Willie Nelson single from his 2012 album Heroes. The song features vocals by Snoop Dogg, Kris Kristofferson, and Jamey Johnson.\n\nGiven these points, let's address the question:\n\n- The first part of the question asks about a guest appearance in 2003, which isn't supported by the provided data.\n- The second part correctly identifies Snoop Dogg as one of the artists singing with Willie Nelson on \"Roll Me Up and Smoke Me When I Die\".\n\nTherefore, the answer to the question is:\n\n<answer>\nSnoop Dogg sings \"Roll Me Up and Smoke Me When I Die\" with Willie Nelson.\n</answer>",
+ "input_tokens": 3482,
+ "output_tokens": 259,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 32.75
+}

@@ -1,0 +1,12 @@
+{
+ "key": "95ee9924efca372e9683b58814a279458ea6f33d8c4fec8b003fe12bf17eb6f9",
+ "text": "Let's break down the question into simpler subquestions based on the provided insights and table:\n\n1. **Subquestion:** Was Erika Naddei involved in a live performance of \"Jesus Christ Superstar\"?\n   - **Answer:** Yes, she was involved in a live performance of \"Jesus Christ Superstar\" in 2014.\n\n2. **Subquestion:** In which role did Erika Naddei play in \"Jesus Christ Superstar\"?\n   - **Answer:** She played the role of Mary Magdalene.\n\n3. **Subquestion:** What was the year when Erika Naddei played Mary Magdalene in a live performance?\n   - **Answer:** The year when Erika Naddei played Mary Magdalene in a live performance was 2014.\n\nBased on these subquestions, we can conclude:\n\n<answer>The year when Erika Naddei played Mary Magdalene in a live performance of \"Jesus Christ Superstar\" was 2014.</answer>",
+ "input_tokens": 2019,
+ "output_tokens": 211,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 18.49
+}

@@ -1,0 +1,12 @@
+{
+ "key": "aab88c3f3b73dfdd721be3ab58376d403513eb685284e2ed79f0a24faf870599",
+ "text": "<modality>image</modality>\n\n<insights>The image provided appears to be a promotional poster for the film \"Pascal's Island,\" which features a man in a suit and hat standing against a backdrop of ancient ruins. The title of the movie is prominently displayed at the bottom of the poster.</insights>\n\n<answer>Sheila Allen's role in the Harry Potter movie after the Prisoner of Azkaban was not mentioned in the provided image.</answer>",
+ "input_tokens": 1960,
+ "output_tokens": 97,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 10.49
+}

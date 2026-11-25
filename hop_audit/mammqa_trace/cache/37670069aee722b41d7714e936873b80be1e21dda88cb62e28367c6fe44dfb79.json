@@ -1,0 +1,12 @@
+{
+ "key": "37670069aee722b41d7714e936873b80be1e21dda88cb62e28367c6fe44dfb79",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a historical figure, specifically S. Pelagius I, who reigned between 556 and 561 AD. The image does not directly provide information about the apocrisiarius Julianus or the emperors associated with him.</insights>\n\n<answer>The image does not contain the necessary information to answer the question. It only provides a portrait of S. Pelagius I, who was the Pope during the reigns of Justinian I and his son Justin II.</answer>",
+ "input_tokens": 1729,
+ "output_tokens": 118,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 10.81
+}

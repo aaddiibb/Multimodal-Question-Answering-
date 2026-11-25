@@ -1,0 +1,12 @@
+{
+ "key": "05f2fd350d178db76cff446727a2c141dd50baad5f450fd97528107ed2fdbce3",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a woman wearing traditional Indian attire, including a saree and jewelry. The earrings she is wearing appear to be large, dangling, and possibly made of gold or another shiny metal.</insights>\n\n<answer>The singer of \"Aanandhamidhenoi\" on the Panduranga Mahatyam soundtrack is wearing large, dangling earrings.</answer>",
+ "input_tokens": 1493,
+ "output_tokens": 87,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 8.4
+}

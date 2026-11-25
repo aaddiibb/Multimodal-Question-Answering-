@@ -1,0 +1,12 @@
+{
+ "key": "5580d69cf472e4492907e98c31a5616e320a9ff199ec9004bb568722d9bf271c",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the order number, air date, round, song, original artist, and result of performances by Mary Sarah.\n- Carrie Underwood performed the song \"Something in the Water\" during the Semifinals Instant Save.\n</insights>\n\n<answer>\nCarrie Underwood performed the song \"Something in the Water\" during the Semifinals Instant Save of the 2016 The Voice.\n</answer>\n\n<subanswer>\nThe song performed by Mary Sarah during the Semifinals Instant Save of the 2016 The Voice by Carrie Underwood is \"Something in the Water\".\n</subanswer>",
+ "input_tokens": 1049,
+ "output_tokens": 142,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.25
+}

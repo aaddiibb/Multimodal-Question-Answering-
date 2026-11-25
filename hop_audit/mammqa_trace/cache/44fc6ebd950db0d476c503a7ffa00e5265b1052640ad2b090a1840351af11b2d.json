@@ -1,0 +1,12 @@
+{
+ "key": "44fc6ebd950db0d476c503a7ffa00e5265b1052640ad2b090a1840351af11b2d",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person wearing a shirt with the text \"Johnny Cash The Man In Black\" printed on it.</insights>\n\n<answer>Based on the image provided, the person wearing the shirt with the text \"Johnny Cash The Man In Black\" is likely the 2012 Dave Brainard collaborator mentioned in the question.</answer>",
+ "input_tokens": 2394,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 10.65
+}

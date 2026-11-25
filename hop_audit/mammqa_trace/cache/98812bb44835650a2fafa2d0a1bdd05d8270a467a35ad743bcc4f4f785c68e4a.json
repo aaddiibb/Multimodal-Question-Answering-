@@ -1,0 +1,12 @@
+{
+ "key": "98812bb44835650a2fafa2d0a1bdd05d8270a467a35ad743bcc4f4f785c68e4a",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a group of characters dressed in colorful costumes, standing together in front of a large, metallic object resembling a robot or machine. The characters are wearing various outfits, including dresses and boots, but there is no clear indication of a specific character named Kym Karath or the title \"Princess TV\" mentioned in the question.</insights>\n\n<answer>The image does not provide enough information to determine what the girl in green is wearing on her feet. The question cannot be answered based on the provided image.</answer>",
+ "input_tokens": 1561,
+ "output_tokens": 119,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 10.31
+}

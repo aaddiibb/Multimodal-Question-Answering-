@@ -1,0 +1,12 @@
+{
+ "key": "12b32b92e23c87f34d966a789994385860758b5e2bded9a6cf89507caa56b44b",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a computer setup with a monitor displaying the text \"Amen\" against a blue background.</insights>\n\n<answer>There is no information about Thora Birch appearing in a TV show with blocks on its logo in this image.</answer>",
+ "input_tokens": 2264,
+ "output_tokens": 64,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 8.77
+}

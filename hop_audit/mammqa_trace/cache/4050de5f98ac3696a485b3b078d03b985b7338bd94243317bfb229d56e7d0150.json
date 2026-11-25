@@ -1,0 +1,12 @@
+{
+ "key": "4050de5f98ac3696a485b3b078d03b985b7338bd94243317bfb229d56e7d0150",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a music performance featuring multiple artists. However, there is no specific information about the song \"Leaving on a Jet Plane\" or its original artist.</insights>\n\n<answer>There is insufficient information in the provided images to determine the original artist of the song \"Leaving on a Jet Plane\" or who performed it.</answer>",
+ "input_tokens": 2681,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 12.71
+}

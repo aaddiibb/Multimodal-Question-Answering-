@@ -1,0 +1,12 @@
+{
+ "key": "bcfb68921a1cf2707141d4d789e505ffd44fd761c55a19c4480857496b0fc340",
+ "text": "Based on the provided information, let's break down the question into simpler subquestions:\n\n1. Identify the movie where only one person appears on the poster:\n   - From the images provided, we can see that \"Ladyhawke\" has a poster featuring only one person, which is Alan Rickman.\n\n2. Check if Alan Robert Murray was nominated for an Academy Award for the movie:\n   - According to the table, Alan Robert Murray was nominated for an Academy Award for the film \"Ladyhawke\" in 1986.\n\nTherefore, the answer to the original question is:\n\n<answer>\nThe movie with one person in its poster is \"Ladyhawke,\" and Alan Robert Murray was nominated for an Academy Award for this movie.\n</answer>",
+ "input_tokens": 1818,
+ "output_tokens": 157,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 13.77
+}

@@ -1,0 +1,12 @@
+{
+ "key": "db7796995359e7431c55e3ad46e6103d18118057bed17418cd53a1b6bf5a094d",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Is there any African American player mentioned in the list of point scorers for the 2009 Six Nations Championship?\n2. Is Lionel Beauxis listed among the point scorers for the 2009 Six Nations Championship?\n3. If so, what is Lionel Beauxis' Pld value?\n\nNow, let's address each subquestion:\n\n1. There is no mention of an African American player in the provided text or table.\n2. Yes, Lionel Beauxis is listed among the point scorers for the 2009 Six Nations Championship.\n3. Lionel Beauxis' Pld value is 2.\n\nSince there is no African American player mentioned in the list of point scorers, we cannot compare their Pld values. Therefore, the answer to the original question is that there is no African American player to compare with Lionel Beauxis regarding their Pld values.",
+ "input_tokens": 3509,
+ "output_tokens": 199,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 26.86
+}

@@ -1,0 +1,12 @@
+{
+ "key": "43798a067b4a2093c4aee4f8b45349bd751480d85f929d529fd7a823913ec906",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. Identify the national parks mentioned in the text data.\n2. Check if any of these national parks have rhinoceros as part of their importance or vegetation type.\n3. Determine the state where the identified national park is located.\n\nNow, let's address each subquestion:\n\n1. The national parks mentioned in the text data are:\n   - Kedarnath Wildlife Sanctuary\n   - Van Vihar National Park\n   - Betla National Park\n   - Kaziranga National Park\n   - Kanger Ghati National Park\n   - Rajaji National Park\n   - Tungareshwar Wildlife Sanctuary\n   - Gangotri National Park\n   - Gorumara National Park\n   - Jaldapara National Park\n\n2. Checking the importance and vegetation types for each national park:\n   - Kedarnath Wildlife Sanctuary: No mention of rhinoceros.\n   - Van Vihar National Park: No mention of rhinoceros.\n   - Betla National Park: No mention of rhinoceros.\n   - Kaziranga National Park: Mentions rhinoceros as part of its importance (\"hosts two-thirds of the world's great one-horned rhinoceroses\").\n   - Kanger Ghati National Park: No mention of rhinoceros.\n   - Rajaji National Park: No mention of rhinoceros.\n   - Tungareshwar Wildlife Sanctuary: No mention of rhinoceros.\n   - Gangotri National Park: No mention of rhinoceros.\n   - Gorumara National Park: Mentions rhinoceros as part of its importance (\"primarily known for its population of Indian rhinoceros\").\n   - Jaldapara National Park: Mentions rhinoceros as part of its importance (\"largest population of the Indian one horned rhinoceros\").\n\n3. Determining the states where these national parks are located:\n   - Kedarnath Wildlife Sanctuary: Uttarakhand\n   - Van Vihar National Park: Madhya Pradesh\n   - Betla National Park: Jharkhand\n   - Kaziranga National Park: Assam\n   - Kanger Ghati National Park: Chhattisgarh\n   - Rajaji National Park: Uttarakhand\n   - Tungareshwar Wildlife Sanctuary: Palghar\n   - Gangotri",
+ "input_tokens": 4758,
+ "output_tokens": 512,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 71.62
+}

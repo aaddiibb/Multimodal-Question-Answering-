@@ -1,0 +1,12 @@
+{
+ "key": "b4412046d08b1bbf56d7ecee17230b183ff2fa26e80dbde0265290c85bfe7e83",
+ "text": "<modality>image</modality>\n\n<insights>The image displays a gold-colored trophy with the text \"IIFA Awards\" engraved on it.</insights>\n\n<answer>Based on the image, the award category won by both Swara Bhaskar in 2012 and the Academy Award won by the movie \"Fences\" appears to be the IIFA Awards.</answer>",
+ "input_tokens": 1969,
+ "output_tokens": 82,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 8.93
+}

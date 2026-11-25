@@ -1,0 +1,206 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+  "question": "Gavin Stenhouse's 2014 tv show had what actor play John Reese?",
+  "context_digest": "9a799ef3a83861c0a0dbd8110193185c6906fbae9651a698bf6e24ee501ed9cb",
+  "source_ids": [
+    "e01a5eee3fc900fbdf521058a77508c5",
+    "f4ff6236829ae9004e75086e6b4a2124"
+  ],
+  "modalities": [
+    "table",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "Jim Caviezel",
+        "insight": "Jim Caviezel played the role of John Reese in the TV show \"Person of Interest.\"",
+        "raw_output": "ANSWER: Jim Caviezel\nINSIGHT: Jim Caviezel played the role of John Reese in the TV show \"Person of Interest.\""
+      },
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "There is no entry in the table for a TV show in 2014 where John Reese was played by an actor named Gavin Stenhouse.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: There is no entry in the table for a TV show in 2014 where John Reese was played by an actor named Gavin Stenhouse."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided table does not list any information about Gavin Stenhouse's 2014 TV show or the actor playing John Reese.",
+        "evidence_reference": "The table does not contain relevant information for answering the question.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided table does not list any information about Gavin Stenhouse's 2014 TV show or the actor playing John Reese.\nEVIDENCE: The table does not contain relevant information for answering the question."
+      },
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided information does not mention Gavin Stenhouse playing John Reese in a 2014 TV show.",
+        "evidence_reference": "[TEXT: Jim Caviezel | id=f4ff6236829ae9004e75086e6b4a2124]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided information does not mention Gavin Stenhouse playing John Reese in a 2014 TV show.\nEVIDENCE: [TEXT: Jim Caviezel | id=f4ff6236829ae9004e75086e6b4a2124]"
+      }
+    },
+    "shared_seconds": 16.81117776799988,
+    "shared_digest": "b867efcb580948d2c5ec750b06692c404a33dcc12d3d2bfd8bc91af3532eeef6"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "INSUFFICIENT",
+    "seconds": 1.1328805719999764,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.1341614169998593,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 323,
+      "original_input_tokens": 323,
+      "output_tokens": 31,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.467758897999829,
+      "image_count": 0,
+      "seed": 1089375137
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 790,
+      "original_input_tokens": 790,
+      "output_tokens": 42,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.7478097250000246,
+      "image_count": 0,
+      "seed": 1925697871
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 841,
+      "original_input_tokens": 841,
+      "output_tokens": 55,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.716309753999894,
+      "image_count": 0,
+      "seed": 3868280778
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 385,
+      "original_input_tokens": 385,
+      "output_tokens": 78,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.864995968999892,
+      "image_count": 0,
+      "seed": 621973970
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 277,
+      "original_input_tokens": 277,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6546436210001048,
+      "image_count": 0,
+      "seed": 487195151
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "baseline_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4715148949999275,
+      "image_count": 0,
+      "seed": 2488156889
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 292,
+      "original_input_tokens": 292,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6595199099999718,
+      "image_count": 0,
+      "seed": 3187615967
+    },
+    {
+      "qid": "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.46826822200000606,
+      "image_count": 0,
+      "seed": 3187104178
+    }
+  ],
+  "completed_utc": "2026-10-13T19:57:42.733311+00:00"
+}

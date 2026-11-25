@@ -1,0 +1,12 @@
+{
+ "key": "9ff68dcc0189123c84484efa4a638227ddc20c487097c05237d6e658fd2db492",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\n#### Question:\nWhen Alisan Porter was on The Voice in 2016, a song by which original artist was featured earlier: Dixie Chicks, or the person who wrote \"Something in the Way She Moves\"?\n\n#### Table Insights:\n- Alisan Porter participated in The Voice in 2016.\n- Dixie Chicks performed their song \"Let Him Fly\" in the Live Top 10 round.\n- The person who wrote \"Something in the Way She Moves\" is not listed in the table.\n\n#### Text Data Insights:\n- \"Something in the Way She Moves\" was written by James Taylor.\n- Dixie Chicks performed their song \"Let Him Fly\" in the Live Top 10 round.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. **When did Alisan Porter participate in The Voice?**\n   - Alisan Porter participated in The Voice in 2016.\n\n2. **Which song by Dixie Chicks was performed in the Live Top 10 round?**\n   - Dixie Chicks performed their song \"Let Him Fly\" in the Live Top 10 round.\n\n3. **Who wrote the song \"Something in the Way She Moves\"?**\n   - The song \"Something in the Way She Moves\" was written by James Taylor.\n\n4. **Was \"Let Him Fly\" performed earlier than \"Something in the Way She Moves\"?**\n   - \"Let Him Fly\" was performed in the Live Top 10 round, while \"Something in the Way She Moves\" was written by James Taylor but not mentioned in the table.\n\n### Step 3: Answer the Subquestions\n\n1. **When did Alisan Porter participate in The Voice?**\n   - Alisan Porter participated in The Voice in 2016.\n\n2. **Which song by Dixie Chicks was performed in the Live Top 10 round?**\n   - Dixie Chicks performed their song \"Let Him Fly\" in the Live Top 10 round.\n\n3. **Who wrote the song \"Something in the Way She Moves\"?**\n   - The song \"Something in the Way She Moves\" was written by James Taylor.\n\n4. **Was \"Let Him Fly\" performed earlier than \"Something in the Way She Moves\"?**\n   - Since \"Let Him Fly\" was performed in the Live Top 10 round and \"Something in the Way She Moves\" was",
+ "input_tokens": 3659,
+ "output_tokens": 512,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 58.7
+}

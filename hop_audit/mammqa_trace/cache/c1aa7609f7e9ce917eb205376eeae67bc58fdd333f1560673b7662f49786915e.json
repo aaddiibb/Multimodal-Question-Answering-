@@ -1,0 +1,12 @@
+{
+ "key": "c1aa7609f7e9ce917eb205376eeae67bc58fdd333f1560673b7662f49786915e",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about the album \"Blues for Greeny\" which is a tribute to Peter Green, a guitarist and founder member of Fleetwood Mac.\n- The album was recorded using the same 1959 Les Paul Standard guitar that Peter Green used originally.\n- There is no mention of Little Willie John being the original artist or the writer of the title of the track listing.\n</insights>\n\n<answer>\nThere is insufficient information in the provided text to determine the writer of the title of the track listing when Little Willie John was the original artist.\n</answer>",
+ "input_tokens": 1551,
+ "output_tokens": 132,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.64
+}

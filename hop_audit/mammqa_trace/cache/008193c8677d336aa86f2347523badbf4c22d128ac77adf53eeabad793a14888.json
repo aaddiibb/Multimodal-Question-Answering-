@@ -1,0 +1,12 @@
+{
+ "key": "008193c8677d336aa86f2347523badbf4c22d128ac77adf53eeabad793a14888",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the number one song written by Bruce Robison.\n2. Determine the artist who sang the number one song.\n3. Confirm if this artist also sings \"You Find Out Who Your Friends Are\" with Tracy Lawrence.\n\nFrom the provided information:\n- Bruce Robison wrote songs in 2007 (\"Wrapped\") and 2001 (\"Angry All the Time\").\n- The song \"You Find Out Who Your Friends Are\" is performed by Tracy Lawrence.\n\nSince the question asks for the singer of the number one song written by Bruce Robison that also sings \"You Find Out Who Your Friends Are\" with Tracy Lawrence, we can conclude that the number one song written by Bruce Robison is \"Wrapped,\" but there is no information indicating that the artist who sang \"Wrapped\" also sings \"You Find Out Who Your Friends Are\" with Tracy Lawrence.\n\nTherefore, based on the available information, we cannot definitively answer the question as posed.",
+ "input_tokens": 3964,
+ "output_tokens": 205,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 28.97
+}

@@ -1,0 +1,12 @@
+{
+ "key": "56b7db3ead9987ce6d80c3b5872e344d2c1c935a2561f32e612f11641aaa409e",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists teams ranked based on their number of appearances in the Cotton Bowl Classic.\n- Teams with a rank of T10 have 4 appearances.\n- The teams at T10 rank are: Penn State, Rice, SMU, Houston, Nebraska, Oklahoma State, and Texas Tech.\n</insights>\n\n<answer>\nThe teams with a running mammal on their logo that had a rank of T10 in the list of Most appearances of Cotton Bowl Classic are:\n- SMU (Mule)\n- Houston (Bear)\n</answer>",
+ "input_tokens": 1035,
+ "output_tokens": 127,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.21
+}

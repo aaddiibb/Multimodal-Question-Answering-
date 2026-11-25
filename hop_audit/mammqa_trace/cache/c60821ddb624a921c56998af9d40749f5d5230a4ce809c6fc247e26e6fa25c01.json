@@ -1,0 +1,12 @@
+{
+ "key": "c60821ddb624a921c56998af9d40749f5d5230a4ce809c6fc247e26e6fa25c01",
+ "text": "<modality> image </modality>\n\n<insights> The image shows a country duo performing together. The man on the viewer's right is holding a guitar in both hands.</insights>\n\n<answer> The object the man on the viewer's right is holding is a guitar.</answer>",
+ "input_tokens": 3708,
+ "output_tokens": 61,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 13.79
+}

@@ -1,0 +1,12 @@
+{
+ "key": "9187e40fef58215f707b6fbf07ca9026de665662bb8949990cefed565d11532e",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the earliest year that actor Steve Burton was nominated for his work on General Hospital by the Soap Opera Digest Award Association.\n\nFrom the provided text data, we can extract the following insights:\n- Steve Burton was nominated for various awards related to General Hospital.\n- The table provides a list of nominations for Steve Burton across different years and awards.\n\n### Step 2: Break Down the Question into Subquestions\nTo find the earliest year Steve Burton was nominated for General Hospital by the Soap Opera Digest Award Association, we need to focus on the relevant rows in the table where the association is \"Soap Opera Digest Award\" and the category is \"Outstanding Younger Lead Actor\" or \"Outstanding Supporting Actor.\"\n\nLet's identify the relevant rows:\n- 1997: \"Soap Opera Digest Award | Outstanding Younger Lead Actor | General Hospital\"\n- 1998: \"Soap Opera Digest Award | Outstanding Younger Lead Actor | General Hospital\"\n- 1999: \"Soap Opera Digest Award | Hottest Male Star | General Hospital\"\n- 2000: \"Soap Opera Digest Award | Outstanding Supporting Actor | General Hospital\"\n- 2003: \"Soap Opera Digest Award | Outstanding Supporting Actor | General Hospital\"\n\n### Step 2.1: Extract Relevant Information\nFrom the table, we see that Steve Burton was nominated for the \"Soap Opera Digest Award\" in the following years:\n- 1997\n- 1998\n- 1999\n- 2000\n- 2003\n\n### Step 2.2: Determine the Earliest Year\nThe earliest year among these nominations is 1997.\n\n### Final Answer\n<answer>The earliest year that actor Steve Burton was nominated for his work on General Hospital by the Soap Opera Digest Award Association is 1997.</answer>",
+ "input_tokens": 2103,
+ "output_tokens": 403,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 33.15
+}

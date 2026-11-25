@@ -1,0 +1,12 @@
+{
+ "key": "d58aafd2ec2ff4b02da7ca524b670b48774aa00f6265583bf2df65f75cfe9a82",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists teams and their respective locations, stadiums, and capacities.\n- All teams listed have a stadium capacity of either 50,000 or 10,000.\n- The stadiums are located in various cities including Phnom Penh, Kampong Cham, Siem Reap, Kampong Chhnang, and Svay Rieng.\n</insights>\n\n<answer>\nTo determine which stadium located in Phnom Penh by a pool of water was used by the Cambodian League in 2016, we need to identify the stadium in Phnom Penh and check if it is near a pool of water.\n</answer>\n\n<subanswer>\n- The stadiums in Phnom Penh are:\n  - Olympic Stadium\n  - RCAF Old Stadium\n  - Olympic Stadium again\n  - RSN Stadium\n  - Western Stadium\n</subanswer>",
+ "input_tokens": 907,
+ "output_tokens": 198,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.73
+}

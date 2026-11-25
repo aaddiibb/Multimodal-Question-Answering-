@@ -1,0 +1,12 @@
+{
+ "key": "6100e4f4289ed7ed18fb938cc7a4a3843f064426b622bc3a46fcadf8b06a2231",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not contain any information about a person named Fazila Kaiser or a film called Ghairat.\n- The text provides information about various filmmakers and their works but does not mention any specific channel where their works were featured.\n</insights>\n\n<answer>\nThere is no information provided about the year Fazila Kaiser worked on Ghairat or the channels where their works were featured. The text does not contain this specific detail.\n</answer>",
+ "input_tokens": 1641,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.63
+}

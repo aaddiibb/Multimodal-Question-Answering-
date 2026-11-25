@@ -1,0 +1,12 @@
+{
+ "key": "16194efdb2123b5b6d035058c1c2de29fc33925aa894a805e65878bdbaf28aad",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple posters of different Korean dramas featuring Lee Jong-suk. However, none of them feature flying people prominently.</insights>\n\n<answer>Based on the provided images, there isn't a clear match where Lee Jong-suk plays a character on a TV show whose poster features flying people.</answer>",
+ "input_tokens": 2389,
+ "output_tokens": 76,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 10.66
+}

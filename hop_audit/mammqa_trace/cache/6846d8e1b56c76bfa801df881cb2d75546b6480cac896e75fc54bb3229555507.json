@@ -1,0 +1,12 @@
+{
+ "key": "6846d8e1b56c76bfa801df881cb2d75546b6480cac896e75fc54bb3229555507",
+ "text": "The question asks us to determine whether Chris Webber or Toby Bailey has a lower APG (assists per game). However, the table provided does not contain any information about Toby Bailey's APG. Therefore, we cannot directly answer the question based on the given data.\n\nTo answer the question, we need to extract the following insights:\n\n1. **Chris Webber's APG**: According to the text data, Chris Webber was the first overall pick in the 1999 NBA draft. However, the text does not provide his APG for the 1999-2000 season.\n\n2. **Toby Bailey's APG**: There is no information about Toby Bailey in the provided data.\n\nGiven the lack of specific data about Toby Bailey's APG, we cannot definitively answer the question. Therefore, the answer to the original question is:\n\n<answer>Based on the available data, we cannot determine which player has a lower APG between Chris Webber and Toby Bailey.</answer>",
+ "input_tokens": 3231,
+ "output_tokens": 209,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 26.17
+}

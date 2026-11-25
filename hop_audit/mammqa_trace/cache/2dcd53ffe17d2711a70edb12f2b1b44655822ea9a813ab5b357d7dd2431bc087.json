@@ -1,0 +1,12 @@
+{
+ "key": "2dcd53ffe17d2711a70edb12f2b1b44655822ea9a813ab5b357d7dd2431bc087",
+ "text": "<answer>Gmina Janowice Wielkie</answer>",
+ "input_tokens": 1120,
+ "output_tokens": 14,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.12
+}

@@ -1,0 +1,12 @@
+{
+ "key": "98317a3b9e01d25b77ce4950cf968b1b68ac350e1f784d8b711038ca31faf418",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists institutions affiliated with the Mid-South Conference.\n- Each institution includes its location, founding year, enrollment, nickname, joining year, sport, and primary conference.\n- The question asks about a city with a large reddish-colored structure next to a rectangle-shaped body of water.\n</insights>\n\n<answer>\nTo determine when the founding year of the Mid-South Conference affiliate-member school whose city has a large reddish-colored structure next to a rectangle-shaped body of water, we need to identify the relevant institution first.\n</answer>\n\n<subanswer>\n1. Identify cities with a large reddish-colored structure next to a rectangle-shaped body of water.\n2. Check if any of these cities have an institution listed in the table.\n3. Determine the founding year of the institution located in that city.\n</subanswer>",
+ "input_tokens": 1235,
+ "output_tokens": 183,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 13.44
+}

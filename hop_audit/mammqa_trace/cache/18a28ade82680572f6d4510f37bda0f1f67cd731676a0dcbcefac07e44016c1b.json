@@ -1,0 +1,12 @@
+{
+ "key": "18a28ade82680572f6d4510f37bda0f1f67cd731676a0dcbcefac07e44016c1b",
+ "text": "<modality> image </modality>\n\n<insights> The image shows two album covers. One has a person with blonde hair, and the other has a person with dark hair. The album cover featuring Monika Linkytė's single \"Krentu žemyn\" is the one with the person with blonde hair.</insights>\n\n<answer> The person on the album cover for Monika Linkytė's single \"Krentu žemyn\" has blonde hair.</answer>",
+ "input_tokens": 1476,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 9.28
+}

@@ -1,0 +1,12 @@
+{
+ "key": "74a099bb806b12fe28c49fa89f4a86f29dd3f3a853e7a3eb6a22ca41e7ebba76",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists films and roles acted by Roshan Ravindra over different years.\n- The role \"Sahan\" appears in the last row of the table under the column \"Role\".\n</insights>\n\n<answer>\nRoshan Ravindra played the role of \"Sahan\" in the film \"Tharu Athara Mama\", which is marked as \"TBD\" for the year.\n</answer>",
+ "input_tokens": 863,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.79
+}

@@ -1,0 +1,12 @@
+{
+ "key": "33a45d03684a11235ac379d3f7c66b7c752e9e4151bf9088c50cce16ad12a129",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a vintage racing scene with multiple cars on a track, surrounded by spectators. The cars appear to be from the early 20th century, which aligns with the Belgian Grand Prix of 1933. The image also features individuals dressed in period-appropriate attire, likely representing drivers or race officials.</insights>\n\n<answer>The constructor of the car in the image is Bugatti.</answer>",
+ "input_tokens": 3413,
+ "output_tokens": 98,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 17.01
+}

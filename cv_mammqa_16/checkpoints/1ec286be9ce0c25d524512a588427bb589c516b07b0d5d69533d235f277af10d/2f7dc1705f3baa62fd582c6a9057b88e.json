@@ -1,0 +1,192 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+  "question": "When there was a mule on the film poster for the television shows of Larry McCormick, what was the year?",
+  "context_digest": "5f933f8ad13757a5c9d5bce73f12919f6258e981ca44215d6c852526b4fb3acd",
+  "source_ids": [
+    "311f34b3e3cf257f6323eba214687553",
+    "740f49b6eebf5f4af2e497c42b873b21"
+  ],
+  "modalities": [
+    "image",
+    "table"
+  ],
+  "shared": {
+    "stage1": {
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "There is no mention of a mule on any of the film posters in the provided table data.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: There is no mention of a mule on any of the film posters in the provided table data."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image is of the movie \"Gus\" from 1976, but it does not provide any information about a television show featuring a mule by Larry McCormick.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image is of the movie \"Gus\" from 1976, but it does not provide any information about a television show featuring a mule by Larry McCormick."
+      }
+    },
+    "stage2": {
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image metadata does not provide information about a mule on a film poster related to Larry McCormick's television shows.",
+        "evidence_reference": "The image is of the movie \"Gus\" from 1976, which is unrelated to Larry McCormick's television shows.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image metadata does not provide information about a mule on a film poster related to Larry McCormick's television shows.\nEVIDENCE: The image is of the movie \"Gus\" from 1976, which is unrelated to Larry McCormick's television shows."
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided information does not mention a television show featuring a mule by Larry McCormick.",
+        "evidence_reference": "The table lists Larry McCormick's roles in various films and TV shows, but none of them feature a mule.",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided information does not mention a television show featuring a mule by Larry McCormick.\nEVIDENCE: The table lists Larry McCormick's roles in various films and TV shows, but none of them feature a mule."
+      }
+    },
+    "shared_seconds": 16.857338706000064,
+    "shared_digest": "80dfac86f2a4002076350ffde199e61f1b6f4ad13c5311362f6983dd23d96835"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "FINAL: INSUFFICIENT",
+    "seconds": 0.808750499000098,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.153514087000076,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 558,
+      "original_input_tokens": 558,
+      "output_tokens": 31,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.803112145999876,
+      "image_count": 0,
+      "seed": 3804040383
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 455,
+      "original_input_tokens": 455,
+      "output_tokens": 48,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.0239372959999855,
+      "image_count": 1,
+      "seed": 3942824288
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 512,
+      "original_input_tokens": 512,
+      "output_tokens": 67,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 5.398560880000105,
+      "image_count": 1,
+      "seed": 2876426116
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 626,
+      "original_input_tokens": 626,
+      "output_tokens": 57,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.616234636999934,
+      "image_count": 0,
+      "seed": 2888847390
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 272,
+      "original_input_tokens": 272,
+      "output_tokens": 6,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.8051937819998329,
+      "image_count": 0,
+      "seed": 411288572
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 288,
+      "original_input_tokens": 288,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6652225579998685,
+      "image_count": 0,
+      "seed": 1226799448
+    },
+    {
+      "qid": "2f7dc1705f3baa62fd582c6a9057b88e",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4813560069999312,
+      "image_count": 0,
+      "seed": 3382453721
+    }
+  ],
+  "completed_utc": "2026-10-13T20:00:55.628413+00:00"
+}

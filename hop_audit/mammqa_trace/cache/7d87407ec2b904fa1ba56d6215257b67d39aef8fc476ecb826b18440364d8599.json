@@ -1,0 +1,12 @@
+{
+ "key": "7d87407ec2b904fa1ba56d6215257b67d39aef8fc476ecb826b18440364d8599",
+ "text": "<insights>\n- The table shows that Steve Burton was nominated for the Soap Opera Digest Award in 1997 and 1998.\n- The image of the man in a tuxedo could potentially be Steve Burton, but there is no explicit confirmation.\n- The image of the General Hospital logo confirms that it is the show where Steve Burton was nominated.\n- The image of The Young and the Restless logo indicates another show where Steve Burton has been nominated.\n- The image of the man with a pipe suggests that he might be a different actor, possibly John Forsythe, known for his role in \"Peyton Place.\"\n</insights>\n\n<subanswer>\nSteve Burton was nominated for the Soap Opera Digest Award in 1997 and 1998.\n</subanswer>\n\n<answer>\nThe earliest year that actor Steve Burton was nominated for his work on General Hospital by the Soap Opera Digest Award Association was 1997.\n</answer>",
+ "input_tokens": 2160,
+ "output_tokens": 202,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 18.68
+}

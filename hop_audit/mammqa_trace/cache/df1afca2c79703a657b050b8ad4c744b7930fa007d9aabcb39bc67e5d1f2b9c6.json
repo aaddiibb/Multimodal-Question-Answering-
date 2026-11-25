@@ -1,0 +1,12 @@
+{
+ "key": "df1afca2c79703a657b050b8ad4c744b7930fa007d9aabcb39bc67e5d1f2b9c6",
+ "text": "The text insight indicates that there is no information about a movie titled \"Steve Van Wormer's 1996 movie.\" The provided texts are about various films, but none match the criteria mentioned in the question.\n\nBased on the table and images provided, we can see that Steve Van Wormer has been involved in several films, including \"Jingle All the Way,\" \"Hijacking Hollywood,\" \"Meet the Deedles,\" \"Idle Hands,\" \"Johnny Tsunami,\" \"The Extreme Adventures of Super Dave,\" \"Groove,\" \"Accidents Don't Happen,\" \"Bubble Boy,\" and \"The Anarchist Cookbook.\" However, none of these films are specifically titled \"Steve Van Wormer's 1996 movie.\"\n\nTherefore, the answer to the question \"Steve Van Wormer's 1996 movie was filmed where?\" cannot be determined based on the provided information.",
+ "input_tokens": 1702,
+ "output_tokens": 184,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 16.0
+}

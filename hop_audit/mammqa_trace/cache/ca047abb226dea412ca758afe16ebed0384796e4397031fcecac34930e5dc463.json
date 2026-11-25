@@ -1,0 +1,12 @@
+{
+ "key": "ca047abb226dea412ca758afe16ebed0384796e4397031fcecac34930e5dc463",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not mention Wes Johnson or any involvement in Fallout 4.\n- The text mentions a game whose cover shows a gun-wielding man, but no specific game title is provided.\n</insights>\n\n<answer>\nBased on the provided text, there is insufficient information to determine which video game Wes Johnson was involved in earlier between Fallout 4 and the game whose cover shows a gun-wielding man. The text does not provide enough context about Wes Johnson's involvement in either game.\n</answer>",
+ "input_tokens": 1970,
+ "output_tokens": 116,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.99
+}

@@ -1,0 +1,12 @@
+{
+ "key": "6dc067b07179d15d9f23bee05080eeda17545629b84e4caf28036f23cbaf4c2c",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks about the co-singer of Sona Mohapatra in Bollywood first between \"Main Tera Boyfriend\" and Keerthi Sagathia, Shazneen Arethna.\n\nFrom the table insights:\n- Sona Mohapatra has sung songs with Sonu Nigam, Keerthi Sagathia, Shazneen Arethna, and Arijit Singh.\n\nFrom the multimodal inputs:\n- \"Main Tera Boyfriend\" is a song from the film \"Raabta,\" which features Arijit Singh as a co-singer.\n- Keerthi Sagathia, Shazneen Arethna, and Sonu Nigam are mentioned as co-singers for Sona Mohapatra.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is \"Main Tera Boyfriend\" a song featuring Sona Mohapatra?\n2. Who are the co-singers of Sona Mohapatra in \"Main Tera Boyfriend\"?\n\nBased on the multimodal inputs, it appears that \"Main Tera Boyfriend\" does feature Sona Mohapatra as a co-singer alongside Arijit Singh. Therefore, the question can be simplified to:\n\nWho was the co-singer of Sona Mohapatra in \"Main Tera Boyfriend\" first between Arijit Singh?\n\n### Final Answer\n\nThe co-singer of Sona Mohapatra in \"Main Tera Boyfriend\" first was Arijit Singh.",
+ "input_tokens": 3796,
+ "output_tokens": 326,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 41.77
+}

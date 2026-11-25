@@ -1,0 +1,12 @@
+{
+ "key": "6a8758bf0f8f6329b77d71340d4fc95110e248c84ae334561b658ec88cbfef0e",
+ "text": "Based on the provided table insights and multimodal inputs, let's break down the question into simpler subquestions:\n\n1. Identify institutions that are affiliate members of the Mid-South Conference for football.\n2. Check if the logo of each institution includes a book.\n\nNow, let's go through the list of institutions:\n\n1. Ave Maria University: Joined in 2017, plays football, nickname is \"Gyrenes\". No book in the logo.\n2. Bethel University: Joined in 1995–96, plays archery & football, nickname is \"Wildcats\". No book in the logo.\n3. Bluefield College: Joined in 2014–15, plays football, nickname is \"Rams\". No book in the logo.\n4. Faulkner University: Joined in 2008–09, plays football, nickname is \"Eagles\". No book in the logo.\n5. Keiser University: Joined in 2018, plays football & wrestling, nickname is \"Seahawks\". No book in the logo.\n6. Kentucky Christian University: Joined in 2009, plays archery, baseball, football & softball, nickname is \"Knights\". No book in the logo.\n7. Point University: Joined in 2017, plays football, nickname is \"Skyhawks\". No book in the logo.\n8. St. Thomas University: Joined in 2019, plays football, nickname is \"Bobcats\". No book in the logo.\n9. Southeastern University: Joined in 2018, plays football, nickname is \"Bobcats\". Book in the logo.\n\nTherefore, the answer to the question is:\n\nSoutheastern University is the only institution with a book on their logo that is an affiliate member of the Mid-South Conference for the sport of football.",
+ "input_tokens": 3593,
+ "output_tokens": 390,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 45.16
+}

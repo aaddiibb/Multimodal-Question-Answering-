@@ -1,0 +1,12 @@
+{
+ "key": "d9e0089de6fc553af902d8f2bd1f7a49225fdc29da1fbfc75b056811fbe5db78",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists films directed by David Sterne along with their respective years.\n- The film \"Prisoner of Azkaban\" was released in 1998.\n- The film \"Harry Potter and the Goblet of Fire\" was released in 2005.\n</insights>\n\n<answer>\nNo, Jinnah (released in 1998) was not after the \"Prisoner of Azkaban\" (released in 1998). Both films were released in the same year, 1998. The film \"Harry Potter and the Goblet of Fire\" (released in 2005) came after \"Prisoner of Azkaban\".\n</answer>",
+ "input_tokens": 986,
+ "output_tokens": 165,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.97
+}

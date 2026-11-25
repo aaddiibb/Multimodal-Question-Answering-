@@ -1,0 +1,12 @@
+{
+ "key": "2e86aac267217c126995e98a847f8470da99346554c52477d0b2bbefda1189f8",
+ "text": "Let's break down the question step-by-step:\n\n1. Identify the key elements of the question:\n   - The person who played Steve Keen in \"Tales from the Crapper\"\n   - Matt Stone\n   - The series that was written by this person and Matt Stone\n   - The series that was satirized\n\n2. Extract relevant information from the provided data:\n   - Trey Parker is known for being one of the creators of South Park.\n   - Trey Parker played Steve Keen in \"Tales from the Crapper\".\n\n3. Formulate subquestions based on the extracted insights:\n   - Who played Steve Keen in \"Tales from the Crapper\"?\n   - Who wrote the series that was satirized by \"Tales from the Crapper\" along with Matt Stone?\n\n4. Answer the subquestions:\n   - The actor who played Steve Keen in \"Tales from the Crapper\" is Trey Parker.\n   - Trey Parker and Matt Stone wrote the series \"South Park\".\n\n5. Formulate the final answer:\n   - The series that was written by Trey Parker and Matt Stone, who was satirized, is South Park.\n\nTherefore, the answer to the original question is:\n<answer>South Park</answer>",
+ "input_tokens": 4335,
+ "output_tokens": 258,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 37.67
+}

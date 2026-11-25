@@ -1,0 +1,12 @@
+{
+ "key": "86504d17e36e170f48348749b43eab710dbf7bbd00e9788da8698805231cbaca",
+ "text": "<modality>text</modality>\n\n<insights>\n- The surname Fletcher has English, Scottish, and Irish origins.\n- Fletcher is derived from the Middle English, Old English \"Fulcher\" or Old French flech(i)er.\n- The English word was borrowed into the Goidelic languages, leading to the development of the Scottish name \"Mac an Fhleisteir\" (also spelt \"Mac an Fhleisdeir\"), \"the arrowsmith's son\".\n</insights>\n\n<answer>\nThe language extract that the surname Fletcher comes from, which is also the language of the defunct general entertainment channel of Star India, is Scottish Gaelic. This is because the Scottish name \"Mac an Fhleisteir\" is derived from the Goidelic languages, which includes Scottish Gaelic.\n</answer>",
+ "input_tokens": 1571,
+ "output_tokens": 174,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.23
+}

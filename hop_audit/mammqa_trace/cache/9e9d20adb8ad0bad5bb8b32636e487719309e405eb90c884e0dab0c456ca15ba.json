@@ -1,0 +1,12 @@
+{
+ "key": "9e9d20adb8ad0bad5bb8b32636e487719309e405eb90c884e0dab0c456ca15ba",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Is there a show with a two-headed dog on its poster mentioned in the text data?\n2. If yes, what is the title of the show?\n\nBased on the provided text data, there is no mention of a show with a two-headed dog on its poster. Therefore, we cannot answer the original question with the given information.",
+ "input_tokens": 3014,
+ "output_tokens": 81,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 13.1
+}

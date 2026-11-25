@@ -1,0 +1,12 @@
+{
+ "key": "48f0a1644860797404392afcbd68e585e9e82716e03fda2857d09214e9224310",
+ "text": "<modality>image</modality>\n\n<insights>The images show title screens for various television series. The series mentioned in the question are \"Flashpoint,\" \"Wild Roses,\" \"Degrassi: The Next Generation,\" \"Life Unexpected,\" \"Terra Nova,\" \"The Haunting Hour,\" \"Hemlock Grove,\" and \"Frontier.\" None of these series feature mountains in their title screens.</insights>\n\n<answer>None of the series mentioned in the question feature mountains in their title screens.</answer>",
+ "input_tokens": 1360,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.79
+}

@@ -1,0 +1,12 @@
+{
+ "key": "6eaeee129e8e76a5d8c34fb7c0d08b003eb674ad59e9b2afdcdff8a4f96f6b3f",
+ "text": "Based on the provided text insight and table, there is no information about Paul Quinn being a champion or the record of a conference where he was the champion. The table lists various conferences and their champions for the 1924 college football season, but it does not provide any details about Paul Quinn or his achievements.\n\nThe question asks for the conference that had the record of the conference where Paul Quinn was the champion. However, since the provided information does not mention Paul Quinn or his achievements, it is impossible to determine the correct answer based on the given data.\n\nTherefore, the answer to the question is:\n\nThere is insufficient information in the provided text and table to determine which conference in the 1924 college football season's minor conferences had the record of the conference where Paul Quinn was the champion.",
+ "input_tokens": 2435,
+ "output_tokens": 163,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 17.93
+}

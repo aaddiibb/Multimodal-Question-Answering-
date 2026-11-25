@@ -1,0 +1,12 @@
+{
+ "key": "418f4cb32d202f0891049e785c4b4a7ec6ad305aeea27ff1db00272700f9c4f8",
+ "text": "The text insight indicates that the song \"Lover Lover You Don't Treat Me No Good No More\" was recorded by Dave Brainard in 2012. However, the text does not provide information about the collaborator who sang this song. The table also does not list Dave Brainard as a collaborator for any of the albums mentioned. Therefore, based on the provided information, it is not possible to determine the collaborator who sang the song \"Lover Lover You Don't Treat Me No Good No More.\"\n\n<answer>\nBased on the provided information, it is not possible to determine the collaborator who sang the song \"Lover Lover You Don't Treat Me No Good No More.\"\n</answer>",
+ "input_tokens": 2376,
+ "output_tokens": 146,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 15.51
+}

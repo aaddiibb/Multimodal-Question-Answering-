@@ -1,0 +1,12 @@
+{
+ "key": "db7ad5aa511f45717f1005e6a012e7793344e6b4f0d5cca8352fcfd5d639088f",
+ "text": "Let's break down the question and the provided data step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"In what years did Susan Dey appear in the TV show with a cracked egg on its poster?\"\n\n### Step 2: Extract Relevant Insights\nFrom the image insight:\n- The image shows a title card for \"The Partridge Family\" with a cracked egg on its poster.\n\nFrom the text data:\n- Susan Dey appeared in \"The Partridge Family\" from 1970 to 1974.\n\n### Step 3: Break Down the Question into Subquestions\n1. What is the TV show with a cracked egg on its poster?\n   - The Partridge Family\n2. In what years did Susan Dey appear in \"The Partridge Family\"?\n\n### Step 4: Answer the Subquestions\n1. The TV show with a cracked egg on its poster is \"The Partridge Family.\"\n2. Susan Dey appeared in \"The Partridge Family\" from 1970 to 1974.\n\n### Final Answer\nSusan Dey appeared in the TV show \"The Partridge Family\" from 1970 to 1974.",
+ "input_tokens": 2145,
+ "output_tokens": 253,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 22.06
+}

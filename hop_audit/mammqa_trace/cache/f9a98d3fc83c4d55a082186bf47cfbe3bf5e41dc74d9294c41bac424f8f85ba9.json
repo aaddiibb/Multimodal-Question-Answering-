@@ -1,0 +1,12 @@
+{
+ "key": "f9a98d3fc83c4d55a082186bf47cfbe3bf5e41dc74d9294c41bac424f8f85ba9",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Agnez Mo's roles and networks over different years.\n- In 2010, she had two roles: \"Indonesian Idol Season 6\" as a Judge and \"American Music Awards\" as a Special abroad guest host.\n- The network for her role as a Judge in \"Indonesian Idol Season 6\" is RCTI.\n</insights>\n\n<answer>\nThe network for Agnez Mo's role as a Judge in variety shows in 2010 was RCTI.\n</answer>",
+ "input_tokens": 973,
+ "output_tokens": 126,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.85
+}

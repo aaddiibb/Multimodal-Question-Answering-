@@ -1,0 +1,12 @@
+{
+ "key": "cbb6e2d32618c64161ba95c23ad31ccef847f8ab3f6a6cae0334d9a43e502e3f",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a statue holding one arm above its head, which is located in Kyiv, Ukraine.</insights>\n\n<answer>Kyiv</answer>\n\n<subanswer>Home venues record for the Ukraine national football team includes the following stadiums:</subanswer>\n- Olimpiyskiy Stadium\n- NSC Olimpiyskyi\n- Dynamo Stadium\n- NSC Olimpiyskyi\n- NSC Olimpiyskyi\n- NSC Olimpiyskyi",
+ "input_tokens": 2297,
+ "output_tokens": 118,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 13.7
+}

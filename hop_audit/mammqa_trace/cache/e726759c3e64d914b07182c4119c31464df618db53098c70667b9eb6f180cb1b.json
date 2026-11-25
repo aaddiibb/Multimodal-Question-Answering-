@@ -1,0 +1,12 @@
+{
+ "key": "e726759c3e64d914b07182c4119c31464df618db53098c70667b9eb6f180cb1b",
+ "text": "Based on the provided text and table, there is no artist mentioned in the provided text that performed a song with Keith Urban in 2007 and was also a guest judge on America's Got Talent in 2018. Therefore, the answer to the question is:\n\n<answer>There is no artist that performed a song with Keith Urban in 2007 and was also a guest judge on America's Got Talent in 2018.</answer>",
+ "input_tokens": 3591,
+ "output_tokens": 98,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 16.73
+}

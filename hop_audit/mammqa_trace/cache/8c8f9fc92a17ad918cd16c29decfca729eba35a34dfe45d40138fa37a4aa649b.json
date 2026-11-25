@@ -1,0 +1,12 @@
+{
+ "key": "8c8f9fc92a17ad918cd16c29decfca729eba35a34dfe45d40138fa37a4aa649b",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a collection of logos representing different football teams. Each logo includes text and symbols that can be used to identify the team names and locations.</insights>\n\n<answer>Based on the provided images, the team that was founded in 1930 and was part of Group 2 of the 2009-10 Segunda División B is Club Deportivo Tenerife, which is based in Santa Cruz de Tenerife, Spain.</answer>",
+ "input_tokens": 2031,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 11.39
+}

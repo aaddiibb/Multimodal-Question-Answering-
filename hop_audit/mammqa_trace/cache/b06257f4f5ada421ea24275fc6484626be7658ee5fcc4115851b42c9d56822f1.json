@@ -1,0 +1,12 @@
+{
+ "key": "b06257f4f5ada421ea24275fc6484626be7658ee5fcc4115851b42c9d56822f1",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the full title of the Production in the Theater Credits of Michael Potts in 2002. \n\nFrom the provided data:\n- There is a table listing Michael Potts' productions over the years.\n- The table shows that Michael Potts performed in \"Twelfth Night\" in 2002 at the Delacorte Theatre.\n\n### Step 2: Extract Relevant Insights\n\nKey information:\n- Michael Potts performed in \"Twelfth Night\" in 2002.\n- The role was Feste.\n- The theater was the Delacorte Theatre.\n\n### Step 3: Break Down the Question into Subquestions\n\n1. **What was the full title of the Production?**\n   - The full title of the Production is \"Twelfth Night.\"\n\n2. **In which year did Michael Potts perform this Production?**\n   - Michael Potts performed in \"Twelfth Night\" in 2002.\n\n3. **At which theater did he perform?**\n   - He performed at the Delacorte Theatre.\n\n### Final Answer\n\n<answer>\nThe full title of the Production in the Theater Credits of Michael Potts in 2002 is \"Twelfth Night.\"\n</answer>",
+ "input_tokens": 2012,
+ "output_tokens": 267,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 22.77
+}

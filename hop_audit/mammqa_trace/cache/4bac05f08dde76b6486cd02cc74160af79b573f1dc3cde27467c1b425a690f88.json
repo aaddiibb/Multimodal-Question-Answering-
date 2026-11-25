@@ -1,0 +1,12 @@
+{
+ "key": "4bac05f08dde76b6486cd02cc74160af79b573f1dc3cde27467c1b425a690f88",
+ "text": "Based on the provided text and table, there is no information about an event at Kings Park Stadium or a poster showing a woman holding her hands into the air. Therefore, it is not possible to determine the artist who performed at such an event based on the given text and table.\n\n<answer>\nThere is no information provided about an event at Kings Park Stadium or a poster showing a woman holding her hands into the air. Therefore, it is not possible to determine the artist who performed at such an event based on the given text and table.\n</answer>",
+ "input_tokens": 1646,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 9.98
+}

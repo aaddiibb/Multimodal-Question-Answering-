@@ -1,0 +1,12 @@
+{
+ "key": "8ab312aef1889ac179215ade0f48054a63ff4a3978697b3dfd529e54922f3476",
+ "text": "The question asks about the object held by the person whose photo has the most likes on Instagram. However, the provided text insight does not specify the object held by the person whose photo has the most likes on Instagram. Therefore, it is impossible to answer this question based on the given information.\n\n<answer>The question cannot be directly answered based on the provided text. The text does not specify the object held by the person whose photo has the most likes on Instagram.</answer>",
+ "input_tokens": 3995,
+ "output_tokens": 95,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 18.22
+}

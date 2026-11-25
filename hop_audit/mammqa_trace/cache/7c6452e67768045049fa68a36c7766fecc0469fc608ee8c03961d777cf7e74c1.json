@@ -1,0 +1,12 @@
+{
+ "key": "7c6452e67768045049fa68a36c7766fecc0469fc608ee8c03961d777cf7e74c1",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the winners and runners-up for Division 1-A Rugby championships from 2011 to 2019.\n- Life University won the championship on CBSSN in 2018.\n</insights>\n\n<answer>\nLife University won the championship on CBSSN in 2018, and the runner-up was Penn State.\n</answer>",
+ "input_tokens": 1145,
+ "output_tokens": 94,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.08
+}

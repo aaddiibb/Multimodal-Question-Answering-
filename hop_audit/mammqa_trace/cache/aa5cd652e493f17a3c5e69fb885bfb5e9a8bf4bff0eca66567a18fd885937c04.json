@@ -1,0 +1,12 @@
+{
+ "key": "aa5cd652e493f17a3c5e69fb885bfb5e9a8bf4bff0eca66567a18fd885937c04",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are multiple images provided, but no textual information or table data is available to extract insights directly related to the question.</insights>\n\n<answer>Based on the provided images, there is insufficient information to determine which year the older football player born out of Mehdi Mahdavikia and the Iran national football team player with the most matches as captain active between 1993 and 2006 was active.</answer>",
+ "input_tokens": 3169,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 16.17
+}

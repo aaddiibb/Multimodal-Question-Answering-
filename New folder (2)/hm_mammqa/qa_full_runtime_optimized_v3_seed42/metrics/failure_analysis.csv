@@ -1,0 +1,17 @@
+qid,failure_type,candidate_gold_coverage,context_gold_coverage,retry_used
+f7dd1ac143507bd2ab9a480f18b86706,context_selection_failure,1.0,0.3333333333333333,False
+254afe636a34c3a5d94efa22d95465ad,context_selection_failure,1.0,0.5,False
+ebb69554283456251305b4b8ab579f76,context_selection_failure,1.0,0.3333333333333333,False
+4b9a4868455f98a69a8494ef1dfe7205,context_selection_failure,1.0,0.5,False
+186146ea1f5a9f7ada7f7fd31c5c75a4,retrieval_failure,0.5,0.0,False
+c9fcae0ac6e3aa3f08375db9e4fe9037,retrieval_failure,0.5,0.0,False
+5dfd4afc175cdebf43295316a540d70c,context_selection_failure,1.0,0.0,False
+6d372c501004c3e448b1991f39160e99,context_selection_failure,1.0,0.5,False
+b5d7685e595423638d26dd60e99fcc39,retrieval_failure,0.5,0.5,False
+3126664c6ce707c6aca2c475ace8db08,retrieval_failure,0.0,0.0,False
+183a1eec0e38eaee513a5ec7996f55f1,abstention_due_to_insufficient_evidence,1.0,1.0,False
+2a5fdab4235e28037389777f473c4f9f,retrieval_failure,0.6666666666666666,0.16666666666666666,False
+2f154508615dc2d34b4d4b7fdced0b0e,retrieval_failure,0.0,0.0,False
+22e22f3b558eeae2178ddd9cb6bc2b04,context_selection_failure,1.0,0.0,False
+1e3f1a08d865b3676a5ca81d8adc270b,context_selection_failure,1.0,0.0,False
+ceb2b6a63d5f3b5eb8075979a55e7471,context_selection_failure,1.0,0.0,False

@@ -1,0 +1,12 @@
+{
+ "key": "3c433cf163364378fb2ed246bb4c744c41c56850f028c17874fb304fa835e102",
+ "text": "Based on the provided information, let's break down the question into simpler subquestions:\n\n1. Identify the TV show titles listed in the table.\n2. Check if any of the roles involve a character named \"Jong-suk.\"\n3. Determine if there is a note or reference that mentions flying people in the poster.\n\nNow, let's address each subquestion:\n\n1. **Identify the TV show titles listed in the table:** The TV show titles mentioned in the text data are:\n   - 김사 프린세스 (Kim's Princess)\n   - 시크릿 가든 (Secret Garden)\n   - 하이킥! (Kick-Ass)\n   - 피노키오 (Pinocchio)\n   - W (W: Two Worlds)\n   - 고호의 별이 빛나는 밤에 (Under the Starry Sky of Love)\n   - 당신의 창문 사이에 (In Your Room)\n   - 사랑의 불시착 (The Heirs)\n   - 로맨스는 별책부록 (Romance Is a Bonus Book)\n\n2. **Check if any of the roles involve a character named \"Jong-suk\":**\n   - None of the roles mentioned in the text data involve a character named \"Jong-suk.\"\n\n3. **Determine if there is a note or reference that mentions flying people in the poster:**\n   - The poster for \"Secret Garden\" (시크릿 가든) features two characters flying in the air, which matches the description of a poster featuring flying people.\n\nGiven these observations, the answer to the original question is:\n\n<answer>\nLee Jong-suk played a character on the TV show \"Secret Garden,\" whose poster features flying people.\n</answer>",
+ "input_tokens": 3344,
+ "output_tokens": 360,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 41.54
+}

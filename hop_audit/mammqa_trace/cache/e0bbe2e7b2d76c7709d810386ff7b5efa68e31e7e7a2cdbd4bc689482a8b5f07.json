@@ -1,0 +1,12 @@
+{
+ "key": "e0bbe2e7b2d76c7709d810386ff7b5efa68e31e7e7a2cdbd4bc689482a8b5f07",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not mention Erika Naddei or any performance involving Mary Magdalene.\n- The text provides information about various plays, musicals, and films but does not specify the year when Erika Naddei played Mary Magdalene in a live performance.\n</insights>\n\n<answer>\nThe provided text does not contain the necessary information to determine the year when Erika Naddei played Mary Magdalene in a live performance.\n</answer>",
+ "input_tokens": 1891,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.03
+}

@@ -1,0 +1,12 @@
+{
+ "key": "9aac9e40b21ba807b5ac4e658bbfb786a4f8ed5c71bb678609b6346d1ab951de",
+ "text": "Let's break down the question into simpler parts:\n\n1. **Who played Cory Matthews?**\n   - According to the text insight, Ben Savage played Cory Matthews in the ABC sitcom \"Boy Meets World\".\n\n2. **In which show did Ivy George act and also have a poster featuring a globe?**\n   - From the table, we can see that Ivy George acted in \"Girl Meets World\" in 2016.\n   - The poster for \"Girl Meets World\" indeed features a globe.\n\nBased on these insights, we can answer the question:\n\n<answer>\nIvy George played in the show \"Girl Meets World\" where she had a role as Young Maya and there was a poster featuring a globe.\n</answer>",
+ "input_tokens": 1844,
+ "output_tokens": 153,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 14.37
+}

@@ -1,0 +1,12 @@
+{
+ "key": "2ade254de557c7cb014bbdb1508b959c6d1eac0a9ee99d9f3c87616419d5fa3f",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a goalkeeper wearing gloves on both hands.</insights>\n\n<answer>On his left hand, the player is wearing gloves.</answer>",
+ "input_tokens": 2046,
+ "output_tokens": 43,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 6.36
+}

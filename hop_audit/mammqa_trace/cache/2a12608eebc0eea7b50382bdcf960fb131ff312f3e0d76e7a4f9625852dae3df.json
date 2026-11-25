@@ -1,0 +1,12 @@
+{
+ "key": "2a12608eebc0eea7b50382bdcf960fb131ff312f3e0d76e7a4f9625852dae3df",
+ "text": "<modality>image</modality>\n\n<insights>The question asks about films written by Akiva Goldsman. The images show movie posters, but none of them have the names of the screenwriters listed. Therefore, we cannot determine which film Akiva Goldsman wrote based on this information.</insights>\n\n<answer>Based on the provided images, it is impossible to determine which film Akiva Goldsman wrote, as his name is not mentioned on the posters.</answer>",
+ "input_tokens": 2438,
+ "output_tokens": 101,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 12.17
+}

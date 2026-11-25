@@ -1,0 +1,12 @@
+{
+ "key": "4d36ee5de3fd347f9ba30729d903d3799f3c75a5439dbd0b97206cf0c61c4128",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for \"Diary of a Wimpy Kid,\" which is a satirical realistic fiction comedy aimed at children and teenagers. The poster features a young boy with a backpack and a shadow of a stick figure behind him, with the tagline \"It's not a diary, it's a movie.\" The movie is directed by Tim Hill and produced by Jeff Kinney, who wrote and illustrated the book.</insights>\n\n<answer>Maxine Miller played the role of Penelope in the movie \"Diary of a Wimpy Kid.\"</answer>",
+ "input_tokens": 1029,
+ "output_tokens": 131,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 9.36
+}

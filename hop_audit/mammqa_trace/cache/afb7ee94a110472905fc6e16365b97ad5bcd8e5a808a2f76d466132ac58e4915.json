@@ -1,0 +1,12 @@
+{
+ "key": "afb7ee94a110472905fc6e16365b97ad5bcd8e5a808a2f76d466132ac58e4915",
+ "text": "<answer>19th</answer>",
+ "input_tokens": 1283,
+ "output_tokens": 10,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.37
+}

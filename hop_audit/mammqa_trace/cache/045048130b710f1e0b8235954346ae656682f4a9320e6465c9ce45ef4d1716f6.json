@@ -1,0 +1,12 @@
+{
+ "key": "045048130b710f1e0b8235954346ae656682f4a9320e6465c9ce45ef4d1716f6",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about various individuals and their achievements in the film industry.\n- The question asks about a movie where only one person appears on the poster and whether Alan Robert Murray was nominated for an Academy Award for it.\n</insights>\n\n<answer>\nTo answer the question, we need to identify the movie where only one person appears on the poster and check if Alan Robert Murray was nominated for an Academy Award for that movie.\n</answer>\n\n<subanswer>\n1. Identify the movie where only one person appears on the poster:\n   - From the provided texts, we can see that \"Poster Boy\" is described as a gay-themed drama film directed by Zak Tucker and starring Matt Newton, Karen Allen, Michael Lerner, and Jack Noseworthy. However, the text does not specify if there is only one person on the poster. We cannot determine this directly from the given information.\n\n2. Check if Alan Robert Murray was nominated for an Academy Award for the movie:\n   - The text does not mention Alan Robert Murray or any connection to the movie \"Poster Boy\".\n</subanswer>",
+ "input_tokens": 1843,
+ "output_tokens": 234,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 18.81
+}

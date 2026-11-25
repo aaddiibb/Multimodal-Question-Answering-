@@ -1,0 +1,12 @@
+{
+ "key": "5243ec06cb553443bace24310717c656c57350994c99f0a8534feda36bfbf37a",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks for the role played by Jessica Raine in the series where Velile Tshabalala played Monique Hyde.\n\n### Step 2: Extract Relevant Insights\nFrom the text insight:\n- Velile Tshabalala played Monique Hyde in the series \"Call the Midwife.\"\n\nFrom the table:\n- Jessica Raine played Monique Hyde in the series \"Call the Midwife.\"\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the series where Velile Tshabalala played Monique Hyde.\n   - From the table, Velile Tshabalala played Monique Hyde in the series \"Call the Midwife.\"\n   \n2. Determine the role played by Jessica Raine in that series.\n   - From the table, Jessica Raine also played Monique Hyde in the series \"Call the Midwife.\"\n\n### Final Answer\nJessica Raine played Monique Hyde in the series \"Call the Midwife,\" where Velile Tshabalala also played Monique Hyde.",
+ "input_tokens": 1452,
+ "output_tokens": 231,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 18.03
+}

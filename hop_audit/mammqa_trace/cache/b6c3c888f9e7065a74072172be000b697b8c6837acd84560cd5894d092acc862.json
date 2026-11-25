@@ -1,0 +1,12 @@
+{
+ "key": "b6c3c888f9e7065a74072172be000b697b8c6837acd84560cd5894d092acc862",
+ "text": "<modality> text </modality>\n\n<insights>\n- The Ontario Reign are a professional ice hockey team in the American Hockey League (AHL) which began play in the 2015–16 season.\n- The Ontario Warriors were the first men's indoor football team to play out of the city of Ontario, and the second in the Inland Empire, following the San Bernardino Bucking Bulls of the National Indoor Football League which played in 2007 before the team and league folded.\n</insights>\n\n<answer>\nTo determine if the Ontario Reign or the Ontario Warriors has the most recent founding year in sports of the Inland Empire, we need to compare their founding years.\n\n- The Ontario Reign began play in the 2015–16 season.\n- The Ontario Warriors were the first men's indoor football team to play out of the city of Ontario, and the second in the Inland Empire, following the San Bernardino Bucking Bulls of the National Indoor Football League which played in 2007 before the team and league folded.\n\nSince the Ontario Reign began play in the 2015–16 season, they have a more recent founding year compared to the Ontario Warriors.\n</answer>",
+ "input_tokens": 1359,
+ "output_tokens": 255,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 18.72
+}

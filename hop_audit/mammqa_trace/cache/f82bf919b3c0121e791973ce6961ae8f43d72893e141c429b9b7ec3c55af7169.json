@@ -1,0 +1,12 @@
+{
+ "key": "f82bf919b3c0121e791973ce6961ae8f43d72893e141c429b9b7ec3c55af7169",
+ "text": "<insights>\n- The text mentions several films released in 1994.\n- Among them, \"What Happened Was...\" is mentioned as a 1994 American independent film.\n</insights>\n\n<subanswer>\nThe film \"What Happened Was...\" was released in 1994.\n</subanswer>\n\n<answer>\nGeorge Scribner's 1994 film, \"What Happened Was...\", was released in 1994.\n</answer>",
+ "input_tokens": 1774,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.07
+}

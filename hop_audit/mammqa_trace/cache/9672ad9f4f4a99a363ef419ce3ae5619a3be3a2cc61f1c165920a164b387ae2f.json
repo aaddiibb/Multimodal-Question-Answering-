@@ -1,0 +1,12 @@
+{
+ "key": "9672ad9f4f4a99a363ef419ce3ae5619a3be3a2cc61f1c165920a164b387ae2f",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a promotional photo of a woman with long hair wearing a light-colored shirt, but it does not provide information about an album featuring a single by Chic discography made by artist Carly Simon.</insights>\n\n<answer>Based on the provided images, there is no clear evidence to determine which album featured the Single by Chic discography that was made by artist Carly Simon.</answer>",
+ "input_tokens": 2472,
+ "output_tokens": 91,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 12.07
+}

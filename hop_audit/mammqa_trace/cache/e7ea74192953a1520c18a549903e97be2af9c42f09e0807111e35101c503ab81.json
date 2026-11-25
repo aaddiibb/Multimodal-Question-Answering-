@@ -1,0 +1,12 @@
+{
+ "key": "e7ea74192953a1520c18a549903e97be2af9c42f09e0807111e35101c503ab81",
+ "text": "The provided data does not contain any information about the Digital Life Design award or the winner's hair color. Therefore, it is impossible to determine the year when the winner had dark brown hair for the Digital Life Design award based on the given information.",
+ "input_tokens": 4519,
+ "output_tokens": 50,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 16.52
+}

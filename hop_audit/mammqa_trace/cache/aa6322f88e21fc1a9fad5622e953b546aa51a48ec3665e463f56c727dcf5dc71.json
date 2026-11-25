@@ -1,0 +1,12 @@
+{
+ "key": "aa6322f88e21fc1a9fad5622e953b546aa51a48ec3665e463f56c727dcf5dc71",
+ "text": "The question asks about the year when Erika Naddei played Mary Magdalene in a live performance of the show \"Jesus Christ Superstar.\"\n\nBased on the provided table insight, we know that Erika Naddei played Mary Magdalene in \"Jesus Christ Superstar\" in 2014. Therefore, the answer to the question is:\n\n<answer>2014</answer>",
+ "input_tokens": 2797,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 11.81
+}

@@ -1,0 +1,12 @@
+{
+ "key": "cbba832a50a2d71d08e4fc78d4e6ce134071780596115687642482834187200c",
+ "text": "<answer>Valentina Papp from Budapest is older.</answer>",
+ "input_tokens": 1209,
+ "output_tokens": 15,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.3
+}

@@ -1,0 +1,12 @@
+{
+ "key": "6a65722a062f62eea867f15d57955c2e668aa4ba1b259e4eae7e1b148f323119",
+ "text": "<modality> table </modality>\n\n<insights>\n- Tiya Sircar has acted in multiple films over the years.\n- The roles she played include \"Indian Dancer,\" \"Lisa,\" \"Cecily,\" \"Amy,\" \"Marianne,\" \"Samantha,\" \"Becca,\" \"Hostess,\" \"Piper Sperling,\" \"Mohea,\" \"Neha Patel,\" \"Juniper (voice),\" \"Lily Prasad,\" \"Whitney Kennison,\" and \"Kate Bradley.\"\n</insights>\n\n<answer>\nTiya Sircar played various roles in different films throughout her career. However, the specific movie where she starred alongside Justin Timberlake, Mila Kunis, and Bryan Greenberg is not listed in the provided table. The table only lists her roles in films she has been associated with, but does not specify which films they starred in together.\n</answer>",
+ "input_tokens": 963,
+ "output_tokens": 190,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.79
+}

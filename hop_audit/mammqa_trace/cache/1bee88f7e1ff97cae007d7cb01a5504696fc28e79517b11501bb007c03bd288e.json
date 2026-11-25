@@ -1,0 +1,12 @@
+{
+ "key": "1bee88f7e1ff97cae007d7cb01a5504696fc28e79517b11501bb007c03bd288e",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for Ilana Glazer's role in a TV show with a downward-pointing arrow on its title screen. The provided text insight states there is no information about such a show or Ilana Glazer's role in it. The table and images provide information about Ilana Glazer's roles across different shows but do not mention a show with a downward-pointing arrow.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there a TV show with a downward-pointing arrow on its title screen?\n2. If so, what role did Ilana Glazer play in that show?\n\n### Answer to the Original Question:\n\nThere is no information provided in the given text about a TV show with a downward-pointing arrow on its title screen or about Ilana Glazer's role in such a show. Therefore, it is not possible to answer the question based on the given data.\n\n<answer>There is no information provided in the given text about a TV show with a downward-pointing arrow on its title screen or about Ilana Glazer's role in such a show. Therefore, it is not possible to answer the question based on the given data.</answer>",
+ "input_tokens": 2161,
+ "output_tokens": 255,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 22.67
+}

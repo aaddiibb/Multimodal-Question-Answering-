@@ -1,0 +1,30 @@
+{
+  "dev": "MAMMQA-main/Codes/multimodalqa-dataset/MMQA_dev.jsonl.gz",
+  "dev_sha256": "2e348ca574b2dc368e84671709689070f943a59f2e08e6b6e374705deb712d31",
+  "inputs": {
+    "cv_mammqa_16/predictions/predictions_shared.jsonl": "f17b8d46524f559453c2213a28c87c92faadae84ac254e643fcfc1c97f098969",
+    "cv_mammqa_16/predictions/predictions_mammqa.jsonl": "f5599a5ba2d2b45b68693ff3c4061465f8191e5b69e8162650e4dc9ea5479108",
+    "cv_mammqa_16/predictions/predictions_cv_mammqa.jsonl": "1b9e27a271ab1b64ffc9650a52550dc008fea1f1c6a6aad03f7e156371f69352",
+    "New folder/HM-RAG + MAMMQA 16-question smoke experiment/hm_mammqa/qa_smoke16_full_pipeline_seed42/predictions/MAMMQA_ORACLE.jsonl": "9985cb53a0e0d95f8facd92e81c3786e4eae73c254a6b91972e341398d267dc7",
+    "mammqa_full_outputs/mammqa_predictions.jsonl": "71899b13b27bbf9c540a3395f3c0a4ebfe98fb2760d72998ca152bc5997476e5"
+  },
+  "dev_stats": {
+    "questions": 2441,
+    "with_intermediate_answers": 1175,
+    "compositional": 980,
+    "hops": 1579,
+    "latent_hops": 1249,
+    "given_hops": 330,
+    "latent_hop_modalities": {
+      "table": 614,
+      "image": 406,
+      "text": 229
+    },
+    "questions_with_latent_hop": 1094,
+    "answer_named_in_question": 194
+  },
+  "aliases": {
+    "path": "hop_audit/aliases.json",
+    "entries": 1
+  }
+}

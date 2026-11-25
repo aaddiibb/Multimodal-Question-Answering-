@@ -1,0 +1,12 @@
+{
+ "key": "2013885bc522da80c65aec76c8d4a8c7780a3c9069a7a2d0f28586f2f2dd596a",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a title card for \"The Partridge Family\" with a cracked egg on its poster.</insights>\n\n<answer>1970s</answer>\n\n<subanswer>The Partridge Family aired from 1970 to 1974.</subanswer>",
+ "input_tokens": 2474,
+ "output_tokens": 72,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 10.39
+}

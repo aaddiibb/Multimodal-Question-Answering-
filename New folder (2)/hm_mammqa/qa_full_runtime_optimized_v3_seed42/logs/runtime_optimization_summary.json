@@ -1,0 +1,478 @@
+{
+  "changes": [
+    {
+      "component": "Methods run",
+      "before": "FULL only",
+      "after": "FULL only"
+    },
+    {
+      "component": "Retrieval candidate K",
+      "before": "20",
+      "after": "20 (unchanged)"
+    },
+    {
+      "component": "Text context K",
+      "before": "5",
+      "after": "3"
+    },
+    {
+      "component": "Table context K",
+      "before": "3",
+      "after": "2"
+    },
+    {
+      "component": "Image context K",
+      "before": "3",
+      "after": "2"
+    },
+    {
+      "component": "Planner output",
+      "before": "verbose JSON",
+      "after": "compact lines"
+    },
+    {
+      "component": "Planner repair",
+      "before": "yes",
+      "after": "no; deterministic fallback"
+    },
+    {
+      "component": "Stage-I output",
+      "before": "verbose JSON",
+      "after": "compact lines + nonempty raw usability fallback"
+    },
+    {
+      "component": "Stage-I repair",
+      "before": "yes",
+      "after": "no"
+    },
+    {
+      "component": "Stage-II output",
+      "before": "verbose JSON",
+      "after": "compact tags"
+    },
+    {
+      "component": "Stage-II repair",
+      "before": "yes",
+      "after": "no"
+    },
+    {
+      "component": "Verifier output",
+      "before": "verbose JSON",
+      "after": "conditional 1/3-line status protocol"
+    },
+    {
+      "component": "Verifier repair",
+      "before": "yes",
+      "after": "no"
+    },
+    {
+      "component": "Verifier evidence",
+      "before": "all context",
+      "after": "top/cited 1 per modality"
+    },
+    {
+      "component": "Aggregator repair",
+      "before": "yes",
+      "after": "one maximum"
+    },
+    {
+      "component": "Stage token limits",
+      "before": "128/160/192/128/96",
+      "after": "64/(96,96,128)/128/48/48"
+    },
+    {
+      "component": "gc.collect per call",
+      "before": "yes",
+      "after": "no; once per 4 questions"
+    },
+    {
+      "component": "empty_cache per call",
+      "before": "yes",
+      "after": "OOM recovery only"
+    },
+    {
+      "component": "BGE device",
+      "before": "CPU after indexing",
+      "after": "cuda:0"
+    },
+    {
+      "component": "CLIP device",
+      "before": "CPU",
+      "after": "cuda:0"
+    },
+    {
+      "component": "Persistent indexes",
+      "before": "working cache only",
+      "after": "loadable input cache + publishable package"
+    },
+    {
+      "component": "Image manifest",
+      "before": "recursive scan",
+      "after": "persistent manifest with 57,058 entries"
+    },
+    {
+      "component": "Checkpoint/resume",
+      "before": "yes",
+      "after": "yes; fsync each question"
+    },
+    {
+      "component": "Sharding",
+      "before": "no",
+      "after": "yes (0/1)"
+    },
+    {
+      "component": "Fast validation",
+      "before": "no",
+      "after": "False"
+    }
+  ],
+  "ready_for_16": false,
+  "runtime_result": {
+    "mode": "SMOKE_16",
+    "n": 16,
+    "startup_seconds": 975.202536042,
+    "inference_seconds": 790.4255717730002,
+    "total_runtime_seconds": 1765.6281078150002,
+    "device_placement": {
+      "qwen": "{'model.visual': 0, 'model.language_model.embed_tokens': 0, 'model.language_model.layers.0': 0, 'model.language_model.layers.1': 1, 'model.language_model.layers.2': 1, 'model.language_model.layers.3': 1, 'model.language_model.layers.4': 1, 'model.language_model.layers.5': 1, 'model.language_model.layers.6': 1, 'model.language_model.layers.7': 1, 'model.language_model.layers.8': 1, 'model.language_model.layers.9': 1, 'model.language_model.layers.10': 1, 'model.language_model.layers.11': 1, 'model.language_model.layers.12': 1, 'model.language_model.layers.13': 1, 'model.language_model.layers.14': 1, 'model.language_model.layers.15': 1, 'model.language_model.layers.16': 1, 'model.language_model.layers.17': 1, 'model.language_model.layers.18': 1, 'model.language_model.layers.19': 1, 'model.language_model.layers.20': 1, 'model.language_model.layers.21': 1, 'model.language_model.layers.22': 1, 'model.language_model.layers.23': 1, 'model.language_model.layers.24': 1, 'model.language_model.layers.25': 1, 'model.language_model.layers.26': 1, 'model.language_model.layers.27': 1, 'model.language_model.norm': 1, 'model.language_model.rotary_emb': 1, 'lm_head': 1}",
+      "bge": "cuda:0",
+      "clip_actual": "cuda:0"
+    },
+    "startup_timing": {
+      "image_manifest_seconds": 82.72449223800004,
+      "retrieval_cache_seconds": 685.3730902240002,
+      "qwen_load_seconds": 122.77263266900013,
+      "total_startup_seconds": 975.202536042
+    },
+    "cache_status": {
+      "image_manifest": "BUILT",
+      "text": "BUILT",
+      "table": "BUILT",
+      "image_titles": "BUILT",
+      "text_bm25": "BUILT",
+      "table_bm25": "BUILT",
+      "image_bm25": "BUILT"
+    },
+    "health": {
+      "question_count": 16,
+      "planner": {
+        "parsed": 16,
+        "total": 16,
+        "rate": 1.0
+      },
+      "stage1_schema": {
+        "parsed": 0,
+        "total": 48,
+        "rate": 0.0
+      },
+      "stage1_usable": {
+        "usable": 48,
+        "total": 48,
+        "rate": 1.0
+      },
+      "stage2": {
+        "parsed": 48,
+        "total": 48,
+        "rate": 1.0
+      },
+      "verifier": {
+        "parsed": 16,
+        "total": 16,
+        "rate": 1.0
+      },
+      "aggregator": {
+        "parsed": 16,
+        "total": 16,
+        "rate": 1.0
+      },
+      "qwen_calls_per_question": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "repair_calls_per_question": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "question_seconds": [
+        60.93573092299994,
+        55.59637354000006,
+        39.91476757400005,
+        54.364854727999955,
+        37.61702889099979,
+        47.50390444499999,
+        53.940742897999826,
+        52.799976858000264,
+        54.184085867999784,
+        52.483619251000164,
+        42.788276229000076,
+        46.43421737599965,
+        43.6586139330002,
+        47.38208325900041,
+        47.65242798400004,
+        46.77895155299984
+      ],
+      "startup_seconds": 975.202536042,
+      "startup_timing": {
+        "image_manifest_seconds": 82.72449223800004,
+        "retrieval_cache_seconds": 685.3730902240002,
+        "qwen_load_seconds": 122.77263266900013,
+        "total_startup_seconds": 975.202536042
+      },
+      "cache_status": {
+        "image_manifest": "BUILT",
+        "text": "BUILT",
+        "table": "BUILT",
+        "image_titles": "BUILT",
+        "text_bm25": "BUILT",
+        "table_bm25": "BUILT",
+        "image_bm25": "BUILT"
+      },
+      "inference_seconds": 790.4255717730002,
+      "oom_events": 0,
+      "checkpoint_count": 16,
+      "protected_prompt_truncations": 0,
+      "average_qwen_calls": 9.0,
+      "average_repair_calls": 0.0,
+      "average_question_seconds": 49.002228456875,
+      "READY_FOR_16": false
+    },
+    "questions": [
+      {
+        "qid": "f7dd1ac143507bd2ab9a480f18b86706",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 60.93573092299994,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "254afe636a34c3a5d94efa22d95465ad",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 55.59637354000006,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "ebb69554283456251305b4b8ab579f76",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 39.91476757400005,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "4b9a4868455f98a69a8494ef1dfe7205",
+        "final_answer": "blue",
+        "total_seconds": 54.364854727999955,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "186146ea1f5a9f7ada7f7fd31c5c75a4",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 37.61702889099979,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "c9fcae0ac6e3aa3f08375db9e4fe9037",
+        "final_answer": "21354",
+        "total_seconds": 47.50390444499999,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "5dfd4afc175cdebf43295316a540d70c",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 53.940742897999826,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "6d372c501004c3e448b1991f39160e99",
+        "final_answer": "ABBA sang all songs in Mamma Mia!",
+        "total_seconds": 52.799976858000264,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "b5d7685e595423638d26dd60e99fcc39",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 54.184085867999784,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "3126664c6ce707c6aca2c475ace8db08",
+        "final_answer": "Dallas Cowboys, Texas Longhorns",
+        "total_seconds": 52.483619251000164,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "183a1eec0e38eaee513a5ec7996f55f1",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 42.788276229000076,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "2a5fdab4235e28037389777f473c4f9f",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 46.43421737599965,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "2f154508615dc2d34b4d4b7fdced0b0e",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 43.6586139330002,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "22e22f3b558eeae2178ddd9cb6bc2b04",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 47.38208325900041,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "1e3f1a08d865b3676a5ca81d8adc270b",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 47.65242798400004,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      },
+      {
+        "qid": "ceb2b6a63d5f3b5eb8075979a55e7471",
+        "final_answer": "ABSTAIN",
+        "total_seconds": 46.77895155299984,
+        "qwen_calls": 9,
+        "repair_calls": 0,
+        "planner_parse": true,
+        "stage1_schema_parse_rate": 0.0,
+        "stage1_usable_rate": 1.0,
+        "stage2_parse_rate": 1.0,
+        "verifier_parse": 1.0,
+        "aggregator_parse": 1.0
+      }
+    ]
+  }
+}

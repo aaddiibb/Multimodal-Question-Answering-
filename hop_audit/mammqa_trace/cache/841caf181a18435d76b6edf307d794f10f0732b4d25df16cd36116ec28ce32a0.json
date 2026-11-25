@@ -1,0 +1,12 @@
+{
+ "key": "841caf181a18435d76b6edf307d794f10f0732b4d25df16cd36116ec28ce32a0",
+ "text": "<modality>text</modality>\n\n<insights>The text does not contain any information about a film titled with a poster of a horse. The provided texts do not mention such a film.</insights>\n\n<answer>Based on the provided text, there is no information about a S. Dharam Tej film with a poster of a horse. Therefore, the answer cannot be determined from the given data.</answer>",
+ "input_tokens": 1751,
+ "output_tokens": 87,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.67
+}

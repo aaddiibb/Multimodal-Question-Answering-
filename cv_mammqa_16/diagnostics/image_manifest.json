@@ -1,0 +1,146 @@
+[
+  {
+    "image_id": "2dcf32aaf7d8ef607845dbb5f8137f23",
+    "metadata_path": "2dcf32aaf7d8ef607845dbb5f8137f23.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/2dcf32aaf7d8ef607845dbb5f8137f23.jpg",
+    "width": 756,
+    "height": 417,
+    "format": "JPEG",
+    "sha256": "daa329dc9d072aa3d2d11819d0d0fb996653fffa6ad0711e6c03c845ab61b0a4"
+  },
+  {
+    "image_id": "4bf57cfbb08dbf5b5a2c522758d98b57",
+    "metadata_path": "4bf57cfbb08dbf5b5a2c522758d98b57.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4bf57cfbb08dbf5b5a2c522758d98b57.jpg",
+    "width": 468,
+    "height": 709,
+    "format": "JPEG",
+    "sha256": "6e26e50db72219c8b5e47f95682951f5972c505a0b5927e37fb3a6ae37573d2c"
+  },
+  {
+    "image_id": "4d5d6419f533b23fc0ccf7868c748948",
+    "metadata_path": "4d5d6419f533b23fc0ccf7868c748948.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/4d5d6419f533b23fc0ccf7868c748948.jpg",
+    "width": 262,
+    "height": 379,
+    "format": "JPEG",
+    "sha256": "4e541ceb6ed63387a3506b623b42ee55cb7ee81a9cf4ee4ab4b90a24c942c65c"
+  },
+  {
+    "image_id": "545d553048cb91e645e8b22dacf590f3",
+    "metadata_path": "545d553048cb91e645e8b22dacf590f3.png",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/545d553048cb91e645e8b22dacf590f3.png",
+    "width": 156,
+    "height": 220,
+    "format": "PNG",
+    "sha256": "07d032ab97c620506f7dcc41eed92ef0bbb42f500b5703dcb3bdeea72a3f402d"
+  },
+  {
+    "image_id": "62f67108c087d149c3d245e913660bd9",
+    "metadata_path": "62f67108c087d149c3d245e913660bd9.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/62f67108c087d149c3d245e913660bd9.jpg",
+    "width": 242,
+    "height": 410,
+    "format": "JPEG",
+    "sha256": "ca4de14923b72d23d77a0c55df45318a92c2accacc3490eca89c3c434457d3b8"
+  },
+  {
+    "image_id": "7070e97120dc77d96364d39d0001a03e",
+    "metadata_path": "7070e97120dc77d96364d39d0001a03e.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7070e97120dc77d96364d39d0001a03e.jpg",
+    "width": 423,
+    "height": 843,
+    "format": "JPEG",
+    "sha256": "5a6bf63988023dce87885bfb65a7b8cf90bb879c811ba905c64760eac61bd3d8"
+  },
+  {
+    "image_id": "740f49b6eebf5f4af2e497c42b873b21",
+    "metadata_path": "740f49b6eebf5f4af2e497c42b873b21.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/740f49b6eebf5f4af2e497c42b873b21.jpg",
+    "width": 254,
+    "height": 392,
+    "format": "JPEG",
+    "sha256": "90848a0522e634763ae0d693cef72632f61b17ad48c90a40c1f7fe7d63ff9341"
+  },
+  {
+    "image_id": "7bf7ea3f38c065ae1d8487ae6417b156",
+    "metadata_path": "7bf7ea3f38c065ae1d8487ae6417b156.png",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/7bf7ea3f38c065ae1d8487ae6417b156.png",
+    "width": 309,
+    "height": 163,
+    "format": "PNG",
+    "sha256": "5e7c30db5f61b142e15f6efbfdd71cd950e5e2e90ec49351910dbcaf3e6572af"
+  },
+  {
+    "image_id": "86119609fb37222c24b483e560335b3d",
+    "metadata_path": "86119609fb37222c24b483e560335b3d.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/86119609fb37222c24b483e560335b3d.jpg",
+    "width": 219,
+    "height": 330,
+    "format": "JPEG",
+    "sha256": "e5f61f33025f25beb27db8ce283b4f16f94f7048eba693042d03a9b3854a813f"
+  },
+  {
+    "image_id": "88df9a5b0f790909659ce510dec0dd2b",
+    "metadata_path": "88df9a5b0f790909659ce510dec0dd2b.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/88df9a5b0f790909659ce510dec0dd2b.jpg",
+    "width": 233,
+    "height": 340,
+    "format": "JPEG",
+    "sha256": "1e47cc1dbdf034a5debd71a5fea146627defa4272d31fed5d040da3e74888e23"
+  },
+  {
+    "image_id": "8a0bc8ff19099bce9b1e707c96e16900",
+    "metadata_path": "8a0bc8ff19099bce9b1e707c96e16900.png",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/8a0bc8ff19099bce9b1e707c96e16900.png",
+    "width": 163,
+    "height": 242,
+    "format": "PNG",
+    "sha256": "220624d116270ed4c146cb8897891763fbf081887ac23ea0efb35614d0adabf0"
+  },
+  {
+    "image_id": "90f272b8e9b07a5a9ed260a135bad142",
+    "metadata_path": "90f272b8e9b07a5a9ed260a135bad142.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/90f272b8e9b07a5a9ed260a135bad142.jpg",
+    "width": 1316,
+    "height": 769,
+    "format": "JPEG",
+    "sha256": "5f63ed518ad0c8089dbbe98a023367c9344e00f4212e608431cb818fe8be5679"
+  },
+  {
+    "image_id": "95f47d84f76507f47eddcc7fd48e5209",
+    "metadata_path": "95f47d84f76507f47eddcc7fd48e5209.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/95f47d84f76507f47eddcc7fd48e5209.jpg",
+    "width": 816,
+    "height": 562,
+    "format": "JPEG",
+    "sha256": "7e0e3c9720dd27c415ec6f8a165f1aeaae3b3dee435f6b30f4eccfb417e7f4e1"
+  },
+  {
+    "image_id": "eaebb69e051c5d32ede3ed5e32ff5488",
+    "metadata_path": "eaebb69e051c5d32ede3ed5e32ff5488.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/eaebb69e051c5d32ede3ed5e32ff5488.jpg",
+    "width": 865,
+    "height": 546,
+    "format": "JPEG",
+    "sha256": "0ac5339923b1cc005215d05abf9d0a8e9fb460c72971dab44a12e61c8b47fa1c"
+  },
+  {
+    "image_id": "eccebef37f68d94084d584ea2e963754",
+    "metadata_path": "eccebef37f68d94084d584ea2e963754.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/eccebef37f68d94084d584ea2e963754.jpg",
+    "width": 518,
+    "height": 628,
+    "format": "JPEG",
+    "sha256": "ae44e64d20f18b29b1168663be04f172f2210025ad1ad226212d172c47f6c4cc"
+  },
+  {
+    "image_id": "f7d967985e387cf8d91be598090e08ab",
+    "metadata_path": "f7d967985e387cf8d91be598090e08ab.jpg",
+    "resolved_path": "/kaggle/input/datasets/adibraian/final-dataset-images-mmqa/final_dataset_images/f7d967985e387cf8d91be598090e08ab.jpg",
+    "width": 773,
+    "height": 924,
+    "format": "JPEG",
+    "sha256": "d37b804906557c8f166d8b34309c86ceea7e2c7a52156634d6c617be5ef70af0"
+  }
+]

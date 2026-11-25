@@ -1,0 +1,12 @@
+{
+ "key": "0f401710c8c08b613dd0c6e81775838106ef618e77e43c20d5d6dad1d4719c12",
+ "text": "<answer>2014</answer>",
+ "input_tokens": 922,
+ "output_tokens": 11,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.58
+}

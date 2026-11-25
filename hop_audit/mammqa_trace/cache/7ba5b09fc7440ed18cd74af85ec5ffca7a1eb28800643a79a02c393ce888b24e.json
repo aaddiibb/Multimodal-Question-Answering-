@@ -1,0 +1,12 @@
+{
+ "key": "7ba5b09fc7440ed18cd74af85ec5ffca7a1eb28800643a79a02c393ce888b24e",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\n#### Text Insight:\nThe text does not mention a TV show with a cracked egg on its poster featuring Susan Dey. It provides details about various TV shows and their creators but does not reference a show with a cracked egg on its poster.\n\n#### Table Insight:\nThe table lists the years Susan Dey appeared in different TV shows, but none of them feature a cracked egg on their posters.\n\n#### Image Insights:\n- The first image is a poster for \"The Partridge Family,\" which features a cracked egg design.\n- The second image is for \"Circle of Fear,\" which has a cracked egg design.\n- The third image is for \"Goober and the Ghost Chasers,\" which also has a cracked egg design.\n- The fourth image is for \"Partridge Family 2200 A.D.\" which has a cracked egg design.\n- The fifth image is for \"Hawaii Five-O.\"\n- The sixth image is for \"S.W.A.T.\"\n- The seventh image is for \"The Quest.\"\n- The eighth image is for \"The Streets of San Francisco.\"\n- The ninth image is for \"L.A. Law.\"\n- The tenth image is for \"Third Watch.\"\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there a TV show with a cracked egg on its poster featuring Susan Dey?\n2. If so, in what years did Susan Dey appear in that show?\n\n### Final Answer\n\nThere is no information provided about a TV show with a cracked egg on its poster featuring Susan Dey. Therefore, it is not possible to determine the years in which Susan Dey appeared in such a show based on the given text and images.",
+ "input_tokens": 2804,
+ "output_tokens": 355,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 36.13
+}

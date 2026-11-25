@@ -1,0 +1,12 @@
+{
+ "key": "71710d7cf3ef43d2f55c615aebc018387690a84119a198fe24206135a0be62e4",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person holding a sculpture that resembles a hand.</insights>\n\n<answer>The sculpture features a hand.</answer>",
+ "input_tokens": 2882,
+ "output_tokens": 39,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 9.52
+}

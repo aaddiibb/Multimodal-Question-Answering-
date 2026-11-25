@@ -1,0 +1,12 @@
+{
+ "key": "47dda4043f80f7cc6058edacbb573d7d3074487a304b1f66f8468ed655a1046e",
+ "text": "<modality> text </modality>\n\n<insights>\n- The movie with the English title of the 2013 satirical crime movie starring Claire Julien is \"The Bling Ring.\"\n- The director of \"The Bling Ring\" is Sofia Coppola.\n- The 2013 Cannes Film Festival took place from 15 to 26 May 2013.\n</insights>\n\n<answer>\nSofia Coppola\n</answer>\n\n<subanswer>\n- What is the English title of the 2013 satirical crime movie starring Claire Julien?\n- Who is the director of the movie \"The Bling Ring\"?\n- When did the 2013 Cannes Film Festival take place?\n</subanswer>",
+ "input_tokens": 1556,
+ "output_tokens": 159,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.47
+}

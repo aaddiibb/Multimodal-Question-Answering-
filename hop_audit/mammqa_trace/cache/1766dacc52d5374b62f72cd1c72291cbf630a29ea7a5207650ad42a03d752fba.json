@@ -1,0 +1,12 @@
+{
+ "key": "1766dacc52d5374b62f72cd1c72291cbf630a29ea7a5207650ad42a03d752fba",
+ "text": "The provided table does not contain information about the geographical features of the locations. Therefore, it is impossible to determine if there is a long pier in a horseshoe-shaped inlet in the location of the Toppserien team. Additionally, the text data only provides information about individuals and their roles, but not about the geographical features of the locations. Therefore, based on the given data alone, it is impossible to answer the question accurately.",
+ "input_tokens": 4098,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 18.19
+}

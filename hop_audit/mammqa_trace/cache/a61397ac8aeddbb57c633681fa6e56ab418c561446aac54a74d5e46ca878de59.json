@@ -1,0 +1,12 @@
+{
+ "key": "a61397ac8aeddbb57c633681fa6e56ab418c561446aac54a74d5e46ca878de59",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a penny with the word \"LUCK\" written next to it.</insights>\n\n<answer>There is no film featuring a penny on its poster among the films of Evan Ross.</answer>",
+ "input_tokens": 1492,
+ "output_tokens": 55,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 6.22
+}

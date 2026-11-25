@@ -1,0 +1,12 @@
+{
+ "key": "a17bd504f4317e73979e6320bf8226565c3d82f35d0630d336dfbc3161d81c33",
+ "text": "<modality> text </modality>\n\n<insights>\n- U.S. Route 23 runs north-south between Jacksonville, Florida, and Mackinaw City, Michigan.\n- Clay Township is located on U.S. Route 23, four miles north of the Portsmouth, Ohio, city limits.\n- The Mid-South Conference has nine full members, including Cumberland (TN) and Cumberlands (KY).\n</insights>\n\n<answer>\nU.S. Route 23 is the north-south US highway that goes through Clay Township and also through the Mid-South Conference former affiliate member city Cumberland (TN).\n</answer>\n\n<subanswer>\n- Cumberland (TN) is a city that is part of the Mid-South Conference and has a statue of an angel.\n</subanswer>",
+ "input_tokens": 2271,
+ "output_tokens": 166,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 15.63
+}

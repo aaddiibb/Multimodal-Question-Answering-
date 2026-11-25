@@ -1,0 +1,12 @@
+{
+ "key": "e62ef070b591c8867f09e914846a2f1806c3eb065e0775c9f8838d2567332ab6",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person holding a microphone while performing.</insights>\n\n<answer>The person whose photo has the most likes on Instagram often performs while holding a microphone in her hand.</answer>",
+ "input_tokens": 3420,
+ "output_tokens": 51,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 11.72
+}

@@ -1,0 +1,12 @@
+{
+ "key": "8a1c962ff1fc4431674a4530f619c05daa5d01f47b525d1264d3ea369e51dcea",
+ "text": "<modality> table </modality>\n\n<insights>\n- Stephanie Cole played Sylvia Goodwin in Coronation Street from 2011 to 2013.\n- Coronation Street has been running since 1960.\n</insights>\n\n<answer>\nThe longest running character on the show where Stephanie Cole plays Sylvia Goodwin is Coronation Street itself, which has been running since 1960.\n</answer>\n\n<subanswer>\n- Coronation Street has been running since 1960.\n</subanswer>",
+ "input_tokens": 1187,
+ "output_tokens": 115,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.95
+}

@@ -1,0 +1,114 @@
+{
+  "n_questions": 16,
+  "EM": 0.1875,
+  "mean_F1": 0.1994,
+  "final_abstain_rate": 0.6875,
+  "labels": {
+    "CORRECT": 3,
+    "SURFACE_FORM": 0,
+    "AGGREGATION_LOSS": 2,
+    "COMMITMENT_FAILURE": 1,
+    "NO_EVIDENCE": 0,
+    "EXTRACTION_FAILURE": 4,
+    "HANDOFF_LOSS": 0,
+    "COMPOSITION_FAILURE": 6
+  },
+  "label_share_of_errors": {
+    "SURFACE_FORM": 0.0,
+    "AGGREGATION_LOSS": 0.1538,
+    "COMMITMENT_FAILURE": 0.0769,
+    "NO_EVIDENCE": 0.0,
+    "EXTRACTION_FAILURE": 0.3077,
+    "HANDOFF_LOSS": 0.0,
+    "COMPOSITION_FAILURE": 0.4615
+  },
+  "questions_with_latent_hops": 12,
+  "latent_hops": 15,
+  "latent_hops_in_context": 15,
+  "hop_status": {
+    "REACHED": 11,
+    "NOT_SURFACED": 3,
+    "LOST_IN_HANDOFF": 1
+  },
+  "bridge_recall_by_stage": {
+    "S1": 0.6,
+    "S2": 0.7333,
+    "final_text": 0.0
+  },
+  "bridge_recall_any_agent": 0.8,
+  "handoff_loss_stage_level": {
+    "surfaced_at_first_stage": 9,
+    "lost_by_last_stage": 1,
+    "rate": 0.1111
+  },
+  "handoff_loss_strict_channel": {
+    "carried": 5,
+    "dropped": 2,
+    "rate": 0.2857,
+    "unsupported_surfacing": 2,
+    "by_channel": {
+      "None->S2.table": {
+        "unsupported_surface": 2
+      },
+      "S1.image->S2.image": {
+        "dropped": 2,
+        "carried": 2
+      },
+      "S1.table->S2.table": {
+        "carried": 2
+      },
+      "S1.text->S2.text": {
+        "carried": 1
+      }
+    }
+  },
+  "agent_recall_when_raw_available": {
+    "S1.image": {
+      "available": 6,
+      "surfaced": 4,
+      "recall": 0.6667
+    },
+    "S1.table": {
+      "available": 6,
+      "surfaced": 2,
+      "recall": 0.3333
+    },
+    "S1.text": {
+      "available": 3,
+      "surfaced": 1,
+      "recall": 0.3333
+    },
+    "S2.image": {
+      "available": 4,
+      "surfaced": 2,
+      "recall": 0.5
+    },
+    "S2.table": {
+      "available": 3,
+      "surfaced": 2,
+      "recall": 0.6667
+    },
+    "S2.text": {
+      "available": 8,
+      "surfaced": 5,
+      "recall": 0.625
+    }
+  },
+  "correct_without_bridge": 0,
+  "aggregation_loss_qids": [
+    "782b7cd2730063d3406269f49f3abea5",
+    "ad36bba97d42a17ea3d3dcdd8c4ccfcc"
+  ],
+  "unscored_gold_mentions": 2,
+  "near_misses_for_alias_review": [
+    {
+      "qid": "782b7cd2730063d3406269f49f3abea5",
+      "gold": [
+        "Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer, Tom Drake, Leon Ames, Marjorie Main, June Lockhart, and Joan Carroll"
+      ],
+      "answers": [
+        "Judy Garland"
+      ]
+    }
+  ]
+}

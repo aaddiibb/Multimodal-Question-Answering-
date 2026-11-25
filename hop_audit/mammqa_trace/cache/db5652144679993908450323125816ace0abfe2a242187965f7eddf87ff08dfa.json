@@ -1,0 +1,12 @@
+{
+ "key": "db5652144679993908450323125816ace0abfe2a242187965f7eddf87ff08dfa",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a logo featuring a bird perched above a circular emblem with a compass-like design.</insights>\n\n<answer>The animal depicted at the top of the logo is a bird.</answer>",
+ "input_tokens": 3015,
+ "output_tokens": 53,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 11.31
+}

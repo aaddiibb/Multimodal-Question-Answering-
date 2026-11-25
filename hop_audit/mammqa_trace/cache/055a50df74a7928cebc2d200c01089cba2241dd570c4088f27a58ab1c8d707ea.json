@@ -1,0 +1,12 @@
+{
+ "key": "055a50df74a7928cebc2d200c01089cba2241dd570c4088f27a58ab1c8d707ea",
+ "text": "Let's break down the question step-by-step:\n\n### Step 1: Understand the Question\nThe question asks us to find the tournament listed in the schedule and results of the 2012 ALPG Tour on the date when the winner was Stacey Keating (2).\n\n### Step 2: Extract Relevant Insights\nFrom the provided data, we have the following key information:\n- The image insight indicates that the tournament mentioned is the Vic Open.\n- The text data provides details about various tournaments held in 2012, including the ALPG Tour.\n- The markdown table lists the dates, locations, winners, and notes for each tournament in the ALPG Tour.\n\n### Step 3: Break Down the Question into Subquestions\n1. Identify the tournaments where Stacey Keating (2) was the winner.\n2. Determine the date associated with those tournaments.\n3. Find the tournament listed in the schedule and results of the 2012 ALPG Tour on that date.\n\n### Step 4: Answer the Subquestions\n#### Subquestion 1: Identify the tournaments where Stacey Keating (2) was the winner.\nFrom the text data, we can see that Stacey Keating (2) won the Mount Broughton Ladies Classic on November 27–28, 2011.\n\n#### Subquestion 2: Determine the date associated with those tournaments.\nThe Mount Broughton Ladies Classic was held on November 27–28, 2011.\n\n#### Subquestion 3: Find the tournament listed in the schedule and results of the 2012 ALPG Tour on that date.\nLooking at the markdown table, we can see that the Mount Broughton Ladies Classic is listed under the ALPG Tour for the dates November 27–28, 2011.\n\n### Final Answer\nThe tournament listed in the schedule and results of the 2012 ALPG Tour on the date when the winner was Stacey Keating (2) is the Mount Broughton Ladies Classic.",
+ "input_tokens": 1995,
+ "output_tokens": 427,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 35.1
+}

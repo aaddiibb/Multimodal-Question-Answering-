@@ -1,0 +1,12 @@
+{
+ "key": "a112cfea4ed75ded18ea4c13d136600aff3a9a7840a7d95fde93332aa212a256",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image displays the Great Wolf Resorts logo, which features a paw print design. There is no information about the number of employees at this resort.</insights>\n\n<answer>There is insufficient information in the provided images to determine the number of employees at Great Wolf Resorts.</answer>",
+ "input_tokens": 2815,
+ "output_tokens": 75,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 11.53
+}

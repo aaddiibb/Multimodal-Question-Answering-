@@ -1,0 +1,12 @@
+{
+ "key": "ed0885c7080db69355c668c2b8a5562cf71b76462052f7b15de069e546cf37d0",
+ "text": "<modality>image</modality>\n\n<insights>The image provided contains logos of different teams. The question asks about a team whose logo features a bear. Among the images, the Coventry Bears logo features a bear.</insights>\n\n<answer>Coventry Bears</answer>\n\n<subanswer>Coventry Bears logo features a bear.</subanswer>",
+ "input_tokens": 1142,
+ "output_tokens": 76,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 6,
+ "tokens_per_image": 533,
+ "oom_fallback": false,
+ "seconds": 6.2
+}

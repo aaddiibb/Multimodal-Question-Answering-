@@ -1,0 +1,12 @@
+{
+ "key": "57fa2d81678f55fe3cf7a02921d22680b58c44e17ae87f9a40f1ea401c3a9dbc",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the year Jacob Perez worked on \"Good Morning America.\" The text insight provides information about Lawrence Edward Roberts, Sr., and his daughter Robin René Roberts, who works on Good Morning America. However, it does not provide any direct information about Jacob Perez's involvement with the show.\n\nThe table titled \"Jacob Perez\" lists various years he has worked on different shows, including \"Good Morning America\" in 2013. The images provided are logos for various shows, but they do not contain any specific information about Jacob Perez's work.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is Jacob Perez associated with Good Morning America?\n2. If so, what was his role on the show?\n3. What were the years he worked on Good Morning America?\n\n### Final Answer\n\nBased on the information provided, Jacob Perez worked on Good Morning America in 2013.",
+ "input_tokens": 1977,
+ "output_tokens": 201,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 17.5
+}

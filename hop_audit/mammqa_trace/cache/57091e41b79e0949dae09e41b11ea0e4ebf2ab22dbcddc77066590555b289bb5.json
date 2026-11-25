@@ -1,0 +1,12 @@
+{
+ "key": "57091e41b79e0949dae09e41b11ea0e4ebf2ab22dbcddc77066590555b289bb5",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Which video games were released in 2007?\n2. Which of those video games featured Optimus Prime as the voice role?\n\nBased on the provided table and images, we can extract the following insights:\n\n- The video game \"Transformers: The Game\" was released in 2007.\n- The video game \"Transformers Autobots\" was also released in 2007.\n- Both of these games feature Optimus Prime as the voice role.\n\nTherefore, the answer to the original question is:\n\n<answer>\nThe voice role of Optimus Prime was played by Peter Cullen in the video games \"Transformers: The Game\" and \"Transformers Autobots\" in 2007.\n</answer>",
+ "input_tokens": 1848,
+ "output_tokens": 167,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 14.59
+}

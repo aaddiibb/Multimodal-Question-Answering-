@@ -1,0 +1,12 @@
+{
+ "key": "2a7fb4510601663774d5c62cd8f20c0c238a03066fa9816d4cdfb45a970db8f8",
+ "text": "The provided table insights indicate that there is no mention of the group \"We Are An American Band\" releasing an album in December 1969. Therefore, we can conclude that the group \"We Are An American Band\" did not release an album in December 1969.\n\nThe question asks about the album that the group \"We Are An American Band\" released in December of 1969. Since the table does not provide any information about this specific album, we cannot determine the answer using the given data.\n\nTo answer the original question, we need additional information about the album that the group \"We Are An American Band\" released in December of 1969.",
+ "input_tokens": 2285,
+ "output_tokens": 142,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 14.92
+}

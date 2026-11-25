@@ -1,0 +1,12 @@
+{
+ "key": "5158ad0e1e0079ad5e19c1fc0fba56be9529d6a456bb1f162f663e65699c6856",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a Disney animated series titled \"Sofia the First.\" It features the show's logo prominently displayed against a purple background.</insights>\n\n<answer>There is no information about the role of Flora being played by Barbara Dirikson in this image.</answer>",
+ "input_tokens": 1725,
+ "output_tokens": 76,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.4
+}

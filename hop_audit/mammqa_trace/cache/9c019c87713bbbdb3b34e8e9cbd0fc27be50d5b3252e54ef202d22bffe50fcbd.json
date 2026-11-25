@@ -1,0 +1,12 @@
+{
+ "key": "9c019c87713bbbdb3b34e8e9cbd0fc27be50d5b3252e54ef202d22bffe50fcbd",
+ "text": "<modality>image</modality>\n\n<insights>The image contains promotional posters for three different television shows: \"Taarak Mehta Ka Ooltah Chashmah,\" \"Hum Sab Hain Kabhi Kabhi,\" and \"Dil Vil Pyar Vyar.\" The poster for \"Taarak Mehta Ka Ooltah Chashmah\" features a group of characters dressed in traditional Indian attire, while the other two posters have a more modern aesthetic.</insights>\n\n<answer>Based on the provided images, it is not possible to determine the exact premiere date of the television show in which Dinyar Contractor played the role of Sodhi's Father-in-Law. The images only show promotional materials for three different shows, but do not provide any information about their premiere dates.</answer>",
+ "input_tokens": 973,
+ "output_tokens": 164,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 11.42
+}

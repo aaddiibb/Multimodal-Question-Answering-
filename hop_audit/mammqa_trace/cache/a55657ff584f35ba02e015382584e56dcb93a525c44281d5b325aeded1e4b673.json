@@ -1,0 +1,12 @@
+{
+ "key": "a55657ff584f35ba02e015382584e56dcb93a525c44281d5b325aeded1e4b673",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but only one of them features a horse prominently in the poster design.</insights>\n\n<answer>The S. Dharam Tej film titled \"Mahanati\" has a poster featuring a horse.</answer>\n\n<subanswer>The release date for \"Mahanati\" is May 5th.</subanswer>",
+ "input_tokens": 2210,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 10.61
+}

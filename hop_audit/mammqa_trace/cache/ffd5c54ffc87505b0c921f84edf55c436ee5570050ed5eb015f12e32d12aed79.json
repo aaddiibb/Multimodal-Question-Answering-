@@ -1,0 +1,12 @@
+{
+ "key": "ffd5c54ffc87505b0c921f84edf55c436ee5570050ed5eb015f12e32d12aed79",
+ "text": "<modality>image</modality>\n\n<insights>The image displays the title card for \"Doctor Who,\" a science fiction television series produced by the BBC. The title card features the show's iconic logo, which includes the words \"Doctor Who\" in a stylized font, surrounded by a cosmic background.</insights>\n\n<answer>Velile Tshabalala played the role of Monique Hyde in \"Doctor Who.\" Jessica Raine played the role of Beth Smithson in \"Doctor Who.\"</answer>",
+ "input_tokens": 1309,
+ "output_tokens": 105,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.98
+}

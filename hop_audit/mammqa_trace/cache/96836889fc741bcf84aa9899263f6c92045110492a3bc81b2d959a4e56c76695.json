@@ -1,0 +1,12 @@
+{
+ "key": "96836889fc741bcf84aa9899263f6c92045110492a3bc81b2d959a4e56c76695",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a movie poster titled \"La Jaula de Oro\" which translates to \"The Golden Cage\" in English. It features a young boy walking on train tracks in a desolate area.</insights>\n\n<answer>There is no director listed in the Un Certain Regard section of the 2013 Cannes Film Festival for the movie \"La Jaula de Oro\".</answer>",
+ "input_tokens": 2551,
+ "output_tokens": 96,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 12.21
+}

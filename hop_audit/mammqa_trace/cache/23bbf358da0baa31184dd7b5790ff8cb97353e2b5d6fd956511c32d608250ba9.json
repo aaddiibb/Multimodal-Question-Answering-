@@ -1,0 +1,12 @@
+{
+ "key": "23bbf358da0baa31184dd7b5790ff8cb97353e2b5d6fd956511c32d608250ba9",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a group of individuals performing a dance routine on a stage. The setting appears to be a theatrical performance, likely a musical, given the context of the other images which are also related to stage productions.</insights>\n\n<answer>The activity being performed in the 2008-11 M. Harriell stage production poster is a dance routine.</answer>",
+ "input_tokens": 2138,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.82
+}

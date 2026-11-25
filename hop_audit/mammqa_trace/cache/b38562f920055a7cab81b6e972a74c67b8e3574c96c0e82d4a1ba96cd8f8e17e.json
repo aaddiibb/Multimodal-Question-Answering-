@@ -1,0 +1,12 @@
+{
+ "key": "b38562f920055a7cab81b6e972a74c67b8e3574c96c0e82d4a1ba96cd8f8e17e",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the film with a poster featuring a moon.\n2. Determine the role Maggie McNamara played in that film.\n\nFrom the provided text insight and table:\n- The film mentioned in the text has a poster featuring a moon.\n- Maggie McNamara played the role she reprised from the Chicago production of the play in this film.\n\nNow let's address the subquestions:\n\n1. Identify the film with a poster featuring a moon.\n   - The film with a poster featuring a moon is \"The Moon Is Blue.\"\n\n2. Determine the role Maggie McNamara played in that film.\n   - Maggie McNamara played the role she reprised from the Chicago production of the play in \"The Moon Is Blue.\"\n\nFinal answer:\nMaggie McNamara played the role she reprised from the Chicago production of the play in the film \"The Moon Is Blue.\"",
+ "input_tokens": 2875,
+ "output_tokens": 189,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 22.72
+}

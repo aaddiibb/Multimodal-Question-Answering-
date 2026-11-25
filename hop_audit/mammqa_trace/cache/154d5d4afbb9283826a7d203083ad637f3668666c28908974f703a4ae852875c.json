@@ -1,0 +1,12 @@
+{
+ "key": "154d5d4afbb9283826a7d203083ad637f3668666c28908974f703a4ae852875c",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks us to identify the writer of the title of the track listing when Little Willie John was the original artist.\n\n### Step 2: Analyze the Provided Information\nFrom the text insight:\n- The album \"Blues for Greeny\" is a tribute to Peter Green.\n- The album uses the same 1959 Les Paul Standard guitar that Peter Green used originally.\n- There is no mention of Little Willie John being the original artist or the writer of the title of the track listing.\n\nFrom the table:\n- The track listing includes a song titled \"Need Your Love So Bad.\"\n- The \"Original artist\" column shows \"Little Willie John.\"\n- The \"Writer(s)\" column shows \"Mertis John Jr.\"\n\n### Step 3: Break Down the Question into Subquestions\n1. Is there any information about Little Willie John being the original artist?\n2. Is there any information about the writer of the title of the track listing?\n\n### Step 4: Answer the Subquestions\n1. **Subquestion 1:** Is there any information about Little Willie John being the original artist?\n   - **Answer:** Yes, the table indicates that \"Need Your Love So Bad\" has \"Little Willie John\" listed under \"Original artist.\"\n\n2. **Subquestion 2:** Is there any information about the writer of the title of the track listing?\n   - **Answer:** Yes, the table indicates that \"Mertis John Jr.\" is listed under \"Writer(s)\" for the track \"Need Your Love So Bad.\"\n\n### Final Answer\nThe writer of the title of the track listing when Little Willie John was the original artist is **Mertis John Jr.**",
+ "input_tokens": 2224,
+ "output_tokens": 367,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 31.92
+}

@@ -1,0 +1,12 @@
+{
+ "key": "95788413e59f5bae8ff3cf3f0fc7e50819f283ef5ffd0b02e027325a68901e19",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. **Who is Stipe Miocic?**\n   - Stipe Miocic is a fighter listed in the table with 4 knockouts under the Heavyweight division.\n\n2. **Who is the fighter with long black hair that goes past her shoulders?**\n   - The fighter with long black hair that goes past her shoulders is Ronda Rousey, who has 3 knockouts under the Women's Bantamweight division.\n\n3. **Did Stipe Miocic or the fighter with long black hair that goes past her shoulders have more knockouts in the list of UFC records by division?**\n   - Stipe Miocic has 4 knockouts, while Ronda Rousey has 3 knockouts.\n\nFinal Answer:\nStipe Miocic had more knockouts than the fighter with long black hair that goes past her shoulders. Stipe Miocic has 4 knockouts, while Ronda Rousey has 3 knockouts.",
+ "input_tokens": 3482,
+ "output_tokens": 221,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 27.77
+}

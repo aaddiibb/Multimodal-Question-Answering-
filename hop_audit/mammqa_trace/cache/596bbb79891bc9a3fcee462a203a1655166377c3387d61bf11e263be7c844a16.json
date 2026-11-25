@@ -1,0 +1,12 @@
+{
+ "key": "596bbb79891bc9a3fcee462a203a1655166377c3387d61bf11e263be7c844a16",
+ "text": "The question asks about the role Landon Liboiron played in the television series that features mountains in the background of its title screen. From the provided table insights, we know that Landon Liboiron played the role of Michael Smyth in the series \"Frontier.\" Additionally, the title screen of \"Frontier\" features mountains in the background.\n\nBased on this information, the answer to the question is:\n\n<answer>\nLandon Liboiron played the role of Michael Smyth in the television series \"Frontier,\" which features mountains in the background of its title screen.\n</answer>",
+ "input_tokens": 2239,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 12.53
+}

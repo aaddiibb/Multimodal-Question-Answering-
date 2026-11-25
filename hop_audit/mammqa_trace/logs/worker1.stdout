@@ -1,0 +1,157 @@
+[2026-10-30 04:01:59] [w1] 150 questions assigned; deadline in 10.97 h
+[2026-10-30 04:02:19] [w1] loading /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-7B-Instruct/snapshots/cc594898137f460bfe9f0759e9844b3ce807cfb5 on cuda:0 (physical GPU 1)
+Loading weights:   0%|          | 0/729 [00:00<?, ?it/s]Loading weights:   0%|          | 1/729 [00:04<56:48,  4.68s/it]Loading weights:   0%|          | 2/729 [00:08<53:22,  4.41s/it]Loading weights:   1%|          | 4/729 [00:09<23:04,  1.91s/it]Loading weights:   1%|          | 5/729 [00:10<18:15,  1.51s/it]Loading weights:   1%|          | 6/729 [00:10<14:57,  1.24s/it]Loading weights:   1%|▏         | 10/729 [00:11<05:38,  2.12it/s]Loading weights:   2%|▏         | 12/729 [00:11<04:04,  2.94it/s]Loading weights:   2%|▏         | 16/729 [00:11<02:52,  4.12it/s]Loading weights:   2%|▏         | 18/729 [00:12<03:07,  3.79it/s]Loading weights:   4%|▍         | 28/729 [00:12<01:18,  8.95it/s]Loading weights:   4%|▍         | 30/729 [00:13<01:25,  8.13it/s]Loading weights:   5%|▌         | 40/729 [00:13<00:57, 11.89it/s]Loading weights:   6%|▌         | 42/729 [00:14<01:36,  7.15it/s]Loading weights:   7%|▋         | 52/729 [00:15<01:07, 10.09it/s]Loading weights:   7%|▋         | 54/729 [00:16<01:45,  6.40it/s]Loading weights:   8%|▊         | 58/729 [00:16<01:22,  8.14it/s]Loading weights:   9%|▊         | 62/729 [00:16<01:04, 10.32it/s]Loading weights:   9%|▉         | 65/729 [00:17<01:44,  6.38it/s]Loading weights:   9%|▉         | 67/729 [00:17<01:39,  6.67it/s]Loading weights:  10%|█         | 76/729 [00:18<00:57, 11.42it/s]Loading weights:  11%|█         | 78/729 [00:18<01:08,  9.48it/s]Loading weights:  12%|█▏        | 88/729 [00:18<00:42, 14.93it/s]Loading weights:  12%|█▏        | 91/729 [00:19<00:48, 13.09it/s]Loading weights:  14%|█▎        | 100/729 [00:19<00:34, 18.03it/s]Loading weights:  14%|█▍        | 103/729 [00:19<00:42, 14.83it/s]Loading weights:  15%|█▌        | 112/729 [00:20<00:30, 19.99it/s]Loading weights:  16%|█▌        | 115/729 [00:20<00:38, 15.91it/s]Loading weights:  17%|█▋        | 124/729 [00:20<00:38, 15.78it/s]Loading weights:  17%|█▋        | 126/729 [00:22<01:11,  8.41it/s]Loading weights:  18%|█▊        | 130/729 [00:22<00:57, 10.48it/s]Loading weights:  19%|█▊        | 136/729 [00:22<01:00,  9.85it/s]Loading weights:  19%|█▉        | 138/729 [00:23<01:32,  6.37it/s]Loading weights:  20%|█▉        | 144/729 [00:24<01:03,  9.21it/s]Loading weights:  20%|██        | 148/729 [00:24<01:08,  8.51it/s]Loading weights:  21%|██        | 150/729 [00:25<01:47,  5.40it/s]Loading weights:  21%|██        | 154/729 [00:25<01:17,  7.37it/s]Loading weights:  22%|██▏       | 160/729 [00:26<01:12,  7.87it/s]Loading weights:  22%|██▏       | 162/729 [00:27<01:53,  4.98it/s]Loading weights:  23%|██▎       | 166/729 [00:27<01:22,  6.85it/s]Loading weights:  23%|██▎       | 170/729 [00:27<01:00,  9.19it/s]Loading weights:  24%|██▎       | 173/729 [00:28<01:36,  5.76it/s]Loading weights:  24%|██▍       | 175/729 [00:29<01:50,  5.02it/s]Loading weights:  24%|██▍       | 178/729 [00:29<01:24,  6.52it/s]Loading weights:  25%|██▍       | 182/729 [00:29<00:59,  9.16it/s]Loading weights:  25%|██▌       | 185/729 [00:30<01:39,  5.45it/s]Loading weights:  26%|██▌       | 187/729 [00:31<01:32,  5.84it/s]Loading weights:  27%|██▋       | 196/729 [00:31<00:49, 10.83it/s]Loading weights:  27%|██▋       | 198/729 [00:31<00:58,  9.00it/s]Loading weights:  29%|██▊       | 208/729 [00:32<00:34, 14.95it/s]Loading weights:  29%|██▉       | 211/729 [00:32<00:41, 12.38it/s]Loading weights:  30%|███       | 220/729 [00:32<00:30, 16.59it/s]Loading weights:  31%|███       | 223/729 [00:33<00:35, 14.07it/s]Loading weights:  32%|███▏      | 232/729 [00:33<00:33, 14.72it/s]Loading weights:  32%|███▏      | 234/729 [00:34<00:40, 12.23it/s]Loading weights:  33%|███▎      | 244/729 [00:34<00:34, 14.00it/s]Loading weights:  34%|███▎      | 246/729 [00:35<00:55,  8.69it/s]Loading weights:  35%|███▍      | 252/729 [00:35<00:41, 11.59it/s]Loading weights:  35%|███▌      | 256/729 [00:36<00:45, 10.33it/s]Loading weights:  35%|███▌      | 258/729 [00:37<01:15,  6.21it/s]Loading weights:  36%|███▌      | 264/729 [00:37<00:51,  8.99it/s]Loading weights:  37%|███▋      | 268/729 [00:38<00:55,  8.32it/s]Loading weights:  37%|███▋      | 270/729 [00:39<01:27,  5.25it/s]Loading weights:  38%|███▊      | 276/729 [00:39<00:56,  8.04it/s]Loading weights:  38%|███▊      | 280/729 [00:40<00:58,  7.72it/s]Loading weights:  39%|███▊      | 282/729 [00:41<01:28,  5.04it/s]Loading weights:  40%|███▉      | 288/729 [00:41<00:56,  7.80it/s]Loading weights:  40%|████      | 292/729 [00:41<00:58,  7.51it/s]Loading weights:  40%|████      | 294/729 [00:43<01:30,  4.83it/s]Loading weights:  41%|████      | 300/729 [00:43<00:56,  7.53it/s]Loading weights:  42%|████▏     | 304/729 [00:43<00:57,  7.35it/s]Loading weights:  42%|████▏     | 306/729 [00:44<01:25,  4.92it/s]Loading weights:  43%|████▎     | 310/729 [00:45<01:00,  6.87it/s]Loading weights:  43%|████▎     | 312/729 [00:45<00:53,  7.84it/s]Loading weights:  43%|████▎     | 316/729 [00:45<00:54,  7.54it/s]Loading weights:  44%|████▎     | 318/729 [00:46<01:31,  4.49it/s]Loading weights:  44%|████▍     | 324/729 [00:47<00:55,  7.35it/s]Loading weights:  45%|████▍     | 328/729 [00:47<00:57,  6.95it/s]Loading weights:  45%|████▌     | 330/729 [00:48<01:28,  4.51it/s]Loading weights:  46%|████▌     | 334/729 [00:48<01:01,  6.43it/s]Loading weights:  46%|████▋     | 338/729 [00:49<00:44,  8.83it/s]Loading weights:  48%|████▊     | 347/729 [00:49<00:23, 16.16it/s]Loading weights:  49%|████▉     | 357/729 [00:49<00:14, 25.28it/s]Loading weights:  50%|█████     | 367/729 [00:49<00:10, 34.62it/s]Loading weights:  52%|█████▏    | 377/729 [00:49<00:07, 44.08it/s]Loading weights:  53%|█████▎    | 384/729 [00:49<00:07, 48.50it/s]Loading weights:  54%|█████▍    | 393/729 [00:49<00:06, 55.60it/s]Loading weights:  55%|█████▌    | 403/729 [00:49<00:05, 62.98it/s]Loading weights:  56%|█████▋    | 411/729 [00:49<00:04, 66.37it/s]Loading weights:  57%|█████▋    | 419/729 [00:50<00:04, 67.24it/s]Loading weights:  59%|█████▉    | 429/729 [00:50<00:04, 73.87it/s]Loading weights:  60%|██████    | 439/729 [00:50<00:03, 78.22it/s]Loading weights:  62%|██████▏   | 449/729 [00:50<00:03, 82.60it/s]Loading weights:  63%|██████▎   | 458/729 [00:50<00:03, 76.82it/s]Loading weights:  64%|██████▍   | 467/729 [00:50<00:03, 76.36it/s]Loading weights:  65%|██████▌   | 477/729 [00:50<00:03, 80.71it/s]Loading weights:  67%|██████▋   | 487/729 [00:50<00:02, 82.87it/s]Loading weights:  68%|██████▊   | 496/729 [00:51<00:02, 83.75it/s]Loading weights:  69%|██████▉   | 505/729 [00:51<00:03, 73.98it/s]Loading weights:  71%|███████   | 515/729 [00:51<00:02, 76.57it/s]Loading weights:  72%|███████▏  | 525/729 [00:51<00:02, 78.41it/s]Loading weights:  73%|███████▎  | 535/729 [00:51<00:02, 78.42it/s]Loading weights:  74%|███████▍  | 543/729 [00:51<00:02, 78.15it/s]Loading weights:  76%|███████▌  | 551/729 [00:51<00:02, 74.34it/s]Loading weights:  77%|███████▋  | 561/729 [00:51<00:02, 77.51it/s]Loading weights:  78%|███████▊  | 571/729 [00:52<00:02, 78.43it/s]Loading weights:  79%|███████▉  | 579/729 [00:52<00:01, 78.59it/s]Loading weights:  81%|████████  | 587/729 [00:52<00:01, 75.72it/s]Loading weights:  82%|████████▏ | 597/729 [00:52<00:01, 78.44it/s]Loading weights:  83%|████████▎ | 607/729 [00:52<00:01, 80.92it/s]Loading weights:  84%|████████▍ | 616/729 [00:52<00:01, 82.23it/s]Loading weights:  86%|████████▌ | 625/729 [00:52<00:01, 73.03it/s]Loading weights:  87%|████████▋ | 635/729 [00:52<00:01, 75.84it/s]Loading weights:  88%|████████▊ | 645/729 [00:52<00:01, 78.21it/s]Loading weights:  90%|████████▉ | 655/729 [00:53<00:00, 80.10it/s]Loading weights:  91%|█████████ | 664/729 [00:53<00:00, 81.53it/s]Loading weights:  92%|█████████▏| 673/729 [00:53<00:00, 73.69it/s]Loading weights:  94%|█████████▎| 683/729 [00:53<00:00, 76.54it/s]Loading weights:  95%|█████████▌| 693/729 [00:53<00:00, 78.12it/s]Loading weights:  96%|█████████▋| 703/729 [00:53<00:00, 79.98it/s]Loading weights:  98%|█████████▊| 712/729 [00:53<00:00, 81.96it/s]Loading weights:  99%|█████████▉| 721/729 [00:53<00:00, 75.14it/s]Loading weights: 100%|██████████| 729/729 [00:54<00:00, 45.28it/s]Loading weights: 100%|██████████| 729/729 [00:54<00:00, 13.42it/s]
+[2026-10-30 04:03:21] [w1] sanity check: '5'  | GPU mem 5.5 GiB
+[2026-10-30 04:06:32] [w1] done b18df92399d5d28a9e28236f3046c50f in 272.7s -> 'The Western Bulldogs played in the 2016 AFL Grand Final. The'
+[2026-10-30 04:08:09] [w1] done 983896c1506e70dabb50e77a717268d9 in 96.9s -> 'Yes'
+[2026-10-30 04:10:37] [w1] done b04f9ebb5c841438872ffd1342c788e5 in 148.7s -> 'Yes, Taron Egerton played Andy in the short film "Pop" in 20'
+[2026-10-30 04:12:28] [w1] done 062686b4df599f4111761a0753f4c6c1 in 111.1s -> 'Transformers: Revenge of the Fallen'
+[2026-10-30 04:14:07] [w1] done cc5273a106f1c124aab46feb4f9461b0 in 98.8s -> 'There is insufficient information to determine the number of'
+[2026-10-30 04:16:34] [w1] done 12b5572cf9bbb103a607a9e0b880c94a in 147.0s -> 'Mertis John Jr.'
+[2026-10-30 04:18:25] [w1] done 380f72986c6728b13c17f77dc6c22205 in 111.0s -> '-92'
+[2026-10-30 04:20:08] [w1] done 591fea517306d7aaa6d40ab6d92c60c7 in 103.0s -> 'The earliest year that actor Steve Burton was nominated for '
+[2026-10-30 04:21:48] [w1] done ff7ecb97b47ba179fb7b7ee98d488d1a in 99.9s -> 'Anna Akana played the character of Lena Foster on "The Foste'
+[2026-10-30 04:23:39] [w1] done 6cdbdb112202d243e6a061fab81e9b7a in 111.2s -> 'Berry Powel'
+[2026-10-30 04:26:10] [w1] done 24d401e9e9842ac66ee811ea21fbb509 in 150.3s -> 'Gibraltarian'
+[2026-10-30 04:27:35] [w1] done ede9a615811ae817b7e7e4cce658b595 in 85.2s -> 'The show where actress Elizabeth Berridge played Julia Scian'
+[2026-10-30 04:29:27] [w1] done ddc3ef7735c55abceb3dcd2c0b863498 in 111.7s -> 'The item on the top of the emblem for the home team in Tie N'
+[2026-10-30 04:31:31] [w1] done ab3c347c802bfdfd80b53320400e263c in 124.0s -> '1993 | 2011'
+[2026-10-30 04:33:08] [w1] done 042167257f2a553469fa2c3bfef659f6 in 97.6s -> 'Jackson Brundage'
+[2026-10-30 04:34:33] [w1] done 50e892833f89d565b6f5dc57a237b325 in 85.2s -> 'No'
+[2026-10-30 04:36:07] [w1] done b8b26f0400eb24a66b16445077a0a81e in 93.3s -> 'Coventry Bears'
+[2026-10-30 04:37:42] [w1] done 57e8c0c3de0b05088ff7a3c85edef187 in 95.5s -> 'No'
+[2026-10-30 04:39:48] [w1] done 10af21e2b2756b42cc049dbbd73fe4ef in 125.5s -> 'infant, schoolboy, lover, soldier, justice, pantaloon, old a'
+[2026-10-30 04:42:14] [w1] done e368b925129bc3ad35a94a6d5e9de770 in 146.0s -> 'February 2002'
+[2026-10-30 04:44:08] [w1] done 12cc070c25eedb638ec9b018e4678156 in 113.9s -> 'The Belmont Stakes'
+[2026-10-30 04:46:58] [w1] done 3d1cfc992ee4774dba9a663ca9b36809 in 170.7s -> 'It is not possible to determine which film has an earlier ye'
+[2026-10-30 04:48:47] [w1] done 7bd7f567ed3392942c746c652e356be8 in 108.3s -> 'No'
+[2026-10-30 04:50:51] [w1] done e723bdfa758e95165ffdbb99dab1bdc2 in 124.8s -> 'sitting at a desk'
+[2026-10-30 04:52:52] [w1] done 8f175a0cb4fa6ff5d62cb680638c98eb in 121.0s -> 'The Santa Fe Railroad'
+[2026-10-30 04:54:36] [w1] done 445bc5e02f240a4d151b30e9ec6dea80 in 103.9s -> 'No'
+[2026-10-30 04:56:27] [w1] done 650e85cfb29a3e913d55831c30090080 in 110.3s -> 'Stipe Miocic'
+[2026-10-30 04:59:25] [w1] done ac9c96e3b92ac9227a8a5f2ccea4d780 in 178.1s -> 'Player 15'
+[2026-10-30 05:01:08] [w1] done 28411052506c4009e3707aefe55fab15 in 103.8s -> 'Michael Jordan'
+[2026-10-30 05:02:40] [w1] done 3c464ec9ff6ae28426640fdd51aaf2fd in 91.1s -> 'Gloves'
+[2026-10-30 05:04:22] [w1] done c0674458cd26df97b8e5579d871016e5 in 102.0s -> 'one'
+[2026-10-30 05:07:03] [w1] done 67e67f6e04a508420dbf6e0736038686 in 161.2s -> 'Dixie Chicks'
+[2026-10-30 05:08:36] [w1] done bf39d84c7e1ce3e0f7b98c1b8e4be6ef in 93.3s -> 'Tim McGraw'
+[2026-10-30 05:10:52] [w1] done e9cfe3d149fccbf737f3cca2ab607e46 in 135.7s -> 'The driver sponsored by a company with three vertical green '
+[2026-10-30 05:13:07] [w1] done ac72e14d54369a683fa34bf74da17395 in 135.5s -> 'Week 7'
+[2026-10-30 05:15:14] [w1] done fdd0c88d5c107669cc4b6813894b7f5e in 127.2s -> 'Microphone'
+[2026-10-30 05:16:47] [w1] done a2f15e58d703567c1a32d440ddf30299 in 92.2s -> 'Joey Rand'
+[2026-10-30 05:18:34] [w1] done 1982ea14d6fa923927619d4a4c68db87 in 107.4s -> 'No'
+[2026-10-30 05:20:00] [w1] done 378f2ab361968ed2720f48eface3889a in 86.3s -> 'There is no newer version of the 1991 film "Beauty and the B'
+[2026-10-30 05:21:17] [w1] done e3adf9992eeb8686e5001ac112de7178 in 76.8s -> 'Pat Summerall'
+[2026-10-30 05:23:12] [w1] done 871e09ce0d6dd22c33e2abc5e070ded3 in 114.3s -> 'No'
+[2026-10-30 05:25:56] [w1] done 16ad0ff40da24c7330ca490987dadf87 in 164.9s -> 'The Shahada'
+[2026-10-30 05:28:22] [w1] done 265c9d2214f57787e65302039ec8b8f9 in 145.3s -> 'Valentina Papp from Budapest is older.'
+[2026-10-30 05:29:49] [w1] done 7304d0bba0ec848c223e4b203e2d0158 in 87.7s -> 'There is no information provided about the color of Annabell'
+[2026-10-30 05:31:40] [w1] done c24d916959a91e823faa7a8ce8292bc7 in 110.4s -> 'Jerrod Niemann'
+[2026-10-30 05:34:01] [w1] done 82edc4d2853f5563dbce0001a3944d20 in 141.0s -> 'Anfernee Deon "Penny" Hardaway'
+[2026-10-30 05:35:56] [w1] done 394605f7d9fd8c2bd078361bc26ada7c in 115.2s -> 'Tharu Athara Mama'
+[2026-10-30 05:37:44] [w1] done c07c108b8be892dd32e4485406ba61b4 in 107.6s -> 'Best Supporting Actress'
+[2026-10-30 05:39:24] [w1] done ebbc4d5836afde56f6c50d6f06deff2e in 100.1s -> 'Sofia Coppola'
+[2026-10-30 05:41:18] [w1] done 7ad698710c7ccb4f92bde540a1f189e4 in 114.3s -> 'Jack Lord'
+[2026-10-30 05:43:03] [w1] done f378e6c2b3178511b6987480dc57f417 in 105.2s -> 'There is insufficient information in the provided data to de'
+[2026-10-30 05:45:59] [w1] done 111e2c6d6aac95d1ebd632d2e37a70e7 in 175.8s -> 'There is no record in the provided data that specifies St. L'
+[2026-10-30 05:48:06] [w1] done 2cca87e7b1b77ee2e3f4f83119c1854c in 127.0s -> 'Tennis'
+[2026-10-30 05:50:37] [w1] done f32edadabeda35d4aaf685ca937386a9 in 151.0s -> 'South Park'
+[2026-10-30 05:52:32] [w1] done d27caed0b360cd98c8b04c53751582c8 in 115.4s -> 'Yes'
+[2026-10-30 05:54:29] [w1] done 966c44b2a49b38286ff313a2386824cc in 117.0s -> '7:54'
+[2026-10-30 05:56:07] [w1] done 8ee6828df3f7dff3e979d0b87a2e812e in 98.0s -> 'There is no information provided about the Etranges Libellul'
+[2026-10-30 05:59:03] [w1] done ee7f5fc0979ce89e85a801542edd8ad4 in 175.4s -> 'U.S. Route 23'
+[2026-10-30 06:00:26] [w1] done 5f0702dcdf0137e481d95b62ae6ea23d in 83.5s -> '2014'
+[2026-10-30 06:03:09] [w1] done 29af2f314cb813aead8134609ecca5b1 in 162.8s -> 'Doctor Baugh'
+[2026-10-30 06:06:13] [w1] done b7106bcf7704805ca0ba84ddd85004f4 in 183.6s -> '2009'
+[2026-10-30 06:08:51] [w1] done c81c4000f886ed9ebe29f8989088575e in 158.0s -> 'Buddhism'
+[2026-10-30 06:10:49] [w1] done 796d86b407796b748d9feb9e9187a898 in 117.8s -> 'Olena Zubrilova'
+[2026-10-30 06:12:30] [w1] done a4a3b369ef71a1cb710e993ac313812c in 101.7s -> 'Josh Gad'
+[2026-10-30 06:15:07] [w1] done d771de45b0645ba154948c0db000d3be in 156.6s -> 'Yaroslavl Oblast'
+[2026-10-30 06:16:26] [w1] done 424e731dec99fd3b36fb5ba2c59d1f16 in 79.7s -> 'Gloria Estefan'
+[2026-10-30 06:18:04] [w1] done 41a0f1050d12b5ef209a19dd4a4822b3 in 97.3s -> 'Ivy George played a 5-year-old girl in the TV show "Twin Pea'
+[2026-10-30 06:20:44] [w1] done 0f22b5d312a0b8cc97455e66ddda260c in 160.5s -> '- "Crash": Jose Ferrer, Sue Lyon, John Ericson, Leslie Parri'
+[2026-10-30 06:22:59] [w1] done 7adcb26fda18602af51a8b9f2061f94f in 135.1s -> 'No'
+[2026-10-30 06:24:35] [w1] done 74e41eba24bcaeb1212cb23425f1e69e in 95.9s -> "St. Mary's"
+[2026-10-30 06:26:44] [w1] done a5e00e7fd6d976c2b4b397c47ab40014 in 129.1s -> 'Sully | Letters from Iwo Jima'
+[2026-10-30 06:28:23] [w1] done df6a224711b6900ef8e1a91e057b4865 in 98.4s -> 'Sidi Kaouki and Amanjena outside of Marrakesh'
+[2026-10-30 06:29:57] [w1] done 0f0b4253d4f4b8e75740308b6a73619b in 93.8s -> 'Connor'
+[2026-10-30 06:31:47] [w1] done 9264216e2fb4bb4868a823e887d09783 in 110.4s -> 'United States'
+[2026-10-30 06:34:32] [w1] done d8a47742253fc5049ddeeef9f495f7b2 in 165.3s -> 'Divergent'
+[2026-10-30 06:36:14] [w1] done d7c27ea21b8462542f1c66c526418200 in 101.4s -> 'There are four people on the poster for "Rabbit, Run."'
+[2026-10-30 06:38:57] [w1] done 29ff34fcffe7fc9ebeb42bb1b1fd826b in 163.3s -> 'Aroldis Chapman'
+[2026-10-30 06:40:53] [w1] done 950e8463e15d9ae0dadd4d25bc4e9b5d in 115.8s -> 'There is no information provided in the given text about a T'
+[2026-10-30 06:43:57] [w1] done e8874819c8c171d83e26e0ae0f4d2ce4 in 184.2s -> 'Assam'
+[2026-10-30 06:45:44] [w1] done ed06a4b34fa212d6be4522a017d58b82 in 107.5s -> 'Marcian'
+[2026-10-30 06:47:45] [w1] done c3abb465eda6c041d19c7cac507593ed in 120.2s -> 'Oxnard, California'
+[2026-10-30 06:50:19] [w1] done 04dfd7512cbb416af41988232cdd0c68 in 153.9s -> 'There is insufficient information in the provided text and t'
+[2026-10-30 06:51:56] [w1] done 1a6f5a7e7e93514a7515977a3511a822 in 97.5s -> 'STATE CHAMPS'
+[2026-10-30 06:53:43] [w1] done 64abc23e9b46cbe9da333347dbd60c1e in 107.0s -> 'The information provided does not allow us to determine whic'
+[2026-10-30 06:55:19] [w1] done 81088e10057564782ada42345f1b51bc in 95.7s -> 'Two'
+[2026-10-30 06:57:40] [w1] done 014f0f79f9af827ba68cbf1b65130f51 in 141.2s -> 'The color of the hair streaks of the Aathiyandal winner in t'
+[2026-10-30 07:00:09] [w1] done b11b7bb67eb7917ca109edb62828f618 in 149.3s -> 'No'
+[2026-10-30 07:01:34] [w1] done 04bbb16534dfab370b011a84d70bf051 in 84.9s -> '1959'
+[2026-10-30 07:03:11] [w1] done 5fa187a053d883f7d8f70660ecb8dcdb in 97.3s -> 'Reinhardt University joined the Mid-South Conference in 2013'
+[2026-10-30 07:05:07] [w1] done 806102fe5327afe00614677954db5579 in 115.2s -> 'There is no TV title cover featuring S. Cole playing Muriel.'
+[2026-10-30 07:06:30] [w1] done a8c6be32a981a89d6f99e81de18f0b2a in 83.7s -> 'No information available.'
+[2026-10-30 07:08:49] [w1] done 7faa3a358a3e25fbf959d54fa05a6e91 in 138.9s -> 'It is not possible to determine which player is older.'
+[2026-10-30 07:10:55] [w1] done 15e4aa743bf354ea03704de66e12b782 in 125.7s -> 'No'
+[2026-10-30 07:12:30] [w1] done 2056dcf5ed1c70cb799c09a023a4f73c in 94.7s -> 'United Kingdom'
+[2026-10-30 07:14:43] [w1] done 3e99b830ec0f40e6ad9b94766200bb9e in 133.5s -> 'No'
+[2026-10-30 07:16:03] [w1] done c8c72cfb2d1f4e8fbfb77f876f8262f6 in 79.6s -> 'None of the series mentioned in the question feature mountai'
+[2026-10-30 07:18:07] [w1] done 9c3996fcf2af4de7daa540e1e2286470 in 124.3s -> 'Desert Dancer'
+[2026-10-30 07:20:31] [w1] done 54e4a753600ab1ecc963dd11a5726116 in 144.2s -> 'Universal Studios Hollywood'
+[2026-10-30 07:22:19] [w1] done 9d249d4e530d7a3cdc9807f1e7cd584f in 108.0s -> 'Insufficient information.'
+[2026-10-30 07:24:12] [w1] done ab47a6769bedf581f22c8db06a36361f in 112.5s -> 'Santa Cruz de Tenerife, Spain'
+[2026-10-30 07:25:53] [w1] done 220f55e31592a5ed8e804402e012a39f in 101.4s -> 'No'
+[2026-10-30 07:27:26] [w1] done f356667690a995336f76344d097bb595 in 93.3s -> 'Libble Rabble'
+[2026-10-30 07:29:00] [w1] done 1596e3f73a33e24da59a19a2dece6cbb in 94.0s -> 'Mertis John Jr.'
+[2026-10-30 07:32:01] [w1] done 2f34ec15d30206535baa99d709903307 in 181.0s -> '2 GB'
+[2026-10-30 07:34:51] [w1] done f2c60a572ce83bacbf78cda7dc625b0c in 169.5s -> 'Acerra'
+[2026-10-30 07:37:16] [w1] done 4437c68c9183d1abbf460c40769dc071 in 144.8s -> 'Yes'
+[2026-10-30 07:39:09] [w1] done 911f0e3da26d46f30316abb7d56fd163 in 112.9s -> 'TSH'
+[2026-10-30 07:42:18] [w1] done db0e7104ed87fbb5abe784501c9c86a1 in 189.9s -> 'Point University, Webber International University'
+[2026-10-30 07:44:23] [w1] done 5980eb0068c2d2a2ec2193ff2f8696e8 in 124.5s -> "The Nun's Story"
+[2026-10-30 07:46:28] [w1] done ce4c783ec908dc4139773ba5e6ed6d88 in 125.3s -> 'San Francisco, California'
+[2026-10-30 07:48:27] [w1] done 493ce9b7696dc9a3c048cbbe8930031c in 118.4s -> 'Bridge'
+[2026-10-30 07:50:34] [w1] done 723cff08515cf6f04223f8218c481b0c in 127.2s -> 'No'
+[2026-10-30 07:52:26] [w1] done 1250357fe7efc2308c84e0c0b580e2c9 in 111.8s -> 'Mordecai'
+[2026-10-30 07:54:16] [w1] done 043d8199746ded4fba667a607684173a in 110.1s -> '2015'
+[2026-10-30 07:55:39] [w1] done 356070d6932cb55157b6163b819c8f21 in 83.3s -> '2013'
+[2026-10-30 07:57:16] [w1] done 9062f0a10733ef0abf180e6788feca29 in 97.4s -> 'No information about the sport of the Gridiron football leag'
+[2026-10-30 07:59:23] [w1] done 677018adc8228b876dbd2967b05634ec in 126.4s -> "The Nun's Story"
+[2026-10-30 08:01:14] [w1] done 651a585e5b5500161eb187e87677a16c in 111.3s -> 'Beggin & Pleadin'
+[2026-10-30 08:03:55] [w1] done 57ed1695ef2b175552dbcf597f975d71 in 161.3s -> 'John Panelli'
+[2026-10-30 08:05:22] [w1] done 0318e3b1eb51736bf111d233a396fdbf in 86.8s -> "The World's End, 2013"
+[2026-10-30 08:07:41] [w1] done 3a7faddd273f1364ac9fbb66b6658fe9 in 138.7s -> 'Manassinakkare'
+[2026-10-30 08:09:58] [w1] done 8b8caa13c597e3c0b5656eb1ff1e816f in 137.4s -> 'There is no information available.'
+[2026-10-30 08:11:33] [w1] done 886f92bcdd89eb6b7ac0f2e069d3b730 in 94.7s -> 'There is no information about Thora Birch appearing in a TV '
+[2026-10-30 08:13:04] [w1] done b0a785f3f132bf18d9fcf1d1f8dea298 in 91.1s -> '2018'
+[2026-10-30 08:15:34] [w1] done 8216c175a7d406fedd3d163d8ed6c387 in 150.4s -> '<no>'
+[2026-10-30 08:18:19] [w1] done 216ff289c079b301de87c96270d371ba in 164.1s -> 'No'
+[2026-10-30 08:20:11] [w1] done de22c413b35b616bf5123f20e8c97449 in 112.0s -> 'Yes'
+[2026-10-30 08:21:35] [w1] done 1f3664fd1742fa7c5b54fd39300c6534 in 84.6s -> 'No'
+[2026-10-30 08:23:51] [w1] done 6fac63e14f667e265c0451b184566a47 in 135.7s -> 'Gmina Janowice Wielkie'
+[2026-10-30 08:26:05] [w1] done 40b3e2453fe619126174d64bec19157c in 134.0s -> 'Snowdon'
+[2026-10-30 08:27:32] [w1] done 2796902e5aa2f7bcfaf8f91cd032aea2 in 87.3s -> 'There is no information available to determine the year when'
+[2026-10-30 08:29:11] [w1] done 14cfca87a84d25ca17313ad43e0b8f88 in 98.8s -> 'June 15, 1994'
+/usr/local/lib/python3.13/dist-packages/bitsandbytes/backends/cuda/ops.py:957: UserWarning: inner dimension (3420) is not aligned for fast kernel with blocksize=64, falling back to slower implementation.
+  warn(
+[2026-10-30 08:30:58] [w1] done 119c9a9bf38ca9f84a3900d7c7fd1fe5 in 107.3s -> '22nd Star Awards Ceremony'
+[2026-10-30 08:32:44] [w1] done 691dfdcfe1a2884998f1fe60b6f7ef15 in 106.2s -> 'Social Work'
+[2026-10-30 08:35:19] [w1] done d2322ed754451eb703f6c1379f0535e8 in 154.1s -> 'Jabulani'
+[2026-10-30 08:37:46] [w1] done 1946869d518678a95a5d2d51961818aa in 147.5s -> 'Five faces'
+[2026-10-30 08:39:50] [w1] done a1b40c12a33c4e429cd72d8a88899454 in 124.3s -> 'Australian'
+[2026-10-30 08:41:25] [w1] done 4e09696e32e1a916372d090e986af012 in 94.8s -> 'Jamie Sinclair'
+[2026-10-30 08:43:11] [w1] done 9c95db901f2796d3207c152fdd9391ad in 105.8s -> 'March 25, 2016'
+[2026-10-30 08:44:44] [w1] done 0784b43a6c6eeddb318f65ea2baf397e in 93.5s -> 'Colorado Springs, CO'
+[2026-10-30 08:47:00] [w1] done 7991b4f0ed0106d4693f18194e767658 in 135.3s -> 'Lullaby'
+[2026-10-30 08:49:44] [w1] done 20eeccd19adb6f739680f234c37314ed in 163.9s -> 'It is impossible to determine the exact number of employees '
+[2026-10-30 08:51:51] [w1] done e1238a0f20b1360ddbf16448f57484d3 in 127.8s -> 'Maxine Miller played the role of "Elderly Woman" in the movi'
+[2026-10-30 08:54:29] [w1] done fcf2b36770bef483cbc122713f17f125 in 157.9s -> 'George Strait'
+[2026-10-30 08:57:11] [w1] done 782bfbc63ccd5db12e1efe9afd9e0752 in 161.6s -> 'Ali Daei'
+[2026-10-30 08:59:11] [w1] done 7b5a18fe0ff6b814cc3e7e79d58dd314 in 119.8s -> 'Murielle Telio'
+[2026-10-30 09:01:25] [w1] done beb5d85dc0811603152bb64c768dd412 in 134.3s -> 'Matt Pickens'
+[2026-10-30 09:02:59] [w1] done bb4dfe5176aa20b3b24f42c864c6ebb6 in 94.1s -> 'Guitar'
+[2026-10-30 09:04:25] [w1] done 16f832a8ae461b35dff86a41827b3179 in 85.8s -> 'microphone'
+[2026-10-30 09:06:09] [w1] done 77f3a5b3c0707ded5197accd871bfe17 in 104.0s -> 'No information available.'
+[2026-10-30 09:06:09] [w1] finished: 150 new questions

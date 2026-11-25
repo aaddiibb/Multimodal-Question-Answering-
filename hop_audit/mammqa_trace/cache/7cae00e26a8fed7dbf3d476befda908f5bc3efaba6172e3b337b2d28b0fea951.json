@@ -1,0 +1,12 @@
+{
+ "key": "7cae00e26a8fed7dbf3d476befda908f5bc3efaba6172e3b337b2d28b0fea951",
+ "text": "The provided data does not contain information about World Cup wins or physical characteristics like mustaches and beards. Therefore, it is impossible to determine which player has lower votes between the winner of the most World Cups and the player with a mustache and a beard.",
+ "input_tokens": 4744,
+ "output_tokens": 53,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 18.0
+}

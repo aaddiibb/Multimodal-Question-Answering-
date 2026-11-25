@@ -1,0 +1,12 @@
+{
+ "key": "303f29523353c859cde33ab2a92f0f0246b5743481bcee0308e0e59402ed9d8f",
+ "text": "The table insights indicate that Peppermill Reno has 2,250 employees. Sierra Nevada College is not listed in the table, so we cannot determine its employee count. Therefore, we can only compare Peppermill Reno's employee count with the other listed employers.\n\nBased on the provided data, Peppermill Reno has 2,250 employees, which is more than the number of employees at the other listed employers. However, since Sierra Nevada College is not listed in the table, we cannot definitively say whether it has more or fewer employees than Peppermill Reno.\n\nTo answer the question, we need to know the number of employees at Sierra Nevada College. If Sierra Nevada College has more employees than Peppermill Reno, then Sierra Nevada College would be the top employer in Reno, Nevada. If Peppermill Reno has more employees than Sierra Nevada College, then Peppermill Reno would be the top employer in Reno, Nevada.\n\nSince Sierra Nevada College is not listed in the table, we cannot determine which employer has more employees between Peppermill Reno and Sierra Nevada College.",
+ "input_tokens": 2698,
+ "output_tokens": 230,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 24.79
+}

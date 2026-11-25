@@ -1,0 +1,12 @@
+{
+ "key": "1fabcb3edebdc4b5075445ef1aed7e53f204cea7d1098bc193d40b88ec38aed8",
+ "text": "<answer>Ben Savage</answer>",
+ "input_tokens": 1101,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.07
+}

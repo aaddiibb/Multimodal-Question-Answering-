@@ -1,0 +1,12 @@
+{
+ "key": "2fa1ca53eab99a03eb64bc1b5bd431b7914e7835371f82a57205f4249f927c06",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the film in which Carrie Snodgress starred as Joan Freeman.\n2. Determine the number of people on the poster for that film.\n\nFrom the table insights, we know:\n- Carrie Snodgress starred as Joan Freeman in the film \"Murphy's Law\" in 1986.\n\nNow, let's look at the images provided:\n- There is an image of the movie poster for \"Murphy's Law\".\n\nSince the image is provided, we can now count the number of people on the poster.\n\n<subanswer>\nThere are three people on the poster for \"Murphy's Law\": Carrie Snodgress, Tommy Lee Jones, and Rick Schroder.\n</subanswer>\n\n<answer>\nCarrie Snodgress starred as Joan Freeman in the film \"Murphy's Law\" in 1986, and there are three people on the poster for that film.\n</answer>",
+ "input_tokens": 2907,
+ "output_tokens": 197,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 22.2
+}

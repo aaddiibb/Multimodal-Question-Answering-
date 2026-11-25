@@ -1,0 +1,12 @@
+{
+ "key": "dc57cfc44ef3c4b3e4a9aa2b0e9dae98ff0cc638e012eee2dc8e54734889f490",
+ "text": "The provided data does not contain the necessary information to answer the question. There is no mention of Coldplay or a female singer performing in a song called \"Hymn for the Weekend.\" The table only contains information about awards won by \"The Lion King\" (2019 film).\n\n<answer>The provided data does not contain the necessary information to answer the question. There is no mention of Coldplay or a female singer performing in a song called \"Hymn for the Weekend.\" The table only contains information about awards won by \"The Lion King\" (2019 film).</answer>",
+ "input_tokens": 4401,
+ "output_tokens": 123,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 23.16
+}

@@ -1,0 +1,12 @@
+{
+ "key": "dbfec0e6a7aae1c04d7b995ef4262540c8d00861f2c605a9a1ff7164501927c8",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. **Which music video in Brandy's videography of the 2010s has a cover featuring a woman with one arm raised?**\n   - From the table, we can see that the music video \"Wildest Dreams\" has a cover featuring a woman with one arm raised.\n\n2. **Which music video in Brandy's videography of the 2010s has a cover featuring the word \"Lullaby\"?**\n   - From the table, we can see that the music video \"Lullaby\" has a cover featuring the word \"Lullaby\".\n\nNow, let's address each subquestion:\n\n### Subquestion 1:\n- The music video \"Wildest Dreams\" has a cover featuring a woman with one arm raised.\n\n### Subquestion 2:\n- The music video \"Lullaby\" has a cover featuring the word \"Lullaby\".\n\nBased on these subanswers, the final answer to the original question is:\n\n<answer>\nThe music video \"Wildest Dreams\" has a cover featuring a woman with one arm raised, while the music video \"Lullaby\" has a cover featuring the word \"Lullaby\".\n</answer>",
+ "input_tokens": 1887,
+ "output_tokens": 255,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 21.05
+}

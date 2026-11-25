@@ -1,0 +1,144 @@
+{
+  "n_questions": 300,
+  "EM": 0.29,
+  "mean_F1": 0.3637,
+  "final_abstain_rate": 0.12,
+  "labels": {
+    "CORRECT": 87,
+    "SURFACE_FORM": 27,
+    "AGGREGATION_LOSS": 24,
+    "COMMITMENT_FAILURE": 26,
+    "NO_EVIDENCE": 0,
+    "EXTRACTION_FAILURE": 44,
+    "HANDOFF_LOSS": 3,
+    "COMPOSITION_FAILURE": 89
+  },
+  "label_share_of_errors": {
+    "SURFACE_FORM": 0.1268,
+    "AGGREGATION_LOSS": 0.1127,
+    "COMMITMENT_FAILURE": 0.1221,
+    "NO_EVIDENCE": 0.0,
+    "EXTRACTION_FAILURE": 0.2066,
+    "HANDOFF_LOSS": 0.0141,
+    "COMPOSITION_FAILURE": 0.4178
+  },
+  "questions_with_latent_hops": 299,
+  "latent_hops": 340,
+  "latent_hops_in_context": 340,
+  "hop_status": {
+    "NOT_SURFACED": 62,
+    "REACHED": 271,
+    "LOST_IN_HANDOFF": 7
+  },
+  "bridge_recall_by_stage": {
+    "S1": 0.7,
+    "S2": 0.7971,
+    "final_text": 0.0794
+  },
+  "bridge_recall_any_agent": 0.8176,
+  "handoff_loss_stage_level": {
+    "surfaced_at_first_stage": 238,
+    "lost_by_last_stage": 7,
+    "rate": 0.0294
+  },
+  "handoff_loss_strict_channel": {
+    "carried": 177,
+    "dropped": 30,
+    "rate": 0.1449,
+    "unsupported_surfacing": 23,
+    "by_channel": {
+      "None->S2.image": {
+        "unsupported_surface": 14
+      },
+      "None->S2.table": {
+        "unsupported_surface": 3
+      },
+      "None->S2.text": {
+        "unsupported_surface": 6
+      },
+      "S1.image->S2.image": {
+        "carried": 26,
+        "dropped": 2
+      },
+      "S1.table->S2.table": {
+        "carried": 110,
+        "dropped": 26
+      },
+      "S1.text->S2.text": {
+        "carried": 41,
+        "dropped": 2
+      }
+    }
+  },
+  "agent_recall_when_raw_available": {
+    "S1.image": {
+      "available": 106,
+      "surfaced": 28,
+      "recall": 0.2642
+    },
+    "S1.table": {
+      "available": 164,
+      "surfaced": 136,
+      "recall": 0.8293
+    },
+    "S1.text": {
+      "available": 70,
+      "surfaced": 43,
+      "recall": 0.6143
+    },
+    "S2.image": {
+      "available": 234,
+      "surfaced": 173,
+      "recall": 0.7393
+    },
+    "S2.table": {
+      "available": 176,
+      "surfaced": 58,
+      "recall": 0.3295
+    },
+    "S2.text": {
+      "available": 270,
+      "surfaced": 149,
+      "recall": 0.5519
+    }
+  },
+  "correct_without_bridge": 9,
+  "aggregation_loss_qids": [
+    "062686b4df599f4111761a0753f4c6c1",
+    "3381825f509615f7d458fd6205d07e77",
+    "50e892833f89d565b6f5dc57a237b325",
+    "2d4201adb565f16f8024fe3225f301dd",
+    "ac72e14d54369a683fa34bf74da17395",
+    "c932bd00be5ba7df47e96f7f18c69eda",
+    "e3adf9992eeb8686e5001ac112de7178",
+    "c328bffe44419f1ef817569e82fc6d2c",
+    "111e2c6d6aac95d1ebd632d2e37a70e7",
+    "2cca87e7b1b77ee2e3f4f83119c1854c",
+    "a1e42da526ff18d90cd2eda775fc3be2",
+    "df6a224711b6900ef8e1a91e057b4865",
+    "15e4aa743bf354ea03704de66e12b782",
+    "54e4a753600ab1ecc963dd11a5726116",
+    "ab47a6769bedf581f22c8db06a36361f",
+    "2f34ec15d30206535baa99d709903307",
+    "57d2f3b4f7f8ebbb7c8f35d730fcceb5",
+    "9062f0a10733ef0abf180e6788feca29",
+    "3e01211c7699437a3432146b9e374d55",
+    "216ff289c079b301de87c96270d371ba",
+    "a7056d9fc4bb2bffec3e7f3a9a72a61a",
+    "4cdb083b7d32719ff0ed63588765de4d",
+    "fcf2b36770bef483cbc122713f17f125",
+    "e3027465630e99e8f964a29664034467"
+  ],
+  "unscored_gold_mentions": 64,
+  "near_misses_for_alias_review": [
+    {
+      "qid": "54e4a753600ab1ecc963dd11a5726116",
+      "gold": [
+        "Universal Studios Florida"
+      ],
+      "answers": [
+        "Universal Studios Hollywood"
+      ]
+    }
+  ]
+}

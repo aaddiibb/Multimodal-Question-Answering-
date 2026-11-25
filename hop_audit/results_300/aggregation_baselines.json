@@ -1,0 +1,14 @@
+{
+ "MAMMQA final (as run)|em": 87,
+ "MAMMQA final (as run)|content": 114,
+ "S2 majority vote (>=2 agree) else final|em": 87,
+ "S2 majority vote (>=2 agree) else final|content": 114,
+ "all-agent majority vote else final|em": 81,
+ "all-agent majority vote else final|content": 114,
+ "S2.table answer else final|em": 79,
+ "S2.table answer else final|content": 112,
+ "S2.text answer else final|em": 79,
+ "S2.text answer else final|content": 112,
+ "ORACLE: any agent or final|em": 20,
+ "ORACLE: any agent or final|content": 165
+}

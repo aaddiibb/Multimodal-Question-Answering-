@@ -1,0 +1,12 @@
+{
+ "key": "6f37d495a809406ae83eac756084f21cc5e43cf1dc26b70530f2a46adc91e87b",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks about Sheila Allen's role in the Harry Potter movie after \"Prisoner of Azkaban.\" The provided image insight does not contain any information about Sheila Allen or her roles in Harry Potter movies. The text data includes a list of roles for various actresses but does not specifically mention Sheila Allen's role in a Harry Potter movie after \"Prisoner of Azkaban.\"\n\n### Step 2: Break Down the Question into Subquestions\nGiven that the image and text data do not provide the necessary information, we need to break down the question further:\n\n1. **Identify the Harry Potter movies**: List all the Harry Potter movies after \"Prisoner of Azkaban.\"\n2. **Check if Sheila Allen appeared in any of those movies**: Determine if Sheila Allen had a role in any of the Harry Potter movies after \"Prisoner of Azkaban.\"\n\n### Step 2.1: Identify the Harry Potter Movies After \"Prisoner of Azkaban\"\nThe text data mentions:\n- \"Harry Potter and the Goblet of Fire\" (2005)\n\nThis is the only Harry Potter movie listed after \"Prisoner of Azkaban.\"\n\n### Step 2.2: Check If Sheila Allen Appeared in \"Harry Potter and the Goblet of Fire\"\nAccording to the text data:\n- Sheila Allen appeared in \"Harry Potter and the Goblet of Fire\" as a \"Ministry Witch #1.\"\n\n### Final Answer\nSheila Allen's role in the Harry Potter movie after \"Prisoner of Azkaban\" was that of a \"Ministry Witch #1\" in \"Harry Potter and the Goblet of Fire.\"",
+ "input_tokens": 1691,
+ "output_tokens": 351,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 27.36
+}

@@ -1,0 +1,12 @@
+{
+ "key": "98a913e44297fe0b89f2b47b747661caf46fa9b71671184662915bb5e082284f",
+ "text": "Let's break down the question and the provided information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks about the location of the institution whose nickname was \"Falcons\" among the former members of the Great Western Lacrosse League.\n\n### Step 2: Extract Relevant Insights\nFrom the table insights:\n- The institution with the nickname \"Falcons\" is the United States Air Force Academy.\n- The location of the United States Air Force Academy is Colorado Springs, CO.\n\n### Step 3: Break Down the Question into Subquestions\n1. Which institution has the nickname \"Falcons\"?\n2. Where is the location of this institution?\n\n### Step 4: Answer the Subquestions\n1. The institution with the nickname \"Falcons\" is the United States Air Force Academy.\n2. The location of the United States Air Force Academy is Colorado Springs, CO.\n\n### Final Answer\nThe location of the institution whose nickname was \"Falcons\" is Colorado Springs, CO.",
+ "input_tokens": 2544,
+ "output_tokens": 203,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 20.4
+}

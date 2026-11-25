@@ -1,0 +1,12 @@
+{
+ "key": "4cf9f1995efc756ba850bf849ee5abe381d6417ad637bf5137b4f0035b644fd4",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about the 1989 Brit Awards, including the hosts, the criticism they received, and some notable moments.\n- There is no mention of the artist performing \"It's Not Right But It's Okay\" at the 1999 Brit Awards.\n</insights>\n\n<answer>\nBased on the provided text, there is no information about the artist performing \"It's Not Right But It's Okay\" at the 1999 Brit Awards. Therefore, we cannot determine if the artist holding a microphone.\n</answer>",
+ "input_tokens": 1589,
+ "output_tokens": 128,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.53
+}

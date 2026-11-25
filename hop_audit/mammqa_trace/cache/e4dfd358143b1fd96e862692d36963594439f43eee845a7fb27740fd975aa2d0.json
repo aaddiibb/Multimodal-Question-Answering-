@@ -1,0 +1,12 @@
+{
+ "key": "e4dfd358143b1fd96e862692d36963594439f43eee845a7fb27740fd975aa2d0",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions that Ben Savage played the lead role of Cory Matthews on the ABC sitcom \"Boy Meets World\".\n- The text also mentions that Ben Savage appeared in an episode of the sitcom \"Sex and the City\" (1999) and as the host of the tourism show \"Globe Trekker\" the following year.\n</insights>\n\n<answer>\nBen Savage played Cory Matthews in the television show \"Boy Meets World\" and also appeared in an episode of \"Sex and the City\" which features a poster with a globe.\n</answer>",
+ "input_tokens": 2016,
+ "output_tokens": 129,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.32
+}

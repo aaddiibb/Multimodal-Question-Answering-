@@ -1,0 +1,12 @@
+{
+ "key": "449f89b395b0594262ff999c0bc44b26f510352b58f233eabd19fc1b2d679803",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various films where Sona Mohapatra has sung songs.\n- The co-singers mentioned for her songs are Sonu Nigam, Keerthi Sagathia, Shazneen Arethna, and Arijit Singh.\n</insights>\n\n<answer>\nTo determine who was the co-singer of Sona Mohapatra in Bollywood first between Sonu Nigam and Keerthi Sagathia, Shazneen Arethna, we need to look at the earliest film where she sang with one of these singers.\n</answer>\n\n<subanswer>\n- The earliest film where Sona Mohapatra sang with Sonu Nigam is \"Jumbo\" (2008).\n- The earliest film where Sona Mohapatra sang with Keerthi Sagathia, Shazneen Arethna is \"Delhi Belly\" (2011).\n</subanswer>",
+ "input_tokens": 1273,
+ "output_tokens": 210,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 15.3
+}

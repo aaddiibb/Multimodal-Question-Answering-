@@ -1,0 +1,12 @@
+{
+ "key": "525088b5966f3881e25888a98ac4ab79aae7962e9ea241078fac2c817bd74e58",
+ "text": "<modality> image(s) </modality>\n\n<insights> The image shows the logo of Universal Studios Hollywood, which is a theme park located in Los Angeles, California. It is known for its various attractions including the Harry Potter-themed area.</insights>\n\n<answer> Universal Studios Hollywood </answer>",
+ "input_tokens": 2440,
+ "output_tokens": 64,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 9.3
+}

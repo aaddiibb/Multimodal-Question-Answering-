@@ -1,0 +1,111 @@
+{
+  "question_count": 16,
+  "planner": {
+    "parsed": 16,
+    "total": 16,
+    "rate": 1.0
+  },
+  "stage1_schema": {
+    "parsed": 0,
+    "total": 48,
+    "rate": 0.0
+  },
+  "stage1_usable": {
+    "usable": 48,
+    "total": 48,
+    "rate": 1.0
+  },
+  "stage2": {
+    "parsed": 48,
+    "total": 48,
+    "rate": 1.0
+  },
+  "verifier": {
+    "parsed": 16,
+    "total": 16,
+    "rate": 1.0
+  },
+  "aggregator": {
+    "parsed": 16,
+    "total": 16,
+    "rate": 1.0
+  },
+  "qwen_calls_per_question": [
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9
+  ],
+  "repair_calls_per_question": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "question_seconds": [
+    60.93573092299994,
+    55.59637354000006,
+    39.91476757400005,
+    54.364854727999955,
+    37.61702889099979,
+    47.50390444499999,
+    53.940742897999826,
+    52.799976858000264,
+    54.184085867999784,
+    52.483619251000164,
+    42.788276229000076,
+    46.43421737599965,
+    43.6586139330002,
+    47.38208325900041,
+    47.65242798400004,
+    46.77895155299984
+  ],
+  "startup_seconds": 975.202536042,
+  "startup_timing": {
+    "image_manifest_seconds": 82.72449223800004,
+    "retrieval_cache_seconds": 685.3730902240002,
+    "qwen_load_seconds": 122.77263266900013,
+    "total_startup_seconds": 975.202536042
+  },
+  "cache_status": {
+    "image_manifest": "BUILT",
+    "text": "BUILT",
+    "table": "BUILT",
+    "image_titles": "BUILT",
+    "text_bm25": "BUILT",
+    "table_bm25": "BUILT",
+    "image_bm25": "BUILT"
+  },
+  "inference_seconds": 790.4255717730002,
+  "oom_events": 0,
+  "checkpoint_count": 16,
+  "protected_prompt_truncations": 0,
+  "average_qwen_calls": 9.0,
+  "average_repair_calls": 0.0,
+  "average_question_seconds": 49.002228456875,
+  "READY_FOR_16": false
+}

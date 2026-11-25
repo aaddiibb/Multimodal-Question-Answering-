@@ -1,0 +1,12 @@
+{
+ "key": "5eec2473c347a7ef595c2a804d59b7facd42663313e1be3c4e8e7335dc66de73",
+ "text": "<modality> images </modality>\n\n<insights>\n- The image associated with the question is \"I Am Sam\".\n</insights>\n\n<answer> Yes, Sam gets Lucy back in the movie \"I Am Sam\". </answer>\n\n<subanswer> The image associated with the question is \"I Am Sam\". </subanswer>",
+ "input_tokens": 2599,
+ "output_tokens": 71,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 10.55
+}

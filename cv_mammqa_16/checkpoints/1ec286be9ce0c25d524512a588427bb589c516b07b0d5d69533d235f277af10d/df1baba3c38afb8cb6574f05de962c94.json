@@ -1,0 +1,206 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "df1baba3c38afb8cb6574f05de962c94",
+  "question": "Which player with top assists in the FA Premier League of 1999-2000 has a higher rank:  The player with a bald head or the best player that ever played in the premier league?",
+  "context_digest": "d1bf2a56b924ae50ec171d61aa344d357f5493bba981fca230f4cc3cf5d68bd9",
+  "source_ids": [
+    "8737860d6958627e14d5b9ea734a7792",
+    "7070e97120dc77d96364d39d0001a03e"
+  ],
+  "modalities": [
+    "image",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The text does not provide specific information about the top assist players in the FA Premier League of 1999-2000 or their rankings relative to each other.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The text does not provide specific information about the top assist players in the FA Premier League of 1999-2000 or their rankings relative to each other."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "INSUFFICIENT",
+        "insight": "The image shows a soccer player wearing a jersey, but it does not provide any information about the player's achievements or ranking in the FA Premier League of 1999-2000.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The image shows a soccer player wearing a jersey, but it does not provide any information about the player's achievements or ranking in the FA Premier League of 1999-2000."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image shows Thierry Henry, but there is no information provided about his ranking compared to the best player who ever played in the Premier League or the top assist players in the 1999-2000 season.",
+        "evidence_reference": "[IMAGE: Thierry Henry | id=7070e97120dc77d96364d39d0001a03e]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image shows Thierry Henry, but there is no information provided about his ranking compared to the best player who ever played in the Premier League or the top assist players in the 1999-2000 season.\nEVIDENCE: [IMAGE: Thierry Henry | id=7070e97120dc77d96364d39d0001a03e]"
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image does not provide any information about the player's achievements or ranking in the FA Premier League of 1999-2000.",
+        "evidence_reference": "[TEXT: Premier League 20 Seasons Awards | id=8737860d6958627e14d5b9ea734a7792]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image does not provide any information about the player's achievements or ranking in the FA Premier League of 1999-2000.\nEVIDENCE: [TEXT: Premier League 20 Seasons Awards | id=8737860d6958627e14d5b9ea734a7792]"
+      }
+    },
+    "shared_seconds": 23.158794958000044,
+    "shared_digest": "0ac530ab3743c09b6ad54afb0a215bf91baba5d162e8e015876ef9ba373ed5a0"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "INSUFFICIENT",
+    "seconds": 1.1350953900000604,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.1400830850000148,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 261,
+      "original_input_tokens": 261,
+      "output_tokens": 47,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.5934559710001395,
+      "image_count": 0,
+      "seed": 3545550144
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 665,
+      "original_input_tokens": 665,
+      "output_tokens": 52,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.626247589000059,
+      "image_count": 1,
+      "seed": 1563700631
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 738,
+      "original_input_tokens": 738,
+      "output_tokens": 103,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 8.279880967999816,
+      "image_count": 1,
+      "seed": 3765416272
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 333,
+      "original_input_tokens": 333,
+      "output_tokens": 91,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 6.643946356000015,
+      "image_count": 0,
+      "seed": 1592657513
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 363,
+      "original_input_tokens": 363,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6495184319999225,
+      "image_count": 0,
+      "seed": 2302457156
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "baseline_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4787224880001304,
+      "image_count": 0,
+      "seed": 3719599535
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 377,
+      "original_input_tokens": 377,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6593811340001139,
+      "image_count": 0,
+      "seed": 810229464
+    },
+    {
+      "qid": "df1baba3c38afb8cb6574f05de962c94",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.47356637600000795,
+      "image_count": 0,
+      "seed": 1019785517
+    }
+  ],
+  "completed_utc": "2026-10-13T19:57:23.653762+00:00"
+}

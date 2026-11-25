@@ -1,0 +1,12 @@
+{
+ "key": "c88702cb5e459f98891fadc43ede7e6beda735b0a977c307d1e5ce7ca58f6511",
+ "text": "The provided data does not contain any information about Roshan Ravindra or the movies he was in. Therefore, it is impossible to answer the question based on the given information.",
+ "input_tokens": 2802,
+ "output_tokens": 38,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 7.76
+}

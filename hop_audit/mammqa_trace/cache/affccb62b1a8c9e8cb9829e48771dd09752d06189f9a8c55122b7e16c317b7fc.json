@@ -1,0 +1,12 @@
+{
+ "key": "affccb62b1a8c9e8cb9829e48771dd09752d06189f9a8c55122b7e16c317b7fc",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image is a movie poster for \"The Nun's Story,\" which features a woman in a nun's habit prominently displayed on the poster.</insights>\n\n<answer>The year \"The Nun's Story\" made its debut is 1959.</answer>",
+ "input_tokens": 2233,
+ "output_tokens": 72,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.22
+}

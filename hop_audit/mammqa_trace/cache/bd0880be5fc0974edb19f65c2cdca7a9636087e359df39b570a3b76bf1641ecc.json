@@ -1,0 +1,12 @@
+{
+ "key": "bd0880be5fc0974edb19f65c2cdca7a9636087e359df39b570a3b76bf1641ecc",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no images provided that contain the necessary information to answer the question.</insights>\n\n<answer>Based on the provided images, there is insufficient information to determine which driver had a time/status of +8 laps and Mercury as their manufacturer of the top ten finishers in the 1963 Golden State 400.</answer>",
+ "input_tokens": 2549,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 12.13
+}

@@ -1,0 +1,12 @@
+{
+ "key": "30fca722a97a559be14c515b3761c84ea41d73216936b07eca2adccf00e14e2d",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Marcy Harriell's roles across different years and theaters.\n- The year 2008-11 corresponds to the production \"In the Heights\" at the Richard Rodgers Theatre.\n- The role listed for this production is \"Vanessa\".\n</insights>\n\n<answer>\nThe activity being performed in the 2008-11 M. Harriell stage production poster is \"In the Heights\" at the Richard Rodgers Theatre, where she played the role of \"Vanessa\".\n</answer>",
+ "input_tokens": 987,
+ "output_tokens": 123,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.64
+}

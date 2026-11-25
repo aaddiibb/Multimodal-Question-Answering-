@@ -1,0 +1,12 @@
+{
+ "key": "e3970566e180c60f69c2c20e870e8fd9366541d37361d07e9870e8ca22c792d2",
+ "text": "Let's break down the question and the available information step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"What 2001 New Orleans Saints 12:00 PM CT regular season opponent made it to the Super Bowl in 2017?\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided data, we have the following key insights:\n- The 2001 New Orleans Saints played several games in the regular season.\n- The 2001 season ended with a loss to the San Francisco 49ers on January 6, 2002.\n- The 2009 New Orleans Saints won the Super Bowl XLIV in 2010.\n- The 2017 New Orleans Bowl featured Troy against North Texas.\n\n### Step 3: Break Down the Question into Subquestions\nTo answer the main question, we need to identify the specific opponent from the 2001 season that made it to the Super Bowl in 2017. We can break this down into the following subquestions:\n\n1. Which team did the New Orleans Saints play in the 2001 regular season?\n2. Which of those teams made it to the Super Bowl in 2017?\n\n### Step 4: Answer the Subquestions\n1. **Which team did the New Orleans Saints play in the 2001 regular season?**\n   - From the table, we see that the New Orleans Saints played against the following teams in the 2001 regular season:\n     - Buffalo Bills\n     - New York Giants\n     - Minnesota Vikings\n     - Carolina Panthers\n     - Atlanta Falcons\n     - St. Louis Rams\n     - San Francisco 49ers\n     - Indianapolis Colts\n     - New England Patriots\n     - Carolina Panthers again\n     - Atlanta Falcons again\n     - St. Louis Rams again\n     - Tampa Bay Buccaneers\n     - Washington Redskins\n     - San Francisco 49ers again\n\n2. **Which of those teams made it to the Super Bowl in 2017?**\n   - The only team from the 2001 season that made it to the Super Bowl in 2017 is the San Francisco 49ers. They played against the New Orleans Saints in the 2001 season and lost to them.\n\n### Final Answer\nThe 2001 New Orleans Saints",
+ "input_tokens": 2360,
+ "output_tokens": 512,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 45.33
+}

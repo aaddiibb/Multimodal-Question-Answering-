@@ -1,0 +1,12 @@
+{
+ "key": "f3fb8808ea45f2db4a977bab9eaf20c9a82838009e195fb7a4a9eccc9c052092",
+ "text": "<insights>\n- The film \"The Heart of the Matter\" was released in 1953.\n- The film \"The Nun's Story\" was released in 1959.\n</insights>\n\n<subanswer>\n- When was the film \"The Heart of the Matter\" released?\n</subanswer>\n\n<subanswer>\n- When was the film \"The Nun's Story\" released?\n</subanswer>\n\n<answer>\n\"The Heart of the Matter\" was released in 1953, while \"The Nun's Story\" was released in 1959. Therefore, \"The Nun's Story\" is the more recent film to feature a nun's habit.\n</answer>",
+ "input_tokens": 2407,
+ "output_tokens": 146,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 15.51
+}

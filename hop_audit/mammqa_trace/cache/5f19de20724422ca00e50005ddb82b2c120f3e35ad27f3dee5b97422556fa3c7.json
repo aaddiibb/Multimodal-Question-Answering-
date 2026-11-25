@@ -1,0 +1,12 @@
+{
+ "key": "5f19de20724422ca00e50005ddb82b2c120f3e35ad27f3dee5b97422556fa3c7",
+ "text": "Based on the provided text and table, there is no information about a film titled \"Battlefield Earth\" or one featuring two guys riding surfboards on the cover. Additionally, there is no reference to Marques Houston's films.\n\nThe table lists several films directed by Marques Houston, but none of them match the description of \"Battlefield Earth\" or feature two guys riding surfboards on the cover. The films listed are:\n\n1. Bébé's Kids (1992)\n2. House Party 3 (1994)\n3. Good Burger (1997)\n4. House Party 4: Down to the Last Minute (2001)\n5. You Got Served (2004)\n6. Fat Albert (2004)\n7. Somebody Help Me (2007)\n8. Boogie Town (2010)\n9. Somebody Help Me 2 (2010)\n10. Battlefield America (2012)\n\nNone of these films match the description provided in the question. Therefore, based on the available information, it can be concluded that neither \"Battlefield Earth\" nor a film featuring two guys riding surfboards on the cover was directed by Marques Houston.",
+ "input_tokens": 1633,
+ "output_tokens": 258,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 20.4
+}

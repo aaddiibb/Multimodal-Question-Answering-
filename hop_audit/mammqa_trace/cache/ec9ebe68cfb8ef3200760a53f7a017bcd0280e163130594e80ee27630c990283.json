@@ -1,0 +1,12 @@
+{
+ "key": "ec9ebe68cfb8ef3200760a53f7a017bcd0280e163130594e80ee27630c990283",
+ "text": "The question asks about a player added to the Minnesota Vikings in the 2018 season who was previously on the team that won the Super Bowl in 1970. From the provided information, we know that Kirk Cousins was added to the Minnesota Vikings in the 2018 season and he was previously on the Washington Redskins, which won the Super Bowl in 1970.\n\n<answer>\nKirk Cousins was added to the Minnesota Vikings in the 2018 season and he was previously on the Washington Redskins, which won the Super Bowl in 1970.\n</answer>",
+ "input_tokens": 4357,
+ "output_tokens": 127,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 24.66
+}

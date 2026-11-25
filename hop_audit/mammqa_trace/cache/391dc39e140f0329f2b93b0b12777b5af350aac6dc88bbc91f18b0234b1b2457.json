@@ -1,0 +1,12 @@
+{
+ "key": "391dc39e140f0329f2b93b0b12777b5af350aac6dc88bbc91f18b0234b1b2457",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not contain any information about airlines with the callsign TRANSCANADA that are currently operating in Alberta.\n</insights>\n\n<answer>\nThere is no information provided about an airline with the callsign TRANSCANADA that is currently operating in Alberta.\n</answer>",
+ "input_tokens": 1478,
+ "output_tokens": 70,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.26
+}

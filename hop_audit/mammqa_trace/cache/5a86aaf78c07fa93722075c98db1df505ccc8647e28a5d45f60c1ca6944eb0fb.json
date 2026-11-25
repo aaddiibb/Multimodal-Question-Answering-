@@ -1,0 +1,12 @@
+{
+ "key": "5a86aaf78c07fa93722075c98db1df505ccc8647e28a5d45f60c1ca6944eb0fb",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists sports along with their fan base and sphere of popularity.\n- Sports listed under the \"Global\" sphere are: Association football, Tennis, Table tennis, Basketball, and Baseball.\n- Jackie Robinson played baseball, so we need to identify if he played any sport in the global sphere other than baseball.\n</insights>\n\n<answer>\nJackie Robinson played association football, which falls under the global sphere of popularity.\n</answer>",
+ "input_tokens": 828,
+ "output_tokens": 103,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.83
+}

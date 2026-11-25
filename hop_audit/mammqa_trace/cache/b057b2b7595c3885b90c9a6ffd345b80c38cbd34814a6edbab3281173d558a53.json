@@ -1,0 +1,12 @@
+{
+ "key": "b057b2b7595c3885b90c9a6ffd345b80c38cbd34814a6edbab3281173d558a53",
+ "text": "<modality>image</modality>\n\n<insights>The image contains logos of various universities. One of them features an anchor symbol.</insights>\n\n<answer>The private educational university with a logo featuring an anchor in West Bengal is Seacom Skills University.</answer>\n\n<subanswer>The Seacom Skills University logo features an anchor symbol.</subanswer>",
+ "input_tokens": 1707,
+ "output_tokens": 72,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 8.06
+}

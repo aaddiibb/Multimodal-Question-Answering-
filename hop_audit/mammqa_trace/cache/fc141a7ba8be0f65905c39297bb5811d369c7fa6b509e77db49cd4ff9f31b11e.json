@@ -1,0 +1,12 @@
+{
+ "key": "fc141a7ba8be0f65905c39297bb5811d369c7fa6b509e77db49cd4ff9f31b11e",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who is the older football player born out of Mehdi Mahdavikia?\n2. Who is the player with the most matches as captain active between 1993 and 2006?\n\nNow let's address these subquestions:\n\n1. The older football player born out of Mehdi Mahdavikia is Sirous Ghayeghran. According to the text, Sirous Ghayeghran was born on 22 January 1962, which makes him older than Mehdi Mahdavikia who was born on 24 July 1977.\n\n2. The player with the most matches as captain active between 1993 and 2006 is Ali Daei. According to the table insights, Ali Daei has captained the Iran national football team for 80 matches during that period.\n\nNow we can combine these answers to form the final answer to the original question:\n\n<answer>The older football player born out of Mehdi Mahdavikia and the Iran national football team player with the most matches as captain active between 1993 and 2006 are Sirous Ghayeghran and Ali Daei respectively.</answer>",
+ "input_tokens": 4331,
+ "output_tokens": 272,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 39.11
+}

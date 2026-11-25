@@ -1,0 +1,12 @@
+{
+ "key": "13be98df4ff14fa4be2e64ba6d5f097cdcf13395cea4b7b912e2e00cffe72d2d",
+ "text": "<answer>Tharu Athara Mama</answer>",
+ "input_tokens": 1248,
+ "output_tokens": 12,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.18
+}

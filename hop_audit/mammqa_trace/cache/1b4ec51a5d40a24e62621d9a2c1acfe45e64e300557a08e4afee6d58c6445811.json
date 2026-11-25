@@ -1,0 +1,12 @@
+{
+ "key": "1b4ec51a5d40a24e62621d9a2c1acfe45e64e300557a08e4afee6d58c6445811",
+ "text": "<modality>image</modality>\n\n<insights>The image contains logos of various teams, including one with a running mammal on its logo.</insights>\n\n<answer>Arkansas Razorbacks</answer>\n\n<subanswer>Which team has a running mammal on its logo?</subanswer>",
+ "input_tokens": 1875,
+ "output_tokens": 63,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 7.97
+}

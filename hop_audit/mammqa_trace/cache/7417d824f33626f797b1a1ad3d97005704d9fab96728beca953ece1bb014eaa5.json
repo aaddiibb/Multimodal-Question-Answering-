@@ -1,0 +1,12 @@
+{
+ "key": "7417d824f33626f797b1a1ad3d97005704d9fab96728beca953ece1bb014eaa5",
+ "text": "Based on the provided table insights and multimodal inputs, let's break down the question into simpler subquestions:\n\n### Subquestions:\n1. Which film features a train on the poster?\n2. What is Nona Gaye's role in the film that features a train on the poster?\n\n### Answers:\n1. The film that features a train on the poster is \"The Polar Express.\"\n2. Nona Gaye's role in \"The Polar Express\" is \"Hero Girl (voice).\"",
+ "input_tokens": 2555,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 12.61
+}

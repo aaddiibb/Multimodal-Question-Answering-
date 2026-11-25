@@ -1,0 +1,12 @@
+{
+ "key": "db9bda5ad85666794676fd9aae486068d8c5fb2639349111a5ce47e37e060846",
+ "text": "<insights>\n- The Triple Crown of Thoroughbred Racing includes three races: the Kentucky Derby, Preakness Stakes, and Belmont Stakes.\n- The Belmont Stakes is typically run over a distance of one and one-fourth miles.\n- The question asks about the race in the Race Record of the horse Borrego with a distance of one and one-fourth miles that is part of the Triple Crown.\n</insights>\n\n<subanswer>\nThe Belmont Stakes is the race that fits both criteria: it is one of the three races comprising the Triple Crown, and it is run over a distance of one and one-fourth miles.\n</subanswer>\n\n<answer>\nThe race in the Race Record of the horse Borrego with a distance of one and one-fourth miles that is also one of the three races to win the Triple Crown is the Belmont Stakes.\n</answer>",
+ "input_tokens": 2651,
+ "output_tokens": 183,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 19.6
+}

@@ -1,0 +1,12 @@
+{
+ "key": "323d121e68b34833dce8415d9b1153d249ff41a4c73b1657ecc03512a7e871a8",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image appears to be a promotional poster for a television series titled \"The Partridge Family\" featuring Susan Dey playing the role of Susan Partridge. However, there is no explicit mention of the filming location in this image.</insights>\n\n<answer>Based on the provided image, it is not possible to determine the exact filming location of \"The Partridge Family\" where Susan Dey plays the part of Barbara Ross. The image only provides the title and a promotional poster for the series.</answer>",
+ "input_tokens": 2470,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 13.92
+}

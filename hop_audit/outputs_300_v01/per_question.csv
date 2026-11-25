@@ -1,0 +1,305 @@
+qid,type,label,em,f1,final_abstain,prediction,gold,n_latent_hops,hop_statuses,agents_committed_gold,agents_mentioning_gold
+f1d8bf21d404686f93b0993778905686,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.2857,False,"""LSD: Love Story""",Love Sex aur Dhokha,1,NOT_SURFACED,,
+b18df92399d5d28a9e28236f3046c50f,"Intersect(TableQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,False,The Western Bulldogs played in the 2016 AFL Grand Final. The Western Bulldogs are known for drafting father-son pairs like Simon Black and Adam Goodes in the 1995 AFL pre-draft selections.,Footscray,2,REACHED;REACHED,,S2.image
+e7e728212dd999b3cf1a8de67442d3ac,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,A cowboy hat,microphone,1,REACHED,,
+983896c1506e70dabb50e77a717268d9,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Yes,yes,1,REACHED,S2.image,
+87d0d1beddda61d9333506028006c7bd,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is no information provided about Michael Potts acting in a theatre with a large green lawn.,1998,1,NOT_SURFACED,,
+b04f9ebb5c841438872ffd1342c788e5,"Compare(TableQ,Compose(TableQ,TextQ))",SURFACE_FORM,0.0,0.1818,False,"Yes, Taron Egerton played Andy in the short film ""Pop"" in 2012.",Andy,1,REACHED,,
+96aad9d0dc7fcb9fdea8db970f90853a,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,"July 28, 2008","July 28, 2008",1,REACHED,S2.table;S2.image,S2.table;S2.image
+062686b4df599f4111761a0753f4c6c1,TableQ,AGGREGATION_LOSS,0.0,0.1667,False,Transformers: Revenge of the Fallen,Transformers Autobots | Transformers: The Game,2,REACHED;REACHED,S1.table;S2.text,S1.table;S2.text
+4ea83a52d230178274421f426d8e3dc3,TableQ,COMPOSITION_FAILURE,0.0,0.3333,False,19th,19th ↓ | 11th,1,REACHED,,
+cc5273a106f1c124aab46feb4f9461b0,"Compose(ImageQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is insufficient information to determine the number of characters in the 2002 Michael Potts theatre production painting.,3,1,NOT_SURFACED,,
+1d96824848914bb5ab82bd87085605ce,"Compare(TableQ,Compose(TableQ,TextQ))",SURFACE_FORM,0.0,0.4444,False,Ali Karimi has more caps than Ali Daei.,Ali Daei,1,REACHED,,
+12b5572cf9bbb103a607a9e0b880c94a,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Mertis John Jr.,Mertis John Jr.,1,REACHED,S1.table;S2.text;S2.table,S1.table;S2.text;S2.table
+8fba1443e531d82871ccbd5a8ab9f3be,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,The Futureheads,The Futureheads,1,REACHED,,
+380f72986c6728b13c17f77dc6c22205,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,-92,-50,1,REACHED,,
+13c2a1185b4afbdb3ff93e673e6aa82a,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,There is no song on the Juliana Hatfield track listing that was originally sung by an artist with blonde hair that is longer than her shoulders.,3:37,1,NOT_SURFACED,,
+591fea517306d7aaa6d40ab6d92c60c7,TableQ,SURFACE_FORM,0.0,0.0909,False,The earliest year that actor Steve Burton was nominated for his work on General Hospital by the Soap Opera Digest Award Association was 1997.,1997,2,REACHED;REACHED,,
+74f9019633803db0ac332ee70ff326b0,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,No,May 8,1,NOT_SURFACED,,
+ff7ecb97b47ba179fb7b7ee98d488d1a,"Compose(TableQ,ImageListQ)",COMMITMENT_FAILURE,0.0,0.0,False,"Anna Akana played the character of Lena Foster on ""The Fosters,"" whose title screen shows a house.",Lily,1,REACHED,,S2.image
+3e0e050e933e43ccb163b7fcc7535b21,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Hero Girl (voice),Hero Girl (voice),1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+6cdbdb112202d243e6a061fab81e9b7a,"Compose(TableQ,ImageListQ)",AGGREGATION_LOSS,0.0,0.5,False,Berry Powel,Hilmi Mihci | Berry Powel,1,REACHED,S2.image,S2.image
+c900076a1a7a0d6a586e6e5dc7d60696,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,2016,2016,1,REACHED,,
+24d401e9e9842ac66ee811ea21fbb509,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Gibraltarian,Gibraltarian,1,REACHED,S2.table;S2.image,S2.table;S2.image
+c38d39b39912cc58a0822432b6660fbf,"Compose(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,No,Reshard Cliett,1,REACHED,S2.image,S2.text;S2.image
+ede9a615811ae817b7e7e4cce658b595,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,0.125,False,"The show where actress Elizabeth Berridge played Julia Scianti, ""Miami Vice,"" went off the air in 1989.",1989,1,REACHED,,
+c49e7cfc4919fe9ca4a361579c582e39,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Ministry Witch #1,Ministry Witch #1,1,REACHED,S1.table;S2.table,S1.table;S2.table;S2.image
+ddc3ef7735c55abceb3dcd2c0b863498,"Compose(ImageQ,TableQ)",SURFACE_FORM,0.0,0.1111,False,The item on the top of the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup is a crown.,crown,1,REACHED,S1.image,
+20f925030747b53b816d9f5436a6109c,TableQ,CORRECT,1.0,1.0,False,"Tyler Turner, Richmond Laryea, Harrison Heath, Hadji Barry, Mason Stajduhar, Bryan Róchez",Hadji Barry | Richmond Laryea | Mason Stajduhar | Harrison Heath | Tyler Turner | Bryan Róchez,2,REACHED;REACHED,S2.text,S2.text;S2.image
+ab3c347c802bfdfd80b53320400e263c,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.6667,False,1993 | 2011,2011 | 1993 | 1996,1,REACHED,,
+3381825f509615f7d458fd6205d07e77,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,I Put a Spell on You,Jay Hawkins,1,REACHED,S2.table,S2.table
+042167257f2a553469fa2c3bfef659f6,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.8,False,Jackson Brundage,Jackson Timothy Brundage,1,REACHED,,
+0a8b8b970675ee05c9579f4330c19d70,"Intersect(ImageListQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,No,Kick Buttowski: Suburban Daredevil | Slugterra,2,NOT_SURFACED;NOT_SURFACED,,
+50e892833f89d565b6f5dc57a237b325,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,No,Light Turner,1,REACHED,S2.table,S2.table
+e1121329fd8a39084973981b0ae09f4a,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,Saturn Awards | Empire Awards,1,REACHED,,
+b8b26f0400eb24a66b16445077a0a81e,"Compose(TableQ,ImageListQ)",AGGREGATION_LOSS,0.0,0.0,False,Coventry Bears,Oldham R.L.F.C.,1,REACHED,S2.image,S2.image
+e4fedf45de5b3fdb19ab04f43bb2377a,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Archie held a silver cup in his left hand.,award,1,REACHED,,
+57e8c0c3de0b05088ff7a3c85edef187,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,No,no,1,REACHED,,
+69389b694bb9a06f7f023eadf8ba1f61,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,Insufficient information,black,1,REACHED,,
+10af21e2b2756b42cc049dbbd73fe4ef,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.8571,False,"infant, schoolboy, lover, soldier, justice, pantaloon, old age",lover | justice | soldier | old age | Pantalone | infant | schoolboy,1,REACHED,,
+daf24c25a5126e8caf6773a7cd956298,"Compose(TableQ,ImageListQ)",AGGREGATION_LOSS,0.0,0.0,False,Peanut | Chickpea | Pea | Soybean | Lima Bean | Cowpea | Lentil | Mung Bean,Indian beechnut,1,NOT_SURFACED,S2.table,S1.table;S2.table
+e368b925129bc3ad35a94a6d5e9de770,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,0.6667,False,February 2002,2002,1,REACHED,,
+b34e6f73a8e2041acfdaa10be9d590bc,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Marc Lloyd-Williams,Marc Lloyd-Williams,1,NOT_SURFACED,S2.text;S2.image,S2.text;S2.image
+12cc070c25eedb638ec9b018e4678156,"Intersect(TableQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,False,The Belmont Stakes,Kentucky Derby,2,REACHED;REACHED,,S1.text;S1.table;S2.text;S2.table;S2.image
+f45e8147c2d7cd59000bb36574120900,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",EXTRACTION_FAILURE,0.0,0.0,False,Anthony Hamilton,Mark Williams,2,NOT_SURFACED;REACHED,,
+3d1cfc992ee4774dba9a663ca9b36809,"Compare(TableQ,Compose(TableQ,TextQ))",SURFACE_FORM,0.0,0.0741,False,"It is not possible to determine which film has an earlier year in David Sterne's filmography without knowing the release years of ""Jinnah"" and ""Harry Potter and the Prisoner of Azkaban.""",Jinnah,1,REACHED,,
+6ff171b80a0f0f8144a65f16be37b24c,TableQ,COMPOSITION_FAILURE,0.0,0.3333,False,Prelude 3,Prelude 2 | Main Presentation | Prelude 3,1,REACHED,,
+7bd7f567ed3392942c746c652e356be8,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+1ad0c10aa88ae1ee3af333e942b146a8,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Alex Jennings,Alex Jennings,1,REACHED,S2.image,S2.image
+e723bdfa758e95165ffdbb99dab1bdc2,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,sitting at a desk,writing,1,REACHED,,
+ff9aba2705aed6a76fe35afa2ad24d6f,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,Insufficient information,1949,1,NOT_SURFACED,,
+8f175a0cb4fa6ff5d62cb680638c98eb,"Compose(TextQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,The Santa Fe Railroad,Union Pacific Corporation (NYSE: UNP),1,NOT_SURFACED,,
+86d78c3d0b404a680cdb247e15babd64,TableQ,CORRECT,1.0,1.0,False,The Beast,"""The Beast""",2,REACHED;REACHED,S1.table;S2.image,S1.table;S2.text;S2.image
+445bc5e02f240a4d151b30e9ec6dea80,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,No,Margunn Haugenes,1,NOT_SURFACED,,
+49ee63cd9334f492856f4f03aff1807e,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Ministry Witch #1 | Goblet of Fire,wand,1,REACHED,,
+650e85cfb29a3e913d55831c30090080,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Stipe Miocic,Stipe Miocic,1,NOT_SURFACED,,
+52d8d419290b16a96633cd9920f1ea8c,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,"There is no information available about a film where a pickup truck appears on the poster, and thus, we cannot determine Christian Manon's role in that film.",Roadhouse Mechanic,1,NOT_SURFACED,,
+ac9c96e3b92ac9227a8a5f2ccea4d780,"Intersect(ImageListQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,Player 15,Marcin Gortat | J. J. Redick | James Augustine,2,REACHED;REACHED,S2.text,S1.table;S2.text
+2d4201adb565f16f8024fe3225f301dd,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,"There is no movie featuring Megan Park in 2016 that has a character named ""Black Badger."" The role played by Megan Park in ""Central Intelligence"" in 2016 is ""Lexi.""",Phil,1,REACHED,S2.table,S2.table
+28411052506c4009e3707aefe55fab15,"Compose(ImageQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,False,Michael Jordan,earring,1,REACHED,,
+9836e53dcac8847a9af8e414b2d68cf2,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Bruce Robison,Bruce Robison,1,REACHED,S2.image,S2.image
+3c464ec9ff6ae28426640fdd51aaf2fd,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Gloves,glove,1,REACHED,,
+6780758fb1ebc547582c186ca681b84d,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,"The structure behind the men in the cover of the series ""Lewis"" is a building with a clock tower.",castle,1,REACHED,,
+c0674458cd26df97b8e5579d871016e5,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,one,two,1,REACHED,,
+09806284de195b3747072c1b4df7b034,"Compose(ImageQ,TextQ)",CORRECT,1.0,1.0,False,Yes,yes,1,REACHED,S1.image;S2.image,
+67e67f6e04a508420dbf6e0736038686,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Dixie Chicks,Dixie Chicks,1,REACHED,,
+375ab64096ab9e840266206aff6f461a,"Compose(TableQ,TextQ)",SURFACE_FORM,0.0,0.2222,False,"Carlos Gomez played the role of an FBI Agent in the 1998 film ""Enemy of the State,"" directed by Tony Scott.",FBI Agent,1,REACHED,S2.text,S2.text;S2.image
+bf39d84c7e1ce3e0f7b98c1b8e4be6ef,"Intersect(TableQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,False,Tim McGraw,Martina McBride,2,LOST_IN_HANDOFF;LOST_IN_HANDOFF,,S1.table
+05cf9d2b18e4c0358e321dbd28b12d14,"Intersect(TableQ,TextQ)",EXTRACTION_FAILURE,0.0,0.0,False,San Francisco 49ers,at Atlanta Falcons | Atlanta Falcons,2,REACHED;NOT_SURFACED,,
+e9cfe3d149fccbf737f3cca2ab607e46,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,The driver sponsored by a company with three vertical green lines on its logo had lower losses in Group C of the 2003 Race of Champions.,Boris Said,1,NOT_SURFACED,,
+c94e7a70bb7f9b7ee82c7a4320eb756a,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.3333,False,Assists per game,Blocks per game | FG% | Assists per game,1,REACHED,,
+ac72e14d54369a683fa34bf74da17395,TableQ,EXTRACTION_FAILURE,0.0,0.0,False,Week 7,9–6,2,NOT_SURFACED;NOT_SURFACED,,
+71c65b4e835609c89fff04ef226eb27f,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Bugatti,Bugatti,1,REACHED,S1.text;S1.image;S2.text;S2.image,S1.text;S1.image;S2.text;S2.image
+fdd0c88d5c107669cc4b6813894b7f5e,"Compose(ImageQ,TextQ)",CORRECT,1.0,1.0,False,Microphone,microphone,1,REACHED,,
+6b0c1ee8eaaa43d13e176b4833a0ecb3,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,"The transfer type of the transfer to Jamshedpur FC from Chennaiyin FC in the 2019-20 season was ""Free"".",Loan,1,REACHED,,
+a2f15e58d703567c1a32d440ddf30299,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Joey Rand,Joey Rand,1,REACHED,S2.image,S2.image
+c932bd00be5ba7df47e96f7f18c69eda,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,The setting of the play where Matthew Rhys plays Macduff is Scotland.,Scottish,1,REACHED,S1.table,S1.table;S1.image;S2.table;S2.image
+1982ea14d6fa923927619d4a4c68db87,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+2905288d5e473cf4a199a909aac1be93,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,"""Lost in Space""",A Beautiful Mind,1,NOT_SURFACED,,
+378f2ab361968ed2720f48eface3889a,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,"There is no newer version of the 1991 film ""Beauty and the Beast"" that features Rex Everhart as an actor among the provided images.","premiered on February 23, 2017, at Spencer House in London | was released in the United States on March 17, 2017",1,REACHED,,
+e9d115431bb3af91b67f8d57b3c8616a,"Intersect(TableQ,TextQ)",CORRECT,1.0,1.0,False,Rick Mears,Rick Mears,2,REACHED;REACHED,S2.table;S2.image,S1.table;S2.table;S2.image
+e3adf9992eeb8686e5001ac112de7178,"Compose(ImageQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,Pat Summerall,watch,1,REACHED,S1.image,
+39bd3f9ddc4b33aee21bce4774d54834,TableQ,CORRECT,1.0,1.0,False,1966,1966,1,REACHED,,
+871e09ce0d6dd22c33e2abc5e070ded3,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+9475edd08caab8f60fc5f4e14be760b0,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is insufficient information to determine the runner-up when the champion team features a landing eagle on their logo.,UE Red Warriors,1,NOT_SURFACED,,
+16ad0ff40da24c7330ca490987dadf87,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,The Shahada,shahādah,1,REACHED,,
+6273c933272b9332f9a70bf27dd84e68,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,102,Sachin Tendulkar,1,NOT_SURFACED,,
+265c9d2214f57787e65302039ec8b8f9,"Compare(TableQ,Compose(TableQ,TextQ))",SURFACE_FORM,0.0,0.2857,False,Valentina Papp from Budapest is older.,Budapest,1,REACHED,,
+bc2e226b953fe9073c646c40b6fbbe73,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.4,False,Ben Savage,Bennett Joseph Savage,1,REACHED,,
+7304d0bba0ec848c223e4b203e2d0158,"Compose(ImageQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is no information provided about the color of Annabelle Wallis's hair on the top part of the 2006 movie poster. The table only lists her roles and titles but does not contain visual details about the posters.,blond,1,NOT_SURFACED,,
+a9c9a80d9b266cf786ebd2b3cba0d60f,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.4,False,Midwife Marmaduke,midwife Jenny Lee,1,REACHED,,
+c24d916959a91e823faa7a8ce8292bc7,"Intersect(TableQ,TextQ)",CORRECT,1.0,1.0,False,Jerrod Niemann,Jerrod Niemann,2,REACHED;REACHED,S2.image,S1.table;S2.image
+d4f7ddfba90360ad1e0fb4c100b7ab41,"Intersect(ImageListQ,TableQ)",SURFACE_FORM,0.0,0.25,False,Satoko Miyahara | Wakaba Higuchi | Rika Hongo | Kanako Murakami,Wakaba Higuchi,2,REACHED;REACHED,S2.text,S2.text;S2.image
+82edc4d2853f5563dbce0001a3944d20,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,"Anfernee Deon ""Penny"" Hardaway","Anfernee Deon ""Penny"" Hardaway",1,REACHED,S1.text;S2.text,S1.text;S2.text
+51f16e3b8adb750b07683daf4487094d,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,Ólafur Hrannar Kristjánsson,Ben Everson,1,NOT_SURFACED,,
+394605f7d9fd8c2bd078361bc26ada7c,TableQ,COMPOSITION_FAILURE,0.0,0.25,False,Tharu Athara Mama,Tharu Athara Mama | Guru Geethaya | Bhavatharna | Thanapathilage Gedara,1,REACHED,,
+63892c41545d011066d4a5e9a75dc71d,"Compose(TableQ,TextQ)",EXTRACTION_FAILURE,0.0,0.0,False,Troy Olsen,Amar,1,NOT_SURFACED,,
+c07c108b8be892dd32e4485406ba61b4,"Intersect(TableQ,TextQ)",CORRECT,1.0,1.0,False,Best Supporting Actress,Best Supporting Actress,2,REACHED;REACHED,S2.image,S1.text;S1.table;S2.text;S2.table;S2.image
+f11cff3920ce9f8a27dc4fe961f10d5c,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Gladys Knight,Gladys Knight,1,REACHED,S2.image,
+ebbc4d5836afde56f6c50d6f06deff2e,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Sofia Coppola,Sofia Coppola,1,REACHED,S1.text;S2.text,S1.text;S2.text
+c328bffe44419f1ef817569e82fc6d2c,"Compare(Compose(TableQ,ImageQ),TableQ)",AGGREGATION_LOSS,0.0,0.0,False,Telstar,Torino,1,REACHED,S1.table;S2.table,S1.table;S1.image;S2.table;S2.image
+7ad698710c7ccb4f92bde540a1f189e4,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Jack Lord,"John Joseph Patrick Ryan (December 30, 1920 – January 21, 1998), best known by his stage name, Jack Lord",1,REACHED,,
+d8a3cc4403fbcb2ea99382815730ddec,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Basketball,basketball,1,REACHED,S1.image,
+f378e6c2b3178511b6987480dc57f417,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is insufficient information in the provided data to determine the number of games played by a player with short red hair in Major League Soccer.,418,1,NOT_SURFACED,,
+fe687c0c73f3094669d5ec9eaddc0e15,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,False,Peppermill Reno,Washoe County,1,REACHED,,
+111e2c6d6aac95d1ebd632d2e37a70e7,"Compose(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,There is no record in the provided data that specifies St. Louis as the location and involves refueling.,"July 13–30, 1929",1,REACHED,S2.text,S2.text
+c93e3959754568b3799ea4bd6b355818,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,Ramon Sessions,Vlade Divac,1,REACHED,,
+2cca87e7b1b77ee2e3f4f83119c1854c,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.5,False,Tennis,Basketball | Tennis,2,REACHED;REACHED,S2.text,S1.table;S2.text;S2.table
+0efd517e21041f77d5bd4827eb93391e,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Siemens,Siemens,1,REACHED,,
+f32edadabeda35d4aaf685ca937386a9,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,South Park,Johnnie Cochran,1,REACHED,,
+069ac34398c0b27d57efddea30e510e4,"Intersect(ImageListQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,Texas Tech,SMU,2,NOT_SURFACED;REACHED,,
+d27caed0b360cd98c8b04c53751582c8,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Yes,yes,1,REACHED,,
+31979c4f4273dfe571df8d50d268bf8b,TableQ,COMPOSITION_FAILURE,0.0,0.5,False,Block A,Block B | Block A,1,REACHED,,
+966c44b2a49b38286ff313a2386824cc,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,7:54,7:54,1,REACHED,,
+a1e42da526ff18d90cd2eda775fc3be2,"Compose(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,No,Diana Ross Presents The Jackson 5,1,REACHED,S2.text,S2.text;S2.image
+8ee6828df3f7dff3e979d0b87a2e812e,"Compose(ImageQ,TableQ)",HANDOFF_LOSS,0.0,0.0,True,"There is no information provided about the Etranges Libellules 2001 game cover or its figures. Hence, the number of figures cannot be determined from the given text, table, or images.",two,1,LOST_IN_HANDOFF,,
+23784e8b16f3c60960174e8b7e94d117,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,The provided data does not specify the color of Neel Jani's hair.,black,1,REACHED,,
+ee7f5fc0979ce89e85a801542edd8ad4,"Compose(TextQ,ImageListQ)",CORRECT,1.0,1.0,False,U.S. Route 23,U.S. Route 23,1,REACHED,S1.text;S2.text,S1.text;S2.text;S2.table;S2.image
+1f4c0c5d7a5fe2d4bac22baf5bef68c2,"Intersect(ImageListQ,TableQ)",COMMITMENT_FAILURE,0.0,0.0,False,Iman Mobali,Milad Meydavoudi,2,REACHED;REACHED,,S1.table;S2.text
+5f0702dcdf0137e481d95b62ae6ea23d,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,2014,1970,1,REACHED,,
+76d853b0293fed49f6faa47b17057a6b,TableQ,EXTRACTION_FAILURE,0.0,0.5,False,1998 and 1999,1999 | 1998 | 2002 | 2001,2,NOT_SURFACED;NOT_SURFACED,,
+29af2f314cb813aead8134609ecca5b1,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Doctor Baugh,Doctor Baugh,1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+c03a4eff02cfcf14693ab23434683fb9,"Compose(ImageQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,True,There is no information about a sculpture featuring a specific body part named after Dolly the cloned sheep.,hands,1,REACHED,,
+b7106bcf7704805ca0ba84ddd85004f4,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,False,2009,Vladimir Guerrero,1,REACHED,,
+bed46f5100d7cab5c4f1115a7c3638be,TableQ,SURFACE_FORM,0.0,0.6667,False,"""Paralyzed"", ""The Wolfpack"", ""Tunnels""","""The Wolfpack"" | ""Paralyzed""",2,REACHED;REACHED,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.table;S2.image
+c81c4000f886ed9ebe29f8989088575e,"Intersect(ImageListQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,False,Buddhism,Islam,2,REACHED;REACHED,,S2.text
+62bcc955094e4f2dc3e8a3b41384b58d,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,1992,1992,1,REACHED,,
+796d86b407796b748d9feb9e9187a898,TableQ,COMPOSITION_FAILURE,0.0,0.5,False,Olena Zubrilova,Olena Zubrilova | Corinne Niogret,1,REACHED,,
+cad2a8c3d084b5c5f32b28954a00702b,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,1.0,False,"January 29, 2016",29 January 2016,1,REACHED,S2.table,S2.table;S2.image
+a4a3b369ef71a1cb710e993ac313812c,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Josh Gad,Josh Gad,1,REACHED,S2.table,S2.table
+3590ab0420e71d37892fcfda94aee409,TableQ,COMPOSITION_FAILURE,0.0,0.0,True,None,Buick | Ford,1,REACHED,,
+d771de45b0645ba154948c0db000d3be,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Yaroslavl Oblast,Yaroslavl Oblast,1,REACHED,S1.image;S2.image,
+189b3d7c3139f85469bfc72e423a9b44,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,bird,bird,1,REACHED,S1.image,
+424e731dec99fd3b36fb5ba2c59d1f16,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Gloria Estefan,Gloria Estefan,1,REACHED,S1.image;S2.image,S1.image;S2.table;S2.image
+540ceea7e372fedb11d29561059d974e,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.5,False,"""Twelfth Night""","Twelfth Night, or What You Will",1,REACHED,,
+41a0f1050d12b5ef209a19dd4a4822b3,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,"Ivy George played a 5-year-old girl in the TV show ""Twin Peaks,"" whose poster features a globe in the background.",Young Maya,1,REACHED,,
+7d88a7aeac7eb0f69c74c1f642ed48c0,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,"large, dangling earrings",hoops,1,REACHED,,
+0f22b5d312a0b8cc97455e66ddda260c,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,0.1333,False,"- ""Crash"": Jose Ferrer, Sue Lyon, John Ericson, Leslie Parrish, John Carradine, Reggie Nalder
+- ""Breach"": Ryan Phillippe
+- ""Revenge for Jolly!"": Oscar Isaac, Elijah Wood, Adam Brody, Ryan Phillippe, Kristen Wiig
+- ""Gosford Park"": Ryan Phillippe",Ryan Phillippe,1,REACHED,S1.text;S2.text;S2.table;S2.image,S1.text;S2.text;S2.table;S2.image
+e1fbbed63ee293abb898a5de10fefc69,TableQ,COMMITMENT_FAILURE,0.0,0.0,True,"There is no film titled ""Barbara Dirikson"" from 2007, so the role of Flora played by Barbara Dirikson in such a film cannot be determined from the given data.",Kingdom Hearts II: Final Mix+,2,REACHED;REACHED,,S2.image
+7adcb26fda18602af51a8b9f2061f94f,"Compose(TextQ,ImageListQ)",HANDOFF_LOSS,0.0,0.0,False,No,yes,1,LOST_IN_HANDOFF,,
+ab92d78f544f09ec7b61496ece7c0833,"Compose(TableQ,TextQ)",SURFACE_FORM,0.0,0.1667,False,"Tiya Sircar played the role of a hostess in the movie ""Friends With Benefits.""",Hostess,1,REACHED,S2.text;S2.image,S1.table;S2.text;S2.image
+74e41eba24bcaeb1212cb23425f1e69e,TableQ,EXTRACTION_FAILURE,0.0,0.0,False,St. Mary's,California,1,NOT_SURFACED,,
+4778c9f3b15c46c0f7cb8779c3ca4b1c,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,True,It is impossible to determine who is higher in the MLS Team of the Week between Miloš Kocić and the African American player/manager since there is no data regarding their rankings.,Ashtone Morgan,1,NOT_SURFACED,,
+a5e00e7fd6d976c2b4b397c47ab40014,"Intersect(ImageListQ,TableQ)",SURFACE_FORM,0.0,0.5,False,Sully | Letters from Iwo Jima,Sully,2,REACHED;REACHED,S1.table;S2.image,S1.table;S1.image;S2.table;S2.image
+c528ad759ef7277b55426514b219bffb,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,0.125,False,"Yes, Jack Black played guitar in the movie ""School of Rock,"" where Miranda Cosgrove played Summer Hathaway.",yes,1,REACHED,,
+df6a224711b6900ef8e1a91e057b4865,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.7857,False,Sidi Kaouki and Amanjena outside of Marrakesh,"the seaside town of Sidi Kaouki | Amanjena, outside of Marrakesh",1,REACHED,S2.table;S2.image,S2.table;S2.image
+4a870e608f53021d46b2ee4bd3c9eea8,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Sergei Prokofiev,Sergei Prokofiev,1,REACHED,,
+0f0b4253d4f4b8e75740308b6a73619b,"Compose(TextQ,ImageListQ)",CORRECT,1.0,1.0,False,Connor,Connor,1,REACHED,S1.text;S2.text;S2.image,S1.text;S2.text;S2.image
+6bce25aa30561e06dd9cb3bb1003b627,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,yellow,green,1,REACHED,,
+9264216e2fb4bb4868a823e887d09783,"Compose(TextQ,TableQ)",COMMITMENT_FAILURE,0.0,0.0,False,United States,American,1,REACHED,,S1.table;S2.table;S2.image
+a0c18732582c6572f58774c7ae4543fd,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Toby Bailey,Toby Bailey,1,NOT_SURFACED,,
+d8a47742253fc5049ddeeef9f495f7b2,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",COMMITMENT_FAILURE,0.0,0.0,False,Divergent,A Beautiful Mind,2,REACHED;REACHED,,S2.text
+11f0f941600ad6c30e9af93cc9f51712,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,1970,2003,1,NOT_SURFACED,,
+d7c27ea21b8462542f1c66c526418200,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,"There are four people on the poster for ""Rabbit, Run.""",two,1,REACHED,,
+5a92dd84de9fc1a8fa23cc73483d2753,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Terence Young,Terence Young,1,REACHED,S1.text;S2.text,S1.text;S2.text
+29ff34fcffe7fc9ebeb42bb1b1fd826b,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,Aroldis Chapman,Left Shoulder Impingement,1,NOT_SURFACED,,
+65dfcfcd8831e3740f9ad1f9728c6adf,"Compose(TableQ,ImageListQ)",SURFACE_FORM,0.0,0.1667,False,Olimpiyskiy National Sports Complex | Valeriy Lobanovskyi Dynamo Stadium | Arena Lviv | Metalist Oblast Sports Complex | Ukraina Stadium | Chornomorets Stadium | Donbass Arena | Dnipro-Arena | Shakhtar Stadium | Slavutych-Arena | Meteor Stadium | Avanhard Stadium,Arena Lviv | Ukraina Stadium,1,REACHED,S2.image,S2.image
+950e8463e15d9ae0dadd4d25bc4e9b5d,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,"There is no information provided in the given text about a TV show with a downward-pointing arrow on its title screen or about Ilana Glazer's role in such a show. Therefore, it is not possible to answer the question based on the given data.",Herself,1,NOT_SURFACED,,
+781e728f3710587c2eb30edee58f2021,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.5079,False,"The Twin Cities of Minneapolis and Saint Paul, including the Mall of America","After five weeks filming, production moved to California where scenes such as the end parade were shot | in the Twin Cities of Minneapolis and Saint Paul | the Mall of America",1,REACHED,,
+e8874819c8c171d83e26e0ae0f4d2ce4,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,Assam,Assam,1,REACHED,S1.text;S1.image;S2.text;S2.table;S2.image,S1.text;S1.image;S2.text;S2.table;S2.image
+4f95c12e4d2d0b0eb114f3e91db5fbc1,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",EXTRACTION_FAILURE,0.0,0.0,False,1705,Diego Maradona,2,NOT_SURFACED;REACHED,,
+ed06a4b34fa212d6be4522a017d58b82,TableQ,SURFACE_FORM,0.0,0.0,False,Marcian,Marcian (450–457),1,REACHED,S1.table;S2.text,S1.table;S2.text;S2.image
+07b2f4699287ff38512d66e98b250014,"Compare(TableQ,Compose(TableQ,TextQ))",SURFACE_FORM,0.0,0.3333,False,<Keerthi Sagathia | Shazneen Arethna>,"Keerthi Sagathia, Shazneen Arethna",1,NOT_SURFACED,,
+c3abb465eda6c041d19c7cac507593ed,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,"Oxnard, California","Oxnard, California",1,REACHED,S2.image,S2.image
+b85822a4402c85f6f77dec45014232a0,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Elizaveta Tuktamysheva,Elizaveta Tuktamysheva,1,NOT_SURFACED,,
+04dfd7512cbb416af41988232cdd0c68,"Intersect(TableQ,TextQ)",COMMITMENT_FAILURE,0.0,0.0,True,There is insufficient information in the provided text and table to answer the question accurately. The text and table do not contain any details about the Trenton Twin Indy of 1979 or the number of times a driver has won the Indy 500.,Rick Mears,2,LOST_IN_HANDOFF;LOST_IN_HANDOFF,,S1.table
+682370aa53895c2ba3cd49037167518b,"Compose(TableQ,ImageListQ)",SURFACE_FORM,0.0,0.2222,False,"Seacom Skills University, located in Santiniketan, West Bengal.",Santiniketan,1,REACHED,S2.text;S2.image,S2.text;S2.image
+1a6f5a7e7e93514a7515977a3511a822,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,STATE CHAMPS,Hayley Williams,1,REACHED,S2.text,S2.text
+7a892a574302f8422626eac74b696b95,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,1964,1971,1,NOT_SURFACED,,
+64abc23e9b46cbe9da333347dbd60c1e,"Compose(TableQ,TextQ)",EXTRACTION_FAILURE,0.0,0.0,False,The information provided does not allow us to determine which character John Early played as a guest star on Cory in the House.,Cheyenne,1,NOT_SURFACED,,
+f44867274c5f1bf9a001f953c86754f1,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is no information to determine the week when the team with a logo featuring a three-leaved clover was the MVP of the Month for the 2017-18 EuroLeague.,5–10,1,NOT_SURFACED,,
+81088e10057564782ada42345f1b51bc,"Compose(ImageQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,Two,one,1,NOT_SURFACED,,
+287040504a31a4770a12ccb07c36eb13,"Compose(TextQ,TableQ)",SURFACE_FORM,0.0,0.5,False,Wizard of Sextown,Sextown,1,REACHED,S1.text;S2.text;S2.table;S2.image,S1.text;S2.text;S2.table;S2.image
+014f0f79f9af827ba68cbf1b65130f51,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,The color of the hair streaks of the Aathiyandal winner in the Rishivandiyam constituency cannot be determined from the provided information.,red,1,REACHED,,
+7e2b401896aeccf738c7397de9e8d7cf,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Christmas,Christmas,1,REACHED,S1.text;S1.image;S2.text;S2.image,S1.text;S1.table;S1.image;S2.text;S2.table;S2.image
+b11b7bb67eb7917ca109edb62828f618,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+e6bf1ac6cc85c5563ae4a2dc1ce33d5f,TableQ,CORRECT,1.0,1.0,False,Soup for One,Soup for One,1,REACHED,S2.image,S1.table;S2.image
+04bbb16534dfab370b011a84d70bf051,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,1959,1959,1,REACHED,S1.image,
+e8eec540759053e716f0d4a1010e199f,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Yes | A bow loaded with arrows,arrow,1,REACHED,,
+5fa187a053d883f7d8f70660ecb8dcdb,TableQ,SURFACE_FORM,0.0,0.2222,False,Reinhardt University joined the Mid-South Conference in 2013–14.,2013–14,1,REACHED,S1.table;S2.text,
+7c1c225becb07847f5f84e6af0417b7b,"Compare(Compose(TableQ,ImageQ),TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,High Desert Yardbirds,1,REACHED,,
+806102fe5327afe00614677954db5579,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no TV title cover featuring S. Cole playing Muriel.,writing,1,REACHED,,
+e67df619b8e0d9bf4eb1d7740505fd88,"Compose(TableQ,ImageListQ)",SURFACE_FORM,0.0,0.5,False,Steve Williams | Sterling Moore,Sterling Moore,1,NOT_SURFACED,S2.table;S2.image,S1.table;S2.table;S2.image
+a8c6be32a981a89d6f99e81de18f0b2a,"Compose(TextQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.5,True,No information available.,no,1,NOT_SURFACED,,
+082e679ef7335d449e250974bacc6101,TableQ,CORRECT,1.0,1.0,False,The Southwestern Athletic Conference,Southwestern Athletic Conference,1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+7faa3a358a3e25fbf959d54fa05a6e91,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,It is not possible to determine which player is older.,Chad Marshall,1,NOT_SURFACED,,
+3be96f38162933c89eda66879560e41e,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+15e4aa743bf354ea03704de66e12b782,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,No,Thor,1,NOT_SURFACED,S1.table;S1.image;S2.image,
+a2683d2d5cb57888f39f06ed08115ba1,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,2017,2016,1,NOT_SURFACED,,
+2056dcf5ed1c70cb799c09a023a4f73c,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,United Kingdom,United Kingdom,1,REACHED,S2.table;S2.image,S2.table;S2.image
+645a861de74604e8025caf759f425748,TableQ,AGGREGATION_LOSS,0.0,0.5,False,ARY Digital,ARY Digital | Hum TV,1,REACHED,S2.table,S2.table
+3e99b830ec0f40e6ad9b94766200bb9e,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+168d9f74f7f355cc97139f9a2814b69d,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no film among Evan Ross's works that features a penny on its poster.,2011,1,REACHED,,
+c8c72cfb2d1f4e8fbfb77f876f8262f6,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,True,"None of the series mentioned in the question feature mountains in their title screens, so Landon Liboiron's role in such a series does not exist.",Jude,1,REACHED,,
+854f0e26aba9770919a08d5ed6a54cac,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no film project by Aaron Smolinski that features a chimpanzee on its title poster.,2000,1,REACHED,,
+9c3996fcf2af4de7daa540e1e2286470,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Desert Dancer,confetti,1,REACHED,,
+17bea087783c5c4a2d4ee6ffb21920e3,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.1053,False,It is not possible to determine the season in which Mark appears in the show where Elisha Henig plays Kamal.,season two,1,REACHED,,
+54e4a753600ab1ecc963dd11a5726116,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.6667,False,Universal Studios Hollywood,Universal Studios Florida,2,REACHED;REACHED,S1.table;S2.text;S2.table,S1.text;S1.table;S2.text;S2.table
+cc2d57102e3fc11d7aabc7b1f3b11e1f,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,The Elder Scrolls V: Skyrim,The Elder Scrolls V: Skyrim,2,REACHED;REACHED,,
+9d249d4e530d7a3cdc9807f1e7cd584f,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,Insufficient information.,17,1,REACHED,,
+3f14c9a8448f16f5d983667eee0bf65e,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,red,red,1,REACHED,S1.image,
+ab47a6769bedf581f22c8db06a36361f,TableQ,AGGREGATION_LOSS,0.0,0.0,False,"Santa Cruz de Tenerife, Spain","Madrid, Community of Madrid",1,REACHED,S1.table;S2.table,S1.table;S2.text;S2.table
+725ca323b783e2b010c73a88a938a370,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.6667,False,Green Day,the members of Green Day,1,REACHED,,
+220f55e31592a5ed8e804402e012a39f,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+97dfcada221ed75c850c5a1dc9965a0d,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,Nigel Hawthorne,Nigel Hawthorne,1,REACHED,,
+f356667690a995336f76344d097bb595,"Compare(Compose(TableQ,ImageQ),TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Libble Rabble,Pac-Land,1,REACHED,,
+e6ebef376a5f8d390513c0942a3861ef,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,"The language used in the version of Hundred Acre Wood that has a native name of ""Bosque dos Cem Acres"" is Portuguese, which is different from Spanish.",yes,1,REACHED,,
+1596e3f73a33e24da59a19a2dece6cbb,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Mertis John Jr.,Mertis John Jr.,1,REACHED,S1.table;S2.table,S1.table;S2.table;S2.image
+9ced6c0c15cabb527367db9dce03e59a,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,1959,1959,1,NOT_SURFACED,,
+2f34ec15d30206535baa99d709903307,TableQ,AGGREGATION_LOSS,0.0,0.3333,False,2 GB,"4 GB | 2 GB | 2 GB
+3 GB",1,REACHED,S1.table,S1.table
+e6820a7887a5ed27294ae43fad3445f9,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,blonde,blonde,1,REACHED,,
+f2c60a572ce83bacbf78cda7dc625b0c,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Acerra,Acerra,1,REACHED,,
+e562298d120bab0803434d2784357755,"Compose(TextQ,ImageListQ)",SURFACE_FORM,0.0,0.6667,False,war comedy,comedy,1,REACHED,,
+4437c68c9183d1abbf460c40769dc071,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Yes,yes,1,REACHED,,
+8824955c9280e6907177511dda24d7e4,TableQ,CORRECT,1.0,1.0,False,The Mount Broughton Ladies Classic,Mount Broughton Ladies Classic,1,NOT_SURFACED,S1.table;S2.image,S1.table;S2.image
+911f0e3da26d46f30316abb7d56fd163,TableQ,CORRECT,1.0,1.0,False,TSH,TSH,1,REACHED,,
+d275b09a6529489133dae0d8ce678043,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no real name associated with a person having shoulder-length hair among the freelancers of Big Japan Pro Wrestling.,Ryo Matsuri,1,REACHED,,
+db0e7104ed87fbb5abe784501c9c86a1,"Intersect(ImageListQ,TableQ)",AGGREGATION_LOSS,0.0,0.4667,False,"Point University, Webber International University",Point University | Bluefield College | Faulkner University,2,REACHED;REACHED,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.table;S2.image
+daa6355a6b176227813640a8b9be4353,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,No,no,1,REACHED,,
+5980eb0068c2d2a2ec2193ff2f8696e8,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,The Nun's Story,The Nun's Story,1,REACHED,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.table;S2.image
+c132fc928153e2009b49449383b28f9e,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no evidence to suggest that Johnny Lee participated in a film that includes the Zippity Doo Dah song.,1946,1,REACHED,,
+ce4c783ec908dc4139773ba5e6ed6d88,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,"San Francisco, California","San Francisco, California",1,REACHED,S2.table,S2.table
+03b001f3f7c21e7ef83f05df77e66d4f,"Compare(TableQ,Compose(TableQ,TextQ))",CORRECT,1.0,1.0,False,"Wichita, Kansas","Wichita, Kansas",1,REACHED,,
+493ce9b7696dc9a3c048cbbe8930031c,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Bridge,bridge,1,REACHED,S1.image,
+f0a47f05569b501151bc6aac89a2c89d,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,Hindi,English,2,REACHED;REACHED,S2.table,S1.text;S2.text;S2.table;S2.image
+723cff08515cf6f04223f8218c481b0c,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,mask,1,REACHED,,
+57d2f3b4f7f8ebbb7c8f35d730fcceb5,TableQ,AGGREGATION_LOSS,0.0,0.0,False,"5th, 28th, 39th, 11th, 10th, 20th",Moto2,1,REACHED,S1.text;S1.table;S2.text;S2.table;S2.image,
+1250357fe7efc2308c84e0c0b580e2c9,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,Mordecai,"voiced by Kerry Shale | a rock man who works at almost every establishment in Elmore, including the grocery store, the gas station convenience store and the DVD rental shop amongst other places",1,REACHED,,
+9e1d388983bdccc4f4f3cce86c9cfbc7,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Ed Sheeran,Ed Sheeran,1,REACHED,S1.table;S1.image;S2.text;S2.table;S2.image,S1.table;S1.image;S2.text;S2.table;S2.image
+043d8199746ded4fba667a607684173a,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,False,2015,2014,1,REACHED,,
+84a89298751f5034887bb17df265bcfd,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,In the Heights,dancing,1,REACHED,,
+356070d6932cb55157b6163b819c8f21,"Compose(TableQ,TextQ)",CORRECT,1.0,1.0,False,2013,2013,1,REACHED,,
+d96a20235dd15e1eb8544ad9d28494e2,"Compose(TextQ,TableQ)",COMMITMENT_FAILURE,0.0,0.0,True,"There is insufficient information in the image and text data to determine the lyric meanings of the song ""Something in the Water"" performed by Mary Sarah during the Semifinals Instant Save of the 2016 The Voice by Carrie Underwood.",a person whose life changes after baptism,1,REACHED,,S2.table;S2.image
+9062f0a10733ef0abf180e6788feca29,TableQ,AGGREGATION_LOSS,0.0,0.1429,True,No information about the sport of the Gridiron football league from Canada is provided.,Canadian football,1,REACHED,S1.table;S2.table,S1.text;S1.table;S2.text;S2.table;S2.image
+aa50d519067acf344d4b01187575b13e,"Intersect(TableQ,TextQ)",CORRECT,1.0,1.0,False,Snoop Dogg,Snoop Dogg,2,REACHED;REACHED,S2.table,S2.table;S2.image
+677018adc8228b876dbd2967b05634ec,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,False,The Nun's Story,The African Queen,2,REACHED;REACHED,,
+71aa5ca0adee50856ac97ff2280b4dfc,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,ThunderCats,Same,1,REACHED,,
+651a585e5b5500161eb187e87677a16c,TableQ,CORRECT,1.0,1.0,False,Beggin & Pleadin,"""Beggin & Pleadin""",1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+3c76a1f8ad00a1c6928a65a370f48cbf,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,There is no game in the provided list where Tricia Helfer played a role and a picture of Earth is prominently featured.,EDI,1,REACHED,,
+57ed1695ef2b175552dbcf597f975d71,"Intersect(ImageListQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,John Panelli,George Sims,2,REACHED;REACHED,S2.image,S2.text;S2.image
+3e01211c7699437a3432146b9e374d55,"Compose(TableQ,ImageListQ)",AGGREGATION_LOSS,0.0,0.0,False,"There is no TV show mentioned in the provided text that features a poster with a dog. Therefore, Kym Karath did not play a role in such a TV show.",Kathy Vaughn,1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+0318e3b1eb51736bf111d233a396fdbf,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,"The World's End, 2013",2007,1,REACHED,,
+7873682e71d6f76b235c48fbfbde72b7,TableQ,CORRECT,1.0,1.0,False,DeNA,DeNA,1,REACHED,S2.text,S1.table;S2.text
+3a7faddd273f1364ac9fbb66b6658fe9,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,Manassinakkare,Achuvinte Amma,1,NOT_SURFACED,,
+cc9541815a25b26ca612f9895c273925,TableQ,CORRECT,1.0,1.0,False,RCTI,RCTI,2,REACHED;REACHED,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.table;S2.image
+8b8caa13c597e3c0b5656eb1ff1e816f,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,True,There is no information available.,H. Jon Benjamin,1,REACHED,,
+f84b94c833d89d1bd23d2831fd45229c,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,True,Insufficient information,Bette Midler,1,REACHED,,
+886f92bcdd89eb6b7ac0f2e069d3b730,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is no information about Thora Birch appearing in a TV show with blocks on its logo in the provided data.,1988–1989,1,NOT_SURFACED,,
+830197a234920e4ab599a35b47974ea0,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Prince of Songkla University,Prince of Songkla University,1,NOT_SURFACED,,
+b0a785f3f132bf18d9fcf1d1f8dea298,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,2018,2018,1,REACHED,,
+52fa3798ab4a7626072f3e47b329789e,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Billy Joel smiles.,smiling,1,REACHED,,
+8216c175a7d406fedd3d163d8ed6c387,"Intersect(ImageListQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,<no>,Siem Reap Stadium,2,NOT_SURFACED;REACHED,S2.text,S2.text
+0e9d96fb7b5f17969db33f2e613b20ee,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,There is no information available about Reba McEntire's facial expression during the Target Center concert on May 8.,smile,1,REACHED,,
+216ff289c079b301de87c96270d371ba,"Compare(Compose(TableQ,ImageQ),TableQ)",AGGREGATION_LOSS,0.0,0.0,False,No,The Story on Page One,1,REACHED,S1.image;S2.text;S2.image,S1.image;S2.text;S2.image
+9418e274d0aa06e5cefc3ab80219351a,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Ken Barlow,Ken Barlow,1,REACHED,S2.image,S2.image
+de22c413b35b616bf5123f20e8c97449,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Yes,yes,1,REACHED,,
+8327f9a26ec1ce848a80e2500f70929a,"Compose(TableQ,ImageListQ)",SURFACE_FORM,0.0,0.2857,False,"Maggie McNamara played the role of Patty ONeill in the film ""The Moon Is Blue.""",Patty ONeill,1,REACHED,S1.table;S2.table;S2.image,S1.table;S2.table;S2.image
+1f3664fd1742fa7c5b54fd39300c6534,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+42e8a744df1cab9aa5ad0964fa216813,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,Han Tae-sun,1,REACHED,,
+6fac63e14f667e265c0451b184566a47,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Gmina Janowice Wielkie,Gmina Janowice Wielkie,1,REACHED,S1.table;S2.table,
+dd920fa1a56fece13a4585ff36c7e016,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Peter Sarno,Peter Sarno,1,NOT_SURFACED,,
+40b3e2453fe619126174d64bec19157c,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,Snowdon,Skiddaw,1,NOT_SURFACED,,
+7cb75d90b1499793f280d0ec828cc008,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,False,World of Warcraft: Battle for Azeroth,Hammer & Sickle,1,NOT_SURFACED,,
+2796902e5aa2f7bcfaf8f91cd032aea2,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,There is no information available to determine the year when a show with three people standing in front of a wall of television screens on its poster included Lucius Baston.,2016,1,NOT_SURFACED,,
+37675a30a1c36e162a68f1e0ff8be63f,TableQ,SURFACE_FORM,0.0,0.5,False,Bob Ross | Ron Hornaday,Bob Ross,2,REACHED;REACHED,S1.table;S2.image,S1.table;S2.image
+14cfca87a84d25ca17313ad43e0b8f88,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,"June 15, 1994","June 15, 1994",1,REACHED,S2.table,S2.table;S2.image
+3b8c10bbf59a3d8722dcbb3a3cfd3575,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Ohio State,Ohio State,1,REACHED,S2.image,
+119c9a9bf38ca9f84a3900d7c7fd1fe5,TableQ,CORRECT,1.0,1.0,False,22nd Star Awards Ceremony,22nd Star Awards Ceremony,2,REACHED;REACHED,S1.table;S2.text;S2.table;S2.image,S1.table;S2.text;S2.table;S2.image
+974c10e442226d4f9e1e042aca404a0c,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,True,Insufficient information,Avengers: Age of Ultron,1,REACHED,,
+691dfdcfe1a2884998f1fe60b6f7ef15,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,Social Work,Science,1,NOT_SURFACED,,
+a7056d9fc4bb2bffec3e7f3a9a72a61a,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,"Peter, Paul and Mary",John Denver,2,REACHED;REACHED,S1.text;S2.text;S2.table,S1.text;S2.text;S2.table;S2.image
+d2322ed754451eb703f6c1379f0535e8,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Jabulani,soccer,1,REACHED,,
+81712f380ca5dd8d58c333fc1c366ef3,"Intersect(ImageListQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,True,None,Carrie,2,REACHED;REACHED,S2.table,S1.table;S2.table
+1946869d518678a95a5d2d51961818aa,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Five faces,three,1,REACHED,,
+35ffa88a447dd6ca8ed2d90564ed87a8,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,No network,MBC,1,NOT_SURFACED,,
+a1b40c12a33c4e429cd72d8a88899454,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Australian,Australian,1,REACHED,S2.table;S2.image,S2.table;S2.image
+87f95c06500b8852cac891a2697cc2f1,"Compare(Compose(TableQ,ImageQ),TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,Good Burger,2,REACHED;REACHED,,
+4e09696e32e1a916372d090e986af012,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,Jamie Sinclair,Stephanie Senneker,1,NOT_SURFACED,,
+022a4190652d4999aa326d64a6bf87a4,TableQ,COMPOSITION_FAILURE,0.0,0.0,False,"There is no institution with the nickname ""Seahawks"" that joined the Mid-South conference according to the provided text data.",2018,1,REACHED,,
+9c95db901f2796d3207c152fdd9391ad,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,"March 25, 2016","March 25, 2016",1,REACHED,S2.table,S2.table
+ee790547f5facabb581c8806e4babdeb,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,False,1970 to 1974,1970–74,1,REACHED,,
+0784b43a6c6eeddb318f65ea2baf397e,"Compose(TextQ,TableQ)",COMMITMENT_FAILURE,0.0,0.3333,False,"Colorado Springs, CO","Colorado, immediately north of Colorado Springs in El Paso County",1,REACHED,,S1.text
+4cdb083b7d32719ff0ed63588765de4d,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,False,Phyllis Smith | Mark Consuelos,Richard Kind,1,REACHED,S2.table,S2.table
+7991b4f0ed0106d4693f18194e767658,"Compare(Compose(TableQ,ImageQ),TableQ)",CORRECT,1.0,1.0,False,Lullaby,"""Lullaby""",1,REACHED,,
+7a8a030df747a67a6715393e82e7c723,"Compose(TableQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,True,"There is no information about the Aenne Burda Award or the winner's hair color in the provided text data. Therefore, it is not possible to determine the year when the winner had dark brown hair for the Aenne Burda Award.",2007,1,REACHED,,
+20eeccd19adb6f739680f234c37314ed,"Compose(TableQ,ImageListQ)",COMMITMENT_FAILURE,0.0,0.0,True,"It is impossible to determine the exact number of employees for the employer with an eagle on their logo in Olympia, Washington based on the given data.","500-1,000",1,NOT_SURFACED,,S2.image
+32fa293b30513e3619128925a64389a1,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,False,The question cannot be answered with the provided data.,Mike Fetchick,1,REACHED,,
+e1238a0f20b1360ddbf16448f57484d3,"Compose(TableQ,TextQ)",SURFACE_FORM,0.0,0.2857,False,"Maxine Miller played the role of ""Elderly Woman"" in the movie ""Diary of a Wimpy Kid.""",Elderly Woman,1,REACHED,S2.text;S2.image,S2.text;S2.image
+f6e543bad0cfd5933910a923705275ea,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,"There is no information provided about a player being transferred out of the Los Angeles Galaxy team and into Paris Saint-Germain in the 2013 season. Therefore, it is not possible to determine the date when the player began playing professional football based on the given text.",23 January 1993,1,REACHED,,
+fcf2b36770bef483cbc122713f17f125,"Intersect(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,George Strait,Tim McGraw,2,REACHED;REACHED,S1.text;S2.text,S1.text;S2.text
+af3e03d30cebb1708b672ab3f238b827,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,False,"5,712",851,1,NOT_SURFACED,,
+782bfbc63ccd5db12e1efe9afd9e0752,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Ali Daei,1969,1,REACHED,,
+e3027465630e99e8f964a29664034467,"Compose(TableQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,False,No,Grand Funk,1,REACHED,S1.text;S2.text,S1.text;S2.text;S2.image
+7b5a18fe0ff6b814cc3e7e79d58dd314,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,Murielle Telio,Murielle Telio,1,REACHED,S1.text;S2.text;S2.table;S2.image,S1.text;S2.text;S2.table;S2.image
+550f9f620d53ee8077154847af3b4651,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,True,Insufficient information,"Letyan, around Tehran",1,REACHED,,
+beb5d85dc0811603152bb64c768dd412,"Compose(TableQ,ImageListQ)",CORRECT,1.0,1.0,False,Matt Pickens,Matt Pickens,1,REACHED,S2.text;S2.image,S1.table;S2.text;S2.table;S2.image
+78eab38140bfb9b730f155eb83e18ca8,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,No,yes,1,REACHED,,
+bb4dfe5176aa20b3b24f42c864c6ebb6,"Compose(ImageQ,TextQ)",CORRECT,1.0,1.0,False,Guitar,guitar,1,REACHED,,
+1f23c6976ee393391a9cbf26421ed1ac,"Compare(Compose(TableQ,ImageQ),TableQ)",EXTRACTION_FAILURE,0.0,0.0,True,Insufficient information,Lionel Beauxis,1,NOT_SURFACED,,
+16f832a8ae461b35dff86a41827b3179,"Compose(ImageQ,TextQ)",CORRECT,1.0,1.0,False,microphone,microphone,1,NOT_SURFACED,,
+8fe79ee97c1ac904fc538e861d9b7c9e,"Compose(TableQ,ImageListQ)",HANDOFF_LOSS,0.0,0.0,True,None,1997,1,LOST_IN_HANDOFF,,
+77f3a5b3c0707ded5197accd871bfe17,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,No information available.,boots,1,REACHED,,

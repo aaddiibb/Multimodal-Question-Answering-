@@ -1,0 +1,12 @@
+{
+ "key": "4fe8ed7a7e04f0e2e4b03724f1e82c6bfe52d2f561f7641d71b90709ce4220da",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a painting depicting a scene where a man is holding another man who seems to be unconscious or dead. The man being held wears a red cape, and there are other individuals in the background observing the scene.</insights>\n\n<answer>Based on the image provided, it is not clear which Tennessee Williams play this image represents or if Robert Veljanovski played a role in it. The image does not contain any textual information about the play or the cast members.</answer>",
+ "input_tokens": 3032,
+ "output_tokens": 113,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 15.77
+}

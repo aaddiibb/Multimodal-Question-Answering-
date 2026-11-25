@@ -1,0 +1,12 @@
+{
+ "key": "154330d5c6179a1c6df6829188e24f00f3813c9f9da0f2daca1e11e72b8f4b3f",
+ "text": "<modality>image</modality>\n\n<insights>The image provided appears to be a movie poster for \"Goon: Last of the Enforcers,\" which features Jason Eisener as the second-unit director. However, there is no mention of Nat Wolff playing a role in this movie.</insights>\n\n<answer>There is no information provided about Nat Wolff playing a role in the movie \"Goon: Last of the Enforcers\" directed by Jason Eisener.</answer>",
+ "input_tokens": 1508,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.79
+}

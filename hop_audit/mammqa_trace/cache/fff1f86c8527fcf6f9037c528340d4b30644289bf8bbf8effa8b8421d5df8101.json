@@ -1,0 +1,12 @@
+{
+ "key": "fff1f86c8527fcf6f9037c528340d4b30644289bf8bbf8effa8b8421d5df8101",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about the 2014 Moto2 season.\n- It mentions that Marc VDS Racing Team rider Esteve Rabat won the series championship with 346 points.\n- Esteve Rabat set records for pole positions (11) and podiums (14), including 7 wins.\n</insights>\n\nBased on the extracted insights, the question can be broken down into simpler subquestions:\n\n<subanswer> What is the full name of the rider who won the Moto2 championship?</subanswer>\n\n<subanswer> How many points did the winning rider score?</subanswer>\n\n<subanswer> What were the records set by the winning rider?</subanswer>\n\n<subanswer> How many pole positions did the winning rider achieve?</subanswer>\n\n<subanswer> How many podiums did the winning rider achieve?</subanswer>\n\n<subanswer> How many wins did the winning rider achieve?</subanswer>",
+ "input_tokens": 2294,
+ "output_tokens": 207,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 19.84
+}

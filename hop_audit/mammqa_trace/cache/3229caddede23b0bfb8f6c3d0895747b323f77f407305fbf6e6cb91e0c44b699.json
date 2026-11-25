@@ -1,0 +1,12 @@
+{
+ "key": "3229caddede23b0bfb8f6c3d0895747b323f77f407305fbf6e6cb91e0c44b699",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the freelancers in Big Japan Pro Wrestling.\n2. Determine which of these freelancers have shoulder-length hair.\n3. Find the real name associated with the freelancer who has shoulder-length hair.\n\nFrom the provided text data, we can see that the freelancers mentioned are:\n\n1. Yoshi Tatsu\n2. Takashi Iizuka\n3. Tetsuya Bushi\n\nNow let's check each one for shoulder-length hair:\n\n1. Yoshi Tatsu: No information about hair length.\n2. Takashi Iizuka: No information about hair length.\n3. Tetsuya Bushi: No information about hair length.\n\nNone of the freelancers listed have shoulder-length hair. Therefore, we cannot determine the real name associated with a person having shoulder-length hair from the given text data.\n\n<answer>The question cannot be answered because none of the freelancers listed have shoulder-length hair.</answer>",
+ "input_tokens": 4288,
+ "output_tokens": 195,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 31.46
+}

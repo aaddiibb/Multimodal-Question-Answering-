@@ -1,0 +1,12 @@
+{
+ "key": "721b5f71d410173eb779b9f5fe4fb5cdd78de05bcbf60b6730ec5f26f8983399",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but only one features Alex Wolff as Bennett. The poster for \"Stella's Last Weekend\" includes Alex Wolff and mentions his character Bennett. However, there is no specific information about the premiere date.</insights>\n\n<answer>Based on the provided images, the movie featuring Alex Wolff as Bennett is \"Stella's Last Weekend,\" but the premiere date is not mentioned in the image.</answer>",
+ "input_tokens": 2146,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 10.94
+}

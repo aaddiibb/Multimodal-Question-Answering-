@@ -1,0 +1,12 @@
+{
+ "key": "f75a178871c469ed4e628400cf63e21cb6d7438d13d1e0a00d99f15a867f7869",
+ "text": "<modality> text </modality>\n\n<insights>\n- Betsy Russell starred in \"Saw V\", a 2008 American-Canadian horror film.\n- \"Sex-O Olympic-O\" is mentioned as the fifth album by the Revolting Cocks, released on March 3, 2009.\n- The song \"Wizard of Sextown\" is featured in the horror film \"Saw V\".\n</insights>\n\n<answer>\nBetsy Russell acted in the 2008 film \"Saw V\", which features the song \"Wizard of Sextown\" from the album \"Sex-O Olympic-O\".\n</answer>",
+ "input_tokens": 1633,
+ "output_tokens": 136,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.66
+}

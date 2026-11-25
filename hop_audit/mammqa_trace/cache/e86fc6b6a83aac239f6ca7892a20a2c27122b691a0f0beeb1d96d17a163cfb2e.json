@@ -1,0 +1,12 @@
+{
+ "key": "e86fc6b6a83aac239f6ca7892a20a2c27122b691a0f0beeb1d96d17a163cfb2e",
+ "text": "<modality> text </modality>\n\n<insights> The provided text does not contain any information about a movie poster featuring Swara Bhaskar as Chanda Sahay. The text only lists various individuals involved in the film industry, including actors, models, and actresses, but none of them are mentioned as being associated with a movie where Swara Bhaskar plays Chanda Sahay. Therefore, there is no relevant information to answer the question.</insights>\n\n<answer> There is insufficient information in the provided text to determine the color of the woman on the right in the poster of the movie where Swara Bhaskar played Chanda Sahay.</answer>",
+ "input_tokens": 1544,
+ "output_tokens": 138,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.5
+}

@@ -1,0 +1,12 @@
+{
+ "key": "cd490e372a1eb698df1bdb57526adb874f6a384402a1782acca5ad9c5d7b3bd1",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>Siemens logo, Fujitsu logo, NTT logo, Mitsubishi Electric logo, KPN logo.</insights>\n\n<answer>Based on the provided logos, it is not possible to determine which organization has fewer patents among the patent holders of Multiview Video Coding without additional data about their respective patent counts.</answer>",
+ "input_tokens": 2339,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 11.13
+}

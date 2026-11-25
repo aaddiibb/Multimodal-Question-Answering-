@@ -1,0 +1,12 @@
+{
+ "key": "56e62c6f13fd1ab448e4cdc4228dcb8c51c3c6d00fdb40c52d21f800c5660b2c",
+ "text": "The question cannot be answered with the provided data because there is no information about players with a mustache and a beard.",
+ "input_tokens": 3645,
+ "output_tokens": 25,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 11.02
+}

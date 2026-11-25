@@ -1,0 +1,286 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "e950ebf7c5f25a971d748b883fc181db",
+  "question": "What is the main color of the logo of the former NASL Stampede Corral team?",
+  "context_digest": "fa8ffca4dd3dae747eeb1f81ee390488a1ce0a0bd2b78a8e4dec3ad851eb44af",
+  "source_ids": [
+    "b723d5411e4d841644a18173c9d74589",
+    "7bf7ea3f38c065ae1d8487ae6417b156"
+  ],
+  "modalities": [
+    "image",
+    "table"
+  ],
+  "shared": {
+    "stage1": {
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "The table does not provide any information about the colors of the logos for the teams listed, including the NASL Stampede Corral team.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The table does not provide any information about the colors of the logos for the teams listed, including the NASL Stampede Corral team."
+      },
+      "image": {
+        "agent": "image",
+        "answer": "Orange",
+        "insight": "The logo features the word \"CALGARY\" in orange at the top and the word \"Boomers\" in a larger, stylized font below it, also in orange.",
+        "raw_output": "ANSWER: Orange\nINSIGHT: The logo features the word \"CALGARY\" in orange at the top and the word \"Boomers\" in a larger, stylized font below it, also in orange."
+      }
+    },
+    "stage2": {
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The image provided shows the logo of the Calgary Boomers, not the NASL Stampede Corral team. There is no information about the colors of the NASL Stampede Corral team's logo in the image metadata.",
+        "evidence_reference": "[IMAGE: Calgary Boomers | id=7bf7ea3f38c065ae1d8487ae6417b156 | official_file=7bf7ea3f38c065ae1d8487ae6417b156",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The image provided shows the logo of the Calgary Boomers, not the NASL Stampede Corral team. There is no information about the colors of the NASL Stampede Corral team's logo in the image metadata.\nEVIDENCE: [IMAGE: Calgary Boomers | id=7bf7ea3f38c065ae1d8487ae6417b156 | official_file=7bf7ea3f38c065ae1d8487ae6417b156"
+      },
+      "image": {
+        "agent": "image_anchor",
+        "answer": "Orange",
+        "reason": "The logo of the Calgary Boomers, part of the NASL Stampede Corral team, prominently features the word \"Boomers\" in orange.",
+        "evidence_reference": "The trusted IMAGE anchor insight",
+        "raw_output": "ANSWER: Orange\nREASON: The logo of the Calgary Boomers, part of the NASL Stampede Corral team, prominently features the word \"Boomers\" in orange.\nEVIDENCE: The trusted IMAGE anchor insight"
+      }
+    },
+    "shared_seconds": 20.47612909999998,
+    "shared_digest": "200a1a14a67b44c20782222d9f870b36bdf82d82521859c00ac81287b55e1a47"
+  },
+  "baseline": {
+    "answer": "Orange",
+    "raw_output": "FINAL: Orange",
+    "seconds": 0.6494301619998168,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "Orange",
+    "raw_output": "FINAL: Orange",
+    "seconds": 16.11165591399981,
+    "calls": 5,
+    "format_repair_used": false
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 1,
+      "unique_candidate_count": 1,
+      "consensus_answer": "Orange",
+      "consensus_count": 1,
+      "stage2_disagreement": false,
+      "agreement_type": "single_concrete_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [
+      {
+        "answer": "Orange",
+        "normalized_answer": "orange",
+        "supporting_agents": [
+          "image_anchor"
+        ],
+        "reasons": [
+          "The logo of the Calgary Boomers, part of the NASL Stampede Corral team, prominently features the word \"Boomers\" in orange."
+        ],
+        "evidence_references": [
+          "The trusted IMAGE anchor insight"
+        ],
+        "claims": [
+          {
+            "text": "The Calgary Boomers were part of the NASL Stampede Corral team.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "table",
+              "evidence_note": "The provided table confirms that the Calgary Boomers were indeed part of the NASL Stampede Corral team.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: table\nEVIDENCE_NOTE: The provided table confirms that the Calgary Boomers were indeed part of the NASL Stampede Corral team.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The logo of the Calgary Boomers prominently features the word \"Boomers.\"",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "image",
+              "evidence_note": "The logo of the Calgary Boomers prominently features the word \"Boomers.\"",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: image\nEVIDENCE_NOTE: The logo of the Calgary Boomers prominently features the word \"Boomers.\"",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The word \"Boomers\" in the logo is in orange.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "image",
+              "evidence_note": "The logo of the Calgary Boomers features the word \"Boomers\" in orange.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: image\nEVIDENCE_NOTE: The logo of the Calgary Boomers features the word \"Boomers\" in orange.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "Orange",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 3,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 498,
+      "original_input_tokens": 498,
+      "output_tokens": 39,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.158231646000104,
+      "image_count": 0,
+      "seed": 2560441130
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "stage1_image",
+      "deterministic": false,
+      "input_tokens": 447,
+      "original_input_tokens": 447,
+      "output_tokens": 45,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.816839711000057,
+      "image_count": 1,
+      "seed": 3165892132
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 512,
+      "original_input_tokens": 512,
+      "output_tokens": 128,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": true,
+      "evidence_shortened": false,
+      "seconds": 9.526633169999968,
+      "image_count": 1,
+      "seed": 1631168435
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "stage2_image_anchor",
+      "deterministic": false,
+      "input_tokens": 563,
+      "original_input_tokens": 563,
+      "output_tokens": 48,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.958570224999903,
+      "image_count": 0,
+      "seed": 3061623741
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 322,
+      "original_input_tokens": 322,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6454552859997875,
+      "image_count": 0,
+      "seed": 655410690
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "claim_extraction_orange",
+      "deterministic": true,
+      "input_tokens": 153,
+      "original_input_tokens": 153,
+      "output_tokens": 57,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.145783287999848,
+      "image_count": 0,
+      "seed": 2125847017
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 939,
+      "original_input_tokens": 939,
+      "output_tokens": 41,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.004463920000035,
+      "image_count": 1,
+      "seed": 796122097
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 938,
+      "original_input_tokens": 938,
+      "output_tokens": 34,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.5306382059998214,
+      "image_count": 1,
+      "seed": 1204400880
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 936,
+      "original_input_tokens": 936,
+      "output_tokens": 36,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.622532889000013,
+      "image_count": 1,
+      "seed": 969959104
+    },
+    {
+      "qid": "e950ebf7c5f25a971d748b883fc181db",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 508,
+      "original_input_tokens": 508,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.7902330570000231,
+      "image_count": 0,
+      "seed": 136422438
+    }
+  ],
+  "completed_utc": "2026-10-13T20:00:11.484348+00:00"
+}

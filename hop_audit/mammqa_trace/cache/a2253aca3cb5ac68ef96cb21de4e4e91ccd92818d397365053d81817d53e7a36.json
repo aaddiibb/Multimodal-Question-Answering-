@@ -1,0 +1,12 @@
+{
+ "key": "a2253aca3cb5ac68ef96cb21de4e4e91ccd92818d397365053d81817d53e7a36",
+ "text": "<modality>image</modality>\n\n<insights>The images provided show album covers and artwork for various music videos or songs by Brandy. However, none of the images directly depict a music video cover featuring a woman with one arm raised or specifically titled \"Lullaby\". The images shown are album covers for \"We Are the World 25 for Haiti\", \"It All Belongs to Me\", \"Wildest Dreams\", \"Mystery Skies\", \"99 Souls\", \"Beginning\", and \"Optimistic\". None of these appear to be the specific video cover mentioned in the question.</insights>\n\n<answer>Based on the provided images, there is no clear indication of which music video in Brandy's 2010s videography features a cover with a woman raising one arm or is titled \"Lullaby\". Therefore, it cannot be determined which video came out in the most recent year using only the given images.</answer>",
+ "input_tokens": 1453,
+ "output_tokens": 197,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 15.04
+}

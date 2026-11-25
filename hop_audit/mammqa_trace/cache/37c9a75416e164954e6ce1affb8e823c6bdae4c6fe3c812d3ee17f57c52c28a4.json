@@ -1,0 +1,12 @@
+{
+ "key": "37c9a75416e164954e6ce1affb8e823c6bdae4c6fe3c812d3ee17f57c52c28a4",
+ "text": "<modality> image(s)</modality>\n\n<insights> The image shows a person wearing a black cap and sunglasses.</insights>\n\n<answer> The person in the image has dark brown hair.</answer>",
+ "input_tokens": 3408,
+ "output_tokens": 45,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 11.77
+}

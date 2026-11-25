@@ -1,0 +1,12 @@
+{
+ "key": "df7e689fec036430256744205fbd7aed7b48dede43fc3701f7ac854ddfd89693",
+ "text": "The provided data does not contain any information about a player holding a trophy with a golden sphere inside. Therefore, we cannot determine if Ricky Ponting or such a player had a higher number of balls in one-day internationals at Sawai Mansingh Stadium.",
+ "input_tokens": 4253,
+ "output_tokens": 54,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 16.1
+}

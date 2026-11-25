@@ -1,0 +1,12 @@
+{
+ "key": "812d5617f44afc5196354091465a2ed34d0219b40dd25d8f978b9d58f801b531",
+ "text": "Based on the provided information, let's break down the question into simpler subquestions:\n\n1. What is the home team for Tie No. 190 in the 2002 Finnish Cup?\n2. What is the away team for Tie No. 190 in the 2002 Finnish Cup?\n3. What is the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup?\n4. What item is on the top of the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup?\n\nNow, let's address each subquestion:\n\n1. The home team for Tie No. 190 in the 2002 Finnish Cup is FC Espoo.\n2. The away team for Tie No. 190 in the 2002 Finnish Cup is PK-35.\n3. The emblem for the home team in Tie No. 190 of the 2002 Finnish Cup is shown below:\n   ![](https://i.imgur.com/1.png)\n4. The item on the top of the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup is a crown.\n\nFinal Answer:\nThe item on the top of the emblem for the home team in Tie No. 190 of the 2002 Finnish Cup is a crown.",
+ "input_tokens": 2178,
+ "output_tokens": 305,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 26.79
+}

@@ -1,0 +1,12 @@
+{
+ "key": "4d5065464f2cd2e18dd0d602420bec1b06f9f75288f6a07d8b05cf6905749b08",
+ "text": "Let's break down the question into simpler parts:\n\n1. **What is the title of the audiobook where Gary Paulsen collaborated with Ron McLarty?**\n   - From the table insights, we know that Gary Paulsen collaborated with Ron McLarty on one of the audiobooks listed. The title of the audiobook is \"Brian's Hunt.\"\n\n2. **What did the man have loaded in his bow on the cover?**\n   - The cover image associated with the title \"Brian's Hunt\" shows a man holding a bow. The man appears to be aiming the bow towards a target in the distance.\n\nBased on these insights, the answers are:\n\n<subanswer>\n- The title of the audiobook where Gary Paulsen collaborated with Ron McLarty is \"Brian's Hunt.\"\n</subanswer>\n\n<answer>\nThe man on the cover of \"Brian's Hunt\" had a bow loaded with arrows aimed towards a target in the distance.\n</answer>",
+ "input_tokens": 3120,
+ "output_tokens": 195,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 24.11
+}

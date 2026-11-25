@@ -1,0 +1,12 @@
+{
+ "key": "adb0496bda835b6ff6482e63575f35df2b106b74413e28beedd5975c7ec05170",
+ "text": "<modality> text </modality>\n\n<insights>\n- The Calgary Stampeders finished the 2012 season with a 12-6 record.\n- The Calgary Stampeders won the West Semi-Final over the Saskatchewan Roughriders by a score of 36-30.\n- They advanced to the Grey Cup game against the Toronto Argonauts.\n</insights>\n\n<answer>\nNo, the 9-6 or 3-3 2012 Calgary Stampeders season record does not have lower week. The Calgary Stampeders finished the season with a 12-6 record, which means they had 12 wins and 6 losses.\n</answer>",
+ "input_tokens": 1684,
+ "output_tokens": 150,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.32
+}

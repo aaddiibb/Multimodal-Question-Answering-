@@ -1,0 +1,12 @@
+{
+ "key": "61dea1e197b4b0f86f12872bdeda3cc7f6a686bb9df6b5ff816ed6170ad96da0",
+ "text": "The provided data does not contain any information about the seven ages of man or a performance involving Nyasha Hatendi playing Silvius. Therefore, there is no relevant information to answer the question based on the given data.",
+ "input_tokens": 4907,
+ "output_tokens": 45,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 16.7
+}

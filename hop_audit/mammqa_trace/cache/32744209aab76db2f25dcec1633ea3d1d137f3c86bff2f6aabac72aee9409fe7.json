@@ -1,0 +1,12 @@
+{
+ "key": "32744209aab76db2f25dcec1633ea3d1d137f3c86bff2f6aabac72aee9409fe7",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the year Michael Potts acted in a theatre with a large green lawn. \n\nFrom the text insight:\n- There is no mention of Michael Potts acting in a theatre with a large green lawn.\n\nFrom the table:\n- The table lists Michael Potts' acting roles across different years and theatres.\n- None of the theatres listed have a description of having a large green lawn.\n\nFrom the images:\n- The images show various theatres, but none of them appear to have a large green lawn.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there any mention of Michael Potts acting in a theatre with a large green lawn?\n2. If so, which year did he act in such a theatre?\n\nBased on the provided data, we can conclude that there is no information about Michael Potts acting in a theatre with a large green lawn.\n\n### Final Answer\n\n<answer>\nThere is no information provided about Michael Potts acting in a theatre with a large green lawn.\n</answer>",
+ "input_tokens": 3707,
+ "output_tokens": 225,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 31.49
+}

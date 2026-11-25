@@ -1,0 +1,35 @@
+{
+ "n": 300,
+ "EM": 0.2867,
+ "F1": 0.3526,
+ "EM_by_type": {
+  "Compare": [
+   0.3878,
+   49
+  ],
+  "Compose": [
+   0.276,
+   192
+  ],
+  "Intersect": [
+   0.1538,
+   26
+  ],
+  "TableQ": [
+   0.303,
+   33
+  ]
+ },
+ "mean_seconds_per_question": 124.6,
+ "calls_hitting_token_cap": 62,
+ "evidence_shortenings": 0,
+ "errors": [],
+ "frozen": {
+  "n": 300,
+  "of": 300,
+  "sha256": "8d88b92ad949e282111b73f96c50d311554596f022521d1419683cbbc0c242fd",
+  "selection_sha256": "680d34ad38ea7d7a05a5c82fd701b8fe3fe2d3fa0e9dc2ed74d47ce82918e7e4",
+  "frozen_utc": "2026-10-30T09:20:48Z"
+ },
+ "wall_hours": 5.35
+}

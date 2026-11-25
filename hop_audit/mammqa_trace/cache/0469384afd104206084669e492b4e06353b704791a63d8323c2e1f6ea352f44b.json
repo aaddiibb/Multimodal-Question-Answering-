@@ -1,0 +1,12 @@
+{
+ "key": "0469384afd104206084669e492b4e06353b704791a63d8323c2e1f6ea352f44b",
+ "text": "Based on the provided text and table, there is no information about the top scorers in the 2005-06 Eerste Divisie or the teams with dragons in their logos. Therefore, it is impossible to determine which players of the top scorers are on the team with a dragon in its logo.\n\n<answer>\nThere is insufficient information in the provided text and table to answer the question. The text does not contain any details about the top scorers in the 2005-06 Eerste Divisie or the teams with dragons in their logos.\n</answer>",
+ "input_tokens": 1434,
+ "output_tokens": 126,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 10.26
+}

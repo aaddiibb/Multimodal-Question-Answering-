@@ -1,0 +1,12 @@
+{
+ "key": "3331a2953b9a59d5493174bd5fcba721472e78b64a6efe20b662147ecafe5052",
+ "text": "<modality>image</modality>\n\n<insights>The image contains logos representing different institutions. The logos include Brooklyn College, Cal, UConn, Maryland, Rutgers, Saint Louis Billikens, and a team with a ram logo.</insights>\n\n<answer>Among the provided logos, the one featuring a ram is that of the team represented by the logo with the ram design.</answer>\n\n<subanswer>What year was the last bid for the institution whose logo features a ram?</subanswer>",
+ "input_tokens": 1584,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 9.82
+}

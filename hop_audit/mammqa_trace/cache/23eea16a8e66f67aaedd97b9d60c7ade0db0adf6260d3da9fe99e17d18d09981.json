@@ -1,0 +1,12 @@
+{
+ "key": "23eea16a8e66f67aaedd97b9d60c7ade0db0adf6260d3da9fe99e17d18d09981",
+ "text": "The provided data does not contain any information about the number of times each driver has won the Indy 500. Therefore, it is impossible to determine which driver with a time/retired of +1 lap in the 1979 Trenton Twin Indy race has won the Indy 500 the most times.\n\nFinal Answer: The provided data does not contain enough information to answer the question.",
+ "input_tokens": 5351,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 23.34
+}

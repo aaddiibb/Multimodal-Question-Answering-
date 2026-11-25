@@ -1,0 +1,12 @@
+{
+ "key": "289abf7ba426e39c7ad6866bacc00759bb22f9ea948a3f50760d93ebd460ff7f",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for the film \"I, Robot\" starring Will Smith. The poster features Will Smith prominently in the center, dressed in a leather jacket, with a futuristic cityscape in the background.</insights>\n\n<answer>Will Smith played in the 2004 film \"I, Robot\" directed by Alex Proyas.</answer>",
+ "input_tokens": 2414,
+ "output_tokens": 87,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 10.89
+}

@@ -1,0 +1,12 @@
+{
+ "key": "6b135a8fa4829c49e74a7dcf8e8f3ad8df887ed72201a802cc7f01a943988995",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the Parignya Pandya Shah show that was dubbed in Hindi and has a person on the logo. We have the following insights:\n\n- Parignya Pandya Shah is associated with the show \"Parichay (TV series)\".\n- \"Parichay (TV series)\" is dubbed in Hindi.\n- The show aired on Colors TV from 9 August 2011 to 15 March 2013.\n\nFrom the table, we can see that the shows listed are all dubbed in Hindi. However, we need to identify which one has a person on the logo.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Which show is dubbed in Hindi?\n2. Which show has a person on the logo?\n\n### Step 2.1: Answer the Subquestions\n\n#### Subquestion 1: Which show is dubbed in Hindi?\n- From the table, all the shows listed are dubbed in Hindi.\n\n#### Subquestion 2: Which show has a person on the logo?\n- From the images provided, only \"Ben 10\" has a person on its logo.\n\n### Final Answer\n\nThe Parignya Pandya Shah show that was dubbed in Hindi and has a person on the logo is \"Ben 10\".",
+ "input_tokens": 2450,
+ "output_tokens": 277,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 26.94
+}

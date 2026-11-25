@@ -1,0 +1,12 @@
+{
+ "key": "822018f3a45ac7ac9226811414b6c7189b07afb24b1b11ab982c1e19e8744169",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not mention Akiva Goldsman as a screenwriter for any of the films listed.\n- The Divergent series consists of three films: Divergent (2014), The Divergent Series: Insurgent (2015), and The Divergent Series: Allegiant (2016).\n- The film with one man with a dimpled chin looking forward on its poster is not mentioned in the provided text.\n</insights>\n\n<answer>\nThe provided text does not contain enough information to determine which film Akiva Goldsman wrote that was released first compared to the Divergent series. The text does not mention Akiva Goldsman as a screenwriter for any of the films listed.\n</answer>",
+ "input_tokens": 1961,
+ "output_tokens": 170,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.6
+}

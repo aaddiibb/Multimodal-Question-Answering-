@@ -1,0 +1,12 @@
+{
+ "key": "9a61fb76369aa92d362bfc5591bdc4d98856d506f6615578b12f7032ccc8ff11",
+ "text": "The question asks about a specific movie that Priya Anand worked as a voice actress in 2011 on a Tamil dubbed film. From the provided table insights, we know that in 2011, she worked on two movies: \"Thor\" and \"X-Men: First Class\". However, there is no explicit mention of a Tamil dubbed version of \"Thor\" in the table. Therefore, based on the information available, we cannot definitively answer which specific Thor movie Priya Anand worked on in Tamil.\n\n<answer>\nBased on the information provided, we cannot determine which specific Thor movie Priya Anand worked on in Tamil. The table mentions that she worked on \"Thor\" and \"X-Men: First Class\" in 2011, but does not specify if either of these were Tamil dubbed versions.\n</answer>",
+ "input_tokens": 3321,
+ "output_tokens": 175,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 22.48
+}

@@ -1,0 +1,12 @@
+{
+ "key": "71624ad53f1bdcee29b293f40aeacccbec0723bc42ad7e6b40cf45ca8359a2a0",
+ "text": "<answer>There is no game in the provided list where Tricia Helfer played a role and a picture of Earth is prominently featured.</answer>",
+ "input_tokens": 895,
+ "output_tokens": 32,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.0
+}

@@ -1,0 +1,12 @@
+{
+ "key": "18f4c5eab9b690d874c8cd235aa84de5d3d567c46836bb5cd63a9eda4d59c6d8",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about various Bollywood films and their associated singers, composers, and directors.\n- The text does not directly mention Sona Mohapatra or her co-singers.\n</insights>\n\n<answer>\nThe question cannot be answered using the provided text data. The text does not contain information about Sona Mohapatra or her co-singers.\n</answer>",
+ "input_tokens": 1841,
+ "output_tokens": 90,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.08
+}

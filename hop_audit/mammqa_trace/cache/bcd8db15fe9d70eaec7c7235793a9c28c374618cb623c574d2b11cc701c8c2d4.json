@@ -1,0 +1,12 @@
+{
+ "key": "bcd8db15fe9d70eaec7c7235793a9c28c374618cb623c574d2b11cc701c8c2d4",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions multiple songs and their writers, but does not specify a number one song for Carnical Music.\n- The song \"Find Out Who Your Friends Are\" is mentioned, featuring Tim McGraw and Kenny Chesney as guests.\n</insights>\n\n<answer>\nBased on the provided text, there is no clear indication of a number one song for Carnical Music written by Bruce Robison. Additionally, the song \"Find Out Who Your Friends Are\" features Tim McGraw and Kenny Chesney as guests, not Tracy Lawrence.\n</answer>",
+ "input_tokens": 1786,
+ "output_tokens": 125,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.9
+}

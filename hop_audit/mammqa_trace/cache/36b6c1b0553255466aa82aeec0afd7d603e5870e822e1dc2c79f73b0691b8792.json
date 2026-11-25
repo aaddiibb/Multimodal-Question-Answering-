@@ -1,0 +1,12 @@
+{
+ "key": "36b6c1b0553255466aa82aeec0afd7d603e5870e822e1dc2c79f73b0691b8792",
+ "text": "<answer>Insufficient information</answer>",
+ "input_tokens": 1368,
+ "output_tokens": 10,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.36
+}

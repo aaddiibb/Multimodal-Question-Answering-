@@ -1,0 +1,12 @@
+{
+ "key": "93a24260a0372761e3c303c65ab3129bc87e3f029c20ad2aac0773f2d2787e3c",
+ "text": "<answer>bird</answer>",
+ "input_tokens": 884,
+ "output_tokens": 8,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.56
+}

@@ -1,0 +1,12 @@
+{
+ "key": "41fe93087c5ffc9541e3e96642d3b6dc4d93bfbe4cae74d4d0c4be99c3e40235",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists players, their injuries, and dates when they were placed and activated on the 10-day disabled list.\n- Players can be identified by their handedness based on their names and injuries.\n</insights>\n\n<answer>\nTo determine the player who throws with his left hand and had an injury on the 10-day disabled list, we need to identify players whose names suggest they throw with their left hand and check if they have an injury listed.\n</answer>\n\n<subanswer>\n1. Identify players who throw with their left hand:\n   - Josh Harrison (left-handed)\n   - Francisco Cervelli (left-handed)\n   - Gregory Polanco (left-handed)\n\n2. Check for injuries on the 10-day disabled list for these players:\n   - Josh Harrison: Fracture of 5th Metacarpal Bone in Left Hand\n   - Francisco Cervelli: Concussion\n   - Gregory Polanco: Dislocated Left Shoulder and Bone Bruise on Left Knee\n\n3. Determine which player had an injury on the 10-day disabled list:\n   - Josh Harrison had a fracture of the 5th Metacarpal Bone in his left hand.\n</subanswer>",
+ "input_tokens": 1245,
+ "output_tokens": 263,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 18.08
+}

@@ -1,0 +1,78 @@
+{
+  "implementation": "CV-MAMMQA-provided-context-v1.0",
+  "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "selection_seed": 20261013,
+  "generation_seed": 20261013,
+  "selected_qids": [
+    "64dabbb94b37ab25d973157fe27b5417",
+    "782b7cd2730063d3406269f49f3abea5",
+    "5219198c4be50e67c67c373f1afdf797",
+    "df1baba3c38afb8cb6574f05de962c94",
+    "ad36bba97d42a17ea3d3dcdd8c4ccfcc",
+    "cdc57d98ce583c80ab41090c89775274",
+    "113e5d95caf0f6353818a711ef39f8ff",
+    "9618d36556c0c2f3b5ee6ff644001a6d",
+    "3683bfbecf12a74cd7d6f7da9f8ab17a",
+    "e950ebf7c5f25a971d748b883fc181db",
+    "e596d17f170cdf8a707a8e11962ee301",
+    "2f7dc1705f3baa62fd582c6a9057b88e",
+    "669991e1b5edfd99ac207019ea8d8300",
+    "1243970ae9a1c61005808b1cca886948",
+    "30b210f40a1a8ef43170149dff7a18bc",
+    "7173374c77f1c27e397663c455501bba"
+  ],
+  "prompt_versions": {
+    "stage1": "1.0",
+    "stage2_anchor": "1.0",
+    "baseline_aggregator": "1.0",
+    "claim_extractor": "1.0",
+    "claim_verifier": "1.0",
+    "local_repair": "1.0",
+    "cv_aggregator": "1.0",
+    "format_repair": "1.0"
+  },
+  "generation": {
+    "do_sample": true,
+    "temperature": 0.3,
+    "top_p": 0.7
+  },
+  "deterministic_utility_generation": {
+    "do_sample": false
+  },
+  "token_limits": {
+    "input": 4096,
+    "stage1": 112,
+    "stage2": 128,
+    "aggregator": 80,
+    "claim": 128,
+    "verifier": 96,
+    "repair": 112
+  },
+  "claim_score_map": {
+    "SUPPORTED": 2,
+    "PARTIAL": 1,
+    "NOT_VERIFIABLE": 0,
+    "UNSUPPORTED": -1,
+    "CONTRADICTED": -2
+  },
+  "agent_support_weight": 0.5,
+  "max_claims": 3,
+  "max_repair_rounds": 1,
+  "repair_rule": "one highest-priority problematic candidate branch; never rerun Stage I/II",
+  "implementation_fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "quantization": {
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_compute_dtype": "float16",
+    "device_map": "balanced"
+  },
+  "experiment_setting": "PROVIDED_CONTEXT",
+  "retrieval": "NONE",
+  "data_paths": {
+    "dev": "/kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_dev.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_dev.jsonl",
+    "texts": "/kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_texts.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_texts.jsonl",
+    "tables": "/kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_tables.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_tables.jsonl",
+    "images": "/kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_images.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_images.jsonl"
+  }
+}

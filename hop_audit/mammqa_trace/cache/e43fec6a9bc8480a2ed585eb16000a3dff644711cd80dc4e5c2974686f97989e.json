@@ -1,0 +1,12 @@
+{
+ "key": "e43fec6a9bc8480a2ed585eb16000a3dff644711cd80dc4e5c2974686f97989e",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a soccer player wearing a jersey with the number 18 and the name \"HERBALIFE\" on it. There is no clear indication of the player's transfer date or the specific date they began playing professional football.</insights>\n\n<answer>There is insufficient information in the image to determine the exact date the player began playing professional football after being transferred from the Los Angeles Galaxy to Paris Saint-Germain in the 2013 season.</answer>",
+ "input_tokens": 2943,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 15.49
+}

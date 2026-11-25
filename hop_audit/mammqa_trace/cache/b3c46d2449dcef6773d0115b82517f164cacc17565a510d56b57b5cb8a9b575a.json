@@ -1,0 +1,12 @@
+{
+ "key": "b3c46d2449dcef6773d0115b82517f164cacc17565a510d56b57b5cb8a9b575a",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Michael Potts' productions and roles over the years.\n- In 2002, there is one production listed under \"Off-Broadway\" at the Delacorte Theatre.\n</insights>\n\n<answer>\nThe full title of the Production in the Theater Credits of Michael Potts in 2002 is \"Twelfth Night.\"\n</answer>",
+ "input_tokens": 1191,
+ "output_tokens": 92,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.49
+}

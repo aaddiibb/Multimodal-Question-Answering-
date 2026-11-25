@@ -1,0 +1,12 @@
+{
+ "key": "53c75b1fb74518c5d35ddf3087e34de4a90e7fb08e584b38c0efad726c0a1d58",
+ "text": "The provided data does not contain any information about the weather conditions at Kempton Park Racecourse where the horse Conduit raced. Therefore, we cannot determine if it is raining there.",
+ "input_tokens": 3870,
+ "output_tokens": 37,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 11.67
+}

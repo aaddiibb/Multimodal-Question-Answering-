@@ -1,0 +1,12 @@
+{
+ "key": "52eb83ac329a746fd050a3e5d391224ed4dbbc924a83e63af662dfbe01104c3b",
+ "text": "<modality>image</modality>\n\n<insights>The images depict individuals who have been captains of the Iran national football team. However, no specific information about their caps or international goals is provided.</insights>\n\n<answer>Based on the provided images, it is not possible to determine which player has higher caps between Ali Karimi and the player with the most international goals in soccer without additional data.</answer>",
+ "input_tokens": 3160,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 14.69
+}

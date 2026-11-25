@@ -1,0 +1,12 @@
+{
+ "key": "dcf9847d87e5b48a76e0c9abebf9edbcfe35c5b5f508b99002d8b204ea74d78f",
+ "text": "Let's break down the question step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"In the movie where Jason Eisener was the second-unit director, who did Nat Wolff play?\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided table insight:\n- Jason Eisener worked as a second-unit director in the film \"Death Note\" in 2017.\n\n### Step 3: Break Down the Question\nTo answer this question, we need to identify two key pieces of information:\n1. The movie where Jason Eisener was the second-unit director.\n2. The role that Nat Wolff played in that movie.\n\n### Step 4: Answer Subquestions\n1. **Identify the movie**: The movie where Jason Eisener was the second-unit director is \"Death Note\".\n2. **Identify Nat Wolff's role**: Nat Wolff played the role of Light Turner in \"Death Note\".\n\n### Final Answer\n<answer>Nat Wolff played the role of Light Turner in the movie \"Death Note\" where Jason Eisener served as the second-unit director.</answer>",
+ "input_tokens": 2320,
+ "output_tokens": 225,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 21.02
+}

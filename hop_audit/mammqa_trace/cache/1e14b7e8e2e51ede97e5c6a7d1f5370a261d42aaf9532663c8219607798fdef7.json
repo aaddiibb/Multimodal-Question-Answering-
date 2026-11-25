@@ -1,0 +1,12 @@
+{
+ "key": "1e14b7e8e2e51ede97e5c6a7d1f5370a261d42aaf9532663c8219607798fdef7",
+ "text": "The text insight indicates that there is no information about an institution with the nickname Seahawks joining the Mid-South conference. The table also does not list any institution with the nickname Seahawks joining the Mid-South conference. Therefore, we can conclude that there is no date associated with this institution joining the conference.\n\n<answer>There is no information provided about an institution with the nickname Seahawks joining the Mid-South conference.</answer>",
+ "input_tokens": 3037,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 13.61
+}

@@ -1,0 +1,12 @@
+{
+ "key": "0cb12a9ba6d901985f18658315528d56f54fed3c0f08eddf12dc78521e0e14d9",
+ "text": "<modality>image</modality>\n\n<insights>The images depict movie posters featuring Roshan Ravindra. The movies shown are \"Uppalawanna,\" \"Dark in the White Light,\" \"Mouse,\" \"Heart FM,\" \"Aloko Udapadi,\" \"First Teacher,\" and \"No Address.\" However, there is no explicit mention of the year or the character Sahan.</insights>\n\n<answer>Based on the provided images, it is not possible to determine the exact year when Roshan Ravindra played the role of Sahan or which movies he was in during that year. The images only show movie posters, but do not provide enough information about the year or the character roles.</answer>",
+ "input_tokens": 1465,
+ "output_tokens": 151,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 12.0
+}

@@ -1,0 +1,12 @@
+{
+ "key": "4ce202b9c995c35cd499b91d674c7cc3f570be1a63208c1b99fbf3839ebda66f",
+ "text": "<modality>image</modality>\n\n<insights>The images provided show various movie posters featuring actors with different facial hair styles. There are multiple instances where men with facial hair are depicted.</insights>\n\n<answer>Yes, there are several instances where men with facial hair are shown on the movie posters.</answer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Rajamouli\" (Image 4).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Nandamuri\" (Image 6).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Mahanati\" (Image 7).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Sri Venkateswara\" (Image 8).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Kadaram Kondan\" (Image 9).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"235\" (Image 10).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Bhagavathi\" (Image 11).</subanswer>\n\n<subanswer>There is a man with facial hair on the poster of the movie \"Rajamouli\" (Image 12).</subanswer>",
+ "input_tokens": 2369,
+ "output_tokens": 323,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 29.59
+}

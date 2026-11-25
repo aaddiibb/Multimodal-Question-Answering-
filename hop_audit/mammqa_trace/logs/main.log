@@ -1,0 +1,46 @@
+[2026-10-30 04:00:24] 300 questions | selection sha256 680d34ad38ea7d7a | allocation {'Compare': 49, 'Compose': 192, 'Intersect': 26, 'TableQ': 33}
+[2026-10-30 04:00:31] dev     /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_dev.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_dev.jsonl
+[2026-10-30 04:00:31] texts   /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_texts.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_texts.jsonl
+[2026-10-30 04:00:31] tables  /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_tables.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_tables.jsonl
+[2026-10-30 04:00:31] images  /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_images.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_images.jsonl
+[2026-10-30 04:00:37] records: texts 2895/2895 tables 261/261 images 2525/2525
+[2026-10-30 04:00:38] official image files resolved: 2525/2525
+[2026-10-30 04:00:38] items written | images/question mean 10.0 max 15 | questions with missing image files: 0
+[2026-10-30 04:00:39] resume: imported 0 finished questions from earlier versions
+[2026-10-30 04:01:47] model source: /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-7B-Instruct/snapshots/cc594898137f460bfe9f0759e9844b3ce807cfb5
+[2026-10-30 04:02:47] progress 0/300 | 0.0 q/h | ETA nan h | errors 0
+[2026-10-30 04:12:47] progress 8/300 | 43.6 q/h | ETA 6.7 h | errors 0
+[2026-10-30 04:22:47] progress 18/300 | 51.4 q/h | ETA 5.5 h | errors 0
+[2026-10-30 04:32:47] progress 28/300 | 54.2 q/h | ETA 5.0 h | errors 0
+[2026-10-30 04:42:47] progress 39/300 | 57.1 q/h | ETA 4.6 h | errors 0
+[2026-10-30 04:52:47] progress 46/300 | 54.1 q/h | ETA 4.7 h | errors 0
+[2026-10-30 05:02:47] progress 57/300 | 56.1 q/h | ETA 4.3 h | errors 0
+[2026-10-30 05:12:47] progress 66/300 | 55.8 q/h | ETA 4.2 h | errors 0
+[2026-10-30 05:22:47] progress 77/300 | 57.0 q/h | ETA 3.9 h | errors 0
+[2026-10-30 05:32:47] progress 86/300 | 56.7 q/h | ETA 3.8 h | errors 0
+[2026-10-30 05:42:47] progress 96/300 | 57.0 q/h | ETA 3.6 h | errors 0
+[2026-10-30 05:52:47] progress 106/300 | 57.3 q/h | ETA 3.4 h | errors 0
+[2026-10-30 06:02:47] progress 114/300 | 56.5 q/h | ETA 3.3 h | errors 0
+[2026-10-30 06:12:47] progress 124/300 | 56.8 q/h | ETA 3.1 h | errors 0
+[2026-10-30 06:22:47] progress 132/300 | 56.2 q/h | ETA 3.0 h | errors 0
+[2026-10-30 06:32:47] progress 144/300 | 57.2 q/h | ETA 2.7 h | errors 0
+[2026-10-30 06:42:47] progress 152/300 | 56.6 q/h | ETA 2.6 h | errors 0
+[2026-10-30 06:52:47] progress 161/300 | 56.5 q/h | ETA 2.5 h | errors 0
+[2026-10-30 07:02:47] progress 171/300 | 56.7 q/h | ETA 2.3 h | errors 0
+[2026-10-30 07:12:47] progress 182/300 | 57.2 q/h | ETA 2.1 h | errors 0
+[2026-10-30 07:22:48] progress 192/300 | 57.3 q/h | ETA 1.9 h | errors 0
+[2026-10-30 07:32:48] progress 202/300 | 57.4 q/h | ETA 1.7 h | errors 0
+[2026-10-30 07:42:48] progress 211/300 | 57.3 q/h | ETA 1.6 h | errors 0
+[2026-10-30 07:52:48] progress 221/300 | 57.4 q/h | ETA 1.4 h | errors 0
+[2026-10-30 08:02:48] progress 230/300 | 57.3 q/h | ETA 1.2 h | errors 0
+[2026-10-30 08:12:48] progress 240/300 | 57.4 q/h | ETA 1.0 h | errors 0
+[2026-10-30 08:22:48] progress 250/300 | 57.5 q/h | ETA 0.9 h | errors 0
+[2026-10-30 08:32:48] progress 261/300 | 57.8 q/h | ETA 0.7 h | errors 0
+[2026-10-30 08:42:48] progress 269/300 | 57.4 q/h | ETA 0.5 h | errors 0
+[2026-10-30 08:52:48] progress 279/300 | 57.5 q/h | ETA 0.4 h | errors 0
+[2026-10-30 09:02:48] progress 289/300 | 57.6 q/h | ETA 0.2 h | errors 0
+[2026-10-30 09:06:48] worker 1 finished (exit 0); 0 of its questions not done
+[2026-10-30 09:12:48] progress 296/300 | 57.1 q/h | ETA 0.1 h | errors 0
+[2026-10-30 09:20:48] worker 0 finished (exit 0); 0 of its questions not done
+[2026-10-30 09:20:48] progress 300/300 | 56.4 q/h | ETA 0.0 h | errors 0
+[2026-10-30 09:20:48] PREDICTIONS FROZEN: 300/300 sha256 8d88b92ad949e282 — gold evaluation starts now

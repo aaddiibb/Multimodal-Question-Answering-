@@ -1,0 +1,12 @@
+{
+ "key": "5c32f245093c4fbbe548a9ede0612a29acc6f9a08660a4fb24bd722f3534080c",
+ "text": "<answer>Peppermill Reno</answer>",
+ "input_tokens": 1264,
+ "output_tokens": 12,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.4
+}

@@ -1,0 +1,12 @@
+{
+ "key": "96765cc8eaee37e9f242b113c99b25cd3c8b57c045be5826f4eb1aa75cd16f01",
+ "text": "Based on the provided table insights and text data, let's break down the question into simpler subquestions:\n\n1. In which television title did Velile Tshabalala play Monique Hyde?\n2. Who did Jessica Raine play in that same television title?\n\nNow, let's address each subquestion:\n\n1. From the table insights, we know that Velile Tshabalala played Monique Hyde in the TV show \"Call the Midwife.\"\n\n2. From the text data, it states that Jessica Raine played the character Midwife Marmaduke in \"Call the Midwife.\"\n\nTherefore, the final answer to the original question is:\n\n<answer>In the television title \"Call the Midwife,\" Velile Tshabalala played Monique Hyde, and Jessica Raine played the character Midwife Marmaduke.</answer>",
+ "input_tokens": 2080,
+ "output_tokens": 172,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 16.29
+}

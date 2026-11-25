@@ -1,0 +1,12 @@
+{
+ "key": "cee229c15109101bac69f5bf9e89f5005eebe35e8d37342327cc4b9ab2569ea0",
+ "text": "<modality> text </modality>\n\n<insights>\nThe text does not contain any information about the Aenne Burda Award or its winners' hair color. The provided text discusses various awards but does not mention the Aenne Burda Award specifically or any details about its winners' hair color.\n</insights>\n\n<answer>\nThere is no information available in the provided text regarding the year when the winner had dark brown hair for the Aenne Burda Award.\n</answer>",
+ "input_tokens": 1595,
+ "output_tokens": 99,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.79
+}

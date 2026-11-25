@@ -1,0 +1,12 @@
+{
+ "key": "714787a79d30aed18b5beb58db7e22bc6a14faf245ef5eb3394afe86e8a1bf7c",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions that Murielle Telio portrayed Misty Mountains in the 2016 action buddy noir comedy film *The Nice Guys* starring Ryan Gosling and Russell Crowe.\n</insights>\n\n<answer>\nMurielle Telio played Misty Mountains in the English title of *The Nice Guys*.\n</answer>\n\n<subanswer>\n- Murielle Telio is an American actress best known for her role in *The Nice Guys*.\n</subanswer>",
+ "input_tokens": 1791,
+ "output_tokens": 114,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.11
+}

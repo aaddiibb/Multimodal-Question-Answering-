@@ -1,0 +1,12 @@
+{
+ "key": "974af90e80d137abeb148cc3de83d19fb9cf4ce1095584926b7181f36af94ad4",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks about the activity being performed in a \"2008-11 M. Harriell stage production poster.\" The text insight states there is no information about such a poster. The table provides a list of Marcy Harriell's roles across different years and theaters, but it does not mention a poster specifically for the 2008-11 period.\n\n### Step 2: Break Down the Question into Subquestions\n1. Is there a poster for the 2008-11 M. Harriell stage production mentioned in the text?\n2. If so, what activity is depicted in the poster?\n\n### Step 3: Extract Insights\n<insights>\n1. The text does not contain information about a 2008-11 M. Harriell stage production poster.\n2. The table lists Marcy Harriell's roles across different years and theaters, but does not mention a poster specifically for the 2008-11 period.\n</insights>\n\n### Step 4: Answer the Subquestions\n<subanswer>There is no information about a 2008-11 M. Harriell stage production poster in the provided text or table.</subanswer>\n\n<subanswer>The table does not provide details about a poster for the 2008-11 M. Harriell stage production.</subanswer>\n\n### Final Answer\n<answer>There is no information provided about the activity being performed in the 2008-11 M. Harriell stage production poster. The available data does not contain this specific detail.</answer>",
+ "input_tokens": 2316,
+ "output_tokens": 354,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 32.74
+}

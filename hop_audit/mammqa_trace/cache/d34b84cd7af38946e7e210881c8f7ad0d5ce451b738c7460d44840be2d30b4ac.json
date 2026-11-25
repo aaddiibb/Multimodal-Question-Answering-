@@ -1,0 +1,12 @@
+{
+ "key": "d34b84cd7af38946e7e210881c8f7ad0d5ce451b738c7460d44840be2d30b4ac",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\n#### Text Insight:\nThe provided text does not contain any mention of a TV show poster showing a globe or the character Ivy George. The texts describe various actors and their roles in different films and TV shows, but there is no information about a specific TV show poster or the character Ivy George.\n\n#### Table Insight:\nThe table lists the years, titles, roles, and notes for Ivy George across different TV shows. However, none of the titles mentioned have a poster showing a globe.\n\n#### Image Insights:\n- The image for \"The Crazy Ones\" does not show a globe.\n- The image for \"About a Boy\" does not show a globe.\n- The image for \"Sam & Cat\" does not show a globe.\n- The image for \"Kirby Buckets\" does not show a globe.\n- The image for \"Agent Carter\" does not show a globe.\n- The image for \"Girl Meets World\" does not show a globe.\n- The image for \"Better Things\" does not show a globe.\n- The image for \"Big Little Lies\" does not show a globe.\n- The image for \"Twin Peaks\" does not show a globe.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there a TV show poster that shows a globe?\n2. If so, which TV show has this poster?\n3. Does the character Ivy George appear in this TV show?\n4. If yes, what role does Ivy George play in this TV show?\n\n### Final Answer\n\nThere is no TV show poster that shows a globe, nor is there any information about the character Ivy George appearing in such a TV show. Therefore, it is impossible to determine what part Ivy George plays in a TV show whose poster shows a globe based on the provided data.",
+ "input_tokens": 1828,
+ "output_tokens": 375,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 29.65
+}

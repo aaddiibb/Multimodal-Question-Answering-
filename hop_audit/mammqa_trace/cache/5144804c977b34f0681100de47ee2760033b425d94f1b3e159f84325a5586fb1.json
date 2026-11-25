@@ -1,0 +1,12 @@
+{
+ "key": "5144804c977b34f0681100de47ee2760033b425d94f1b3e159f84325a5586fb1",
+ "text": "<modality>image</modality>\n\n<insights>The image provided contains logos and emblems representing different institutions. The logos include a landing eagle, a deer, a shield with a letter N, a beaver, and various other symbols.</insights>\n\n<answer>Based on the provided images, the team with a landing eagle on their logo is the Beavers. However, there is no image provided that shows the champion team featuring a landing eagle on their logo. Therefore, it is impossible to determine the runner-up based on the given information.</answer>",
+ "input_tokens": 1967,
+ "output_tokens": 115,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 11.98
+}

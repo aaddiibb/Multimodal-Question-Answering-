@@ -1,0 +1,12 @@
+{
+ "key": "4a95d7e4452377c7663094e567e4c986514dc65086dc140c9e3ac871807b9e81",
+ "text": "<answer>The Mount Broughton Ladies Classic</answer>",
+ "input_tokens": 1008,
+ "output_tokens": 13,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.93
+}

@@ -1,0 +1,12 @@
+{
+ "key": "60b873293cef744319d4d621e1a39a0166615e4ee87ab1b414c733a3942f329c",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights> The image shows a logo with the letters \"SMC\" and a shield with a \"G\" inside it.</insights>\n\n<answer> The runner-up in the D1-a rugby championships when Life University won the championship on CBSSN was SMC.</answer>\n\n<subanswer> The image shows the logo of SMC.</subanswer>",
+ "input_tokens": 1819,
+ "output_tokens": 91,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 9.24
+}

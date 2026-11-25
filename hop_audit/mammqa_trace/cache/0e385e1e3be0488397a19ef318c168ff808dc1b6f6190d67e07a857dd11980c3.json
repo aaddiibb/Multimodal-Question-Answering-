@@ -1,0 +1,12 @@
+{
+ "key": "0e385e1e3be0488397a19ef318c168ff808dc1b6f6190d67e07a857dd11980c3",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text mentions a film called \"Trixie,\" which is a 2000 American mystery-crime film starring Emily Watson, Nick Nolte, Will Patton, and Brittany Murphy.\n- There is no mention of an actress playing Trixie being pregnant in the provided text.\n</insights>\n\n<answer>\nBased on the provided text, there is no information about the actress playing Trixie being pregnant. The text only provides details about the film \"Trixie\" and its cast members.\n</answer>",
+ "input_tokens": 1739,
+ "output_tokens": 122,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.53
+}

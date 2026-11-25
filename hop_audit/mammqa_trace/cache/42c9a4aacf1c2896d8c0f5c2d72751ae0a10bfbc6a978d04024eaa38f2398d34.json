@@ -1,0 +1,12 @@
+{
+ "key": "42c9a4aacf1c2896d8c0f5c2d72751ae0a10bfbc6a978d04024eaa38f2398d34",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various projects directed, written, produced, or animated by J.G. Quintel.\n- The projects include \"Star Wars: Clone Wars,\" \"Camp Lazlo,\" \"Phineas and Ferb,\" \"The Marvelous Misadventures of Flapjack,\" \"Adventure Time,\" \"Regular Show,\" \"Hall of Game Awards,\" \"The Amazing World of Gumball,\" and \"Close Enough.\"\n- The role of \"Larry\" is mentioned in \"Regular Show\" where he plays the character Mordecai.\n</insights>\n\n<answer>\nLarry in the TV show \"Regular Show\" plays the character Mordecai, who is known for having a rainbow on his logo.\n</answer>",
+ "input_tokens": 1044,
+ "output_tokens": 160,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.98
+}

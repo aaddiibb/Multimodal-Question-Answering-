@@ -1,0 +1,12 @@
+{
+ "key": "f2f3115617cce92dac70d0b2b4f8fa97686985d30773d6a25014e1a502ce4c9a",
+ "text": "Based on the provided text and table, there is no information about the color of the qualifier's hair for the 2007 Lexmark Indy 300 Qual 2. The table only provides the qualifying times for each driver but does not include any details about their appearance or hair color. Additionally, the image provided shows a person wearing a blue jacket and a white shirt, but this does not necessarily represent the 2007 Lexmark Indy 300 Qual 2 qualifier. Therefore, it is not possible to determine the color of the qualifier's hair based on the given data.",
+ "input_tokens": 4119,
+ "output_tokens": 124,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 23.31
+}

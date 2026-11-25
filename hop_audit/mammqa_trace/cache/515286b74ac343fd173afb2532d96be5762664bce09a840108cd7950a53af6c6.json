@@ -1,0 +1,12 @@
+{
+ "key": "515286b74ac343fd173afb2532d96be5762664bce09a840108cd7950a53af6c6",
+ "text": "<modality> table </modality>\n\n<insights>\n- Logan Miller played the role of Todd in the movie \"A Dog's Purpose\".\n- The dog's voice was provided by another actor, not Logan Miller himself.\n</insights>\n\n<answer>\nIn the film \"A Dog's Purpose\", where Logan Miller plays the role of Todd, the dog's voice was provided by another actor.\n</answer>",
+ "input_tokens": 998,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.08
+}

@@ -1,0 +1,12 @@
+{
+ "key": "0c71d39af1d67c8f3451677941ed0764cdd572127ed3f3635143b06bf9d18829",
+ "text": "<answer>1705</answer>",
+ "input_tokens": 898,
+ "output_tokens": 11,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.74
+}

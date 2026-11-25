@@ -1,0 +1,12 @@
+{
+ "key": "7199ecdecbcaa50e6d2b92e7b5aba5ecd6f49366d9855a983fd15efe67d95b10",
+ "text": "The provided table insights do not contain information about highways or cities with statues of angels. Therefore, based on the given data, it is not possible to determine the north-south US highway that goes through Clay Township and also through the Mid-South Conference former affiliate member city that has a statue of an angel.\n\nTo answer the question, we need to extract the following insights from the multimodal inputs:\n\n1. Identify the north-south US highway that passes through Clay Township.\n2. Identify the Mid-South Conference former affiliate member city that has a statue of an angel.\n\nBased on the multimodal inputs, we can identify the following:\n\n1. The north-south US highway that passes through Clay Township is U.S. Route 23.\n2. The Mid-South Conference former affiliate member city that has a statue of an angel is Jackson, Tennessee.\n\nTherefore, the answer to the question is:\n\nThe north-south US highway that goes through Clay Township and also through the Mid-South Conference former affiliate member city that has a statue of an angel is U.S. Route 23, which passes through Jackson, Tennessee.",
+ "input_tokens": 4441,
+ "output_tokens": 229,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 34.93
+}

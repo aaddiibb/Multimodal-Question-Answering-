@@ -1,0 +1,12 @@
+{
+ "key": "9267a84489850fe6b416688c1b597cbf61b1b353a98b448d5b3021c1a4bd1c45",
+ "text": "<answer>Texas Tech</answer>",
+ "input_tokens": 1120,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.03
+}

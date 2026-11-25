@@ -1,0 +1,12 @@
+{
+ "key": "ee09477adc5f842eb0a8a40dd41a6a0867474bf47d07dcfe68baa9f7e285c7b0",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about various stadiums across different countries and their capacities.\n- The Phnom Penh Olympic Stadium is mentioned, but it is noted that despite its name, the stadium has never hosted an Olympic Games.\n</insights>\n\n<answer>\nThe Phnom Penh Olympic Stadium is located in Phnom Penh, Cambodia, but it has never been used by the Cambodian League in 2016. The stadium does not have a pool of water around it.\n</answer>",
+ "input_tokens": 1502,
+ "output_tokens": 115,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.25
+}

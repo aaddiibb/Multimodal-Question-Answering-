@@ -1,0 +1,12 @@
+{
+ "key": "548631b63d6df5a9565b40aea07f5a66357c2ac73ce083acc433dd3eb92ce61c",
+ "text": "<modality>image</modality>\n\n<insights>The image shows the logos of four clubs: Bangkok United, Jamshedpur FC, East Bengal Club Kolkata, and Bengaluru FC. The question asks about a transfer involving a club with a flaming torch on its logo.</insights>\n\n<answer>Based on the provided images, the club with a flaming torch on its logo is Jamshedpur FC.</answer>\n\n<subanswer>What was the transfer type of the transfer to Jamshedpur FC?</subanswer>",
+ "input_tokens": 1023,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 7.94
+}

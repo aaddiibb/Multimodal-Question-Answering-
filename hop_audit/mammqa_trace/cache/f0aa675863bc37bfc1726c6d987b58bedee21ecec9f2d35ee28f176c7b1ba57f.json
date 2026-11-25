@@ -1,0 +1,12 @@
+{
+ "key": "f0aa675863bc37bfc1726c6d987b58bedee21ecec9f2d35ee28f176c7b1ba57f",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not contain information about the 1979 Trenton Twin Indy or the number of Indy 500 races won by drivers on the Penske Racing team.\n</insights>\n\n<answer>\nThe provided text does not contain the necessary information to answer the question. It lacks details about the 1979 Trenton Twin Indy or the number of Indy 500 races won by drivers on the Penske Racing team.\n</answer>",
+ "input_tokens": 2249,
+ "output_tokens": 110,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 12.01
+}

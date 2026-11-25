@@ -1,0 +1,12 @@
+{
+ "key": "6382e724dc89965f55b09a4b7e97a93f2f9fd28c5fd5ff7db1c000f84339697c",
+ "text": "<modality>image</modality>\n\n<insights>The images depict individuals who appear to be fighters or athletes, but there is no visible information about their knockout records.</insights>\n\n<answer>There is insufficient information in the images to determine which fighter has more knockouts in the list of UFC records by division.</answer>",
+ "input_tokens": 2483,
+ "output_tokens": 68,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.79
+}

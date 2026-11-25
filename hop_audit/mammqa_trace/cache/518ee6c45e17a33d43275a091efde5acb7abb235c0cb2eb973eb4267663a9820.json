@@ -1,0 +1,12 @@
+{
+ "key": "518ee6c45e17a33d43275a091efde5acb7abb235c0cb2eb973eb4267663a9820",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the years, titles, roles, and notes for Ivy George's acting appearances.\n- The role \"Little Girl\" appears twice in 2014, but no actor is specified for those roles.\n- In 2016, she played \"Young Agnes Cully\" in \"Agent Carter\".\n- In 2017, she played \"Amabella Klein\" in \"Big Little Lies\".\n- There is no mention of a poster featuring a globe in the table.\n</insights>\n\n<answer>\nBased on the provided table, there is no information about who played Cory Matthews in a television show where Ivy George acted and also has a poster featuring a globe. The table does not contain this specific detail.\n</answer>",
+ "input_tokens": 915,
+ "output_tokens": 168,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 11.35
+}

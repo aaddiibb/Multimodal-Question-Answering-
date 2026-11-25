@@ -1,0 +1,12 @@
+{
+ "key": "d6f99fc52fc8f2755870d28e714a789846e7759ca1e5c85c9e98f83cac0272b0",
+ "text": "Based on the provided table insights and text data, we can extract the following key information:\n\n- Maggie McNamara played the role of Patty ONeill in the film \"The Moon Is Blue,\" which features a poster with a moon.\n- The film \"The Moon Is Blue\" was released in 1953.\n\nNow, let's break down the main question into simpler subquestions:\n\n1. What is the title of the film that features a poster with a moon?\n2. Who played the role of Patty ONeill in this film?\n\nThe first subquestion can be answered directly using the information provided in the table insights. The second subquestion can be answered using the information provided in the text data.\n\n<subanswer>1. The title of the film that features a poster with a moon is \"The Moon Is Blue.\" </subanswer>\n\n<subanswer>2. Maggie McNamara played the role of Patty ONeill in the film \"The Moon Is Blue.\" </subanswer>\n\nTherefore, the final answer to the original question is:\n\n<answer>Maggie McNamara played the role of Patty ONeill in the film \"The Moon Is Blue.\" </answer>",
+ "input_tokens": 3549,
+ "output_tokens": 245,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 31.97
+}

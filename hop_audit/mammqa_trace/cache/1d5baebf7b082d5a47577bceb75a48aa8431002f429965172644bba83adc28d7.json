@@ -1,0 +1,12 @@
+{
+ "key": "1d5baebf7b082d5a47577bceb75a48aa8431002f429965172644bba83adc28d7",
+ "text": "<modality> text </modality>\n\n<insights>\n- The Pixar movie \"Inside Out\" features Amy Poehler voicing Joy.\n- The 2016 movie \"All We Had\" starring Mark Consuelos as Vic.\n</insights>\n\n<answer>\nThe voice actor who starred in the Pixar movie \"Inside Out\" is Amy Poehler, and the 2016 movie where Mark Consuelos played Vic is \"All We Had.\"\n</answer>",
+ "input_tokens": 2069,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.21
+}

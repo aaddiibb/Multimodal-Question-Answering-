@@ -1,0 +1,244 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "1243970ae9a1c61005808b1cca886948",
+  "question": "In what country are the Cathedral of the Holy Spirit and St. Joseph High School located?",
+  "context_digest": "b90f81bc8737cd130fe54fc4ac42f38ff6fccc1cc2423046a14709a55ec257ea",
+  "source_ids": [
+    "c269eae8eeac670cc7162f46bc92bba2",
+    "1deafabd47eaa59e69afcb68bfa2aeb5"
+  ],
+  "modalities": [
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "Turkey",
+        "insight": "The Cathedral of the Holy Spirit and St. Joseph High School are both located in Istanbul, Turkey.",
+        "raw_output": "ANSWER: Turkey\nINSIGHT: The Cathedral of the Holy Spirit and St. Joseph High School are both located in Istanbul, Turkey."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "Turkey",
+        "reason": "The Cathedral of the Holy Spirit and St. Joseph High School are both located in Istanbul, Turkey.",
+        "evidence_reference": "[NO OTHER MODALITY IS AVAILABLE]",
+        "raw_output": "ANSWER: Turkey\nREASON: The Cathedral of the Holy Spirit and St. Joseph High School are both located in Istanbul, Turkey.\nEVIDENCE: [NO OTHER MODALITY IS AVAILABLE]"
+      }
+    },
+    "shared_seconds": 5.521253461000015,
+    "shared_digest": "ccb4e5c637bfdd1eeaecf86aa5c5c970c8b33fba9e2d4a9886325b07dc1d77cd"
+  },
+  "baseline": {
+    "answer": "Turkey",
+    "raw_output": "FINAL: Turkey",
+    "seconds": 0.5249413070000628,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "Turkey",
+    "raw_output": "FINAL: Turkey",
+    "seconds": 14.047773783000139,
+    "calls": 5,
+    "format_repair_used": false
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 1,
+      "unique_candidate_count": 1,
+      "consensus_answer": "Turkey",
+      "consensus_count": 1,
+      "stage2_disagreement": false,
+      "agreement_type": "unanimous"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [
+      {
+        "answer": "Turkey",
+        "normalized_answer": "turkey",
+        "supporting_agents": [
+          "text_anchor"
+        ],
+        "reasons": [
+          "The Cathedral of the Holy Spirit and St. Joseph High School are both located in Istanbul, Turkey."
+        ],
+        "evidence_references": [
+          "[NO OTHER MODALITY IS AVAILABLE]"
+        ],
+        "claims": [
+          {
+            "text": "The Cathedral of the Holy Spirit is located in Istanbul, Turkey.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text explicitly states that the Cathedral of the Holy Spirit is located in Istanbul, Turkey.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text explicitly states that the Cathedral of the Holy Spirit is located in Istanbul, Turkey.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "St. Joseph High School is located in Istanbul, Turkey.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text confirms that both St. Joseph High School and the Cathedral of the Holy Spirit are located in Istanbul, Turkey.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text confirms that both St. Joseph High School and the Cathedral of the Holy Spirit are located in Istanbul, Turkey.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "Istanbul is a city in Turkey.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided texts clearly state that both the Cathedral of the Holy Spirit and St. Joseph High School are located in Istanbul, Turkey.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided texts clearly state that both the Cathedral of the Holy Spirit and St. Joseph High School are located in Istanbul, Turkey.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "Turkey",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 3,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 327,
+      "original_input_tokens": 327,
+      "output_tokens": 29,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.3979332260000774,
+      "image_count": 0,
+      "seed": 166163324
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 160,
+      "original_input_tokens": 160,
+      "output_tokens": 42,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.116459719999966,
+      "image_count": 0,
+      "seed": 1599857859
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 177,
+      "original_input_tokens": 177,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5214656379998814,
+      "image_count": 0,
+      "seed": 518712733
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "claim_extraction_turkey",
+      "deterministic": true,
+      "input_tokens": 142,
+      "original_input_tokens": 142,
+      "output_tokens": 45,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.2715455829998064,
+      "image_count": 0,
+      "seed": 314539572
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 431,
+      "original_input_tokens": 431,
+      "output_tokens": 38,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.099474561000079,
+      "image_count": 0,
+      "seed": 2378624428
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 430,
+      "original_input_tokens": 430,
+      "output_tokens": 44,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.462304871000015,
+      "image_count": 0,
+      "seed": 3413122150
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 426,
+      "original_input_tokens": 426,
+      "output_tokens": 45,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.5300156240000433,
+      "image_count": 0,
+      "seed": 3339683455
+    },
+    {
+      "qid": "1243970ae9a1c61005808b1cca886948",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 371,
+      "original_input_tokens": 371,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6650947189998533,
+      "image_count": 0,
+      "seed": 1036780145
+    }
+  ],
+  "completed_utc": "2026-10-13T20:01:26.401982+00:00"
+}

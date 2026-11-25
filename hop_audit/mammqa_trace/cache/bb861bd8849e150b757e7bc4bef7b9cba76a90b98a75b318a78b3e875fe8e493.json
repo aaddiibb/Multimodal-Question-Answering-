@@ -1,0 +1,12 @@
+{
+ "key": "bb861bd8849e150b757e7bc4bef7b9cba76a90b98a75b318a78b3e875fe8e493",
+ "text": "<modality>image</modality>\n\n<insights>The image displays a logo with the text \"THUNDERCATS\" prominently featured, which is associated with a television show. The logo includes stylized cat heads as part of the design.</insights>\n\n<answer>The new title of the show that returned to 2011 American television with a two-headed dog on its poster is \"ThunderCats.\"</answer>",
+ "input_tokens": 1924,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.81
+}

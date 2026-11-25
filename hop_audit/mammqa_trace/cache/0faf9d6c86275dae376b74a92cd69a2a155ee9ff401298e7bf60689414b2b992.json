@@ -1,0 +1,12 @@
+{
+ "key": "0faf9d6c86275dae376b74a92cd69a2a155ee9ff401298e7bf60689414b2b992",
+ "text": "<modality>image</modality>\n\n<insights>The image is a movie poster for \"Harry Potter and the Goblet of Fire\". The title suggests that the film is part of the Harry Potter series, which features Harry Potter as the main character. The image also includes the names of the actors involved in the film.</insights>\n\n<answer>Sheila Allen played a role in \"Harry Potter and the Goblet of Fire\", but the specific role she played is not mentioned in the image. The title of the film is \"Harry Potter and the Goblet of Fire\", so Harry is holding the Goblet of Fire in his hand.</answer>",
+ "input_tokens": 1960,
+ "output_tokens": 138,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 13.59
+}

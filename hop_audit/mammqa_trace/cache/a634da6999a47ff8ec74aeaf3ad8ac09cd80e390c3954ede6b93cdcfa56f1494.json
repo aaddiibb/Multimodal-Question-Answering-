@@ -1,0 +1,12 @@
+{
+ "key": "a634da6999a47ff8ec74aeaf3ad8ac09cd80e390c3954ede6b93cdcfa56f1494",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists institutions affiliated with the Mid-South Conference.\n- The \"Mid-South Sport\" column indicates which sports the institutions participate in.\n- The \"Nickname\" column provides nicknames for the institutions.\n- The \"Enrollment\" column gives the number of students enrolled at each institution.\n- The \"Founded\" column shows when each institution was established.\n- The \"Joined\" column specifies when each institution joined the Mid-South Conference.\n</insights>\n\n<answer>\nTo determine which institutions with a book on their logo are affiliate members of the Mid-South Conference for the sport of football, we need to follow these steps:\n\n1. Identify institutions that are affiliate members of the Mid-South Conference for football.\n2. Check if the logo of each institution includes a book.\n\nLet's go through the list:\n\n1. Ave Maria University: Joined in 2017, plays football, nickname is \"Gyrenes\". No book in the logo.\n2. Bethel University: Joined in 1995–96, plays archery & football, nickname is \"Wildcats\". No book in the logo.\n3. Bluefield College: Joined in 2014–15, plays football, nickname is \"Rams\". No book in the logo.\n4. Faulkner University: Joined in 2008–09, plays football, nickname is \"Eagles\". No book in the logo.\n5. Keiser University: Joined in 2018, plays football & wrestling, nickname is \"Seahawks\". No book in the logo.\n6. Kentucky Christian University: Joined in 2009, plays archery, baseball, football & softball, nickname is \"Knights\". No book in the logo.\n7. Point University: Joined in 2017, plays football, nickname is \"Skyhawks\". No book in the logo.\n8. St. Thomas University: Joined in 2019, plays football, nickname is \"Bobcats\". No book in the logo.\n9. Southeastern University: Joined in 20",
+ "input_tokens": 1226,
+ "output_tokens": 448,
+ "hit_max_new_tokens": true,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 30.27
+}

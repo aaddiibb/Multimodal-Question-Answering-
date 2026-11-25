@@ -1,0 +1,12 @@
+{
+ "key": "919afad8398d08043822209cd9a633f4a30e54629d0af1fbf879e2243e06c027",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image shows a person holding a trophy with a golden sphere inside.</insights>\n\n<answer>Based on the image provided, the player holding the trophy with a golden sphere inside is the one being referred to in the question.</answer>",
+ "input_tokens": 3279,
+ "output_tokens": 67,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 13.66
+}

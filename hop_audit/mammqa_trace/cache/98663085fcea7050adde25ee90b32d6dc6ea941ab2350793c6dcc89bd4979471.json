@@ -1,0 +1,12 @@
+{
+ "key": "98663085fcea7050adde25ee90b32d6dc6ea941ab2350793c6dcc89bd4979471",
+ "text": "<modality> text </modality>\n\n<insights>\nThe text does not contain any information about the Finnish Cup, the home team, or the emblem for a specific round. There is no mention of a team or a specific round number in the provided text snippets.\n</insights>\n\n<answer>\nThere is insufficient information in the provided text to answer the question. The text does not contain any details about the Finnish Cup or the emblem for a specific round.\n</answer>",
+ "input_tokens": 1672,
+ "output_tokens": 98,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.64
+}

@@ -1,0 +1,12 @@
+{
+ "key": "a2d2339f29ea6edb4d4d201e3a35b97ebc6b482896afee935dc304845a28aa50",
+ "text": "<answer>red</answer>",
+ "input_tokens": 1165,
+ "output_tokens": 8,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.13
+}

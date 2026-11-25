@@ -1,0 +1,78 @@
+{
+  "experiment_id": "qa_smoke16_full_pipeline_seed42",
+  "seed": 42,
+  "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "embed_model": "BAAI/bge-small-en-v1.5",
+  "clip_model": "openai/clip-vit-base-patch32",
+  "run_mode": "smoke",
+  "run_retrieval_only": false,
+  "retrieval_mode": "hybrid",
+  "router_mode": "soft",
+  "retrieval_candidate_k": 20,
+  "fallback_retrieval_k": 10,
+  "context_k": {
+    "text": 5,
+    "table": 3,
+    "image": 3
+  },
+  "graph_enabled": true,
+  "verifier_enabled": true,
+  "feedback_enabled": true,
+  "max_retrieval_rounds": 2,
+  "image_reasoning_uses_title": false,
+  "image_retrieval_mode": "hybrid",
+  "enable_web": false,
+  "question_qids": [
+    "f7dd1ac143507bd2ab9a480f18b86706",
+    "254afe636a34c3a5d94efa22d95465ad",
+    "ebb69554283456251305b4b8ab579f76",
+    "4b9a4868455f98a69a8494ef1dfe7205",
+    "186146ea1f5a9f7ada7f7fd31c5c75a4",
+    "c9fcae0ac6e3aa3f08375db9e4fe9037",
+    "5dfd4afc175cdebf43295316a540d70c",
+    "6d372c501004c3e448b1991f39160e99",
+    "b5d7685e595423638d26dd60e99fcc39",
+    "3126664c6ce707c6aca2c475ace8db08",
+    "183a1eec0e38eaee513a5ec7996f55f1",
+    "2a5fdab4235e28037389777f473c4f9f",
+    "2f154508615dc2d34b4d4b7fdced0b0e",
+    "22e22f3b558eeae2178ddd9cb6bc2b04",
+    "1e3f1a08d865b3676a5ca81d8adc270b",
+    "ceb2b6a63d5f3b5eb8075979a55e7471"
+  ],
+  "methods": {
+    "MAMMQA_ORACLE": {
+      "oracle_gold_evidence": true
+    },
+    "B1_Dense": {
+      "planner": false,
+      "router": false,
+      "router_mode": "all",
+      "retrieval_mode": "dense",
+      "graph": false,
+      "verifier": false,
+      "feedback": false,
+      "agg_question": true
+    },
+    "B2_Planner_Dense": {
+      "planner": true,
+      "router": true,
+      "router_mode": "soft",
+      "retrieval_mode": "dense",
+      "graph": false,
+      "verifier": false,
+      "feedback": false,
+      "agg_question": true
+    },
+    "FULL": {
+      "planner": true,
+      "router": true,
+      "router_mode": "soft",
+      "retrieval_mode": "hybrid",
+      "graph": true,
+      "verifier": true,
+      "feedback": true,
+      "agg_question": true
+    }
+  }
+}

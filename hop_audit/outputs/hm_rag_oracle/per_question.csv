@@ -1,0 +1,17 @@
+qid,type,label,em,f1,final_abstain,prediction,gold,n_latent_hops,hop_statuses,agents_committed_gold,agents_mentioning_gold
+f7dd1ac143507bd2ab9a480f18b86706,"Compare(Compose(TableQ,ImageQ),Compose(TableQ,TextQ))",AGGREGATION_LOSS,0.0,0.0,True,ABSTAIN,Midnite Spares,2,REACHED;LOST_IN_HANDOFF,S1.image;S2.text,
+254afe636a34c3a5d94efa22d95465ad,"Compare(Compose(TableQ,ImageQ),TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Nie sme zlí,"""I Believe I Can Fly""",1,REACHED,,
+ebb69554283456251305b4b8ab579f76,"Compare(TableQ,Compose(TableQ,TextQ))",COMPOSITION_FAILURE,0.0,0.0,True,ABSTAIN,The Omen,1,REACHED,,
+4b9a4868455f98a69a8494ef1dfe7205,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,Orange,orange,1,REACHED,S1.image;S2.table;S2.image;S3.verifier,
+186146ea1f5a9f7ada7f7fd31c5c75a4,"Compose(ImageQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,False,2,eight,1,REACHED,,
+c9fcae0ac6e3aa3f08375db9e4fe9037,"Compose(TableQ,ImageListQ)",EXTRACTION_FAILURE,0.0,0.0,True,ABSTAIN,"17,768",1,NOT_SURFACED,,
+5dfd4afc175cdebf43295316a540d70c,"Compose(TableQ,TextQ)",COMPOSITION_FAILURE,0.0,0.0,True,ABSTAIN,1 July 1857,1,REACHED,,
+6d372c501004c3e448b1991f39160e99,"Compose(TextQ,ImageListQ)",COMPOSITION_FAILURE,0.0,0.0,True,ABSTAIN,no,1,REACHED,,
+b5d7685e595423638d26dd60e99fcc39,"Compose(TextQ,TableQ)",AGGREGATION_LOSS,0.0,0.0,True,ABSTAIN,Aerosmith,1,REACHED,S1.text;S2.text;S2.table;S3.verifier,S1.text;S2.text;S2.table;S3.verifier
+3126664c6ce707c6aca2c475ace8db08,ImageListQ,EXTRACTION_FAILURE,0.0,0.0,True,ABSTAIN,SMU Mustangs football | Arkansas Razorbacks football,0,,,
+183a1eec0e38eaee513a5ec7996f55f1,ImageQ,SURFACE_FORM,0.0,0.2222,False,There is one TV screen visible in the photo.,one,0,,S1.image;S2.image;S3.verifier,
+2a5fdab4235e28037389777f473c4f9f,"Intersect(ImageListQ,TableQ)",EXTRACTION_FAILURE,0.0,0.0,True,ABSTAIN,University of Delaware | Delaware State University,2,NOT_SURFACED;NOT_SURFACED,,
+2f154508615dc2d34b4d4b7fdced0b0e,"Intersect(ImageListQ,TextQ)",AGGREGATION_LOSS,0.0,0.0,True,ABSTAIN,Eddy Merckx,2,REACHED;REACHED,S1.text,S1.text;S2.image;S3.verifier
+22e22f3b558eeae2178ddd9cb6bc2b04,"Intersect(TableQ,TextQ)",CORRECT,1.0,1.0,False,Andrew Lloyd Webber,Andrew Lloyd Webber,2,REACHED;REACHED,S1.text;S1.table;S2.text;S2.table;S3.verifier,S1.text;S1.table;S2.text;S2.table;S3.verifier
+1e3f1a08d865b3676a5ca81d8adc270b,TableQ,CORRECT,1.0,1.0,False,Yes,Yes,0,,S1.table;S2.table;S3.verifier,
+ceb2b6a63d5f3b5eb8075979a55e7471,TextQ,CORRECT,1.0,1.0,False,Yes,yes,0,,S1.text;S2.text;S3.verifier,

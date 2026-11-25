@@ -1,0 +1,12 @@
+{
+ "key": "6d5044831bf012d4a8ce9f3984715a8380cf42aaa390a3fbd66672a93a6269e6",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the song that features a set of legos in its title.\n2. Determine if this song was performed at the 2012 Brit Awards.\n3. Identify the artist who performed the song at the 2012 Brit Awards.\n\nFrom the provided information, we know that the song \"Lego House\" by Ed Sheeran features a set of legos in its title. However, there is no direct mention of Ed Sheeran performing at the 2012 Brit Awards. Therefore, we cannot definitively answer the question based on the given information.\n\n<answer>Based on the provided information, we can confirm that the song \"Lego House\" by Ed Sheeran features a set of legos in its title. However, there is no direct evidence to suggest that Ed Sheeran performed the song at the 2012 Brit Awards.</answer>",
+ "input_tokens": 2421,
+ "output_tokens": 196,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 20.11
+}

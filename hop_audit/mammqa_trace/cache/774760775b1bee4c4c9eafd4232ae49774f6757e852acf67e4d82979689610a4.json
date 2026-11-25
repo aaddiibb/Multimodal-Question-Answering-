@@ -1,0 +1,12 @@
+{
+ "key": "774760775b1bee4c4c9eafd4232ae49774f6757e852acf67e4d82979689610a4",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Is there a headquarters in Wichita, Kansas?\n2. Where is the Women's College World Series played?\n3. How many NAIA football conferences are associated with each location?\n\nNow let's address these subquestions one by one:\n\n1. **Is there a headquarters in Wichita, Kansas?**\n   - According to the table, the Kansas Collegiate Athletic Conference (KCAC) has its headquarters in Wichita, Kansas.\n\n2. **Where is the Women's College World Series played?**\n   - The text mentions that the Women's College World Series is held in Oklahoma City.\n\n3. **How many NAIA football conferences are associated with each location?**\n   - For Wichita, Kansas: The KCAC conference is listed with 13 members.\n   - For Oklahoma City: The Sooner Athletic Conference (SAC) is listed with 12 members.\n\nBased on this breakdown, we can conclude:\n\n<answer>\nThe Kansas Collegiate Athletic Conference (KCAC) in Wichita, Kansas, has more members in the list of NAIA football conferences compared to the Sooner Athletic Conference (SAC) in Oklahoma City.\n</answer>",
+ "input_tokens": 2680,
+ "output_tokens": 244,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 26.2
+}

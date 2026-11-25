@@ -1,0 +1,12 @@
+{
+ "key": "1057314e6df21da3531af6798a2a7971e22bc58fb42ced5f93192f2b3f784612",
+ "text": "<answer>Point University, Webber International University</answer>",
+ "input_tokens": 1688,
+ "output_tokens": 14,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.01
+}

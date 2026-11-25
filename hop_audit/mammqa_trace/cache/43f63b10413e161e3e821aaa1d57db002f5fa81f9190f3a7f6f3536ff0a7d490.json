@@ -1,0 +1,12 @@
+{
+ "key": "43f63b10413e161e3e821aaa1d57db002f5fa81f9190f3a7f6f3536ff0a7d490",
+ "text": "<insights>\n- The television show \"The Fosters\" has a house on its title screen.\n- Anna Akana is mentioned as an actress in the show.\n- Jude Adams Foster is described as having a romantic relationship with Connor.\n</insights>\n\n<subanswer>\nThe television show \"The Fosters\" features a house on its title screen and Anna Akana as an actress.\n</subanswer>\n\n<subanswer>\nJude's boyfriend's name in the television show \"The Fosters\" is Connor.\n</subanswer>\n\n<answer>\nThe name of Jude's boyfriend in the television show \"The Fosters\" is Connor.\n</answer>",
+ "input_tokens": 1776,
+ "output_tokens": 138,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 12.35
+}

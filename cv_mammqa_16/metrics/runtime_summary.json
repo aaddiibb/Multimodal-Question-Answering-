@@ -1,0 +1,9 @@
+{
+  "shared_stage1_stage2_total_seconds": 434.7506695870004,
+  "baseline_specific_total_seconds": 13.742502964999858,
+  "cv_specific_total_seconds": 129.32509293899966,
+  "average_baseline_equivalent_calls_per_question": 4.8125,
+  "average_additional_cv_calls_per_question": 3.4375,
+  "paired_run_total_calls": 132,
+  "logical_cost_note": "Shared calls count once experimentally but belong to both logical methods."
+}

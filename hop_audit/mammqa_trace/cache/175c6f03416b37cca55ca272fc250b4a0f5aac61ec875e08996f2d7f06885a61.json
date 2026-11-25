@@ -1,0 +1,12 @@
+{
+ "key": "175c6f03416b37cca55ca272fc250b4a0f5aac61ec875e08996f2d7f06885a61",
+ "text": "Let's break down the question step-by-step:\n\n### Step 1: Understand the Question\nThe question asks for the name of Jude's boyfriend in the television show that features a house on its title screen and Anna Akana as an actress.\n\n### Step 2: Extract Relevant Insights\nFrom the image insight:\n- The TV show \"The Fosters\" features a house on its title screen.\n- Anna Akana appears in the show \"The Fosters.\"\n\nFrom the text data:\n- Anna Akana appeared in \"The Fosters.\"\n- In \"The Fosters,\" Jude Adams Foster has a romantic relationship with Connor.\n\n### Step 3: Break Down the Question into Subquestions\n1. Is Anna Akana an actress in \"The Fosters\"?\n2. Who is Jude's boyfriend in \"The Fosters\"?\n\n### Step 4: Answer the Subquestions\n1. **Is Anna Akana an actress in \"The Fosters\"?**\n   - Yes, Anna Akana appeared in \"The Fosters\" as the recurring character Lily.\n\n2. **Who is Jude's boyfriend in \"The Fosters\"?**\n   - Jude's boyfriend in \"The Fosters\" is Connor.\n\n### Final Answer\nIn the television show \"The Fosters,\" which features a house on its title screen and Anna Akana as an actress, Jude's boyfriend's name is Connor.",
+ "input_tokens": 2736,
+ "output_tokens": 291,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 28.3
+}

@@ -1,0 +1,12 @@
+{
+ "key": "7688c49ae646c8052f8bde234e61444779f81b92f3ae0c9f272066501c2814c9",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists translations of \"Hundred Acre Wood\" into various languages.\n- The native name \"Bosque dos Cem Acres\" corresponds to the translation \"Hundred Acre Wood\" in Portuguese.\n</insights>\n\n<answer>\nNo, the language that is used in the version of Hundred Acre Wood that has a native name of \"Bosque dos Cem Acres\" is Portuguese, which is the same as Spanish.\n</answer>",
+ "input_tokens": 934,
+ "output_tokens": 108,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.68
+}

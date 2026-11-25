@@ -1,0 +1,12 @@
+{
+ "key": "f10ff5741e8fbbcc992cdf63b5a3700a16f4a0509a78a6f73885581ca57c99a1",
+ "text": "The question asks about the sport associated with the Gridiron football league from Canada. From the provided information, we can extract the following insights:\n\n<insights>\n- The Canadian Football League (CFL) is listed under the country \"Canada\" and the sport \"Canadian football\".\n- The text mentions that the CFL provides funding for the Canadian Football Network (CFN), which broadcasts CFL games.\n- The CFL is a gridiron-based football league.\n</insights>\n\nBased on these insights, we can break down the question into simpler subquestions:\n\n1. What is the sport associated with the Canadian Football League?\n2. Is the Canadian Football League a gridiron-based football league?\n\nNow, let's answer these subquestions:\n\n<subanswer> The sport associated with the Canadian Football League is Canadian football. </subanswer>\n\n<subanswer> Yes, the Canadian Football League is a gridiron-based football league. </subanswer>\n\nTherefore, the answer to the original question is:\n\n<answer> The sport of the Gridiron football league from Canada is Canadian football. </answer>",
+ "input_tokens": 2706,
+ "output_tokens": 219,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 22.85
+}

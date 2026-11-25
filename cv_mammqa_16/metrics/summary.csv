@@ -1,0 +1,3 @@
+method,n,exact_correct,EM,mean_token_F1,incorrect_count,abstention_count,average_total_calls,average_runtime
+MAMMQA_BASELINE,16,3,0.1875,0.19886363636363635,13,10,4.8125,28.030823284500016
+CV_MAMMQA,16,3,0.1875,0.19886363636363635,13,11,6.9375,35.254735157875004

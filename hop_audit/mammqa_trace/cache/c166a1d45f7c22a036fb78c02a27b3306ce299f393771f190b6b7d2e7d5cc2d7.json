@@ -1,0 +1,12 @@
+{
+ "key": "c166a1d45f7c22a036fb78c02a27b3306ce299f393771f190b6b7d2e7d5cc2d7",
+ "text": "The provided data does not contain any information about the Mid-South Conference or the institution with an enrollment of 1057. Therefore, it is impossible to determine when this institution joined the Mid-South Conference based on the given information.",
+ "input_tokens": 4198,
+ "output_tokens": 50,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 13.93
+}

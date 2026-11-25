@@ -1,0 +1,12 @@
+{
+ "key": "1adcb89ea62cf45cd58b4899601859e778c28ce3bc94d8441776802080b26a8a",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the media company whose creator also built the Annenberg Community Beach House.\n2. Find the UK TV listing owned by this media company.\n3. Determine the launch year of this TV listing.\n\nFrom the text insight:\n- William Randolph Hearst built the Annenberg Community Beach House.\n- William Randolph Hearst created the media company Hearst Communications.\n\nFrom the table:\n- The current owner of the Annenberg Community Beach House is Hearst Communications.\n- The media company Hearst Communications owns \"Inside Soap\".\n\nTherefore, the UK TV listing whose current owner is Hearst Communications is \"Inside Soap\".\n\nNow, let's find the launch year of \"Inside Soap\" from the table:\n- \"Inside Soap\" has a launch year of 1992.\n\n<answer>The launch year of the UK TV listing whose current owner is Hearst Communications is 1992.</answer>",
+ "input_tokens": 1462,
+ "output_tokens": 192,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 15.39
+}

@@ -1,0 +1,12 @@
+{
+ "key": "58533dbd913595a5fa929613ccadab1e8d716b948347a1f96ac24d966be03365",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no textual or tabular data provided; only images are available.</insights>\n\n<answer>Since there is no textual or tabular data provided, it is impossible to determine the earliest year that actor Steve Burton was nominated for his work on General Hospital by the Soap Opera Digest Award Association based solely on the images presented.</answer>",
+ "input_tokens": 2025,
+ "output_tokens": 88,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 9.57
+}

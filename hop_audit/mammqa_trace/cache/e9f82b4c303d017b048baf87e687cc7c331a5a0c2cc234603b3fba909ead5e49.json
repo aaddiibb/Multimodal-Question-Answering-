@@ -1,0 +1,12 @@
+{
+ "key": "e9f82b4c303d017b048baf87e687cc7c331a5a0c2cc234603b3fba909ead5e49",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who sang \"When a Man Loves a Woman\" before Michael Bolton?\n2. Which actress has an earlier year in Béatrice Agenin dubbing compared to Mary Steenburgen?\n\nBased on the provided information, we can answer the first subquestion:\n\n<subanswer>Aretha Franklin sang \"When a Man Loves a Woman\" in 1967.</subanswer>\n\nNow let's address the second subquestion:\n\n<subanswer>Aretha Franklin sang \"When a Man Loves a Woman\" in 1967, which is earlier than Mary Steenburgen's appearance in \"Chicken Run\" in 2000. Therefore, Aretha Franklin had an earlier year in Béatrice Agenin dubbing compared to Mary Steenburgen.</subanswer>\n\nFinally, combining the answers to the subquestions, we have:\n\n<answer>Aretha Franklin had an earlier year in Béatrice Agenin dubbing compared to Mary Steenburgen.</answer>",
+ "input_tokens": 4043,
+ "output_tokens": 219,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 32.38
+}

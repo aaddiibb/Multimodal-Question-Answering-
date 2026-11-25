@@ -1,0 +1,12 @@
+{
+ "key": "26b0a1946e69acceda3e42a47416f6a741264f70498ccc96a924f60bef653b1f",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who is Julianus, Bishop of Cos?\n2. What is his term of office?\n3. What emperor was he associated with during his term?\n\nNow let's address each subquestion based on the provided information:\n\n1. Julianus, Bishop of Cos is mentioned in the text insight as one of the papal apocrisiarii. However, there is no direct information linking him to a specific emperor.\n2. His term of office is stated as \"Circa 450–457\" in the table.\n3. According to the table, Julianus, Bishop of Cos was associated with Marcian (450–457).\n\nBased on this breakdown, we can conclude that Julianus, Bishop of Cos had Marcian as his emperor during his term of office.\n\n<answer>Julianus, Bishop of Cos had Marcian as his emperor during his term of office.</answer>",
+ "input_tokens": 2307,
+ "output_tokens": 201,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 19.12
+}

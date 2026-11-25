@@ -1,0 +1,12 @@
+{
+ "key": "abfaae6729b4d6e6175f140450b048c3d615238e4e482ba9ea43b10a81427bdf",
+ "text": "The provided data does not contain any information about the type of earrings worn by the singer of \"Aanandhamidhenoi.\" The table only lists songs from the Panduranga Mahatyam soundtrack and their singers. There is no mention of any accessories or appearances of the singers. Therefore, based on the provided data, we cannot determine the type of earrings worn by P. Susheela.\n\n<answer>\nBased on the provided data, we cannot determine the type of earrings worn by the singer of \"Aanandhamidhenoi.\"\n</answer>",
+ "input_tokens": 2719,
+ "output_tokens": 115,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 4,
+ "tokens_per_image": 800,
+ "oom_fallback": false,
+ "seconds": 14.68
+}

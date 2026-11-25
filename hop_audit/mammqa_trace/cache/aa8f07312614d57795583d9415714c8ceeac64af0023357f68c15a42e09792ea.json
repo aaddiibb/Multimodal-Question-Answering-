@@ -1,0 +1,12 @@
+{
+ "key": "aa8f07312614d57795583d9415714c8ceeac64af0023357f68c15a42e09792ea",
+ "text": "Based on the provided text data, let's break down the question into simpler subquestions:\n\n1. Identify participants competing in the \"Junior Worlds\" event.\n2. Check their \"Nation\" column to see if they are of East-Asian descent.\n\nFrom the text data, we can identify the following participants who competed in the Junior World event:\n\n1. Alysa Liu (American)\n2. Chloe Ing (Singaporean)\n3. Chen Yile (Chinese)\n4. Kamila Valieva (Russian)\n\nNow, let's check their nationalities:\n\n1. Alysa Liu: American\n2. Chloe Ing: Singaporean\n3. Chen Yile: Chinese\n4. Kamila Valieva: Russian\n\nOnly Chen Yile is of East-Asian descent. Therefore, the answer to the question is:\n\n<answer>Chen Yile</answer>",
+ "input_tokens": 4373,
+ "output_tokens": 177,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 30.49
+}

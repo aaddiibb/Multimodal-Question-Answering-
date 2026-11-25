@@ -1,0 +1,12 @@
+{
+ "key": "ecffe25f832313ffa1859642843c1029f0a5c2e5e87f16176d7ce974c9958141",
+ "text": "<insights>\n- The text does not contain any information about Alisan Porter being on The Voice in 2016.\n- The text does not mention any songs by Alisan Porter.\n- The text provides information about James Taylor's song \"Something in the Way She Moves.\"\n</insights>\n\n<subanswer>\nThe text does not provide any information about Alisan Porter being on The Voice in 2016 or any songs by Alisan Porter. Therefore, we cannot determine when Alisan Porter was on The Voice or which original artist's song was featured earlier between Dixie Chicks and James Taylor based on the provided data.\n</subanswer>\n\n<answer>\nBased on the provided data, there is no information about Alisan Porter being on The Voice in 2016 or any songs by Alisan Porter. Therefore, it is not possible to determine when Alisan Porter was on The Voice or which original artist's song was featured earlier between Dixie Chicks and James Taylor.\n</answer>",
+ "input_tokens": 3275,
+ "output_tokens": 208,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 25.78
+}

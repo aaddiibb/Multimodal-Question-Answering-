@@ -1,0 +1,12 @@
+{
+ "key": "ce6ec4d3fe31d3c71af4cb7a99d88b6cd9420fa07cb55c255d1b2e597e9f516c",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person wearing a cowboy hat and a floral shirt, which could suggest a country music theme. However, there is no direct indication of the song being performed or its lyrics.</insights>\n\n<answer>There is insufficient information in the image to determine the song performed by Mary Sarah during the Semifinals Instant Save of the 2016 The Voice by Carrie Underwood or the lyric meanings of the song.</answer>",
+ "input_tokens": 3083,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 16.16
+}

@@ -1,0 +1,12 @@
+{
+ "key": "e38354888c1bbc9a900327edbd8fca336b753fbcdb0c5640975398fdfbf4baad",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple movie posters, but only one appears to be from a film directed by Noah Huntley in 2002. The poster for \"Paul: Apostle of Christ\" features two individuals prominently displayed.</insights>\n\n<answer>There are two people depicted on Noah Huntley's 2002 film poster.</answer>",
+ "input_tokens": 2053,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 9.42
+}

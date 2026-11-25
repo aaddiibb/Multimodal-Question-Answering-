@@ -1,0 +1,12 @@
+{
+ "key": "cb78c71f146c5370f16f482158481587d6ff590917d2e235a774e514571f8975",
+ "text": "Let's break down the question into simpler parts:\n\n1. **Identify the TV show**: The question mentions \"Princess TV title,\" which refers to the TV show \"Lost in Space.\"\n2. **Character Role**: The question specifies \"Kym Karath's Princess role.\"\n3. **Specific Detail**: The question asks about a girl in green wearing something on her feet.\n\nGiven the provided information, we can extract the following insights:\n\n- Kym Karath appeared in the TV show \"Lost in Space\" in 1966.\n- Her role in this show was \"Princess.\"\n\nHowever, the provided table does not contain any information about a girl in green wearing something on her feet. Therefore, we cannot answer the specific detail part of the question based on the given data.\n\n<answer>Based on the provided information, there is no mention of a girl in green wearing something on her feet in the context of Kym Karath's role as \"Princess\" in \"Lost in Space.\" The table does not contain this specific detail.</answer>",
+ "input_tokens": 2627,
+ "output_tokens": 217,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 22.07
+}

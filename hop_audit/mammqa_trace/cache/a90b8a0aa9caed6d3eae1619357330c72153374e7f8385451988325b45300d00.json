@@ -1,0 +1,12 @@
+{
+ "key": "a90b8a0aa9caed6d3eae1619357330c72153374e7f8385451988325b45300d00",
+ "text": "<answer>Universal Studios Hollywood</answer>",
+ "input_tokens": 1420,
+ "output_tokens": 10,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.25
+}

@@ -1,0 +1,12 @@
+{
+ "key": "7c41fd24441ddd29daa5f59aace44ab7e1fb05de56dadf20d9a5389ff6e42406",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Is there a film mentioned in the text data that features a motorcycle?\n2. If so, what is the year of release for that film?\n\nBased on the provided text data, we can see that there is a mention of a film titled \"The Girl on a Motorcycle,\" which is described as a 1968 British-French erotic romantic drama film starring Alain Delon and Marianne Faithfull. This film fits the criteria of having a motorcycle featured in it.\n\nTherefore, the answer to the original question is:\n\n<answer>The year Elisha Henig appeared in a film with a motorcycle on its poster is 1968.</answer>",
+ "input_tokens": 2733,
+ "output_tokens": 148,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 16.81
+}

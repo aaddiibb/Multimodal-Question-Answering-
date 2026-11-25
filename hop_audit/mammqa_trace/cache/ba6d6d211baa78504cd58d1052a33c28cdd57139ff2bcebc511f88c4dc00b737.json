@@ -1,0 +1,12 @@
+{
+ "key": "ba6d6d211baa78504cd58d1052a33c28cdd57139ff2bcebc511f88c4dc00b737",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Johnny Lee's roles in various films and TV shows over the years.\n- The film that includes the Zippity Doo Dah song is \"Stormy Weather,\" which was released in 1943.\n</insights>\n\n<answer>\nJohnny Lee participated in the film \"Stormy Weather\" in 1943, which includes the Zippity Doo Dah song.\n</answer>",
+ "input_tokens": 1175,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.0
+}

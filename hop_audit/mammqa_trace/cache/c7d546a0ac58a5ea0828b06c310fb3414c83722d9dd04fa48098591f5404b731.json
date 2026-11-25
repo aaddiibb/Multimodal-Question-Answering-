@@ -1,0 +1,12 @@
+{
+ "key": "c7d546a0ac58a5ea0828b06c310fb3414c83722d9dd04fa48098591f5404b731",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a movie poster for \"A Dog's Purpose,\" which features a golden retriever prominently displayed. The tagline reads, \"Every dog happens for a reason.\" This suggests that the dog's voice in the film is likely provided by a human actor rather than a dog itself.</insights>\n\n<answer>Logan Miller does not play the role of Todd in \"A Dog's Purpose.\" The dog's voice is provided by a human actor.</answer>",
+ "input_tokens": 2086,
+ "output_tokens": 108,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 11.34
+}

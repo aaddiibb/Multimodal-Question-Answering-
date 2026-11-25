@@ -1,0 +1,59 @@
+[2026-10-13 19:49:29] Configuration initialized
+[2026-10-13 19:49:29] dev    : /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_dev.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_dev.jsonl
+[2026-10-13 19:49:29] texts  : /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_texts.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_texts.jsonl
+[2026-10-13 19:49:29] tables : /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_tables.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_tables.jsonl
+[2026-10-13 19:49:29] images : /kaggle/input/datasets/adibraian/multimodalqa-dataset/MMQA_images.jsonl/multimodalqa_final_dataset_pipeline_camera_ready_MMQA_images.jsonl
+[2026-10-13 19:49:36] Created new frozen selected_questions.json
+[2026-10-13 19:51:57] Validated 16 required official image files
+[2026-10-13 19:51:57] Implementation fingerprint: 1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d
+[2026-10-13 19:52:17] Progress 1/16
+[2026-10-13 19:52:17] START 64dabbb94b37ab25d973157fe27b5417: What solo artist that was the original artist of the song Alisan Porter sang in The Voice (2016) sings backup on WIll You Still Love Me Tomorrow?
+[2026-10-13 19:52:44] Loading Qwen once from: Qwen/Qwen2.5-VL-7B-Instruct
+[2026-10-13 19:54:44] Model loaded; device-map entries=33
+[2026-10-13 19:55:16] DONE 64dabbb94b37ab25d973157fe27b5417: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:55:16] Progress 2/16
+[2026-10-13 19:55:16] START 782b7cd2730063d3406269f49f3abea5: Who were the stars of the movie whose title begins with "Meet Me In" and ends with the name of the city, served by Contour Airlines as a destination, that has a large, metal, archway-shaped sculpture on its shore?
+[2026-10-13 19:56:22] DONE 782b7cd2730063d3406269f49f3abea5: baseline='Judy Garland'; cv='Judy Garland'
+[2026-10-13 19:56:22] Progress 3/16
+[2026-10-13 19:56:22] START 5219198c4be50e67c67c373f1afdf797: in Filmography of Supriya Shukla, who is the heroine of the film that cover has a man with two women around him on i?
+[2026-10-13 19:56:58] DONE 5219198c4be50e67c67c373f1afdf797: baseline='Supriya Shukla'; cv='ABSTAIN'
+[2026-10-13 19:56:58] Progress 4/16
+[2026-10-13 19:56:58] START df1baba3c38afb8cb6574f05de962c94: Which player with top assists in the FA Premier League of 1999-2000 has a higher rank:  The player with a bald head or the best player that ever played in the premier league?
+[2026-10-13 19:57:23] DONE df1baba3c38afb8cb6574f05de962c94: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:57:23] Progress 5/16
+[2026-10-13 19:57:23] START ad36bba97d42a17ea3d3dcdd8c4ccfcc: Gavin Stenhouse's 2014 tv show had what actor play John Reese?
+[2026-10-13 19:57:42] DONE ad36bba97d42a17ea3d3dcdd8c4ccfcc: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:57:42] Progress 6/16
+[2026-10-13 19:57:42] START cdc57d98ce583c80ab41090c89775274: When was the movie where Kirk Baltz had the role of Edwards made
+[2026-10-13 19:58:20] DONE cdc57d98ce583c80ab41090c89775274: baseline='1990'; cv='1990'
+[2026-10-13 19:58:20] Progress 7/16
+[2026-10-13 19:58:20] START 113e5d95caf0f6353818a711ef39f8ff: Which team that opposed the Western Bulldogs in the 2011 Home and Away season when the ladder position was 12th also played in the afl grand final in 2001?
+[2026-10-13 19:58:54] DONE 113e5d95caf0f6353818a711ef39f8ff: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:58:54] Progress 8/16
+[2026-10-13 19:58:54] START 9618d36556c0c2f3b5ee6ff644001a6d: When did the 11 inch version of the Macintosh model with a Thunderbolt 2 video interface come out?
+[2026-10-13 19:59:15] DONE 9618d36556c0c2f3b5ee6ff644001a6d: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:59:15] Progress 9/16
+[2026-10-13 19:59:15] START 3683bfbecf12a74cd7d6f7da9f8ab17a: Was the Title that features a woman in sunglasses on its poster or SuperGrid, the one with most recent year in filmography of Natalie Krill?
+[2026-10-13 19:59:34] DONE 3683bfbecf12a74cd7d6f7da9f8ab17a: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 19:59:34] Progress 10/16
+[2026-10-13 19:59:34] START e950ebf7c5f25a971d748b883fc181db: What is the main color of the logo of the former NASL Stampede Corral team?
+[2026-10-13 20:00:11] DONE e950ebf7c5f25a971d748b883fc181db: baseline='Orange'; cv='Orange'
+[2026-10-13 20:00:11] Progress 11/16
+[2026-10-13 20:00:11] START e596d17f170cdf8a707a8e11962ee301: Is the silhouette of kid present in the K. James movie poster where he plays Dr. Fox?
+[2026-10-13 20:00:36] DONE e596d17f170cdf8a707a8e11962ee301: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 20:00:36] Progress 12/16
+[2026-10-13 20:00:36] START 2f7dc1705f3baa62fd582c6a9057b88e: When there was a mule on the film poster for the television shows of Larry McCormick, what was the year?
+[2026-10-13 20:00:55] DONE 2f7dc1705f3baa62fd582c6a9057b88e: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 20:00:55] Progress 13/16
+[2026-10-13 20:00:55] START 669991e1b5edfd99ac207019ea8d8300: In Torpedo, what is in the diver's right hand?
+[2026-10-13 20:01:06] DONE 669991e1b5edfd99ac207019ea8d8300: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 20:01:06] Progress 14/16
+[2026-10-13 20:01:06] START 1243970ae9a1c61005808b1cca886948: In what country are the Cathedral of the Holy Spirit and St. Joseph High School located?
+[2026-10-13 20:01:26] DONE 1243970ae9a1c61005808b1cca886948: baseline='Turkey'; cv='Turkey'
+[2026-10-13 20:01:26] Progress 15/16
+[2026-10-13 20:01:26] START 30b210f40a1a8ef43170149dff7a18bc: is a pinky a finger yes or no
+[2026-10-13 20:01:45] DONE 30b210f40a1a8ef43170149dff7a18bc: baseline='Yes'; cv='Yes'
+[2026-10-13 20:01:45] Progress 16/16
+[2026-10-13 20:01:45] START 7173374c77f1c27e397663c455501bba: There is a propeller on which of the aircrafts used by the Air Force of the Kampuchean Revolutionary Army?
+[2026-10-13 20:01:55] DONE 7173374c77f1c27e397663c455501bba: baseline='INSUFFICIENT'; cv='ABSTAIN'
+[2026-10-13 20:01:55] All paired inference checkpoints complete

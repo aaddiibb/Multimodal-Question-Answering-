@@ -1,0 +1,12 @@
+{
+ "key": "4e72c59221799d1cfe3528577a56702b7348a6bcd4cca2862052036b88949af1",
+ "text": "The provided table insights indicate that the track \"Stay the Night\" by STATE CHAMPS is 3:32 long. The question asks who sings the track that was 3:32 long in the Punk Goes Pop Vol. 6 album. Given the information provided, we can conclude that STATE CHAMPS sings the track that was 3:32 long in the Punk Goes Pop Vol. 6 album.\n\n<answer>\nSTATE CHAMPS sings the track that was 3:32 long in the Punk Goes Pop Vol. 6 album.\n</answer>",
+ "input_tokens": 2726,
+ "output_tokens": 120,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 14.42
+}

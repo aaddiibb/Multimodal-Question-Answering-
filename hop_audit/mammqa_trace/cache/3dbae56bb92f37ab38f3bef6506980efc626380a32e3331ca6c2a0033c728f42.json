@@ -1,0 +1,12 @@
+{
+ "key": "3dbae56bb92f37ab38f3bef6506980efc626380a32e3331ca6c2a0033c728f42",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists movies starring Megan Park from 2004 to 2019.\n- The movie from 2016 is \"Central Intelligence.\"\n- In this movie, Megan Park's role is Lexi.\n</insights>\n\n<answer>\nIn the movie \"Central Intelligence\" from 2016, Megan Park's character is Lexi.\n</answer>\n\n<subanswer>\nWho is the Black Badger in the movie \"Central Intelligence\"?\n</subanswer>",
+ "input_tokens": 898,
+ "output_tokens": 116,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.16
+}

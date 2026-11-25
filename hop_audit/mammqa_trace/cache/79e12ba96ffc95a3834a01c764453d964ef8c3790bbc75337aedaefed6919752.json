@@ -1,0 +1,12 @@
+{
+ "key": "79e12ba96ffc95a3834a01c764453d964ef8c3790bbc75337aedaefed6919752",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Who played Cory Matthews in a television show?\n2. Which television show has a poster featuring a globe?\n\nNow, let's address each subquestion:\n\n1. Who played Cory Matthews in a television show?\n   - According to the text data, Ben Savage played the lead role of Cory Matthews on the ABC sitcom \"Boy Meets World\" (1993–2000).\n\n2. Which television show has a poster featuring a globe?\n   - From the multimodal inputs, we can see logos for various TV shows. However, none of them directly feature a globe in their logo. Therefore, based on the available information, there isn't a clear match for a show with a globe in its poster.\n\nFinal Answer:\nBased on the provided information, Ben Savage played Cory Matthews in the ABC sitcom \"Boy Meets World\" (1993–2000). However, there isn't a clear match for a show with a globe in its poster among the given multimodal inputs.",
+ "input_tokens": 2986,
+ "output_tokens": 218,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 25.38
+}

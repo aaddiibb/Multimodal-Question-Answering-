@@ -1,0 +1,12 @@
+{
+ "key": "b14ba82c02756348813f65cea88d847253240105303853e0d6310c3c0e9cbdca",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists the years and titles of films where Leora Dana played roles.\n- The film \"The Group\" appears in the table under the year 1966.\n</insights>\n\n<answer>\nThe year that Leora Dana played a role in the film title \"The Group\" was 1966.\n</answer>",
+ "input_tokens": 940,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.31
+}

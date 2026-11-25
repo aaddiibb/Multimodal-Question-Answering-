@@ -1,0 +1,12 @@
+{
+ "key": "4f1bdab5e46f79ca07f3cdafddb2f3481befd4d11740a2a0a248701ddea97e7f",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists institutions that are part of the Great Western Lacrosse League.\n- The institution with the nickname \"Falcons\" is the United States Air Force Academy.\n- The location of the United States Air Force Academy is Colorado Springs, CO.\n</insights>\n\n<answer>\nThe location of the institution whose nickname was Falcons is Colorado Springs, CO.\n</answer>",
+ "input_tokens": 921,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.21
+}

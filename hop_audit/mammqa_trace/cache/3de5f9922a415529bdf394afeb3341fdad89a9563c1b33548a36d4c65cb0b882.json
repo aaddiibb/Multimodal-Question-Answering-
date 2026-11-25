@@ -1,0 +1,12 @@
+{
+ "key": "3de5f9922a415529bdf394afeb3341fdad89a9563c1b33548a36d4c65cb0b882",
+ "text": "<modality> table </modality>\n\n<insights>\nThe table lists actors and their corresponding characters on the show \"Cory in the House\". The actors are listed under the \"Actor\" column, and their characters are listed under the \"Character\" column. There is no information about the actor who played young Jenna in 13 Going on 30 or their role on Cory in the House.\n</insights>\n\n<answer>\nThere is insufficient information in the provided table to answer the question. The table does not contain any information about the actor who played young Jenna in 13 Going on 30 or their role on Cory in the House.\n</answer>",
+ "input_tokens": 817,
+ "output_tokens": 139,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.91
+}

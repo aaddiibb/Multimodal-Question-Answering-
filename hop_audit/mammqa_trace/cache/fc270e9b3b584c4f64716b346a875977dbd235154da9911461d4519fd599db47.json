@@ -1,0 +1,12 @@
+{
+ "key": "fc270e9b3b584c4f64716b346a875977dbd235154da9911461d4519fd599db47",
+ "text": "Based on the provided table insights and multimodal inputs, let's break down the question into simpler subquestions:\n\n1. Identify the films directed by Garth Jennings.\n2. Check if any of these films have a title poster featuring two police officers.\n3. Determine the year when such a film was released.\n\nNow, let's address these subquestions:\n\n1. The films directed by Garth Jennings are:\n   - Hot Fuzz\n   - Love at First Sight\n   - Sing 2 (filming)\n\n2. Checking the title posters:\n   - Hot Fuzz: The poster features two police officers.\n   - Love at First Sight: The poster does not feature two police officers.\n   - Sing 2 (filming): The film is currently in production and does not have a completed title poster.\n\n3. The film \"Hot Fuzz\" was released in 2007.\n\nTherefore, the answer to the original question is:\n\n<answer>\nThe film with a title poster featuring two police officers directed by Garth Jennings was \"Hot Fuzz,\" which was released in 2007.\n</answer>",
+ "input_tokens": 2575,
+ "output_tokens": 230,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 22.92
+}

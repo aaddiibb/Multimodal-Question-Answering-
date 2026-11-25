@@ -1,0 +1,12 @@
+{
+ "key": "b8153068e8696d05af4e640b52005e46c93a4fa8e4bf104487efba83542a2f35",
+ "text": "<modality>image</modality>\n\n<insights>The image provided appears to be a movie poster titled \"Future World\" featuring a character with a motorcycle in the background.</insights>\n\n<answer>Based on the image provided, it seems that Elisha Henig was in a film titled \"Future World,\" which features a motorcycle on its poster. However, without additional context or information about the year this film was released, we cannot determine the exact year Elisha Henig appeared in this film.</answer>",
+ "input_tokens": 1775,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 10.26
+}

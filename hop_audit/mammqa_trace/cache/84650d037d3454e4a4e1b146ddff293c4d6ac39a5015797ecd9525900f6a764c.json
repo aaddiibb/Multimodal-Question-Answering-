@@ -1,0 +1,12 @@
+{
+ "key": "84650d037d3454e4a4e1b146ddff293c4d6ac39a5015797ecd9525900f6a764c",
+ "text": "<modality> image(s) </modality>\n\n<insights>\n- The image shows a snooker player with a balding forehead and a patch of brown hair in the middle.\n</insights>\n\n<answer> The player with a balding forehead and a patch of brown hair in the middle has a lower total compared to the record holder for the most 147s.</answer>",
+ "input_tokens": 3421,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 15.61
+}

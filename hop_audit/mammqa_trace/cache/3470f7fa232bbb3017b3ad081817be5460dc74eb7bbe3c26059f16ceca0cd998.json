@@ -1,0 +1,12 @@
+{
+ "key": "3470f7fa232bbb3017b3ad081817be5460dc74eb7bbe3c26059f16ceca0cd998",
+ "text": "<modality>image</modality>\n\n<insights>The image provided is a logo for \"The Amazing World of Gumball,\" which features a rainbow prominently displayed across the top of the logo.</insights>\n\n<answer>The year for the show in the list of television shows for J. G. Quintel, that features a rainbow on its logo, is 2011.</answer>",
+ "input_tokens": 1307,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 7.53
+}

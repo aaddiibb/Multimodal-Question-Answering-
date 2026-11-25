@@ -1,0 +1,12 @@
+{
+ "key": "58010592368f63e2e8d33481c8f7615a6e352a1567148bf7d43af4c66c36838c",
+ "text": "<modality>image</modality>\n\n<insights>The image contains multiple photographs of players holding footballs, but there is no textual information about their draft positions or rounds.</insights>\n\n<answer>Based on the provided images, it is impossible to determine which player was drafted in round two of the NFL Draft in 1949 when the position was Back.</answer>",
+ "input_tokens": 2490,
+ "output_tokens": 79,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 10.62
+}

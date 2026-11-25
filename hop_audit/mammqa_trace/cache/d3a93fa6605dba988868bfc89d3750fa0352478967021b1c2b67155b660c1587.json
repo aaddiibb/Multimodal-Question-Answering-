@@ -1,0 +1,12 @@
+{
+ "key": "d3a93fa6605dba988868bfc89d3750fa0352478967021b1c2b67155b660c1587",
+ "text": "Based on the provided information, let's break down the question into simpler subquestions:\n\n1. Identify the actress who played Maya Hart in the Disney Channel series Girl Meets World.\n2. Determine if this actress was also in the show Warmer in the Winter.\n3. Find out the year when Herbie Hancock appeared on the show where Maya Hart was played by an actress who was also in Warmer in the Winter.\n\nFrom the text data, we know that Sabrina Carpenter played Maya Hart in the Disney Channel series Girl Meets World. However, the provided text data does not mention whether Sabrina Carpenter was also in the show Warmer in the Winter. Additionally, the table insights do not contain information about the actress playing Maya Hart or the show \"Warmer in the Winter.\"\n\nTherefore, based on the given data, it is impossible to answer the question accurately. If there is additional context or information outside the provided table and text data, please provide it so we can attempt to answer the question.",
+ "input_tokens": 2198,
+ "output_tokens": 203,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 18.61
+}

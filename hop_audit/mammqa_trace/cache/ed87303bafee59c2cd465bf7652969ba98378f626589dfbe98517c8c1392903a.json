@@ -1,0 +1,12 @@
+{
+ "key": "ed87303bafee59c2cd465bf7652969ba98378f626589dfbe98517c8c1392903a",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image appears to be a movie poster titled \"Bull Durham,\" which features a baseball theme. The poster includes a man holding a bat and a woman sitting on a car, both dressed in casual attire. The tagline \"A Major League Love Story in a Minor League Town\" suggests a romantic element intertwined with the sports setting.</insights>\n\n<answer>Woody Harrelson</answer>",
+ "input_tokens": 2414,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 12.0
+}

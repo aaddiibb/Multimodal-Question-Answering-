@@ -1,0 +1,12 @@
+{
+ "key": "b6357a88d47f0007428f7aea67104ecc82e6c89d0f416498362ef77f76e07937",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text refers to \"Taniec z Gwiazdami\" seasons 11, 5, 12, 13, and 17.\n- Week 1 scores are mentioned for various dancers across different seasons.\n- The song \"When I Need You\" is mentioned, which was written by Albert Hammond.\n</insights>\n\n<answer>\nTo determine the nationality of the man who wrote the song that earned a score of 29, we need to identify the writer of the song associated with the score of 29. However, the provided text does not specify the nationality of Albert Hammond. Therefore, based on the given information, we cannot determine the nationality of the man who wrote the song.\n</answer>",
+ "input_tokens": 1813,
+ "output_tokens": 167,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 13.95
+}

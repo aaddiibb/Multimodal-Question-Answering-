@@ -1,0 +1,12 @@
+{
+ "key": "c82f84d38079e13215c1235618eeaf4a6e1e15afaf8a8208fb6e84c6a9f7f653",
+ "text": "<answer>Microphone</answer>",
+ "input_tokens": 1030,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.75
+}

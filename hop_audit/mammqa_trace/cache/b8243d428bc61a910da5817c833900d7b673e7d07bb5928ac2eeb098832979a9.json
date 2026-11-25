@@ -1,0 +1,12 @@
+{
+ "key": "b8243d428bc61a910da5817c833900d7b673e7d07bb5928ac2eeb098832979a9",
+ "text": "The Dayton Dragons are part of the Midwest League, which is associated with the Cincinnati Reds, a National League team. The question asks if the pitcher takes a turn at bat in the league with an eagle on the logo. The National League uses the designated hitter rule, meaning pitchers do not take turns at bat. Therefore, the answer to the question is no.\n\n<answer>No, the pitcher does not take a turn at bat.</answer>",
+ "input_tokens": 2679,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 11.62
+}

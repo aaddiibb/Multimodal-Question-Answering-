@@ -1,0 +1,12 @@
+{
+ "key": "e3442ca7acf5d0f1f0d5dd687848aee4551121473344f02296ed4a25b0bc7605",
+ "text": "<modality>image</modality>\n\n<insights>The image provided shows FC Den Bosch's logo featuring a dragon. The other logos do not feature a dragon.</insights>\n\n<answer>FC Den Bosch</answer>\n\n<subanswer>FC Den Bosch</subanswer>",
+ "input_tokens": 1353,
+ "output_tokens": 58,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 5.66
+}

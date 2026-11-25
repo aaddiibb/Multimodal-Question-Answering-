@@ -1,0 +1,12 @@
+{
+ "key": "729f810e6c330cba67d7d1c587e8ced4b9749e91a4436ab4457c3315548c699e",
+ "text": "<modality>text</modality>\n\n<insights>\n- The Olympia School District serves approximately 9400 students and has approximately 1200 staff members.\n- The Olympia Building is owned by the State of Georgia but does not have an eagle on its logo.\n- The Olympia Sports company has a flagship store in Boston and is not located in Olympia.\n- The Technology Alliance is a Washington State organization but does not have an eagle on its logo.\n- The Building Industry Association of Washington is a non-profit organization representing the housing industry in Washington State but does not have an eagle on its logo.\n- The Washington Restaurant Association represents a total of 14,039 Washington restaurants but does not have an eagle on its logo.\n- The Olympia School District is the only entity mentioned that could potentially fit the description of having an eagle on its logo.\n</insights>\n\n<answer>\nThe Olympia School District, which is the employer in the Economy of Olympia Washington that has an eagle on their logo, has approximately 1200 employees.\n</answer>",
+ "input_tokens": 1495,
+ "output_tokens": 219,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 16.22
+}

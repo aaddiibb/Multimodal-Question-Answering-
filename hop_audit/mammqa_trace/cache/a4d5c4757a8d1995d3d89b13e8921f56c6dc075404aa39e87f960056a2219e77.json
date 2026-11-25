@@ -1,0 +1,12 @@
+{
+ "key": "a4d5c4757a8d1995d3d89b13e8921f56c6dc075404aa39e87f960056a2219e77",
+ "text": "<answer>There is no record in the provided data that specifies St. Louis as the location and involves refueling.</answer>",
+ "input_tokens": 1328,
+ "output_tokens": 27,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.18
+}

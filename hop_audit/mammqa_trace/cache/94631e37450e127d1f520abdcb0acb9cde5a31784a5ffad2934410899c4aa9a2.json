@@ -1,0 +1,12 @@
+{
+ "key": "94631e37450e127d1f520abdcb0acb9cde5a31784a5ffad2934410899c4aa9a2",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a baseball stadium at night, likely during a game. The logos of various sports teams are displayed prominently. The logos include a chicken, a snake, a rooster, and a basketball with a \"C\" inside.</insights>\n\n<answer>Based on the provided images, the club with the chicken in its logo is High Desert Yardbirds.</answer>\n\n<subanswer>The Ontario Reign logo does not have a chicken in it.</subanswer>\n\n<subanswer>The Ontario Reign was founded in 2016, which makes it the team with the most recent founding year among the clubs shown.</subanswer>",
+ "input_tokens": 1962,
+ "output_tokens": 140,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 13.72
+}

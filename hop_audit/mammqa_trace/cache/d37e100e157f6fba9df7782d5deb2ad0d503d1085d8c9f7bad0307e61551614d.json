@@ -1,0 +1,12 @@
+{
+ "key": "d37e100e157f6fba9df7782d5deb2ad0d503d1085d8c9f7bad0307e61551614d",
+ "text": "Let's break down the question step-by-step:\n\n1. **Identify the key components of the question**: \n   - We need to find the attendance for a specific game.\n   - The game involves a team with a paw print on its logo.\n   - The game took place during the ACC–Big Ten Women's Challenge in 2011.\n   - The game was tied 6-6.\n\n2. **Extract relevant information from the provided data**:\n   - The table insight tells us about a game involving a team with a paw print on its logo.\n   - This game was between Miami and Michigan State on Thursday, December 1st at 8:00 PM.\n   - The attendance for this game was 5,712.\n\n3. **Determine if the game fits the criteria**:\n   - The game between Miami and Michigan State matches the description of having a team with a paw print on its logo.\n   - The game was indeed tied 6-6.\n   - The game took place in December 2011, which aligns with the ACC–Big Ten Women's Challenge timeframe.\n\n4. **Answer the question**:\n   - The attendance for the game where the team with a paw print on its logo played was 5,712.\n\nTherefore, the answer to the question is:\n\n<answer>The attendance for the game where the team with a paw print on its logo played was 5,712.</answer>",
+ "input_tokens": 2883,
+ "output_tokens": 306,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 32.23
+}

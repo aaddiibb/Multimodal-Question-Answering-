@@ -1,0 +1,12 @@
+{
+ "key": "a6e80c51cc3d815c01c28dd9c2d078f6540696e7c4b15a48e404f29b7f91e9f4",
+ "text": "<modality> image(s) </modality>\n\n<insights> The image shows a group of musicians performing on stage.</ins>\n\n<answer> The image does not provide enough information to determine when Alisan Porter was on The Voice in 2016 or which original artist's song was featured earlier than the one written by the person who wrote \"Something in the Way She Moves\".</answer>",
+ "input_tokens": 2929,
+ "output_tokens": 84,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 12.9
+}

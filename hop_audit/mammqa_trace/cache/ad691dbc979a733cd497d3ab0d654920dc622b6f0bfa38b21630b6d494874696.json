@@ -1,0 +1,12 @@
+{
+ "key": "ad691dbc979a733cd497d3ab0d654920dc622b6f0bfa38b21630b6d494874696",
+ "text": "<modality>image</modality>\n\n<insights>The image appears to be a promotional poster for a movie titled \"Friends With Benefits,\" starring Justin Timberlake and Mila Kunis. The poster features both actors prominently, suggesting they play significant roles in the film.</insights>\n\n<answer>Based on the provided image, it seems that the movie is \"Friends With Benefits\" starring Justin Timberlake and Mila Kunis. However, there is no information about Tiya Sircar's role in this movie.</answer>",
+ "input_tokens": 1226,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 8.94
+}

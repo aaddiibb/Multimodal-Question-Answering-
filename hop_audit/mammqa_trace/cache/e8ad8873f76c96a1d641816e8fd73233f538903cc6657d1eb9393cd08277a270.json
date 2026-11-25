@@ -1,0 +1,12 @@
+{
+ "key": "e8ad8873f76c96a1d641816e8fd73233f538903cc6657d1eb9393cd08277a270",
+ "text": "<modality>image</modality>\n\n<insights>The image is a promotional poster for the film \"The Moon Is Blue,\" which features a full moon in the background. The poster also includes the names of the actors, including Maggie McNamara.</insights>\n\n<answer>Maggie McNamara played a role in the film \"The Moon Is Blue\" as indicated by her name on the poster.</answer>",
+ "input_tokens": 2772,
+ "output_tokens": 87,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 13.04
+}

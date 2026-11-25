@@ -1,0 +1,12 @@
+{
+ "key": "6b80e986444bcfd7ebf1993214db3491b70a18000c86f2fd79e184fde4ff2a4c",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. What is the film in which the role of Edna Robinson was played by Linda Watkins?\n2. Are the twins in the film \"The Parent Trap\" the same person?\n\nBased on the provided information:\n\n1. The film in which the role of Edna Robinson was played by Linda Watkins is \"The Parent Trap.\"\n2. The twins in the film \"The Parent Trap\" are the same person. They are Susan Evers and Sharon McKendrick, who switch places throughout the movie.\n\nTherefore, the answer to the original question is:\n\n<answer>In the film \"The Parent Trap,\" the role of Edna Robinson was played by Linda Watkins, and the twins are the same person.</answer>",
+ "input_tokens": 3250,
+ "output_tokens": 155,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 20.25
+}

@@ -1,0 +1,12 @@
+{
+ "key": "2a909346b47fc975332f345c67394056cbdaa916ecb8a5697dec73fd772974dc",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a man wearing a watch on his left wrist.</insights>\n\n<answer>The man has a watch on his arm.</answer>",
+ "input_tokens": 1564,
+ "output_tokens": 42,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 5.09
+}

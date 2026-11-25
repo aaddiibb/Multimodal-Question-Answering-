@@ -1,0 +1,12 @@
+{
+ "key": "8cb9da042826be89ca578047be64f6985c002ae70b3109833641110aa22312d2",
+ "text": "<answer>\n1998 and 1999\n</answer>",
+ "input_tokens": 1260,
+ "output_tokens": 18,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.8
+}

@@ -1,0 +1,12 @@
+{
+ "key": "65fad8462bde42f89253f9a6dbdb5d65d38e54c1ae79409e4068d61194f1cde8",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a statue of Buddha, which is associated with Buddhism. The statue shows Buddha in a standing position, holding his right hand in a gesture known as the Abhaya mudra, which signifies protection and fearlessness.</insights>\n\n<answer>Buddhism</answer>",
+ "input_tokens": 3318,
+ "output_tokens": 71,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 13.27
+}

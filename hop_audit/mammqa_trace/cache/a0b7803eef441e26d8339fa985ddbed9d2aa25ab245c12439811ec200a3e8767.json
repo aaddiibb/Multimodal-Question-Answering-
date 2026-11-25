@@ -1,0 +1,12 @@
+{
+ "key": "a0b7803eef441e26d8339fa985ddbed9d2aa25ab245c12439811ec200a3e8767",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists various roles Stephanie Cole played over different years.\n- In 1988, she played the role of Muriel in the show \"Talking Heads.\"\n</insights>\n\n<answer>\nStephanie Cole performed the role of Muriel in the TV show \"Talking Heads\" in 1988.\n</answer>\n\n<subanswer>\nThe activity Stephanie Cole was performing in the S. Cole 1988 TV cover was acting as Muriel in the show \"Talking Heads.\"\n</subanswer>",
+ "input_tokens": 1189,
+ "output_tokens": 125,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.14
+}

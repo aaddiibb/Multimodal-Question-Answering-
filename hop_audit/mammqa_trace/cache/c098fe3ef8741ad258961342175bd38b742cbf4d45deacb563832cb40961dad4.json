@@ -1,0 +1,12 @@
+{
+ "key": "c098fe3ef8741ad258961342175bd38b742cbf4d45deacb563832cb40961dad4",
+ "text": "Based on the provided information, we have the following insights:\n\n- The song \"I Told You So\" by Randy Travis had an order of 25.7 on the 2016 version of \"The Voice.\"\n- The image provided shows the poster for the song \"I Told You So\" by Randy Travis.\n\nNow, let's break down the question into simpler subquestions:\n\n1. Which artist performed the song \"I Told You So\" on \"The Voice\"?\n2. What is the order number for \"I Told You So\" on the 2016 version of \"The Voice\"?\n3. What color is the background in the poster for \"I Told You So\" by Randy Travis?\n\nThe final answer to the original question is:\n\nThe background color in the poster for \"I Told You So\" by Randy Travis is black.",
+ "input_tokens": 3950,
+ "output_tokens": 182,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 28.05
+}

@@ -1,0 +1,12 @@
+{
+ "key": "8be6395fce92727452e27017c24279e9bebc52eac31054117dd9deaaf54e45e2",
+ "text": "<modality> text </modality>\n\n<insights>\n- Lionel Messi made his competitive debut aged 17 in October 2004.\n</insights>\n\n<answer>\nLionel Messi was 17 years old when he made his debut in the Barcelona team.\n</answer>",
+ "input_tokens": 1762,
+ "output_tokens": 63,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 6.54
+}

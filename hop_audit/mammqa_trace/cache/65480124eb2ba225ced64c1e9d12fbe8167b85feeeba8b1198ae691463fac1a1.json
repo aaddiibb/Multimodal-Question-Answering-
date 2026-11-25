@@ -1,0 +1,12 @@
+{
+ "key": "65480124eb2ba225ced64c1e9d12fbe8167b85feeeba8b1198ae691463fac1a1",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights> The image provided is a movie poster for \"Cliffs of Freedom,\" which features a man wearing a red turban and a woman in traditional attire. The title suggests a historical or cultural setting.</insights>\n\n<answer> The Moroccan filming location for the film \"Cliffs of Freedom\" is likely the setting depicted in the image.</answer>",
+ "input_tokens": 1265,
+ "output_tokens": 89,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 7.34
+}

@@ -1,0 +1,12 @@
+{
+ "key": "5db357497eccfd7ea94cef8c9441d42aa574a5b33b63713da2ec582f1c2043fc",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks about a person in a TV title cover where she played Muriel. The text insight mentions that there is no information about a TV title cover or a person playing Muriel in a TV show. The table provides a list of Stephanie Cole's roles over the years, but it does not mention a TV title cover for Muriel.\n\n### Step 2: Break Down the Question into Subquestions\n\n1. Is there any information about a TV title cover featuring Muriel?\n2. If so, who is the person in that TV title cover?\n\n### Answer to the Original Question:\n\nThere is no information provided about a person in a TV title cover where she played Muriel. The text only discusses the film \"Muriel\" and its characters.",
+ "input_tokens": 2289,
+ "output_tokens": 172,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 16.98
+}

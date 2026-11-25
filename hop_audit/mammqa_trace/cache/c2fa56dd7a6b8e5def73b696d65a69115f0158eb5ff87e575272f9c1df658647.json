@@ -1,0 +1,12 @@
+{
+ "key": "c2fa56dd7a6b8e5def73b696d65a69115f0158eb5ff87e575272f9c1df658647",
+ "text": "The text insight indicates that there is no information about the Mid-South Conference or an institution with an enrollment of 1057 joining. The table provides details about various institutions in the Mid-South Conference, including their locations, founded years, enrollments, nicknames, joining years, sports they participate in, and their primary conferences. However, it does not contain the specific information requested in the question.\n\nThe question asks for the year when the institution with an enrollment of 1057 joined the Mid-South Conference. According to the table, Reinhardt University has an enrollment of 1,057 and joined the conference in 2013–14.\n\n<answer>Reinhardt University joined the Mid-South Conference in 2013–14.</answer>",
+ "input_tokens": 3027,
+ "output_tokens": 166,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 20.36
+}

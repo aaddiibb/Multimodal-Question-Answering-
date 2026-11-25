@@ -1,0 +1,12 @@
+{
+ "key": "51c15c7e32cd1b5883e73950b4a0bda6fa490d6fe95e5cc8bae0a9ab9bba54a3",
+ "text": "Based on the provided information, there is no specific mention of a player being picked in round four of the 1952 NFL draft from Arkansas college whose arm has a particular marking. The table insight only mentions Pat Summerall being selected as the 45th pick by the Detroit Lions. There is no information about the appearance of the players mentioned in the text data or the images provided. Therefore, it is impossible to determine what is on the arm of the man who was picked in round four of the 1952 NFL draft from Arkansas college based on the given data.",
+ "input_tokens": 2313,
+ "output_tokens": 120,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 12.85
+}

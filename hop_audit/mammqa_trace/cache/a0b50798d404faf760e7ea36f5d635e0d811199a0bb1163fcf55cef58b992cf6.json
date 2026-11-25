@@ -1,0 +1,12 @@
+{
+ "key": "a0b50798d404faf760e7ea36f5d635e0d811199a0bb1163fcf55cef58b992cf6",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\nThe question asks for the years when Thora Birch appeared in a TV show with blocks on its logo. The text insight states there is no information about such a TV show. The table provides a list of Thora Birch's appearances in various TV shows and films over the years.\n\n### Step 2: Extract Insights\n- The text insight confirms there is no TV show with blocks on its logo featuring Thora Birch.\n- The table lists Thora Birch's roles in different TV shows and films, but none of them have blocks on their logos.\n\n### Step 3: Break Down the Question into Subquestions\n1. Is there a TV show with blocks on its logo featuring Thora Birch?\n2. If so, in which years did Thora Birch appear in this TV show?\n\n### Final Answer\nThere is no information provided about a TV show with blocks on its logo featuring Thora Birch.",
+ "input_tokens": 2466,
+ "output_tokens": 195,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 19.78
+}

@@ -1,0 +1,12 @@
+{
+ "key": "a89c9d41929bac8aadd87ae984c8b3983be9b05e11e118947ea987e1e82fea0a",
+ "text": "<answer>Ramon Sessions</answer>",
+ "input_tokens": 1198,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.22
+}

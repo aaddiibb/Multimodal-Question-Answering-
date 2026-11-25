@@ -1,0 +1,12 @@
+{
+ "key": "d7a9d64cae1a4780f22007422ea7ed515c8b9759fbc8bfc403d2ee4efcc3110d",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists players who scored goals in the 2009-10 Welsh Premier League.\n- The club with an airplane on its logo is Airbus UK Broughton.\n- Rhys Griffiths scored the most goals with 30.\n</insights>\n\n<answer>\nRhys Griffiths was the top scorer from the club with an airplane on its logo in the Welsh Premier League in 2009-10.\n</answer>",
+ "input_tokens": 874,
+ "output_tokens": 108,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.62
+}

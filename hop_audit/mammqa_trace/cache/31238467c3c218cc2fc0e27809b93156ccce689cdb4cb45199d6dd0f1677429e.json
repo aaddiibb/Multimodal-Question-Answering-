@@ -1,0 +1,12 @@
+{
+ "key": "31238467c3c218cc2fc0e27809b93156ccce689cdb4cb45199d6dd0f1677429e",
+ "text": "<answer>There is insufficient information to determine the number of characters in the 2002 Michael Potts theatre production painting.</answer>",
+ "input_tokens": 805,
+ "output_tokens": 30,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.63
+}

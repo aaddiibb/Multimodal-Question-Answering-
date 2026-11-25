@@ -1,0 +1,12 @@
+{
+ "key": "d8e46de6e717343157d8602bf8fe1800e3a44c077db68950237b18a8a035d7cb",
+ "text": "<modality> text </modality>\n\n<insights> The text does not mention any player named \"102.55\" or provide information about a player having a high dart average of 102.55. The text provides information about various individuals such as Mark Barilli, Robert Mushtare, Lucky Diamond Rich, Justin Huish, Roxrite, Dartanyon Crockett, Dave Chisnall, and Fiann Paul. None of these individuals are mentioned in relation to a high dart average of 102.55.</insights>\n\n<answer> No, the text does not provide information about a player named \"102.55\" or a player with a high dart average of 102.55. Therefore, it cannot be determined if such a player has tattoos.</answer>",
+ "input_tokens": 1886,
+ "output_tokens": 176,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 14.81
+}

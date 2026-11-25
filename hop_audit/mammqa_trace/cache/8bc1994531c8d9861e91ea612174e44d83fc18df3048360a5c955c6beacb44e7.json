@@ -1,0 +1,12 @@
+{
+ "key": "8bc1994531c8d9861e91ea612174e44d83fc18df3048360a5c955c6beacb44e7",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists Michael Potts' acting roles across different years and theatres.\n- The theatre with a large green lawn is not explicitly mentioned in the table.\n</insights>\n\n<answer>\nThe provided table does not specify which theatre has a large green lawn. Therefore, it is not possible to determine the year Michael Potts acted in such a theatre based solely on the given data.\n</answer>",
+ "input_tokens": 1184,
+ "output_tokens": 96,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.71
+}

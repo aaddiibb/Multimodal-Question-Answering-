@@ -1,0 +1,12 @@
+{
+ "key": "2ac39a22c07681011ab9b1891251994603b4d17273e69076bfab9e0de18ff22b",
+ "text": "<modality> image </modality>\n\n<insights> The image shows a player wearing a jersey with the number 10, which is associated with the Minnesota Vikings. However, there is no information about players being added to the team in the 2018 season or their previous teams.</insights>\n\n<answer> There is insufficient information in the image to determine which player added to the Minnesota Vikings in the 2018 season was from the previous team that won the Super Bowl in 1970.</answer>",
+ "input_tokens": 3389,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 18.46
+}

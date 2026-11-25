@@ -1,0 +1,243 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "30b210f40a1a8ef43170149dff7a18bc",
+  "question": "is a pinky a finger yes or no",
+  "context_digest": "d1f3ae6aa6a01be8b122bf900079e3ce77a4040bf5c75adf36974822b4878a94",
+  "source_ids": [
+    "f94c9c206da0bcfe46d27debe52a6937"
+  ],
+  "modalities": [
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "Yes",
+        "insight": "The text confirms that the little finger, commonly referred to as the pinky in American English, is indeed a finger.",
+        "raw_output": "ANSWER: Yes\nINSIGHT: The text confirms that the little finger, commonly referred to as the pinky in American English, is indeed a finger."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "Yes",
+        "reason": "The text confirms that the little finger, commonly referred to as the pinky in American English, is indeed a finger.",
+        "evidence_reference": "INSUFFICIENT",
+        "raw_output": "ANSWER: Yes\nREASON: The text confirms that the little finger, commonly referred to as the pinky in American English, is indeed a finger.\nEVIDENCE: INSUFFICIENT"
+      }
+    },
+    "shared_seconds": 5.520312890000014,
+    "shared_digest": "3ca697853a1f5471a5af4da3d459586a3c6fa58cb343c8dcbe9cb962d05b2ea7"
+  },
+  "baseline": {
+    "answer": "Yes",
+    "raw_output": "FINAL: Yes",
+    "seconds": 0.5239637029999358,
+    "calls": 1,
+    "format_repair_used": false
+  },
+  "cv": {
+    "answer": "Yes",
+    "raw_output": "FINAL: Yes",
+    "seconds": 13.527380842999946,
+    "calls": 5,
+    "format_repair_used": false
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 1,
+      "unique_candidate_count": 1,
+      "consensus_answer": "Yes",
+      "consensus_count": 1,
+      "stage2_disagreement": false,
+      "agreement_type": "unanimous"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [
+      {
+        "answer": "Yes",
+        "normalized_answer": "yes",
+        "supporting_agents": [
+          "text_anchor"
+        ],
+        "reasons": [
+          "The text confirms that the little finger, commonly referred to as the pinky in American English, is indeed a finger."
+        ],
+        "evidence_references": [
+          "INSUFFICIENT"
+        ],
+        "claims": [
+          {
+            "text": "The pinky is the fifth finger on each hand.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text explicitly states that the pinky is the fifth finger on each hand.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text explicitly states that the pinky is the fifth finger on each hand.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "In American English, the pinky is commonly referred to as the little finger.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text explicitly states that in American English, the pinky is commonly referred to as the little finger.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text explicitly states that in American English, the pinky is commonly referred to as the little finger.",
+              "parse_fallback": false
+            }
+          },
+          {
+            "text": "The pinky is one of the fingers on a human hand.",
+            "verification": {
+              "status": "SUPPORTED",
+              "evidence_modality": "text",
+              "evidence_note": "The provided text explicitly states that the pinky finger is one of the fingers on a human hand.",
+              "raw_output": "STATUS: SUPPORTED\nEVIDENCE_MODALITY: text\nEVIDENCE_NOTE: The provided text explicitly states that the pinky finger is one of the fingers on a human hand.",
+              "parse_fallback": false
+            }
+          }
+        ],
+        "claim_score": 6.0,
+        "candidate_total_score": 6.0,
+        "revision_occurred": false,
+        "original_answer": "Yes",
+        "revised_answer": "",
+        "claim_extraction_fallback": false
+      }
+    ],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 3,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 184,
+      "original_input_tokens": 184,
+      "output_tokens": 33,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.5465822950000074,
+      "image_count": 0,
+      "seed": 3267805388
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 156,
+      "original_input_tokens": 156,
+      "output_tokens": 40,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.964966368999967,
+      "image_count": 0,
+      "seed": 3933570576
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 168,
+      "original_input_tokens": 168,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.5205356620001567,
+      "image_count": 0,
+      "seed": 3255341223
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "claim_extraction_yes",
+      "deterministic": true,
+      "input_tokens": 138,
+      "original_input_tokens": 138,
+      "output_tokens": 53,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.8211411030001727,
+      "image_count": 0,
+      "seed": 3775358299
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "claim_verification_1",
+      "deterministic": true,
+      "input_tokens": 286,
+      "original_input_tokens": 286,
+      "output_tokens": 36,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 2.8681065410000883,
+      "image_count": 0,
+      "seed": 4195174595
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "claim_verification_2",
+      "deterministic": true,
+      "input_tokens": 291,
+      "original_input_tokens": 291,
+      "output_tokens": 41,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.1600291110000853,
+      "image_count": 0,
+      "seed": 1246470594
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "claim_verification_3",
+      "deterministic": true,
+      "input_tokens": 288,
+      "original_input_tokens": 288,
+      "output_tokens": 39,
+      "max_new_tokens": 96,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 3.008376129999988,
+      "image_count": 0,
+      "seed": 1149806745
+    },
+    {
+      "qid": "30b210f40a1a8ef43170149dff7a18bc",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 360,
+      "original_input_tokens": 360,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6514369799999713,
+      "image_count": 0,
+      "seed": 1407349739
+    }
+  ],
+  "completed_utc": "2026-10-13T20:01:45.974986+00:00"
+}

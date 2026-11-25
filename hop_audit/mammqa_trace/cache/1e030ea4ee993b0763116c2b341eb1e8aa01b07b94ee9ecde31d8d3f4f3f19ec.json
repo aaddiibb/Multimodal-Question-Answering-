@@ -1,0 +1,12 @@
+{
+ "key": "1e030ea4ee993b0763116c2b341eb1e8aa01b07b94ee9ecde31d8d3f4f3f19ec",
+ "text": "<modality> table </modality>\n\n<insights>\n- The team with an average of 1,342 is Krka.\n- Krka's high score is 2,000 and low score is 1,000.\n</insights>\n\n<answer>\nThe logo for the team from the ABA league with an average of 1,342 in 2013-14, which is Krka, features a basketball.\n</answer>",
+ "input_tokens": 1173,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.2
+}

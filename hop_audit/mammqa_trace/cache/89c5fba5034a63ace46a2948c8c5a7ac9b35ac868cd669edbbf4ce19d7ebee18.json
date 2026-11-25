@@ -1,0 +1,12 @@
+{
+ "key": "89c5fba5034a63ace46a2948c8c5a7ac9b35ac868cd669edbbf4ce19d7ebee18",
+ "text": "<modality> table </modality>\n\n<insights>\nThe table lists players who were loaned to Orlando City B on March 25, 2016. The players listed are Tyler Turner, Richmond Laryea, Harrison Heath, Hadji Barry, and Mason Stajduhar.\n</insights>\n\n<answer>\nThe players loaned to Orlando City B on March 25, 2016 are Tyler Turner, Richmond Laryea, Harrison Heath, Hadji Barry, and Mason Stajduhar.\n</answer>",
+ "input_tokens": 1127,
+ "output_tokens": 116,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.78
+}

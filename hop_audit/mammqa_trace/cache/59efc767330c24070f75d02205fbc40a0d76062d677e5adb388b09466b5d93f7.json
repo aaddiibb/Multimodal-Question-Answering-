@@ -1,0 +1,12 @@
+{
+ "key": "59efc767330c24070f75d02205fbc40a0d76062d677e5adb388b09466b5d93f7",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person with curly hair wearing a white shirt and holding a microphone. There is no visible information about the nationality of the person.</insights>\n\n<answer>There is insufficient information in the image to determine the nationality of the person mentioned in the question.</answer>",
+ "input_tokens": 2741,
+ "output_tokens": 69,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 10.79
+}

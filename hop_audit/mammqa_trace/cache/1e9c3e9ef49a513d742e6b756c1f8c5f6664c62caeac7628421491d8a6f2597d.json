@@ -1,0 +1,12 @@
+{
+ "key": "1e9c3e9ef49a513d742e6b756c1f8c5f6664c62caeac7628421491d8a6f2597d",
+ "text": "<modality> text </modality>\n\n<insights>\n- Jackie Robinson played several sports at the varsity level including football, basketball, track, and baseball.\n- He played shortstop and catcher on the baseball team, quarterback on the football team, and guard on the basketball team.\n</insights>\n\n<answer>Jackie Robinson played football, basketball, and track, in addition to baseball.</answer>",
+ "input_tokens": 1685,
+ "output_tokens": 85,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.85
+}

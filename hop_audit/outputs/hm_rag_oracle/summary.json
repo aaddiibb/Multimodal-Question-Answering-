@@ -1,0 +1,77 @@
+{
+  "n_questions": 16,
+  "EM": 0.25,
+  "mean_F1": 0.2639,
+  "final_abstain_rate": 0.5625,
+  "labels": {
+    "CORRECT": 4,
+    "SURFACE_FORM": 1,
+    "AGGREGATION_LOSS": 3,
+    "COMMITMENT_FAILURE": 0,
+    "NO_EVIDENCE": 0,
+    "EXTRACTION_FAILURE": 3,
+    "HANDOFF_LOSS": 0,
+    "COMPOSITION_FAILURE": 5
+  },
+  "label_share_of_errors": {
+    "SURFACE_FORM": 0.0833,
+    "AGGREGATION_LOSS": 0.25,
+    "COMMITMENT_FAILURE": 0.0,
+    "NO_EVIDENCE": 0.0,
+    "EXTRACTION_FAILURE": 0.25,
+    "HANDOFF_LOSS": 0.0,
+    "COMPOSITION_FAILURE": 0.4167
+  },
+  "questions_with_latent_hops": 12,
+  "latent_hops": 16,
+  "latent_hops_in_context": 16,
+  "hop_status": {
+    "REACHED": 12,
+    "LOST_IN_HANDOFF": 1,
+    "NOT_SURFACED": 3
+  },
+  "bridge_recall_by_stage": {
+    "S1": 0.8125,
+    "S2": 0.75,
+    "S3": 0.375,
+    "final_text": 0.125
+  },
+  "bridge_recall_any_agent": 0.8125,
+  "handoff_loss_stage_level": {
+    "surfaced_at_first_stage": 13,
+    "lost_by_last_stage": 1,
+    "rate": 0.0769
+  },
+  "handoff_loss_strict_channel": {
+    "carried": 0,
+    "dropped": 0,
+    "rate": null,
+    "unsupported_surfacing": 0,
+    "by_channel": {}
+  },
+  "agent_recall_when_raw_available": {
+    "S1.image": {
+      "available": 6,
+      "surfaced": 3,
+      "recall": 0.5
+    },
+    "S1.table": {
+      "available": 4,
+      "surfaced": 3,
+      "recall": 0.75
+    },
+    "S1.text": {
+      "available": 6,
+      "surfaced": 5,
+      "recall": 0.8333
+    }
+  },
+  "correct_without_bridge": 0,
+  "aggregation_loss_qids": [
+    "f7dd1ac143507bd2ab9a480f18b86706",
+    "b5d7685e595423638d26dd60e99fcc39",
+    "2f154508615dc2d34b4d4b7fdced0b0e"
+  ],
+  "unscored_gold_mentions": 4,
+  "near_misses_for_alias_review": []
+}

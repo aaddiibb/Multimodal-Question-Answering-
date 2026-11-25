@@ -1,0 +1,12 @@
+{
+ "key": "5bb8a3ecd5b1db3ebb230f1de0b18d0f59eb2bd11fdcd53c097c65d5707d74f0",
+ "text": "Based on the provided text and table, there is no information about the 1963 Golden State 400 race, nor is there any mention of a driver having a time/status of +8 laps and Mercury as their manufacturer among the top ten finishers. Therefore, it is not possible to determine which driver had a time/status of +8 laps and Mercury as their manufacturer of the top ten finishers in the 1963 Golden State 400.\n\n<answer>\nThere is no information provided about the 1963 Golden State 400 race, so it is not possible to determine which driver had a time/status of +8 laps and Mercury as their manufacturer among the top ten finishers.\n</answer>",
+ "input_tokens": 2847,
+ "output_tokens": 154,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 5,
+ "tokens_per_image": 640,
+ "oom_fallback": false,
+ "seconds": 18.88
+}

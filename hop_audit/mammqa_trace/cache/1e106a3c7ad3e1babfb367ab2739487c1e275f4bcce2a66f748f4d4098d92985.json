@@ -1,0 +1,12 @@
+{
+ "key": "1e106a3c7ad3e1babfb367ab2739487c1e275f4bcce2a66f748f4d4098d92985",
+ "text": "The provided data includes several movie posters and descriptions, but there isn't enough information directly related to the question about the film \"What Now?\" and its connection to the two people mentioned in the title. The question seems to be asking about the relationship or interaction between the two individuals named in the title \"What Now?\" However, the provided data does not contain any specific details about the film \"What Now?\" or the two people mentioned in the title. Therefore, I am unable to provide a direct answer based on the given information.",
+ "input_tokens": 3587,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 17.15
+}

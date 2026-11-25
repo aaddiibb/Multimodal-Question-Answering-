@@ -1,0 +1,12 @@
+{
+ "key": "d8fb217c736a3d3890ba158ea79e9f8eaff44050d152fa3bb8223b9844036114",
+ "text": "Based on the provided information, there is no mention of a country duo singing \"This is My Town\" or any visual description of objects held by individuals. Therefore, we cannot determine what object the man on the viewer's right is holding in the image provided.",
+ "input_tokens": 4533,
+ "output_tokens": 53,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 16.17
+}

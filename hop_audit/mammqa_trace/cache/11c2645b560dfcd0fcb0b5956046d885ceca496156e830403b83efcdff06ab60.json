@@ -1,0 +1,12 @@
+{
+ "key": "11c2645b560dfcd0fcb0b5956046d885ceca496156e830403b83efcdff06ab60",
+ "text": "<insights>\n- The sport with 1 billion fans mentioned is association football (soccer).\n- The ball used in association football is described as being fluorescent yellow.\n</insights>\n\n<subanswer>\nThe sport with 1 billion fans in the sports listed by popularity is association football (soccer).\n</subanswer>\n\n<subanswer>\nThe ball used in association football is described as being fluorescent yellow.\n</subanswer>\n\n<answer>\nThe ball used in the sport with 1 billion fans in the sports listed by popularity is mainly fluorescent yellow.\n</answer>",
+ "input_tokens": 3403,
+ "output_tokens": 116,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 18.82
+}

@@ -1,0 +1,16 @@
+{
+  "delta_EM": 0.0,
+  "delta_F1": 0.0,
+  "CV_HELP_COUNT": 0,
+  "CV_HARM_COUNT": 0,
+  "net_gain": 0,
+  "questions_with_gold_in_stage2": 4,
+  "baseline_candidate_survival": 0.75,
+  "cv_candidate_survival": 0.75,
+  "CLAIM_RESCUE_COUNT": 0,
+  "CLAIM_DAMAGE_COUNT": 0,
+  "repair_success_count": 0,
+  "repair_candidate_rescue_count": 0,
+  "repair_harm_count": 0,
+  "predictions_frozen_before_gold": true
+}

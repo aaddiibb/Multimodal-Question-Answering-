@@ -1,0 +1,12 @@
+{
+ "key": "2deb0026747b8a0b279e38d72387e2453b93e34157f6123a72e9b8c852526846",
+ "text": "Based on the provided text and table, there is no information about the Trenton Twin Indy of 1979 or the number of times a driver has won the Indy 500. The table only contains information about the positions, starting positions, numbers, drivers, teams, laps completed, times/retired, leads, and points for the 1979 Trenton Twin Indy race. Therefore, it is impossible to answer the question accurately based on the available information.\n\n<answer>\nThere is insufficient information in the provided text and table to answer the question accurately. The text and table do not contain any details about the Trenton Twin Indy of 1979 or the number of times a driver has won the Indy 500.\n</answer>",
+ "input_tokens": 3999,
+ "output_tokens": 159,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 24.81
+}

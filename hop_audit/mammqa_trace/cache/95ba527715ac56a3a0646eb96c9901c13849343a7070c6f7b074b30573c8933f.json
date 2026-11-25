@@ -1,0 +1,12 @@
+{
+ "key": "95ba527715ac56a3a0646eb96c9901c13849343a7070c6f7b074b30573c8933f",
+ "text": "The text does not contain any information about a video game with a poster featuring a picture of Earth or Tricia Helfer's role in such a game. The provided text discusses various fictional characters and entities, but none of them mention a video game with a specific poster description.\n\n<answer>There is no information provided in the text about a video game with a poster featuring a picture of Earth or Tricia Helfer's role in such a game. Therefore, the answer cannot be determined from the given data.</answer>",
+ "input_tokens": 1783,
+ "output_tokens": 107,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 10.82
+}

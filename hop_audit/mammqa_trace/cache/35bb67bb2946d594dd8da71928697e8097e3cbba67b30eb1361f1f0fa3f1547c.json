@@ -1,0 +1,12 @@
+{
+ "key": "35bb67bb2946d594dd8da71928697e8097e3cbba67b30eb1361f1f0fa3f1547c",
+ "text": "<answer>Tiya Sircar played the role of a hostess in the movie \"Friends With Benefits.\"</answer>",
+ "input_tokens": 1281,
+ "output_tokens": 25,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.33
+}

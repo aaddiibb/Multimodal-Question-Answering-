@@ -1,0 +1,12 @@
+{
+ "key": "9981d68db6150641ea259205d659ce3cc939b5fa040e2ed344ba3f9035b1842e",
+ "text": "<modality>image</modality>\n\n<insights>The image shows two individuals sitting on stage, one of whom appears to be speaking while the other listens attentively. The background features a colorful geometric pattern.</insights>\n\n<answer>Based on the image provided, it does not contain any information about the TV show with a downward pointing arrow on its title screen or the role played by Ilana Glazer. Therefore, I cannot answer the question using this image alone.</answer>",
+ "input_tokens": 1960,
+ "output_tokens": 99,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 10.05
+}

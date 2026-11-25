@@ -1,0 +1,12 @@
+{
+ "key": "1e5e451a1515b06ec12e1680bbd6aed076f8774fde6b4977be6e6c7bb02bb06c",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text does not contain any information about a team from the ABA league with an average of 1,342 in 2013-14.\n</insights>\n\n<answer>\nThere is no information provided about a team from the ABA league with an average of 1,342 in 2013-14. Therefore, the answer cannot be determined from the given text.\n</answer>",
+ "input_tokens": 1464,
+ "output_tokens": 105,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.94
+}

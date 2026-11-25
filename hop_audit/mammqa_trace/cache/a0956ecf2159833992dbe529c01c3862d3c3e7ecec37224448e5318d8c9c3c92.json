@@ -1,0 +1,12 @@
+{
+ "key": "a0956ecf2159833992dbe529c01c3862d3c3e7ecec37224448e5318d8c9c3c92",
+ "text": "<modality> text </modality>\n\n<insights>\n- The band that kept \"Fairytale of New York\" from being number 1 was the Pet Shop Boys.\n- The Pet Shop Boys' cover of \"Always on My Mind\" was released in 1987.\n- The Futureheads are not mentioned in the provided text.\n</insights>\n\n<answer>\nBased on the provided text, there is no information about the Futureheads or their relationship to Max Tundra's remixes. The Pet Shop Boys, who covered \"Always on My Mind,\" are the band that kept \"Fairytale of New York\" from being number 1. However, the text does not provide any information about Max Tundra's remixes or the Futureheads.\n</answer>\n\n<subanswer>\n- When was the Pet Shop Boys' cover of \"Always on My Mind\" released?\n  <subanswer>1987</subanswer>\n</subanswer>",
+ "input_tokens": 1649,
+ "output_tokens": 200,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 16.2
+}

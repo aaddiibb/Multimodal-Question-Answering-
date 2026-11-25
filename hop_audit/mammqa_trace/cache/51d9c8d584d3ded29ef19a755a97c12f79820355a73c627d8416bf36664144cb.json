@@ -1,0 +1,12 @@
+{
+ "key": "51d9c8d584d3ded29ef19a755a97c12f79820355a73c627d8416bf36664144cb",
+ "text": "<answer>The Twin Cities of Minneapolis and Saint Paul, including the Mall of America</answer>",
+ "input_tokens": 1082,
+ "output_tokens": 20,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.72
+}

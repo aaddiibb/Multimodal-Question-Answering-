@@ -1,0 +1,12 @@
+{
+ "key": "7e12c43c1efa72876ec83b99295ff63c2a1dcb529b5030c5229bab7ea65e8ac0",
+ "text": "<modality>image</modality>\n\n<insights>The image is a promotional poster for the Marvel Cinematic Universe film \"Thor: The Dark World,\" which features the character Thor alongside other characters from the Marvel universe. The poster includes the title \"Thor: The Dark World\" prominently displayed at the bottom.</insights>\n\n<answer>Based on the provided images, there is no clear indication that Pirya Anand worked as a voice actress in a Tamil dubbed version of a Thor movie in 2011. The image shown is for \"Thor: The Dark World,\" but it does not confirm her involvement in this role.</answer>",
+ "input_tokens": 2353,
+ "output_tokens": 132,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.3
+}

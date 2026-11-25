@@ -1,0 +1,12 @@
+{
+ "key": "04f30c08ef15511f82b245afcce77914219f70154ee4a7b3c687a1428c1a2094",
+ "text": "The provided text does not contain information about the 1979 Trenton Twin Indy or the number of Indy 500 races won by drivers on the Penske Racing team. Therefore, it cannot be used to answer the question \"Which driver on the Penske Racing team in the 1979 Trenton Twin Indy has also won the greatest number of Indy 500 races?\"",
+ "input_tokens": 4049,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 18.63
+}

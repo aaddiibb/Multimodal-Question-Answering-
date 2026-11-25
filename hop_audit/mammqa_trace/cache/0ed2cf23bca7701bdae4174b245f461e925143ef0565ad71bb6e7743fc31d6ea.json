@@ -1,0 +1,12 @@
+{
+ "key": "0ed2cf23bca7701bdae4174b245f461e925143ef0565ad71bb6e7743fc31d6ea",
+ "text": "<answer>There is no information available about a film where a pickup truck appears on the poster, and thus, we cannot determine Christian Manon's role in that film.</answer>",
+ "input_tokens": 984,
+ "output_tokens": 38,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 3.43
+}

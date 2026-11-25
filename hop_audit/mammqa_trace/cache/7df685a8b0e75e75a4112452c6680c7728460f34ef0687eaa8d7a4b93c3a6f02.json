@@ -1,0 +1,12 @@
+{
+ "key": "7df685a8b0e75e75a4112452c6680c7728460f34ef0687eaa8d7a4b93c3a6f02",
+ "text": "<modality>image</modality>\n\n<insights>The image contains a collage of various movie posters. One of the posters features a red heart prominently displayed, which corresponds to the description of the movie poster featuring a red heart.</insights>\n\n<answer>Urmi Juvekar took part in the movie \"LSD: Love Story\" more recently than \"Shararat\". The movie poster featuring a red heart is \"LSD: Love Story\", which was released on March 19, 2010.</answer>",
+ "input_tokens": 1866,
+ "output_tokens": 110,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 12.42
+}

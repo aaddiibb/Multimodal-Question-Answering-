@@ -1,0 +1,12 @@
+{
+ "key": "fd8e08d4f968f95e161aaa93d1d67abcf7167365a614cca1e0dd58906d033eab",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a pencil drawing of a set of legos arranged in a specific pattern. The image also contains the name \"Ed Sheeran\" written below the lego set.</insights>\n\n<answer>Ed Sheeran</answer>\n\n<subanswer>The image shows a set of legos arranged in a specific pattern.</subanswer>",
+ "input_tokens": 1519,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 8.11
+}

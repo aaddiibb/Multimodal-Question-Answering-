@@ -1,0 +1,12 @@
+{
+ "key": "ff1f0aca2b2dc95c3d97af4003268731a73d482ebaadab4a22b23ca0c521771b",
+ "text": "Let's break down the question into simpler parts:\n\n1. Identify the titles mentioned in the question:\n   - \"Pac-Man\" and \"Libble Rabble\".\n\n2. Determine the release years for each title:\n   - \"Pac-Man\" was released in 1980.\n   - \"Libble Rabble\" was released in 1983.\n\n3. Compare the release years:\n   - \"Libble Rabble\" was released more recently than \"Pac-Man\".\n\nBased on the extracted insights, we can conclude that \"Libble Rabble\" was released more recently than \"Pac-Man\". Therefore, the answer to the question is:\n\n<answer> \"Libble Rabble\" was released more recently than \"Pac-Man\". </answer>",
+ "input_tokens": 2877,
+ "output_tokens": 160,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 18.72
+}

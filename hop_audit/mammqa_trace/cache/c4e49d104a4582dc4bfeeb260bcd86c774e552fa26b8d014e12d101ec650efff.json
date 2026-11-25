@@ -1,0 +1,12 @@
+{
+ "key": "c4e49d104a4582dc4bfeeb260bcd86c774e552fa26b8d014e12d101ec650efff",
+ "text": "<answer>Anfernee Deon \"Penny\" Hardaway</answer>",
+ "input_tokens": 1299,
+ "output_tokens": 17,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.56
+}

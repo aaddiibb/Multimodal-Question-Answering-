@@ -1,0 +1,12 @@
+{
+ "key": "c25e93039186c80a571b7f55604dab8a7b49fb1811fade93c96afb0640eb8124",
+ "text": "<modality> table </modality>\n\n<insights>\n- The year Fazila Kaiser worked on \"Ghairat\" was 2017.\n- The channel for \"Ghairat\" is ARY Digital.\n</insights>\n\n<answer>\nIn the year 2017, when Fazila Kaiser worked on \"Ghairat,\" the work was featured on the channel ARY Digital.\n</answer>",
+ "input_tokens": 1060,
+ "output_tokens": 91,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 7.1
+}

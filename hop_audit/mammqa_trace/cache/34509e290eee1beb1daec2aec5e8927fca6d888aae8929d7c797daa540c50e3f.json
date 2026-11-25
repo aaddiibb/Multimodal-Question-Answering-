@@ -1,0 +1,12 @@
+{
+ "key": "34509e290eee1beb1daec2aec5e8927fca6d888aae8929d7c797daa540c50e3f",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>The image displays the title screen of the TV show \"The Fosters,\" which features a house on its title screen.</insights>\n\n<answer>Based on the provided image, the TV show \"The Fosters\" features a house on its title screen. However, the question asks about Jude's boyfriend's name in a different show featuring Anna Akana as an actress. The image does not provide enough information to answer this question directly.</answer>",
+ "input_tokens": 1725,
+ "output_tokens": 111,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 10.34
+}

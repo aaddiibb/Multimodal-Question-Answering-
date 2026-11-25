@@ -1,0 +1,21 @@
+qid,type,label,em,f1,final_abstain,prediction,gold,n_latent_hops,hop_statuses,agents_committed_gold,agents_mentioning_gold
+a33985b1e8b2502fc18cc8147dc27db8,TableQ,AGGREGATION_LOSS,0.0,0.0,False,The Nutty Professor,Mask,0,,S1.table,S1.table
+710a6d2254076ea58756c6c7cc211f1e,"Compose(TextQ,TableQ)",CORRECT,1.0,1.0,False,1976,1976,1,REACHED,,
+0d8f2779137fb47db953c4af5247ffe5,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,Bad News Bears,baseball,1,REACHED,,
+e240f5fe65b39eee70d3576cff88fe5a,"Compare(Compose(TableQ,ImageQ),TableQ)",NO_EVIDENCE,0.0,0.0,False,"Ben Piazza appeared in ""Nightwing"" first.","Tell Me That You Love Me, Junie Moon",1,NO_EVIDENCE,,
+18ecd2ac6c0ac69993b92dc4b30137e8,ImageListQ,NO_EVIDENCE,0.0,0.0,False,Mask,"Tell Me That You Love Me, Junie Moon",0,,,
+4ed96e69a31b726165be584f61e9eb54,TableQ,CORRECT,1.0,1.0,False,Bosnian Premier League,Bosnian Premier League,1,LOST_IN_HANDOFF,S1.table;S2.text,S1.table;S2.text;S2.table
+e1e6ed53f9ad11813845088f4cf2f6b1,ImageListQ,NO_EVIDENCE,0.0,0.0,True,None,FK Tuzla City,0,,,
+d82d381af11d76d8a70601251ecb8ca5,TableQ,EXTRACTION_FAILURE,0.0,0.0,False,One and One-Sixteenth Miles,Seven Furlongs,1,NOT_SURFACED,,
+471a2c824769af89d5d77a881462c775,"Compose(TextQ,TableQ)",COMMITMENT_FAILURE,0.0,0.4,False,Thoroughbreds,three-year-old Thoroughbreds,1,REACHED,,S2.image
+d82159f62e879044fba10f810f13e40c,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,1994,2009,1,REACHED,,
+3344a76645a7f19f211715e808f5dcb7,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,one and one-quarter mile races,2008,1,REACHED,,
+ec9d3b4ac6a30bb982f0173384fac319,"Compose(TextQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,There is no information provided about the number of roses in the blanket when the A.P. Warrior finished the race in 18th place.,554,1,REACHED,,
+d8e9287f05d916923669b03d654bde4d,"Compose(TextQ,TableQ)",HANDOFF_LOSS,0.0,0.0,False,detail,The mint julep,1,LOST_IN_HANDOFF,,
+9d75888800a78297a2f47b124e58cdfc,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,True,Unanswerable,blue,1,REACHED,,
+22c2cdbcd854e49b33b67db7930d21ef,"Compose(ImageQ,TableQ)",COMPOSITION_FAILURE,0.0,0.0,False,A.P. Warrior,horses,1,REACHED,,
+0bb48bd1c2138d237c2b6676555ec7f0,"Compose(ImageQ,TableQ)",CORRECT,1.0,1.0,False,horses,horses,1,LOST_IN_HANDOFF,,
+5fb253761e72a6048b8b759f04c3b784,TextQ,CORRECT,1.0,1.0,False,Breeders' Cup Mile,Breeders' Cup Mile,0,,S1.text;S2.text,S1.text;S2.text
+33cf75c43fb268f267002cf8b9c28313,TextQ,AGGREGATION_LOSS,0.0,0.0,False,Kent Desormeaux,Victor Espinoza,0,,S1.text,S1.text
+bc2bade34338dadc9536bc852ec50919,ImageQ,CORRECT,1.0,1.0,False,Horses,horses,0,,S1.text;S1.table;S2.text;S2.table;S2.image,
+725cff35b53790928967f609bb24985f,ImageQ,NO_EVIDENCE,0.0,0.0,False,unavailable,blue,0,,,

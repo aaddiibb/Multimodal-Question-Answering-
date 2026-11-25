@@ -1,0 +1,12 @@
+{
+ "key": "e0ff45927b9237b97910af0e0728eecc4ad0c8d97a49e3c09b114ab9b8e1120a",
+ "text": "<modality> text </modality>\n\n<insights> The text does not mention Leora Dana playing a role in any film titled \"The Group.\" The films mentioned are \"The Group (film)\" and \"The Group (novel).\" There is no information provided about Leora Dana or her involvement in either film.</insights>\n\n<answer> There is no information provided about Leora Dana playing a role in the film titled \"The Group.\" The text does not contain any details regarding her involvement in the film.</answer>",
+ "input_tokens": 1730,
+ "output_tokens": 109,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.2
+}

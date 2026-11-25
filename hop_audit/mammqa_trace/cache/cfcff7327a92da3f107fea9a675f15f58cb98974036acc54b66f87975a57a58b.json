@@ -1,0 +1,12 @@
+{
+ "key": "cfcff7327a92da3f107fea9a675f15f58cb98974036acc54b66f87975a57a58b",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>Paul Quinn is the logo for the Ohio Athletic Conference (OAC). The question asks about the conference where Paul Quinn was the champion in the 1924 college football season's minor conferences.</insights>\n\n<answer>The conference where Paul Quinn was the champion in the 1924 college football season's minor conferences is the Ohio Athletic Conference (OAC).</answer>",
+ "input_tokens": 2191,
+ "output_tokens": 97,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 11.78
+}

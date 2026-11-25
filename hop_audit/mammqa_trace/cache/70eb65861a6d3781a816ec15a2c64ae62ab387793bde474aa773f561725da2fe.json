@@ -1,0 +1,12 @@
+{
+ "key": "70eb65861a6d3781a816ec15a2c64ae62ab387793bde474aa773f561725da2fe",
+ "text": "Based on the provided information, there is no mention of a Caucasian woman with red hair headlining a concert at Target Center. The table only lists dates, headliners, events, tours, and supporting acts for concerts at Target Center, but does not provide specific details about the appearance of the headliners. Therefore, it is not possible to determine the date when a Caucasian woman with red hair headlined a concert at Target Center based on the given information.",
+ "input_tokens": 4707,
+ "output_tokens": 94,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 22.8
+}

@@ -11,3 +11,9 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated HM-RAG retrieval caches and indexes
+**/hm_mammqa/cache/
+**/hm_mammqa/indexes/
+**/persistent_cache_package/cache/
+**/persistent_cache_package/indexes/

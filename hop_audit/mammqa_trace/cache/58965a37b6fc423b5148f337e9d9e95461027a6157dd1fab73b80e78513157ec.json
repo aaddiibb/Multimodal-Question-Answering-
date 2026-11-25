@@ -1,0 +1,12 @@
+{
+ "key": "58965a37b6fc423b5148f337e9d9e95461027a6157dd1fab73b80e78513157ec",
+ "text": "<modality>image</modality>\n\n<insights>The image depicts a black-and-white illustration of a theatrical scene featuring three characters. The central figure appears to be a man dressed in a historical costume, possibly from a Shakespearean play, while two women are seated nearby. There are no visible characters in the image.</insights>\n\n<answer>There are no characters depicted in the image.</answer>",
+ "input_tokens": 3371,
+ "output_tokens": 83,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 14.65
+}

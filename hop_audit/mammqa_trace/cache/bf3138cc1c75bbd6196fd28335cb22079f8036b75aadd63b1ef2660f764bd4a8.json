@@ -1,0 +1,12 @@
+{
+ "key": "bf3138cc1c75bbd6196fd28335cb22079f8036b75aadd63b1ef2660f764bd4a8",
+ "text": "<modality> table </modality>\n\n<insights>\n- Rex Everhart acted in the 1991 film \"Beauty and the Beast\" as Maurice.\n</insights>\n\n<answer>\nThe newer version of the 1991 film that featured Rex Everhart as an actor came out in 1991.\n</answer>",
+ "input_tokens": 843,
+ "output_tokens": 74,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 5.22
+}

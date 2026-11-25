@@ -1,0 +1,12 @@
+{
+ "key": "0c53be5f6e594ec9d330c593fa3eb522935cd3064866505328967820832c4b4b",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a person holding a microphone while singing.</insights>\n\n<answer>Yes, she is holding a microphone in that photo.</answer>",
+ "input_tokens": 2885,
+ "output_tokens": 43,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 9.92
+}

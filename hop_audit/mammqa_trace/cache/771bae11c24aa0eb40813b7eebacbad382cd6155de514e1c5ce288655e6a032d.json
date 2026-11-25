@@ -1,0 +1,12 @@
+{
+ "key": "771bae11c24aa0eb40813b7eebacbad382cd6155de514e1c5ce288655e6a032d",
+ "text": "The question asks about the role of Robert Veljanovski in the Tennessee Williams play that won a Pulitzer Prize for Drama and featured Simone Kirby. However, there seems to be some confusion because the table insights mention that Robert Veljanovski played the role of \"Doctor Baugh\" in the Tennessee Williams play \"Cat on a Hot Tin Roof,\" but the question refers to a Pulitzer Prize-winning play featuring Simone Kirby. \n\nLet's break this down into simpler subquestions:\n\n1. What role did Robert Veljanovski play in the Tennessee Williams play \"Cat on a Hot Tin Roof\"?\n2. Which Tennessee Williams play won a Pulitzer Prize for Drama and featured Simone Kirby?\n\nBased on the provided information, we can answer the subquestions as follows:\n\n1. <subanswer>Robert Veljanovski played the role of \"Doctor Baugh\" in the Tennessee Williams play \"Cat on a Hot Tin Roof.\"</subanswer>\n2. <subanswer>The Tennessee Williams play \"Cat on a Hot Tin Roof\" won a Pulitzer Prize for Drama.</subanswer>\n\nSince the question combines both roles and the Pulitzer Prize-winning play, we can provide the following answer:\n\n<answer>Robert Veljanovski played the role of \"Doctor Baugh\" in the Tennessee Williams play \"Cat on a Hot Tin Roof,\" which won a Pulitzer Prize for Drama and featured Simone Kirby.</answer>",
+ "input_tokens": 4446,
+ "output_tokens": 280,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 9,
+ "tokens_per_image": 355,
+ "oom_fallback": false,
+ "seconds": 40.92
+}

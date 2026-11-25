@@ -1,0 +1,12 @@
+{
+ "key": "7e97fd84d3ccbad6425776ae2b7998f6f1e8a9232d150ecfabe48f2f60e65114",
+ "text": "<modality> text </modality>\n\n<insights>\n- The text provides information about various films and their associated details.\n- The film \"Birdman of Alcatraz\" was adapted from a 1955 book and was nominated for several Academy Awards in 1955.\n- There is no mention of another Leo Penn film with a poster featuring a seated woman in a red dress.\n</insights>\n\n<answer>\nNo, there is no information provided about another Leo Penn film with a poster that features a seated woman in a red dress that debuted at an earlier year than \"Birdman of Alcatraz.\"\n</answer>",
+ "input_tokens": 1593,
+ "output_tokens": 133,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 10.78
+}

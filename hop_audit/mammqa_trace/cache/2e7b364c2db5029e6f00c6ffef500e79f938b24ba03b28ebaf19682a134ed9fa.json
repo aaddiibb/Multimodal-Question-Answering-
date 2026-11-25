@@ -1,0 +1,12 @@
+{
+ "key": "2e7b364c2db5029e6f00c6ffef500e79f938b24ba03b28ebaf19682a134ed9fa",
+ "text": "The text insight indicates that there are no TV shows featuring a poster with a dog among the films mentioned. The table provides a list of roles played by Kym Karath across different TV shows and films. However, it does not mention any TV show poster featuring a dog.\n\nBased on this information, we can break down the question into simpler subquestions:\n\n1. Is there a TV show mentioned in the text that features a poster with a dog?\n2. If so, which TV show is it?\n3. If so, what role did Kym Karath play in that TV show?\n\nSince the text insight clearly states that there are no TV shows featuring a poster with a dog, the answer to the original question is:\n\n<answer>\nThere is no TV show mentioned in the provided text that features a poster with a dog. Therefore, Kym Karath did not play a role in such a TV show.\n</answer>",
+ "input_tokens": 1656,
+ "output_tokens": 188,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 10,
+ "tokens_per_image": 320,
+ "oom_fallback": false,
+ "seconds": 15.99
+}

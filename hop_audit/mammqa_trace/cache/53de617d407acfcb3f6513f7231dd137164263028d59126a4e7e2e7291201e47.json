@@ -1,0 +1,12 @@
+{
+ "key": "53de617d407acfcb3f6513f7231dd137164263028d59126a4e7e2e7291201e47",
+ "text": "<modality> text </modality>\n\n<insights>\n- The 34th International Emmy Awards took place on November 20, 2006, and was hosted by Irish comedian Graham Norton.\n- Graham Norton has won the BAFTA TV Award for his comedy chat show The Graham Norton Show five times.\n</insights>\n\n<answer>\nJuliet Stevenson won the same award that Graham Norton won five times for his comedy chat show in the year 2006.\n</answer>",
+ "input_tokens": 1324,
+ "output_tokens": 105,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.15
+}

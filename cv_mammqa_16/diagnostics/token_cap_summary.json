@@ -1,0 +1,7 @@
+{
+  "calls": 132,
+  "hit_max_new_tokens": 2,
+  "evidence_shortenings": 0,
+  "protected_truncations": 0,
+  "oom_count": 0
+}

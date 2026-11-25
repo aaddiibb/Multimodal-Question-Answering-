@@ -1,0 +1,12 @@
+{
+ "key": "69770cfb89567bd63df6db705f90c851b18f36d6df1b602c88e24e64b233081b",
+ "text": "The question asks for the writer of the song on the album \"Blues for Greeny\" that has a length of 7:54. From the provided table insights, we know that the song with a duration of 7:54 is titled \"Need Your Love So Bad\" and the writer of this song is Mertis John Jr.\n\n<answer>Mertis John Jr. wrote the song \"Need Your Love So Bad\" on the album \"Blues for Greeny\".</answer>",
+ "input_tokens": 2590,
+ "output_tokens": 104,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 3,
+ "tokens_per_image": 1024,
+ "oom_fallback": false,
+ "seconds": 12.91
+}

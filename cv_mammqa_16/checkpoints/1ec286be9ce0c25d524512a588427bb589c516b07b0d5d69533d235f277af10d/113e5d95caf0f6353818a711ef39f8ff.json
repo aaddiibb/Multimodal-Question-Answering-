@@ -1,0 +1,206 @@
+{
+  "fingerprint": "1ec286be9ce0c25d524512a588427bb589c516b07b0d5d69533d235f277af10d",
+  "qid": "113e5d95caf0f6353818a711ef39f8ff",
+  "question": "Which team that opposed the Western Bulldogs in the 2011 Home and Away season when the ladder position was 12th also played in the afl grand final in 2001?",
+  "context_digest": "d415d84237d612725563a761b236e2234cb64f482acc6632ce36a6cf872cd192",
+  "source_ids": [
+    "0e0acbbfdad6cfc6c7a8ae4427a12389",
+    "00948237f4a650deb4c4f101aef11882"
+  ],
+  "modalities": [
+    "table",
+    "text"
+  ],
+  "shared": {
+    "stage1": {
+      "text": {
+        "agent": "text",
+        "answer": "INSUFFICIENT",
+        "insight": "The text does not provide information about teams that played in both the 2011 Home and Away season with a ladder position of 12th and the 2001 AFL Grand Final.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The text does not provide information about teams that played in both the 2011 Home and Away season with a ladder position of 12th and the 2001 AFL Grand Final."
+      },
+      "table": {
+        "agent": "table",
+        "answer": "INSUFFICIENT",
+        "insight": "The table does not provide information about teams playing in the AFL Grand Final in 2001, nor does it specify which team played against the Western Bulldogs in the 2011 Home and Away season when their ladder position was 12th.",
+        "raw_output": "ANSWER: INSUFFICIENT\nINSIGHT: The table does not provide information about teams playing in the AFL Grand Final in 2001, nor does it specify which team played against the Western Bulldogs in the 2011 Home and Away season when their ladder position was 12th."
+      }
+    },
+    "stage2": {
+      "text": {
+        "agent": "text_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided table does not contain information about teams that played in both the 2011 Home and Away season with a ladder position of 12th and the 2001 AFL Grand Final.",
+        "evidence_reference": "TABLE_ID: 00948237f4a650deb4c4f101aef11882",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided table does not contain information about teams that played in both the 2011 Home and Away season with a ladder position of 12th and the 2001 AFL Grand Final.\nEVIDENCE: TABLE_ID: 00948237f4a650deb4c4f101aef11882"
+      },
+      "table": {
+        "agent": "table_anchor",
+        "answer": "INSUFFICIENT",
+        "reason": "The provided information does not specify the team that played against the Western Bulldogs in the 2011 Home and Away season when they were at ladder position 12th, nor does it mention any team playing in the AFL Grand Final in 2001.",
+        "evidence_reference": "[TEXT: 2001 AFL Grand Final | id=0e0acbbfdad6cfc6c7a8ae4427a12389]",
+        "raw_output": "ANSWER: INSUFFICIENT\nREASON: The provided information does not specify the team that played against the Western Bulldogs in the 2011 Home and Away season when they were at ladder position 12th, nor does it mention any team playing in the AFL Grand Final in 2001.\nEVIDENCE: [TEXT: 2001 AFL Grand Final | id=0e0acbbfdad6cfc6c7a8ae4427a12389]"
+      }
+    },
+    "shared_seconds": 31.885868516000073,
+    "shared_digest": "3b9980122054aab484492277a36fd6f3909360850f37311fa5500c21f5e0c7af"
+  },
+  "baseline": {
+    "answer": "INSUFFICIENT",
+    "raw_output": "INSUFFICIENT",
+    "seconds": 1.163077709999925,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv": {
+    "answer": "ABSTAIN",
+    "raw_output": "ABSTAIN",
+    "seconds": 1.162899355999798,
+    "calls": 2,
+    "format_repair_used": true
+  },
+  "cv_diagnostics": {
+    "agreement": {
+      "concrete_candidate_count": 0,
+      "unique_candidate_count": 0,
+      "consensus_answer": "",
+      "consensus_count": 0,
+      "stage2_disagreement": false,
+      "agreement_type": "no_candidate"
+    },
+    "dispute_detected": false,
+    "candidate_memory": [],
+    "repair": {
+      "triggered": false,
+      "agent": "",
+      "original_candidate": "",
+      "revised_candidate": "",
+      "revised_reason": "",
+      "changed": false,
+      "raw_output": "",
+      "parse_fallback": false
+    },
+    "claim_counts": {
+      "SUPPORTED": 0,
+      "PARTIAL": 0,
+      "NOT_VERIFIABLE": 0,
+      "UNSUPPORTED": 0,
+      "CONTRADICTED": 0
+    }
+  },
+  "generation_diagnostics": [
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "stage1_text",
+      "deterministic": false,
+      "input_tokens": 294,
+      "original_input_tokens": 294,
+      "output_tokens": 53,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 4.017917928000088,
+      "image_count": 0,
+      "seed": 394138315
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "stage1_table",
+      "deterministic": false,
+      "input_tokens": 2501,
+      "original_input_tokens": 2501,
+      "output_tokens": 64,
+      "max_new_tokens": 112,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 8.64819436799985,
+      "image_count": 0,
+      "seed": 2140544053
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "stage2_text_anchor",
+      "deterministic": false,
+      "input_tokens": 2574,
+      "original_input_tokens": 2574,
+      "output_tokens": 91,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 11.17502060400011,
+      "image_count": 0,
+      "seed": 1749627283
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "stage2_table_anchor",
+      "deterministic": false,
+      "input_tokens": 378,
+      "original_input_tokens": 378,
+      "output_tokens": 111,
+      "max_new_tokens": 128,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 8.028751873999909,
+      "image_count": 0,
+      "seed": 2545029587
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "baseline_aggregator",
+      "deterministic": false,
+      "input_tokens": 368,
+      "original_input_tokens": 368,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.66202639800008,
+      "image_count": 0,
+      "seed": 1021105524
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "baseline_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.4941400050001903,
+      "image_count": 0,
+      "seed": 1695617672
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "cv_aggregator",
+      "deterministic": false,
+      "input_tokens": 383,
+      "original_input_tokens": 383,
+      "output_tokens": 4,
+      "max_new_tokens": 80,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.6679174970001895,
+      "image_count": 0,
+      "seed": 1156810664
+    },
+    {
+      "qid": "113e5d95caf0f6353818a711ef39f8ff",
+      "stage": "cv_format_repair",
+      "deterministic": true,
+      "input_tokens": 61,
+      "original_input_tokens": 61,
+      "output_tokens": 6,
+      "max_new_tokens": 48,
+      "hit_max_new_tokens": false,
+      "evidence_shortened": false,
+      "seconds": 0.48815748999982134,
+      "image_count": 0,
+      "seed": 3770943528
+    }
+  ],
+  "completed_utc": "2026-10-13T19:58:54.913604+00:00"
+}

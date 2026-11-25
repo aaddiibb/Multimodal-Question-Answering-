@@ -1,0 +1,12 @@
+{
+ "key": "f5b9a0411fcad8884404da562de973bb994bcf35d6fee1021155be3f564c9089",
+ "text": "<modality> text </modality>\n\n<insights> The text does not contain any information about a movie featuring Alex Wolff as Bennett. The provided texts are about various actors, films, and their release dates, but none mention Alex Wolff or a movie with him as Bennett.</insights>\n\n<answer> The provided text does not contain any information about a movie featuring Alex Wolff as Bennett. Therefore, it is not possible to determine when such a movie premiered based on the given data.</answer>",
+ "input_tokens": 1795,
+ "output_tokens": 102,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.28
+}

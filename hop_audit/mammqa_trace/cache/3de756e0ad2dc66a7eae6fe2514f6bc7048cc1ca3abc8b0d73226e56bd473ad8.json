@@ -1,0 +1,12 @@
+{
+ "key": "3de756e0ad2dc66a7eae6fe2514f6bc7048cc1ca3abc8b0d73226e56bd473ad8",
+ "text": "<modality>image</modality>\n\n<insights>The images provided do not contain any information about music videos directed by Mike Ho in the 2010s featuring Brandy. The images appear to be album covers or promotional materials for various artists and songs, but none of them explicitly mention a music video or specify the director as Mike Ho.</insights>\n\n<answer>Based on the provided images, there is no clear indication of a music video from Brandy's 2010s directed by Mike Ho. Therefore, it is not possible to determine the name of such a music video using only this information.</answer>",
+ "input_tokens": 1568,
+ "output_tokens": 131,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 11.08
+}

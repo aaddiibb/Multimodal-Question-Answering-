@@ -1,0 +1,12 @@
+{
+ "key": "37fae63f7048b14928d4ec7598e22137afffa8c3171b815858bf38ef28cc62de",
+ "text": "### Step 1: Understand the Question and Analyze Inputs\n\nThe question asks for the year when Elisha Henig appeared in a film with a motorcycle on its poster. \n\nFrom the text insight, we know there is no film featuring Elisha Henig with a motorcycle on its poster.\n\nFrom the table, we have a list of Elisha Henig's roles across different years. However, none of the films listed feature a motorcycle prominently on their posters.\n\nFrom the images provided, we can see:\n1. \"Lab Rats: Elite Force\" poster.\n2. \"Adam Ruins Everything\" logo.\n3. \"Mr. Robot\" logo.\n4. \"Alex, Inc.\" logo.\n5. \"American Vandal\" title card.\n6. \"The Sinner\" title card.\n7. \"Future World\" movie poster.\n\nNone of these images clearly show a motorcycle on the poster.\n\n### Step 2: Break Down the Question into Subquestions\n\nGiven the lack of information, we need to consider if there might be a specific context or detail missing. Here are some potential subquestions:\n\n1. Is there a film with a motorcycle on its poster that features Elisha Henig?\n2. Are there any other details about the films mentioned that could help identify one with a motorcycle on its poster?\n\nBased on the provided data, it seems there is no film matching the criteria described in the question.\n\n### Final Answer\n\n<answer>There is no information provided about a film with a motorcycle on its poster that features Elisha Henig.</answer>",
+ "input_tokens": 1771,
+ "output_tokens": 322,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 25.6
+}

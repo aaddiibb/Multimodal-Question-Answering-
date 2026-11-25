@@ -1,0 +1,12 @@
+{
+ "key": "de39b48e7da96689ded456d2b7b3bbec5c2f867f2bc4a587f09ecd929ce51c5f",
+ "text": "<answer>Josh Gad</answer>",
+ "input_tokens": 1063,
+ "output_tokens": 9,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 1.77
+}

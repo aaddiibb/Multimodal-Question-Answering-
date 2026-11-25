@@ -1,0 +1,12 @@
+{
+ "key": "285e505fde8a700bcaf44426a2040001e5ed1322e263f6b5f0d82d957c73d157",
+ "text": "<answer>1970 to 1974</answer>",
+ "input_tokens": 1063,
+ "output_tokens": 17,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.4
+}

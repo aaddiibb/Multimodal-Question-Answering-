@@ -1,0 +1,12 @@
+{
+ "key": "07eb2a4d9281a78625ba1bd60234731075f4aba23d72a9d5474de2c5837873dc",
+ "text": "<modality> table </modality>\n\n<insights>\n- Steve Van Wormer starred in \"Jingle All the Way\" in 1996.\n- The role he played was \"Turbo Man Float Parade Worker.\"\n</insights>\n\n<answer>\nSteve Van Wormer's 1996 movie \"Jingle All the Way\" was filmed as part of the Turbo Man Float Parade Worker role.\n</answer>\n\n<subanswer>\n- The specific filming location for the movie \"Jingle All the Way\" is not provided in the given table.\n</subanswer>",
+ "input_tokens": 852,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.32
+}

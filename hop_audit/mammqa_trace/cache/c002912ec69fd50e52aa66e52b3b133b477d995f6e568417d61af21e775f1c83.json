@@ -1,0 +1,12 @@
+{
+ "key": "c002912ec69fd50e52aa66e52b3b133b477d995f6e568417d61af21e775f1c83",
+ "text": "<answer>Bridge</answer>",
+ "input_tokens": 1381,
+ "output_tokens": 8,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 2.07
+}

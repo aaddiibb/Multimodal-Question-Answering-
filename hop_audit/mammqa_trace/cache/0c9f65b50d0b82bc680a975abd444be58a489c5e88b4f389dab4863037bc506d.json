@@ -1,0 +1,12 @@
+{
+ "key": "0c9f65b50d0b82bc680a975abd444be58a489c5e88b4f389dab4863037bc506d",
+ "text": "The provided text insight indicates that there is no specific mention of a \"Gridiron football league from Canada.\" The table lists several leagues, but none of them are specifically referred to as \"Gridiron football leagues.\" The leagues mentioned in the table are all either Canadian football leagues or American football leagues. Therefore, based on the available information, we can conclude that there isn't a specific \"Gridiron football league from Canada.\"\n\n<answer>The provided text and table do not contain information about a \"Gridiron football league from Canada.\" The leagues listed are either Canadian football leagues or American football leagues.</answer>",
+ "input_tokens": 2393,
+ "output_tokens": 121,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 13.3
+}

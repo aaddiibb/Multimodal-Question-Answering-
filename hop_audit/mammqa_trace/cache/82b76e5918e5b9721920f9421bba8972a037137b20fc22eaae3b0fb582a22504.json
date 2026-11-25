@@ -1,0 +1,12 @@
+{
+ "key": "82b76e5918e5b9721920f9421bba8972a037137b20fc22eaae3b0fb582a22504",
+ "text": "<modality>image</modality>\n\n<insights>The image provided does not contain any information about sports leagues or their sports. It only shows a blue sphere.</insights>\n\n<answer>There is no information about the sport of the Gridiron football league from Canada in the provided images.</answer>",
+ "input_tokens": 2067,
+ "output_tokens": 63,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 8.02
+}

@@ -1,0 +1,12 @@
+{
+ "key": "fc7913216a95385444457b6367efb34af1e4f72ff357e6db4a77d7c70a3d46f6",
+ "text": "Let's break down the question step-by-step:\n\n### Step 1: Understand the Question\nThe question asks: \"Which film did Kerry Condon act in first: 'The title of the new Spider-Man movie' or 'Avengers: Age of Ultron'?\"\n\n### Step 2: Extract Relevant Insights\nFrom the provided data:\n- The image insights indicate that there is no information about Kerry Condon acting in films.\n- The text data provides information about various films, but does not specify Kerry Condon's roles in \"The title of the new Spider-Man movie\" or \"Avengers: Age of Ultron.\"\n- The markdown table lists Kerry Condon's filmography, but it does not provide information about her roles in \"The title of the new Spider-Man movie\" or \"Avengers: Age of Ultron.\"\n\n### Step 3: Break Down the Question into Subquestions\nGiven the lack of specific information about Kerry Condon's roles in \"The title of the new Spider-Man movie\" or \"Avengers: Age of Ultron,\" we can break down the question into the following subquestions:\n\n1. **Is \"The title of the new Spider-Man movie\" a film starring Kerry Condon?**\n2. **Is \"Avengers: Age of Ultron\" a film starring Kerry Condon?**\n\n### Step 4: Answer the Subquestions\nSince the image insights confirm that there is no information about Kerry Condon acting in films, and the text data does not provide specific information about her roles in \"The title of the new Spider-Man movie\" or \"Avengers: Age of Ultron,\" we cannot determine which film she acted in first.\n\n### Final Answer\nBased on the provided data, it cannot be determined which film Kerry Condon acted in first between \"The title of the new Spider-Man movie\" or \"Avengers: Age of Ultron.\"",
+ "input_tokens": 2513,
+ "output_tokens": 385,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 35.28
+}

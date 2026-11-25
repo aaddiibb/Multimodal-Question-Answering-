@@ -1,0 +1,12 @@
+{
+ "key": "94e0242008f318fbc3516ccc5b650d6d797c5f10c925be6ad8c786cf3773973d",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a logo with a bird of prey, specifically a condor, which is the symbol of Oxnard College.</insights>\n\n<answer>Oxnard College</answer>\n\n<subanswer>The location of Oxnard College is California.</subanswer>",
+ "input_tokens": 2031,
+ "output_tokens": 67,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 14,
+ "tokens_per_image": 228,
+ "oom_fallback": false,
+ "seconds": 8.04
+}

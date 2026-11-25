@@ -1,0 +1,12 @@
+{
+ "key": "6295a6292f7039f77f845753287edc6c1a600161514d48efb200c3b2dd28f43d",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There are no images provided that contain the Race Record of the horse Borrego.</insights>\n\n<answer>There is no Race Record of the horse Borrego available in the provided images.</answer>",
+ "input_tokens": 2102,
+ "output_tokens": 60,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 7,
+ "tokens_per_image": 457,
+ "oom_fallback": false,
+ "seconds": 7.84
+}

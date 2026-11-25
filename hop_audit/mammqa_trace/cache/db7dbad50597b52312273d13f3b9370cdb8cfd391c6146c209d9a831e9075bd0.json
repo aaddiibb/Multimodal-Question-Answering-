@@ -1,0 +1,12 @@
+{
+ "key": "db7dbad50597b52312273d13f3b9370cdb8cfd391c6146c209d9a831e9075bd0",
+ "text": "<modality> image(s) </modality>\n\n<insights>\n- The image shows a person wearing a cowboy hat and a shirt, which suggests they might be a country music artist.\n</insights>\n\n<answer> Tim McGraw </answer>",
+ "input_tokens": 3182,
+ "output_tokens": 53,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 11.17
+}

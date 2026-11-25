@@ -1,0 +1,12 @@
+{
+ "key": "58156d97d2da012e8cbec7f081349736782ac3391551c5ca12e06256d4f1a811",
+ "text": "Based on the provided multimodal inputs, here are the insights:\n\n- The table lists artists performing at Kings Park Stadium.\n- The question asks about an artist whose performance featured a poster with a woman holding her hands into the air.\n- There are images of posters for various artists, including Gloria Estefan, Tina Turner, Janet Jackson, and Celine Dion.\n\nNow let's break down the question into simpler subquestions:\n\n1. Which artist's poster features a woman holding her hands into the air?\n2. Is there any information about the artist performing at Kings Park Stadium?\n\nBased on the provided multimodal inputs, the answer to the original question cannot be determined accurately because the table does not contain images or descriptions of posters. Therefore, the final answer is:\n\n<answer>It is impossible to determine the artist who performed at Kings Park Stadium with a poster showing a woman holding her hands into the air based on the given data.</answer>",
+ "input_tokens": 2176,
+ "output_tokens": 190,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 8,
+ "tokens_per_image": 400,
+ "oom_fallback": false,
+ "seconds": 17.55
+}

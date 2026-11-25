@@ -1,0 +1,12 @@
+{
+ "key": "b8d29415336d5eb7c66a303bf3542b28aa9ec657cff884df09961e89984f4ed6",
+ "text": "<modality>image</modality> identified modality type here\n\n<insights>There is no information about the Biathlon World Cup or the specific event mentioned in the question.</insights>\n\n<answer>The image does not contain any information about the Biathlon World Cup or the specific event mentioned in the question.</answer>",
+ "input_tokens": 3639,
+ "output_tokens": 68,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 11,
+ "tokens_per_image": 290,
+ "oom_fallback": false,
+ "seconds": 14.24
+}

@@ -1,0 +1,12 @@
+{
+ "key": "e74d4ae08af26deae7031eb523577d29804412d9dbdf149985e2779755e2529a",
+ "text": "The text insight indicates that there is no information about a film with a poster featuring Carrie Snodgress as Joan Freeman. The table provides a list of films where Carrie Snodgress acted, but it does not specify the number of people on the poster for each film.\n\nBased on this information, we can break down the question into simpler subquestions:\n\n1. Is there a film where Carrie Snodgress played the role of Joan Freeman?\n2. If so, what is the number of people on the poster for that film?\n\nLet's address these subquestions one by one:\n\n1. **Is there a film where Carrie Snodgress played the role of Joan Freeman?**\n   - From the table, we see that Carrie Snodgress played the role of Joan Freeman in the film \"Murphy's Law\" (1986).\n\n2. **What is the number of people on the poster for that film?**\n   - The image provided shows the poster for \"Murphy's Law.\" It features three individuals: two men and one woman.\n\nTherefore, the answer to the original question is:\n\n<answer>There is a film (\"Murphy's Law\") where Carrie Snodgress played the role of Joan Freeman, and the poster features three people.</answer>",
+ "input_tokens": 2371,
+ "output_tokens": 258,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 24.17
+}

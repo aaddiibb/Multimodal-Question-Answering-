@@ -1,0 +1,12 @@
+{
+ "key": "0b00f997edb1a753991acf0e4687f51e55c2fbbe76b24d71d69dd06e6a287327",
+ "text": "<modality> text </modality>\n\n<insights> The text does not provide any information about a man being picked in round four of the 1952 NFL draft from Arkansas college. It only mentions that the 1952 NFL Draft was discussed, but no specific player or their attire is mentioned.</insights>\n\n<answer> There is insufficient information in the provided text to determine what is on the arm of the man who was picked in round four of the 1952 NFL draft from Arkansas college.</answer>",
+ "input_tokens": 1537,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 9.21
+}

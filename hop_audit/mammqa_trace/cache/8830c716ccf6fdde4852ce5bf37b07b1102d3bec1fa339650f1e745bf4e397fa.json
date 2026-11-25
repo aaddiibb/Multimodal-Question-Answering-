@@ -1,0 +1,12 @@
+{
+ "key": "8830c716ccf6fdde4852ce5bf37b07b1102d3bec1fa339650f1e745bf4e397fa",
+ "text": "Let's break down the question into simpler subquestions:\n\n1. Identify the teams with a running mammal on their logo.\n2. Determine if any of these teams appear in the list of Most appearances of Cotton Bowl Classic.\n3. If so, find out which team has a rank of T10 in this list.\n\nNow let's address each subquestion:\n\n### Subquestion 1: Identify the teams with a running mammal on their logo.\nFrom the logos provided:\n- Texas Tech Red Raiders (Longhorn)\n- Kansas State Wildcats (Cat)\n- Arkansas Razorbacks (Razorback)\n\n### Subquestion 2: Determine if any of these teams appear in the list of Most appearances of Cotton Bowl Classic.\nFrom the table:\n- Texas Tech Red Raiders: Rank T10\n- Kansas State Wildcats: Rank T17\n- Arkansas Razorbacks: Rank T17\n\n### Subquestion 3: Find out which team has a rank of T10 in this list.\nFrom the table, the teams with a rank of T10 are:\n- Texas Tech Red Raiders\n- Penn State\n- Rice\n- SMU\n- Houston\n- Nebraska\n- Oklahoma State\n\nSince Texas Tech Red Raiders is one of the teams with a running mammal on its logo (the Longhorn), it fits the criteria.\n\nTherefore, the answer to the original question is:\n\n<answer>\nThe team with a running mammal on its logo that had a rank of T10 in the list of Most appearances of Cotton Bowl Classic is the Texas Tech Red Raiders.\n</answer>",
+ "input_tokens": 2305,
+ "output_tokens": 323,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 15,
+ "tokens_per_image": 213,
+ "oom_fallback": false,
+ "seconds": 30.07
+}

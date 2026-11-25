@@ -1,0 +1,12 @@
+{
+ "key": "58b0015b9ebfc8fda27913aecec4dc2edceacf621455230abea8d82396105ed6",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists composers, titles, years, lengths, publishers, and record labels for various oboe quintets.\n- The composers mentioned are: Jos van Amelsvoort, Rob du Bois, Théodore Dubois, Anton Eberl, David Froom, Peter Golub, Franz Anton Hoffmeister, Sergei Prokofiev, and Johann Samuel Schroeter.\n- The question asks about the composer who wrote an earlier title compared to David Froom or the composer of \"Peter and the Wolf.\"\n</insights>\n\n<answer>\nTo determine which composer had an earlier title between David Froom and the composer of \"Peter and the Wolf,\" we need to identify the composer of \"Peter and the Wolf\" first.\n</answer>\n\n<subanswer>\nThe composer of \"Peter and the Wolf\" is Sergei Prokofiev, as it is listed in the table under the composer column.\n</subanswer>\n\n<subanswer>\nDavid Froom's composition is from 1991.\n</subanswer>\n\n<subanswer>\nSergei Prokofiev's composition \"Peter and the Wolf\" is from 1918.\n</subanswer>\n\n<subanswer>\nSince 1918 is earlier than 1991, Sergei Prokofiev wrote an earlier title compared to David Froom.\n</subanswer>",
+ "input_tokens": 1209,
+ "output_tokens": 294,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 20.66
+}

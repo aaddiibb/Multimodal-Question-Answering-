@@ -1,0 +1,12 @@
+{
+ "key": "bea5c229942785750a157b86546d4161a1df6b3afb07cf6cf8dac95feae04216",
+ "text": "<modality> table </modality>\n\n<insights>\n- The table lists albums released in December 2012.\n- The album \"¡Tré!\" by Green Day falls under the punk rock genre.\n</insights>\n\n<answer>\nGreen Day played the artist for the punk rock album in the December list of 2012 albums.\n</answer>",
+ "input_tokens": 1017,
+ "output_tokens": 78,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 5.91
+}

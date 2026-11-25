@@ -1,0 +1,12 @@
+{
+ "key": "b6b627e4c985921a65bc80c46ab852036c30610407ffc14f844be3af48dbc3b8",
+ "text": "<modality> table </modality>\n\n<insights>\n- The 11th Annual Shorty Awards took place on May 5, 2019.\n- The venue for the 11th Annual Shorty Awards was the PlayStation Theater.\n</insights>\n\n<answer>\nThe venue where the 11th annual Shorty Awards was held is the PlayStation Theater.\n</answer>\n\n<subanswer>\nThe PlayStation Theater does not have a billboard with a specific number of faces mentioned in the provided data.\n</subanswer>",
+ "input_tokens": 1046,
+ "output_tokens": 112,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 0,
+ "tokens_per_image": 0,
+ "oom_fallback": false,
+ "seconds": 8.06
+}

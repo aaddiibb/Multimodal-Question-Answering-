@@ -1,0 +1,12 @@
+{
+ "key": "1a26561c106b29a00de0968b5af3b0e277932fa97aad659d780e8d0daed3d424",
+ "text": "<modality>image</modality>\n\n<insights>The image shows a bearded player wearing a blue jersey with the number 19 on it. The jersey has the logo of Esteghlal Khuzestan.</insights>\n\n<answer>The bearded player from Esteghal Khuzestan who was a top assistant in the Persian Gulf Cup of 2013-14 is the one wearing the blue jersey with the number 19.</answer>",
+ "input_tokens": 3382,
+ "output_tokens": 100,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 13,
+ "tokens_per_image": 246,
+ "oom_fallback": false,
+ "seconds": 17.3
+}

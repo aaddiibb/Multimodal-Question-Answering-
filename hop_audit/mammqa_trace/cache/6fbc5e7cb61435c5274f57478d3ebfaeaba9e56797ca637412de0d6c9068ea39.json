@@ -1,0 +1,12 @@
+{
+ "key": "6fbc5e7cb61435c5274f57478d3ebfaeaba9e56797ca637412de0d6c9068ea39",
+ "text": "<modality>image</modality>\n\n<insights>The image provided appears to be a logo or emblem featuring a stylized 'V' shape in pink and red against a dark blue background. There are no textual elements or identifiable symbols that directly relate to the surname Fletcher or the language associated with it.</insights>\n\n<answer>Based on the provided images, there is insufficient visual information to determine the language associated with the surname Fletcher or the language of the defunct general entertainment channel of Star India.</answer>",
+ "input_tokens": 1985,
+ "output_tokens": 105,
+ "hit_max_new_tokens": false,
+ "evidence_shortenings": 0,
+ "n_images": 12,
+ "tokens_per_image": 266,
+ "oom_fallback": false,
+ "seconds": 11.26
+}
